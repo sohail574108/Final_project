@@ -1,0 +1,2664 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.960 align:start position:0%
+ 
+hey<00:00:00.319><c> uncle</c><00:00:01.319><c> and</c><00:00:01.560><c> welcome</c><00:00:02.040><c> to</c><00:00:02.220><c> crash</c><00:00:02.429><c> course</c><00:00:02.460><c> AI</c>
+
+00:00:02.960 --> 00:00:02.970 align:start position:0%
+hey uncle and welcome to crash course AI
+ 
+
+00:00:02.970 --> 00:00:05.210 align:start position:0%
+hey uncle and welcome to crash course AI
+one<00:00:03.510><c> way</c><00:00:03.689><c> to</c><00:00:03.750><c> make</c><00:00:04.110><c> an</c><00:00:04.230><c> artificial</c><00:00:04.740><c> brain</c><00:00:04.890><c> is</c>
+
+00:00:05.210 --> 00:00:05.220 align:start position:0%
+one way to make an artificial brain is
+ 
+
+00:00:05.220 --> 00:00:07.820 align:start position:0%
+one way to make an artificial brain is
+by<00:00:05.400><c> creating</c><00:00:05.910><c> a</c><00:00:06.089><c> neural</c><00:00:06.450><c> network</c><00:00:06.870><c> which</c><00:00:07.529><c> can</c>
+
+00:00:07.820 --> 00:00:07.830 align:start position:0%
+by creating a neural network which can
+ 
+
+00:00:07.830 --> 00:00:10.250 align:start position:0%
+by creating a neural network which can
+have<00:00:08.010><c> millions</c><00:00:08.370><c> of</c><00:00:08.639><c> neurons</c><00:00:08.910><c> and</c><00:00:09.330><c> billions</c><00:00:10.019><c> or</c>
+
+00:00:10.250 --> 00:00:10.260 align:start position:0%
+have millions of neurons and billions or
+ 
+
+00:00:10.260 --> 00:00:12.530 align:start position:0%
+have millions of neurons and billions or
+trillions<00:00:10.320><c> of</c><00:00:11.219><c> connections</c><00:00:11.490><c> between</c><00:00:12.090><c> them</c>
+
+00:00:12.530 --> 00:00:12.540 align:start position:0%
+trillions of connections between them
+ 
+
+00:00:12.540 --> 00:00:14.780 align:start position:0%
+trillions of connections between them
+nowadays<00:00:13.230><c> some</c><00:00:13.710><c> neural</c><00:00:13.920><c> networks</c><00:00:14.280><c> are</c><00:00:14.429><c> fast</c>
+
+00:00:14.780 --> 00:00:14.790 align:start position:0%
+nowadays some neural networks are fast
+ 
+
+00:00:14.790 --> 00:00:16.640 align:start position:0%
+nowadays some neural networks are fast
+and<00:00:15.089><c> big</c><00:00:15.240><c> enough</c><00:00:15.450><c> to</c><00:00:15.630><c> do</c><00:00:15.750><c> some</c><00:00:15.960><c> tasks</c><00:00:16.320><c> even</c>
+
+00:00:16.640 --> 00:00:16.650 align:start position:0%
+and big enough to do some tasks even
+ 
+
+00:00:16.650 --> 00:00:18.230 align:start position:0%
+and big enough to do some tasks even
+better<00:00:16.949><c> than</c><00:00:17.340><c> humans</c><00:00:17.760><c> can</c>
+
+00:00:18.230 --> 00:00:18.240 align:start position:0%
+better than humans can
+ 
+
+00:00:18.240 --> 00:00:20.330 align:start position:0%
+better than humans can
+like<00:00:18.570><c> for</c><00:00:18.779><c> example</c><00:00:18.810><c> playing</c><00:00:19.710><c> chess</c><00:00:20.039><c> or</c>
+
+00:00:20.330 --> 00:00:20.340 align:start position:0%
+like for example playing chess or
+ 
+
+00:00:20.340 --> 00:00:22.429 align:start position:0%
+like for example playing chess or
+predicting<00:00:21.119><c> the</c><00:00:21.210><c> weather</c><00:00:21.240><c> but</c><00:00:21.930><c> as</c><00:00:22.199><c> we've</c>
+
+00:00:22.429 --> 00:00:22.439 align:start position:0%
+predicting the weather but as we've
+ 
+
+00:00:22.439 --> 00:00:24.410 align:start position:0%
+predicting the weather but as we've
+talked<00:00:22.680><c> about</c><00:00:22.800><c> in</c><00:00:23.070><c> crash</c><00:00:23.279><c> course</c><00:00:23.310><c> AI</c><00:00:23.760><c> no</c>
+
+00:00:24.410 --> 00:00:24.420 align:start position:0%
+talked about in crash course AI no
+ 
+
+00:00:24.420 --> 00:00:26.269 align:start position:0%
+talked about in crash course AI no
+networks<00:00:24.930><c> don't</c><00:00:25.230><c> just</c><00:00:25.680><c> work</c><00:00:25.859><c> on</c><00:00:26.070><c> their</c><00:00:26.250><c> own</c>
+
+00:00:26.269 --> 00:00:26.279 align:start position:0%
+networks don't just work on their own
+ 
+
+00:00:26.279 --> 00:00:28.490 align:start position:0%
+networks don't just work on their own
+they<00:00:26.910><c> need</c><00:00:27.090><c> to</c><00:00:27.240><c> learn</c><00:00:27.449><c> to</c><00:00:27.660><c> solve</c><00:00:27.810><c> problems</c><00:00:28.289><c> for</c>
+
+00:00:28.490 --> 00:00:28.500 align:start position:0%
+they need to learn to solve problems for
+ 
+
+00:00:28.500 --> 00:00:31.370 align:start position:0%
+they need to learn to solve problems for
+making<00:00:28.800><c> mistakes</c><00:00:29.420><c> sounds</c><00:00:30.420><c> kind</c><00:00:30.900><c> of</c><00:00:31.019><c> like</c><00:00:31.140><c> us</c>
+
+00:00:31.370 --> 00:00:31.380 align:start position:0%
+making mistakes sounds kind of like us
+ 
+
+00:00:31.380 --> 00:00:32.920 align:start position:0%
+making mistakes sounds kind of like us
+right
+
+00:00:32.920 --> 00:00:32.930 align:start position:0%
+right
+ 
+
+00:00:32.930 --> 00:00:40.620 align:start position:0%
+right
+[Music]
+
+00:00:40.620 --> 00:00:40.630 align:start position:0%
+ 
+ 
+
+00:00:40.630 --> 00:00:43.030 align:start position:0%
+ 
+neuro-networks<00:00:41.630><c> handle</c><00:00:42.260><c> mistakes</c><00:00:42.650><c> by</c><00:00:42.830><c> using</c>
+
+00:00:43.030 --> 00:00:43.040 align:start position:0%
+neuro-networks handle mistakes by using
+ 
+
+00:00:43.040 --> 00:00:45.070 align:start position:0%
+neuro-networks handle mistakes by using
+an<00:00:43.250><c> algorithm</c><00:00:43.730><c> called</c><00:00:43.910><c> back</c><00:00:44.210><c> propagation</c><00:00:44.750><c> to</c>
+
+00:00:45.070 --> 00:00:45.080 align:start position:0%
+an algorithm called back propagation to
+ 
+
+00:00:45.080 --> 00:00:46.570 align:start position:0%
+an algorithm called back propagation to
+make<00:00:45.320><c> sure</c><00:00:45.470><c> all</c><00:00:45.680><c> the</c><00:00:46.010><c> neurons</c><00:00:46.250><c> that</c>
+
+00:00:46.570 --> 00:00:46.580 align:start position:0%
+make sure all the neurons that
+ 
+
+00:00:46.580 --> 00:00:48.430 align:start position:0%
+make sure all the neurons that
+contributed<00:00:47.030><c> to</c><00:00:47.090><c> an</c><00:00:47.270><c> error</c><00:00:47.480><c> get</c><00:00:48.080><c> their</c><00:00:48.260><c> math</c>
+
+00:00:48.430 --> 00:00:48.440 align:start position:0%
+contributed to an error get their math
+ 
+
+00:00:48.440 --> 00:00:51.160 align:start position:0%
+contributed to an error get their math
+adjusted<00:00:49.070><c> and</c><00:00:49.360><c> we'll</c><00:00:50.360><c> unpack</c><00:00:50.510><c> this</c><00:00:50.840><c> a</c><00:00:50.900><c> bit</c>
+
+00:00:51.160 --> 00:00:51.170 align:start position:0%
+adjusted and we'll unpack this a bit
+ 
+
+00:00:51.170 --> 00:00:53.410 align:start position:0%
+adjusted and we'll unpack this a bit
+later<00:00:51.200><c> and</c><00:00:51.650><c> neural</c><00:00:52.070><c> networks</c><00:00:52.100><c> have</c><00:00:52.700><c> two</c><00:00:53.180><c> main</c>
+
+00:00:53.410 --> 00:00:53.420 align:start position:0%
+later and neural networks have two main
+ 
+
+00:00:53.420 --> 00:00:56.080 align:start position:0%
+later and neural networks have two main
+parts<00:00:53.840><c> the</c><00:00:54.220><c> architecture</c><00:00:55.220><c> and</c><00:00:55.430><c> the</c><00:00:55.489><c> weights</c>
+
+00:00:56.080 --> 00:00:56.090 align:start position:0%
+parts the architecture and the weights
+ 
+
+00:00:56.090 --> 00:00:58.750 align:start position:0%
+parts the architecture and the weights
+the<00:00:56.930><c> architecture</c><00:00:57.620><c> includes</c><00:00:58.010><c> neurons</c><00:00:58.520><c> and</c>
+
+00:00:58.750 --> 00:00:58.760 align:start position:0%
+the architecture includes neurons and
+ 
+
+00:00:58.760 --> 00:01:00.790 align:start position:0%
+the architecture includes neurons and
+their<00:00:58.910><c> connections</c><00:00:59.510><c> and</c><00:00:59.809><c> the</c><00:01:00.290><c> weights</c><00:01:00.500><c> are</c>
+
+00:01:00.790 --> 00:01:00.800 align:start position:0%
+their connections and the weights are
+ 
+
+00:01:00.800 --> 00:01:02.560 align:start position:0%
+their connections and the weights are
+numbers<00:01:01.190><c> that</c><00:01:01.220><c> fine-tune</c><00:01:01.910><c> how</c><00:01:02.059><c> the</c><00:01:02.120><c> neurons</c>
+
+00:01:02.560 --> 00:01:02.570 align:start position:0%
+numbers that fine-tune how the neurons
+ 
+
+00:01:02.570 --> 00:01:05.170 align:start position:0%
+numbers that fine-tune how the neurons
+compute<00:01:03.170><c> an</c><00:01:03.260><c> output</c><00:01:03.650><c> so</c><00:01:04.070><c> if</c><00:01:04.339><c> a</c><00:01:04.729><c> neural</c><00:01:05.000><c> network</c>
+
+00:01:05.170 --> 00:01:05.180 align:start position:0%
+compute an output so if a neural network
+ 
+
+00:01:05.180 --> 00:01:07.510 align:start position:0%
+compute an output so if a neural network
+makes<00:01:05.540><c> a</c><00:01:05.630><c> mistake</c><00:01:05.780><c> this</c><00:01:06.470><c> often</c><00:01:07.100><c> means</c><00:01:07.280><c> the</c>
+
+00:01:07.510 --> 00:01:07.520 align:start position:0%
+makes a mistake this often means the
+ 
+
+00:01:07.520 --> 00:01:09.370 align:start position:0%
+makes a mistake this often means the
+weights<00:01:07.700><c> aren't</c><00:01:07.880><c> adjusted</c><00:01:08.420><c> correctly</c><00:01:08.540><c> and</c><00:01:09.080><c> we</c>
+
+00:01:09.370 --> 00:01:09.380 align:start position:0%
+weights aren't adjusted correctly and we
+ 
+
+00:01:09.380 --> 00:01:10.930 align:start position:0%
+weights aren't adjusted correctly and we
+need<00:01:09.530><c> to</c><00:01:09.590><c> update</c><00:01:09.800><c> them</c><00:01:10.220><c> so</c><00:01:10.460><c> they</c><00:01:10.580><c> make</c><00:01:10.759><c> better</c>
+
+00:01:10.930 --> 00:01:10.940 align:start position:0%
+need to update them so they make better
+ 
+
+00:01:10.940 --> 00:01:12.910 align:start position:0%
+need to update them so they make better
+predictions<00:01:11.210><c> next</c><00:01:11.930><c> time</c><00:01:12.080><c> the</c><00:01:12.350><c> task</c><00:01:12.590><c> of</c>
+
+00:01:12.910 --> 00:01:12.920 align:start position:0%
+predictions next time the task of
+ 
+
+00:01:12.920 --> 00:01:14.290 align:start position:0%
+predictions next time the task of
+finding<00:01:13.190><c> the</c><00:01:13.310><c> best</c><00:01:13.460><c> ways</c><00:01:13.759><c> for</c><00:01:14.030><c> a</c><00:01:14.060><c> neural</c>
+
+00:01:14.290 --> 00:01:14.300 align:start position:0%
+finding the best ways for a neural
+ 
+
+00:01:14.300 --> 00:01:15.850 align:start position:0%
+finding the best ways for a neural
+network<00:01:14.540><c> architecture</c><00:01:14.780><c> is</c><00:01:15.530><c> called</c>
+
+00:01:15.850 --> 00:01:15.860 align:start position:0%
+network architecture is called
+ 
+
+00:01:15.860 --> 00:01:18.490 align:start position:0%
+network architecture is called
+optimization<00:01:16.700><c> and</c><00:01:17.330><c> the</c><00:01:18.110><c> best</c><00:01:18.320><c> way</c><00:01:18.470><c> to</c>
+
+00:01:18.490 --> 00:01:18.500 align:start position:0%
+optimization and the best way to
+ 
+
+00:01:18.500 --> 00:01:20.170 align:start position:0%
+optimization and the best way to
+understand<00:01:19.009><c> some</c><00:01:19.220><c> basic</c><00:01:19.550><c> principles</c><00:01:19.700><c> of</c>
+
+00:01:20.170 --> 00:01:20.180 align:start position:0%
+understand some basic principles of
+ 
+
+00:01:20.180 --> 00:01:22.780 align:start position:0%
+understand some basic principles of
+optimization<00:01:20.899><c> is</c><00:01:21.110><c> with</c><00:01:21.740><c> an</c><00:01:21.890><c> example</c><00:01:22.399><c> with</c><00:01:22.670><c> the</c>
+
+00:01:22.780 --> 00:01:22.790 align:start position:0%
+optimization is with an example with the
+ 
+
+00:01:22.790 --> 00:01:30.670 align:start position:0%
+optimization is with an example with the
+help<00:01:23.000><c> of</c><00:01:23.180><c> my</c><00:01:23.630><c> pal</c><00:01:23.930><c> John</c><00:01:24.800><c> Green</c><00:01:25.100><c> but</c><00:01:29.440><c> say</c><00:01:30.440><c> that</c><00:01:30.470><c> I</c>
+
+00:01:30.670 --> 00:01:30.680 align:start position:0%
+help of my pal John Green but say that I
+ 
+
+00:01:30.680 --> 00:01:32.680 align:start position:0%
+help of my pal John Green but say that I
+manage<00:01:31.100><c> a</c><00:01:31.280><c> swimming</c><00:01:31.670><c> pool</c><00:01:31.850><c> and</c><00:01:32.119><c> I</c><00:01:32.390><c> want</c><00:01:32.600><c> to</c>
+
+00:01:32.680 --> 00:01:32.690 align:start position:0%
+manage a swimming pool and I want to
+ 
+
+00:01:32.690 --> 00:01:34.420 align:start position:0%
+manage a swimming pool and I want to
+predict<00:01:33.020><c> how</c><00:01:33.290><c> many</c><00:01:33.560><c> people</c><00:01:33.890><c> will</c><00:01:33.979><c> come</c><00:01:34.009><c> next</c>
+
+00:01:34.420 --> 00:01:34.430 align:start position:0%
+predict how many people will come next
+ 
+
+00:01:34.430 --> 00:01:36.160 align:start position:0%
+predict how many people will come next
+week<00:01:34.700><c> so</c><00:01:35.119><c> that</c><00:01:35.270><c> I</c><00:01:35.300><c> can</c><00:01:35.479><c> schedule</c><00:01:35.930><c> enough</c>
+
+00:01:36.160 --> 00:01:36.170 align:start position:0%
+week so that I can schedule enough
+ 
+
+00:01:36.170 --> 00:01:38.410 align:start position:0%
+week so that I can schedule enough
+lifeguards<00:01:36.830><c> a</c><00:01:37.009><c> simple</c><00:01:37.520><c> way</c><00:01:37.580><c> to</c><00:01:37.640><c> do</c><00:01:37.850><c> this</c><00:01:38.000><c> is</c><00:01:38.240><c> by</c>
+
+00:01:38.410 --> 00:01:38.420 align:start position:0%
+lifeguards a simple way to do this is by
+ 
+
+00:01:38.420 --> 00:01:40.210 align:start position:0%
+lifeguards a simple way to do this is by
+graphing<00:01:38.869><c> some</c><00:01:39.050><c> data</c><00:01:39.259><c> points</c><00:01:39.680><c> like</c><00:01:40.009><c> the</c>
+
+00:01:40.210 --> 00:01:40.220 align:start position:0%
+graphing some data points like the
+ 
+
+00:01:40.220 --> 00:01:41.830 align:start position:0%
+graphing some data points like the
+number<00:01:40.490><c> of</c><00:01:40.580><c> swimmers</c><00:01:41.000><c> and</c><00:01:41.210><c> the</c><00:01:41.390><c> temperature</c>
+
+00:01:41.830 --> 00:01:41.840 align:start position:0%
+number of swimmers and the temperature
+ 
+
+00:01:41.840 --> 00:01:43.870 align:start position:0%
+number of swimmers and the temperature
+in<00:01:41.990><c> Fahrenheit</c><00:01:42.020><c> for</c><00:01:42.950><c> every</c><00:01:43.220><c> day</c><00:01:43.430><c> over</c><00:01:43.760><c> the</c>
+
+00:01:43.870 --> 00:01:43.880 align:start position:0%
+in Fahrenheit for every day over the
+ 
+
+00:01:43.880 --> 00:01:46.240 align:start position:0%
+in Fahrenheit for every day over the
+past<00:01:44.119><c> few</c><00:01:44.390><c> weeks</c><00:01:44.450><c> then</c><00:01:45.290><c> we</c><00:01:45.680><c> can</c><00:01:45.830><c> look</c><00:01:46.010><c> for</c><00:01:46.220><c> a</c>
+
+00:01:46.240 --> 00:01:46.250 align:start position:0%
+past few weeks then we can look for a
+ 
+
+00:01:46.250 --> 00:01:47.680 align:start position:0%
+past few weeks then we can look for a
+pattern<00:01:46.549><c> in</c><00:01:46.820><c> that</c><00:01:46.970><c> graph</c><00:01:47.210><c> to</c><00:01:47.540><c> make</c>
+
+00:01:47.680 --> 00:01:47.690 align:start position:0%
+pattern in that graph to make
+ 
+
+00:01:47.690 --> 00:01:49.750 align:start position:0%
+pattern in that graph to make
+predictions<00:01:47.900><c> the</c><00:01:48.619><c> way</c><00:01:48.740><c> computers</c><00:01:49.190><c> do</c><00:01:49.340><c> this</c><00:01:49.549><c> is</c>
+
+00:01:49.750 --> 00:01:49.760 align:start position:0%
+predictions the way computers do this is
+ 
+
+00:01:49.760 --> 00:01:51.760 align:start position:0%
+predictions the way computers do this is
+with<00:01:49.909><c> an</c><00:01:50.090><c> optimization</c><00:01:50.720><c> strategy</c><00:01:51.200><c> called</c>
+
+00:01:51.760 --> 00:01:51.770 align:start position:0%
+with an optimization strategy called
+ 
+
+00:01:51.770 --> 00:01:53.920 align:start position:0%
+with an optimization strategy called
+linear<00:01:52.100><c> regression</c><00:01:52.700><c> we</c><00:01:52.940><c> start</c><00:01:53.240><c> by</c><00:01:53.360><c> drawing</c><00:01:53.659><c> a</c>
+
+00:01:53.920 --> 00:01:53.930 align:start position:0%
+linear regression we start by drawing a
+ 
+
+00:01:53.930 --> 00:01:55.899 align:start position:0%
+linear regression we start by drawing a
+random<00:01:54.110><c> straight</c><00:01:54.590><c> line</c><00:01:54.830><c> on</c><00:01:54.860><c> the</c><00:01:55.040><c> graph</c><00:01:55.369><c> which</c>
+
+00:01:55.899 --> 00:01:55.909 align:start position:0%
+random straight line on the graph which
+ 
+
+00:01:55.909 --> 00:01:58.870 align:start position:0%
+random straight line on the graph which
+kind<00:01:56.479><c> of</c><00:01:56.720><c> fits</c><00:01:56.960><c> the</c><00:01:57.110><c> data</c><00:01:57.229><c> points</c><00:01:57.740><c> to</c><00:01:57.920><c> optimize</c>
+
+00:01:58.870 --> 00:01:58.880 align:start position:0%
+kind of fits the data points to optimize
+ 
+
+00:01:58.880 --> 00:02:01.390 align:start position:0%
+kind of fits the data points to optimize
+though<00:01:59.150><c> we</c><00:01:59.720><c> need</c><00:01:59.869><c> to</c><00:02:00.020><c> know</c><00:02:00.200><c> how</c><00:02:00.590><c> incorrect</c>
+
+00:02:01.390 --> 00:02:01.400 align:start position:0%
+though we need to know how incorrect
+ 
+
+00:02:01.400 --> 00:02:04.060 align:start position:0%
+though we need to know how incorrect
+this<00:02:01.670><c> guess</c><00:02:01.939><c> is</c><00:02:02.270><c> so</c><00:02:02.960><c> we</c><00:02:03.500><c> calculate</c><00:02:03.950><c> the</c>
+
+00:02:04.060 --> 00:02:04.070 align:start position:0%
+this guess is so we calculate the
+ 
+
+00:02:04.070 --> 00:02:06.160 align:start position:0%
+this guess is so we calculate the
+distance<00:02:04.490><c> between</c><00:02:04.700><c> the</c><00:02:05.000><c> line</c><00:02:05.210><c> and</c><00:02:05.479><c> each</c><00:02:05.900><c> of</c>
+
+00:02:06.160 --> 00:02:06.170 align:start position:0%
+distance between the line and each of
+ 
+
+00:02:06.170 --> 00:02:08.350 align:start position:0%
+distance between the line and each of
+the<00:02:06.350><c> data</c><00:02:06.530><c> points</c><00:02:06.770><c> add</c><00:02:07.369><c> it</c><00:02:07.580><c> all</c><00:02:07.700><c> up</c><00:02:07.729><c> and</c><00:02:08.119><c> that</c>
+
+00:02:08.350 --> 00:02:08.360 align:start position:0%
+the data points add it all up and that
+ 
+
+00:02:08.360 --> 00:02:09.310 align:start position:0%
+the data points add it all up and that
+gives<00:02:08.570><c> us</c><00:02:08.810><c> the</c><00:02:08.959><c> error</c>
+
+00:02:09.310 --> 00:02:09.320 align:start position:0%
+gives us the error
+ 
+
+00:02:09.320 --> 00:02:11.710 align:start position:0%
+gives us the error
+we're<00:02:09.739><c> quantifying</c><00:02:10.399><c> how</c><00:02:10.489><c> big</c><00:02:10.940><c> a</c><00:02:10.970><c> mistake</c>
+
+00:02:11.710 --> 00:02:11.720 align:start position:0%
+we're quantifying how big a mistake
+ 
+
+00:02:11.720 --> 00:02:14.020 align:start position:0%
+we're quantifying how big a mistake
+we've<00:02:11.840><c> made</c><00:02:12.140><c> the</c><00:02:12.560><c> goal</c><00:02:12.799><c> of</c><00:02:13.130><c> linear</c><00:02:13.459><c> regression</c>
+
+00:02:14.020 --> 00:02:14.030 align:start position:0%
+we've made the goal of linear regression
+ 
+
+00:02:14.030 --> 00:02:16.090 align:start position:0%
+we've made the goal of linear regression
+is<00:02:14.239><c> to</c><00:02:14.450><c> adjust</c><00:02:14.810><c> the</c><00:02:14.930><c> line</c><00:02:15.140><c> to</c><00:02:15.470><c> make</c><00:02:15.590><c> the</c><00:02:15.650><c> errors</c>
+
+00:02:16.090 --> 00:02:16.100 align:start position:0%
+is to adjust the line to make the errors
+ 
+
+00:02:16.100 --> 00:02:18.789 align:start position:0%
+is to adjust the line to make the errors
+as<00:02:16.280><c> small</c><00:02:16.850><c> as</c><00:02:17.180><c> possible</c><00:02:17.989><c> we</c><00:02:18.200><c> want</c><00:02:18.230><c> the</c><00:02:18.560><c> line</c><00:02:18.769><c> to</c>
+
+00:02:18.789 --> 00:02:18.799 align:start position:0%
+as small as possible we want the line to
+ 
+
+00:02:18.799 --> 00:02:21.220 align:start position:0%
+as small as possible we want the line to
+fit<00:02:19.280><c> the</c><00:02:19.370><c> training</c><00:02:19.580><c> data</c><00:02:19.940><c> as</c><00:02:20.209><c> much</c><00:02:20.750><c> as</c><00:02:20.900><c> it</c><00:02:21.019><c> can</c>
+
+00:02:21.220 --> 00:02:21.230 align:start position:0%
+fit the training data as much as it can
+ 
+
+00:02:21.230 --> 00:02:23.920 align:start position:0%
+fit the training data as much as it can
+the<00:02:21.620><c> result</c><00:02:22.130><c> is</c><00:02:22.310><c> called</c><00:02:22.519><c> the</c><00:02:22.970><c> line</c><00:02:23.239><c> of</c><00:02:23.269><c> best</c>
+
+00:02:23.920 --> 00:02:23.930 align:start position:0%
+the result is called the line of best
+ 
+
+00:02:23.930 --> 00:02:26.229 align:start position:0%
+the result is called the line of best
+fit<00:02:24.140><c> we</c><00:02:24.860><c> can</c><00:02:24.890><c> use</c><00:02:25.190><c> this</c><00:02:25.430><c> straight</c><00:02:25.700><c> line</c><00:02:25.730><c> to</c>
+
+00:02:26.229 --> 00:02:26.239 align:start position:0%
+fit we can use this straight line to
+ 
+
+00:02:26.239 --> 00:02:28.120 align:start position:0%
+fit we can use this straight line to
+predict<00:02:26.570><c> how</c><00:02:26.810><c> many</c><00:02:26.870><c> swimmers</c><00:02:27.440><c> will</c><00:02:27.739><c> show</c><00:02:27.950><c> up</c>
+
+00:02:28.120 --> 00:02:28.130 align:start position:0%
+predict how many swimmers will show up
+ 
+
+00:02:28.130 --> 00:02:30.880 align:start position:0%
+predict how many swimmers will show up
+for<00:02:28.370><c> any</c><00:02:28.579><c> temperature</c><00:02:28.910><c> but</c><00:02:29.630><c> parts</c><00:02:30.320><c> of</c><00:02:30.440><c> it</c><00:02:30.590><c> defy</c>
+
+00:02:30.880 --> 00:02:30.890 align:start position:0%
+for any temperature but parts of it defy
+ 
+
+00:02:30.890 --> 00:02:31.390 align:start position:0%
+for any temperature but parts of it defy
+logic
+
+00:02:31.390 --> 00:02:31.400 align:start position:0%
+logic
+ 
+
+00:02:31.400 --> 00:02:33.789 align:start position:0%
+logic
+for<00:02:31.700><c> example</c><00:02:32.209><c> super</c><00:02:32.900><c> cold</c><00:02:33.110><c> days</c><00:02:33.320><c> have</c><00:02:33.560><c> a</c>
+
+00:02:33.789 --> 00:02:33.799 align:start position:0%
+for example super cold days have a
+ 
+
+00:02:33.799 --> 00:02:34.600 align:start position:0%
+for example super cold days have a
+negative<00:02:34.070><c> number</c>
+
+00:02:34.600 --> 00:02:34.610 align:start position:0%
+negative number
+ 
+
+00:02:34.610 --> 00:02:36.940 align:start position:0%
+negative number
+while<00:02:34.940><c> dangerously</c><00:02:35.570><c> hot</c><00:02:35.810><c> days</c><00:02:36.140><c> have</c><00:02:36.620><c> way</c><00:02:36.920><c> more</c>
+
+00:02:36.940 --> 00:02:36.950 align:start position:0%
+while dangerously hot days have way more
+ 
+
+00:02:36.950 --> 00:02:39.160 align:start position:0%
+while dangerously hot days have way more
+people<00:02:37.340><c> than</c><00:02:37.579><c> the</c><00:02:37.940><c> pool</c><00:02:38.150><c> can</c><00:02:38.329><c> handle</c><00:02:38.690><c> to</c><00:02:39.019><c> get</c>
+
+00:02:39.160 --> 00:02:39.170 align:start position:0%
+people than the pool can handle to get
+ 
+
+00:02:39.170 --> 00:02:40.930 align:start position:0%
+people than the pool can handle to get
+more<00:02:39.350><c> accurate</c><00:02:39.890><c> results</c><00:02:39.950><c> we</c><00:02:40.579><c> might</c><00:02:40.730><c> want</c><00:02:40.910><c> to</c>
+
+00:02:40.930 --> 00:02:40.940 align:start position:0%
+more accurate results we might want to
+ 
+
+00:02:40.940 --> 00:02:44.259 align:start position:0%
+more accurate results we might want to
+consider<00:02:41.209><c> more</c><00:02:41.540><c> than</c><00:02:41.840><c> two</c><00:02:42.470><c> features</c><00:02:42.980><c> like</c><00:02:43.940><c> for</c>
+
+00:02:44.259 --> 00:02:44.269 align:start position:0%
+consider more than two features like for
+ 
+
+00:02:44.269 --> 00:02:46.270 align:start position:0%
+consider more than two features like for
+example<00:02:44.360><c> adding</c><00:02:45.230><c> the</c><00:02:45.500><c> humidity</c><00:02:45.950><c> would</c><00:02:46.100><c> turn</c>
+
+00:02:46.270 --> 00:02:46.280 align:start position:0%
+example adding the humidity would turn
+ 
+
+00:02:46.280 --> 00:02:49.000 align:start position:0%
+example adding the humidity would turn
+our<00:02:46.400><c> 2d</c><00:02:46.760><c> graph</c><00:02:47.000><c> into</c><00:02:47.480><c> 3d</c><00:02:47.870><c> and</c><00:02:48.109><c> our</c><00:02:48.650><c> line</c><00:02:48.859><c> of</c>
+
+00:02:49.000 --> 00:02:49.010 align:start position:0%
+our 2d graph into 3d and our line of
+ 
+
+00:02:49.010 --> 00:02:51.510 align:start position:0%
+our 2d graph into 3d and our line of
+best<00:02:49.160><c> fit</c><00:02:49.280><c> would</c><00:02:49.730><c> be</c><00:02:49.940><c> more</c><00:02:50.450><c> like</c><00:02:50.690><c> a</c><00:02:50.720><c> plane</c>
+
+00:02:51.510 --> 00:02:51.520 align:start position:0%
+best fit would be more like a plane
+ 
+
+00:02:51.520 --> 00:02:53.430 align:start position:0%
+best fit would be more like a plane
+best<00:02:51.850><c> fit</c><00:02:52.090><c> but</c><00:02:52.330><c> if</c><00:02:52.810><c> we</c><00:02:52.960><c> added</c><00:02:53.140><c> a</c><00:02:53.380><c> fourth</c>
+
+00:02:53.430 --> 00:02:53.440 align:start position:0%
+best fit but if we added a fourth
+ 
+
+00:02:53.440 --> 00:02:55.950 align:start position:0%
+best fit but if we added a fourth
+feature<00:02:53.920><c> like</c><00:02:54.490><c> whether</c><00:02:54.850><c> it's</c><00:02:55.060><c> raining</c><00:02:55.360><c> or</c><00:02:55.570><c> not</c>
+
+00:02:55.950 --> 00:02:55.960 align:start position:0%
+feature like whether it's raining or not
+ 
+
+00:02:55.960 --> 00:02:58.470 align:start position:0%
+feature like whether it's raining or not
+suddenly<00:02:56.500><c> we</c><00:02:56.980><c> can't</c><00:02:57.280><c> visualize</c><00:02:57.790><c> this</c><00:02:58.000><c> anymore</c>
+
+00:02:58.470 --> 00:02:58.480 align:start position:0%
+suddenly we can't visualize this anymore
+ 
+
+00:02:58.480 --> 00:03:01.410 align:start position:0%
+suddenly we can't visualize this anymore
+so<00:02:58.990><c> as</c><00:02:59.290><c> we</c><00:02:59.650><c> consider</c><00:02:59.980><c> more</c><00:03:00.280><c> features</c><00:03:00.640><c> we</c><00:03:01.240><c> add</c>
+
+00:03:01.410 --> 00:03:01.420 align:start position:0%
+so as we consider more features we add
+ 
+
+00:03:01.420 --> 00:03:03.510 align:start position:0%
+so as we consider more features we add
+more<00:03:01.720><c> dimensions</c><00:03:02.290><c> to</c><00:03:02.440><c> the</c><00:03:02.560><c> graph</c><00:03:02.800><c> the</c>
+
+00:03:03.510 --> 00:03:03.520 align:start position:0%
+more dimensions to the graph the
+ 
+
+00:03:03.520 --> 00:03:05.370 align:start position:0%
+more dimensions to the graph the
+optimization<00:03:04.150><c> problem</c><00:03:04.360><c> gets</c><00:03:04.720><c> trickier</c><00:03:05.230><c> and</c>
+
+00:03:05.370 --> 00:03:05.380 align:start position:0%
+optimization problem gets trickier and
+ 
+
+00:03:05.380 --> 00:03:07.800 align:start position:0%
+optimization problem gets trickier and
+fitting<00:03:06.130><c> the</c><00:03:06.250><c> training</c><00:03:06.580><c> data</c><00:03:06.730><c> is</c><00:03:07.030><c> tougher</c>
+
+00:03:07.800 --> 00:03:07.810 align:start position:0%
+fitting the training data is tougher
+ 
+
+00:03:07.810 --> 00:03:10.080 align:start position:0%
+fitting the training data is tougher
+this<00:03:08.500><c> is</c><00:03:08.800><c> where</c><00:03:09.040><c> our</c><00:03:09.130><c> neural</c><00:03:09.310><c> networks</c><00:03:09.730><c> come</c>
+
+00:03:10.080 --> 00:03:10.090 align:start position:0%
+this is where our neural networks come
+ 
+
+00:03:10.090 --> 00:03:12.210 align:start position:0%
+this is where our neural networks come
+in<00:03:10.330><c> handy</c><00:03:10.780><c> basically</c><00:03:11.350><c> by</c><00:03:11.740><c> connecting</c>
+
+00:03:12.210 --> 00:03:12.220 align:start position:0%
+in handy basically by connecting
+ 
+
+00:03:12.220 --> 00:03:14.010 align:start position:0%
+in handy basically by connecting
+together<00:03:12.550><c> many</c><00:03:12.910><c> simple</c><00:03:13.450><c> neurons</c><00:03:13.780><c> with</c>
+
+00:03:14.010 --> 00:03:14.020 align:start position:0%
+together many simple neurons with
+ 
+
+00:03:14.020 --> 00:03:16.050 align:start position:0%
+together many simple neurons with
+weights<00:03:14.320><c> a</c><00:03:14.560><c> neural</c><00:03:15.130><c> network</c><00:03:15.460><c> can</c><00:03:15.490><c> learn</c><00:03:15.850><c> to</c>
+
+00:03:16.050 --> 00:03:16.060 align:start position:0%
+weights a neural network can learn to
+ 
+
+00:03:16.060 --> 00:03:18.150 align:start position:0%
+weights a neural network can learn to
+solve<00:03:16.300><c> complicated</c><00:03:16.750><c> problems</c><00:03:17.080><c> where</c><00:03:18.070><c> the</c>
+
+00:03:18.150 --> 00:03:18.160 align:start position:0%
+solve complicated problems where the
+ 
+
+00:03:18.160 --> 00:03:20.480 align:start position:0%
+solve complicated problems where the
+line<00:03:18.340><c> of</c><00:03:18.520><c> best</c><00:03:18.670><c> fit</c><00:03:18.790><c> becomes</c><00:03:19.600><c> a</c><00:03:19.750><c> weird</c>
+
+00:03:20.480 --> 00:03:20.490 align:start position:0%
+line of best fit becomes a weird
+ 
+
+00:03:20.490 --> 00:03:22.140 align:start position:0%
+line of best fit becomes a weird
+multi-dimensional<00:03:21.490><c> function</c>
+
+00:03:22.140 --> 00:03:22.150 align:start position:0%
+multi-dimensional function
+ 
+
+00:03:22.150 --> 00:03:24.150 align:start position:0%
+multi-dimensional function
+let's<00:03:22.360><c> give</c><00:03:22.540><c> John</c><00:03:22.780><c> Green</c><00:03:23.020><c> bot</c><00:03:23.260><c> an</c><00:03:23.500><c> untrained</c>
+
+00:03:24.150 --> 00:03:24.160 align:start position:0%
+let's give John Green bot an untrained
+ 
+
+00:03:24.160 --> 00:03:34.050 align:start position:0%
+let's give John Green bot an untrained
+neural<00:03:24.460><c> network</c><00:03:32.250><c> to</c><00:03:33.250><c> stick</c><00:03:33.520><c> with</c><00:03:33.700><c> the</c><00:03:33.820><c> same</c>
+
+00:03:34.050 --> 00:03:34.060 align:start position:0%
+neural network to stick with the same
+ 
+
+00:03:34.060 --> 00:03:36.240 align:start position:0%
+neural network to stick with the same
+example<00:03:34.750><c> the</c><00:03:35.170><c> input</c><00:03:35.530><c> layer</c><00:03:35.710><c> of</c><00:03:35.890><c> this</c><00:03:35.980><c> neural</c>
+
+00:03:36.240 --> 00:03:36.250 align:start position:0%
+example the input layer of this neural
+ 
+
+00:03:36.250 --> 00:03:38.250 align:start position:0%
+example the input layer of this neural
+network<00:03:36.310><c> takes</c><00:03:36.880><c> features</c><00:03:37.330><c> like</c><00:03:37.600><c> temperature</c>
+
+00:03:38.250 --> 00:03:38.260 align:start position:0%
+network takes features like temperature
+ 
+
+00:03:38.260 --> 00:03:41.640 align:start position:0%
+network takes features like temperature
+humidity<00:03:38.650><c> rain</c><00:03:39.250><c> and</c><00:03:39.850><c> so</c><00:03:40.360><c> on</c><00:03:40.570><c> and</c><00:03:40.840><c> the</c><00:03:41.200><c> output</c>
+
+00:03:41.640 --> 00:03:41.650 align:start position:0%
+humidity rain and so on and the output
+ 
+
+00:03:41.650 --> 00:03:43.050 align:start position:0%
+humidity rain and so on and the output
+layer<00:03:41.800><c> predicts</c><00:03:42.280><c> the</c><00:03:42.430><c> number</c><00:03:42.700><c> of</c><00:03:42.790><c> swimmers</c>
+
+00:03:43.050 --> 00:03:43.060 align:start position:0%
+layer predicts the number of swimmers
+ 
+
+00:03:43.060 --> 00:03:45.060 align:start position:0%
+layer predicts the number of swimmers
+that<00:03:43.480><c> will</c><00:03:43.570><c> come</c><00:03:43.780><c> to</c><00:03:43.930><c> the</c><00:03:44.050><c> pool</c><00:03:44.260><c> we're</c><00:03:44.710><c> not</c>
+
+00:03:45.060 --> 00:03:45.070 align:start position:0%
+that will come to the pool we're not
+ 
+
+00:03:45.070 --> 00:03:46.080 align:start position:0%
+that will come to the pool we're not
+gonna<00:03:45.190><c> worry</c><00:03:45.400><c> about</c><00:03:45.460><c> designing</c><00:03:45.970><c> the</c>
+
+00:03:46.080 --> 00:03:46.090 align:start position:0%
+gonna worry about designing the
+ 
+
+00:03:46.090 --> 00:03:48.060 align:start position:0%
+gonna worry about designing the
+architecture<00:03:46.210><c> John</c><00:03:47.020><c> Green</c><00:03:47.260><c> BOTS</c><00:03:47.470><c> no</c><00:03:47.680><c> network</c>
+
+00:03:48.060 --> 00:03:48.070 align:start position:0%
+architecture John Green BOTS no network
+ 
+
+00:03:48.070 --> 00:03:50.310 align:start position:0%
+architecture John Green BOTS no network
+right<00:03:48.280><c> now</c><00:03:48.490><c> let's</c><00:03:49.180><c> just</c><00:03:49.600><c> focus</c><00:03:49.930><c> on</c><00:03:50.200><c> the</c>
+
+00:03:50.310 --> 00:03:50.320 align:start position:0%
+right now let's just focus on the
+ 
+
+00:03:50.320 --> 00:03:52.950 align:start position:0%
+right now let's just focus on the
+weights<00:03:50.530><c> he'll</c><00:03:51.040><c> start</c><00:03:51.400><c> as</c><00:03:51.580><c> always</c><00:03:52.150><c> by</c><00:03:52.540><c> setting</c>
+
+00:03:52.950 --> 00:03:52.960 align:start position:0%
+weights he'll start as always by setting
+ 
+
+00:03:52.960 --> 00:03:54.870 align:start position:0%
+weights he'll start as always by setting
+the<00:03:53.080><c> weights</c><00:03:53.290><c> to</c><00:03:53.560><c> random</c><00:03:53.860><c> numbers</c><00:03:54.220><c> like</c><00:03:54.580><c> the</c>
+
+00:03:54.870 --> 00:03:54.880 align:start position:0%
+the weights to random numbers like the
+ 
+
+00:03:54.880 --> 00:03:56.310 align:start position:0%
+the weights to random numbers like the
+random<00:03:55.120><c> line</c><00:03:55.360><c> on</c><00:03:55.600><c> the</c><00:03:55.720><c> graph</c><00:03:55.900><c> we</c><00:03:56.110><c> drew</c><00:03:56.290><c> earlier</c>
+
+00:03:56.310 --> 00:03:56.320 align:start position:0%
+random line on the graph we drew earlier
+ 
+
+00:03:56.320 --> 00:03:59.820 align:start position:0%
+random line on the graph we drew earlier
+only<00:03:56.950><c> this</c><00:03:57.640><c> time</c><00:03:58.030><c> it's</c><00:03:58.420><c> not</c><00:03:59.080><c> just</c><00:03:59.410><c> one</c><00:03:59.620><c> random</c>
+
+00:03:59.820 --> 00:03:59.830 align:start position:0%
+only this time it's not just one random
+ 
+
+00:03:59.830 --> 00:04:02.520 align:start position:0%
+only this time it's not just one random
+line<00:04:00.220><c> because</c><00:04:00.820><c> he</c><00:04:01.090><c> has</c><00:04:01.180><c> lots</c><00:04:01.570><c> of</c><00:04:01.780><c> inputs</c><00:04:02.230><c> it's</c>
+
+00:04:02.520 --> 00:04:02.530 align:start position:0%
+line because he has lots of inputs it's
+ 
+
+00:04:02.530 --> 00:04:04.860 align:start position:0%
+line because he has lots of inputs it's
+lots<00:04:03.010><c> of</c><00:04:03.220><c> lines</c><00:04:03.459><c> that</c><00:04:03.760><c> are</c><00:04:03.910><c> combined</c><00:04:04.390><c> to</c><00:04:04.720><c> make</c>
+
+00:04:04.860 --> 00:04:04.870 align:start position:0%
+lots of lines that are combined to make
+ 
+
+00:04:04.870 --> 00:04:07.860 align:start position:0%
+lots of lines that are combined to make
+one<00:04:05.200><c> big</c><00:04:05.560><c> messy</c><00:04:06.130><c> function</c><00:04:06.700><c> overall</c><00:04:07.180><c> there's</c>
+
+00:04:07.860 --> 00:04:07.870 align:start position:0%
+one big messy function overall there's
+ 
+
+00:04:07.870 --> 00:04:09.660 align:start position:0%
+one big messy function overall there's
+no<00:04:08.020><c> networks</c><00:04:08.440><c> function</c><00:04:08.890><c> resembles</c><00:04:09.459><c> some</c>
+
+00:04:09.660 --> 00:04:09.670 align:start position:0%
+no networks function resembles some
+ 
+
+00:04:09.670 --> 00:04:12.030 align:start position:0%
+no networks function resembles some
+weird<00:04:09.990><c> multi-dimensional</c><00:04:10.990><c> shape</c><00:04:11.290><c> that</c><00:04:11.680><c> we</c>
+
+00:04:12.030 --> 00:04:12.040 align:start position:0%
+weird multi-dimensional shape that we
+ 
+
+00:04:12.040 --> 00:04:14.100 align:start position:0%
+weird multi-dimensional shape that we
+don't<00:04:12.490><c> really</c><00:04:12.700><c> have</c><00:04:12.850><c> a</c><00:04:13.030><c> name</c><00:04:13.240><c> for</c><00:04:13.300><c> to</c><00:04:13.900><c> train</c>
+
+00:04:14.100 --> 00:04:14.110 align:start position:0%
+don't really have a name for to train
+ 
+
+00:04:14.110 --> 00:04:15.720 align:start position:0%
+don't really have a name for to train
+this<00:04:14.290><c> known</c><00:04:14.470><c> network</c><00:04:14.860><c> we'll</c><00:04:15.130><c> start</c><00:04:15.430><c> by</c><00:04:15.610><c> giving</c>
+
+00:04:15.720 --> 00:04:15.730 align:start position:0%
+this known network we'll start by giving
+ 
+
+00:04:15.730 --> 00:04:17.190 align:start position:0%
+this known network we'll start by giving
+John<00:04:16.090><c> Green</c><00:04:16.359><c> bought</c><00:04:16.540><c> a</c><00:04:16.750><c> bunch</c><00:04:17.020><c> of</c>
+
+00:04:17.190 --> 00:04:17.200 align:start position:0%
+John Green bought a bunch of
+ 
+
+00:04:17.200 --> 00:04:18.810 align:start position:0%
+John Green bought a bunch of
+measurements<00:04:17.739><c> from</c><00:04:17.830><c> the</c><00:04:17.920><c> past</c><00:04:18.220><c> 10</c><00:04:18.400><c> days</c><00:04:18.430><c> at</c>
+
+00:04:18.810 --> 00:04:18.820 align:start position:0%
+measurements from the past 10 days at
+ 
+
+00:04:18.820 --> 00:04:20.880 align:start position:0%
+measurements from the past 10 days at
+the<00:04:18.910><c> swimming</c><00:04:19.120><c> pool</c><00:04:19.239><c> because</c><00:04:20.170><c> these</c><00:04:20.590><c> are</c><00:04:20.799><c> the</c>
+
+00:04:20.880 --> 00:04:20.890 align:start position:0%
+the swimming pool because these are the
+ 
+
+00:04:20.890 --> 00:04:22.410 align:start position:0%
+the swimming pool because these are the
+days<00:04:21.130><c> where</c><00:04:21.489><c> we</c><00:04:21.609><c> also</c><00:04:21.850><c> know</c><00:04:22.150><c> the</c><00:04:22.300><c> output</c>
+
+00:04:22.410 --> 00:04:22.420 align:start position:0%
+days where we also know the output
+ 
+
+00:04:22.420 --> 00:04:25.200 align:start position:0%
+days where we also know the output
+attendance<00:04:23.110><c> will</c><00:04:23.440><c> start</c><00:04:23.800><c> with</c><00:04:24.130><c> one</c><00:04:24.430><c> day</c><00:04:24.640><c> where</c>
+
+00:04:25.200 --> 00:04:25.210 align:start position:0%
+attendance will start with one day where
+ 
+
+00:04:25.210 --> 00:04:27.810 align:start position:0%
+attendance will start with one day where
+else<00:04:25.360><c> 80</c><00:04:25.600><c> degrees</c><00:04:25.960><c> Fahrenheit</c><00:04:26.760><c> 65%</c><00:04:27.760><c> humidity</c>
+
+00:04:27.810 --> 00:04:27.820 align:start position:0%
+else 80 degrees Fahrenheit 65% humidity
+ 
+
+00:04:27.820 --> 00:04:30.450 align:start position:0%
+else 80 degrees Fahrenheit 65% humidity
+and<00:04:28.480><c> not</c><00:04:28.960><c> raining</c><00:04:29.440><c> which</c><00:04:29.950><c> will</c><00:04:30.310><c> represent</c>
+
+00:04:30.450 --> 00:04:30.460 align:start position:0%
+and not raining which will represent
+ 
+
+00:04:30.460 --> 00:04:32.970 align:start position:0%
+and not raining which will represent
+with<00:04:30.970><c> zero</c><00:04:31.330><c> the</c><00:04:32.080><c> neurons</c><00:04:32.440><c> would</c><00:04:32.680><c> do</c><00:04:32.830><c> their</c>
+
+00:04:32.970 --> 00:04:32.980 align:start position:0%
+with zero the neurons would do their
+ 
+
+00:04:32.980 --> 00:04:35.190 align:start position:0%
+with zero the neurons would do their
+thing<00:04:33.250><c> by</c><00:04:33.460><c> multiplying</c><00:04:34.060><c> those</c><00:04:34.240><c> features</c><00:04:34.750><c> by</c>
+
+00:04:35.190 --> 00:04:35.200 align:start position:0%
+thing by multiplying those features by
+ 
+
+00:04:35.200 --> 00:04:37.140 align:start position:0%
+thing by multiplying those features by
+the<00:04:35.260><c> weights</c><00:04:35.620><c> adding</c><00:04:36.490><c> the</c><00:04:36.580><c> results</c><00:04:37.000><c> together</c>
+
+00:04:37.140 --> 00:04:37.150 align:start position:0%
+the weights adding the results together
+ 
+
+00:04:37.150 --> 00:04:39.450 align:start position:0%
+the weights adding the results together
+and<00:04:37.630><c> passing</c><00:04:38.380><c> information</c><00:04:38.620><c> to</c><00:04:39.040><c> the</c><00:04:39.250><c> hidden</c>
+
+00:04:39.450 --> 00:04:39.460 align:start position:0%
+and passing information to the hidden
+ 
+
+00:04:39.460 --> 00:04:41.610 align:start position:0%
+and passing information to the hidden
+layers<00:04:39.760><c> into</c><00:04:40.150><c> the</c><00:04:40.240><c> output</c><00:04:40.690><c> neuron</c><00:04:40.990><c> has</c><00:04:41.380><c> an</c>
+
+00:04:41.610 --> 00:04:41.620 align:start position:0%
+layers into the output neuron has an
+ 
+
+00:04:41.620 --> 00:04:43.500 align:start position:0%
+layers into the output neuron has an
+answer<00:04:41.980><c> what</c><00:04:42.790><c> do</c><00:04:42.850><c> you</c><00:04:42.910><c> think</c><00:04:43.120><c> John</c><00:04:43.300><c> Green</c>
+
+00:04:43.500 --> 00:04:43.510 align:start position:0%
+answer what do you think John Green
+ 
+
+00:04:43.510 --> 00:04:51.540 align:start position:0%
+answer what do you think John Green
+bought<00:04:49.169><c> just</c><00:04:50.169><c> like</c><00:04:50.350><c> before</c><00:04:50.740><c> there</c><00:04:51.370><c> is</c><00:04:51.520><c> a</c>
+
+00:04:51.540 --> 00:04:51.550 align:start position:0%
+bought just like before there is a
+ 
+
+00:04:51.550 --> 00:04:53.190 align:start position:0%
+bought just like before there is a
+difference<00:04:52.090><c> between</c><00:04:52.270><c> the</c><00:04:52.600><c> neural</c><00:04:52.900><c> networks</c>
+
+00:04:53.190 --> 00:04:53.200 align:start position:0%
+difference between the neural networks
+ 
+
+00:04:53.200 --> 00:04:55.470 align:start position:0%
+difference between the neural networks
+output<00:04:53.680><c> and</c><00:04:53.919><c> the</c><00:04:54.460><c> actual</c><00:04:54.940><c> swimming</c><00:04:55.150><c> pool</c>
+
+00:04:55.470 --> 00:04:55.480 align:start position:0%
+output and the actual swimming pool
+ 
+
+00:04:55.480 --> 00:04:57.870 align:start position:0%
+output and the actual swimming pool
+attendance<00:04:56.050><c> which</c><00:04:56.770><c> was</c><00:04:57.220><c> recorded</c><00:04:57.730><c> as</c><00:04:57.850><c> a</c>
+
+00:04:57.870 --> 00:04:57.880 align:start position:0%
+attendance which was recorded as a
+ 
+
+00:04:57.880 --> 00:05:00.570 align:start position:0%
+attendance which was recorded as a
+hundred<00:04:58.300><c> people</c><00:04:58.620><c> because</c><00:04:59.620><c> we</c><00:04:59.830><c> have</c><00:04:59.950><c> just</c><00:05:00.250><c> one</c>
+
+00:05:00.570 --> 00:05:00.580 align:start position:0%
+hundred people because we have just one
+ 
+
+00:05:00.580 --> 00:05:02.730 align:start position:0%
+hundred people because we have just one
+output<00:05:00.790><c> neuron</c><00:05:01.270><c> the</c><00:05:01.660><c> difference</c><00:05:02.080><c> of</c><00:05:02.290><c> 45</c>
+
+00:05:02.730 --> 00:05:02.740 align:start position:0%
+output neuron the difference of 45
+ 
+
+00:05:02.740 --> 00:05:04.839 align:start position:0%
+output neuron the difference of 45
+people<00:05:03.220><c> is</c><00:05:03.460><c> the</c><00:05:03.850><c> error</c>
+
+00:05:04.839 --> 00:05:04.849 align:start position:0%
+people is the error
+ 
+
+00:05:04.849 --> 00:05:06.850 align:start position:0%
+people is the error
+pretty<00:05:05.059><c> simple</c><00:05:05.330><c> and</c><00:05:05.569><c> some</c><00:05:06.199><c> neural</c><00:05:06.499><c> networks</c>
+
+00:05:06.850 --> 00:05:06.860 align:start position:0%
+pretty simple and some neural networks
+ 
+
+00:05:06.860 --> 00:05:09.189 align:start position:0%
+pretty simple and some neural networks
+though<00:05:07.099><c> the</c><00:05:07.580><c> output</c><00:05:07.969><c> layer</c><00:05:08.149><c> may</c><00:05:08.419><c> have</c><00:05:08.629><c> a</c><00:05:08.839><c> lot</c>
+
+00:05:09.189 --> 00:05:09.199 align:start position:0%
+though the output layer may have a lot
+ 
+
+00:05:09.199 --> 00:05:11.679 align:start position:0%
+though the output layer may have a lot
+of<00:05:09.229><c> neurons</c><00:05:09.770><c> so</c><00:05:10.429><c> the</c><00:05:10.759><c> difference</c><00:05:11.119><c> between</c><00:05:11.300><c> the</c>
+
+00:05:11.679 --> 00:05:11.689 align:start position:0%
+of neurons so the difference between the
+ 
+
+00:05:11.689 --> 00:05:13.899 align:start position:0%
+of neurons so the difference between the
+predicted<00:05:11.869><c> answer</c><00:05:12.529><c> and</c><00:05:12.740><c> the</c><00:05:13.069><c> correct</c><00:05:13.249><c> answer</c>
+
+00:05:13.899 --> 00:05:13.909 align:start position:0%
+predicted answer and the correct answer
+ 
+
+00:05:13.909 --> 00:05:16.749 align:start position:0%
+predicted answer and the correct answer
+is<00:05:14.119><c> more</c><00:05:14.689><c> than</c><00:05:15.050><c> just</c><00:05:15.319><c> one</c><00:05:15.499><c> number</c><00:05:15.740><c> in</c><00:05:16.129><c> these</c>
+
+00:05:16.749 --> 00:05:16.759 align:start position:0%
+is more than just one number in these
+ 
+
+00:05:16.759 --> 00:05:19.179 align:start position:0%
+is more than just one number in these
+cases<00:05:17.089><c> the</c><00:05:17.689><c> error</c><00:05:17.899><c> is</c><00:05:18.259><c> represented</c><00:05:18.860><c> by</c><00:05:18.919><c> what's</c>
+
+00:05:19.179 --> 00:05:19.189 align:start position:0%
+cases the error is represented by what's
+ 
+
+00:05:19.189 --> 00:05:22.059 align:start position:0%
+cases the error is represented by what's
+known<00:05:19.309><c> as</c><00:05:19.699><c> a</c><00:05:19.969><c> loss</c><00:05:20.539><c> function</c><00:05:20.869><c> moving</c><00:05:21.709><c> forward</c>
+
+00:05:22.059 --> 00:05:22.069 align:start position:0%
+known as a loss function moving forward
+ 
+
+00:05:22.069 --> 00:05:23.859 align:start position:0%
+known as a loss function moving forward
+we<00:05:22.459><c> need</c><00:05:22.490><c> to</c><00:05:22.759><c> adjust</c><00:05:22.879><c> the</c><00:05:23.240><c> neural</c><00:05:23.479><c> networks</c>
+
+00:05:23.859 --> 00:05:23.869 align:start position:0%
+we need to adjust the neural networks
+ 
+
+00:05:23.869 --> 00:05:25.659 align:start position:0%
+we need to adjust the neural networks
+weight<00:05:24.139><c> so</c><00:05:24.379><c> that</c><00:05:24.559><c> the</c><00:05:24.770><c> next</c><00:05:25.009><c> time</c><00:05:25.129><c> we</c><00:05:25.339><c> give</c>
+
+00:05:25.659 --> 00:05:25.669 align:start position:0%
+weight so that the next time we give
+ 
+
+00:05:25.669 --> 00:05:27.820 align:start position:0%
+weight so that the next time we give
+John<00:05:25.939><c> Green</c><00:05:26.149><c> bought</c><00:05:26.360><c> similar</c><00:05:26.779><c> inputs</c><00:05:26.990><c> his</c>
+
+00:05:27.820 --> 00:05:27.830 align:start position:0%
+John Green bought similar inputs his
+ 
+
+00:05:27.830 --> 00:05:29.949 align:start position:0%
+John Green bought similar inputs his
+math<00:05:28.279><c> and</c><00:05:28.550><c> final</c><00:05:28.819><c> output</c><00:05:29.240><c> will</c><00:05:29.270><c> be</c><00:05:29.719><c> more</c>
+
+00:05:29.949 --> 00:05:29.959 align:start position:0%
+math and final output will be more
+ 
+
+00:05:29.959 --> 00:05:30.609 align:start position:0%
+math and final output will be more
+accurate
+
+00:05:30.609 --> 00:05:30.619 align:start position:0%
+accurate
+ 
+
+00:05:30.619 --> 00:05:32.619 align:start position:0%
+accurate
+basically<00:05:31.099><c> we</c><00:05:31.580><c> need</c><00:05:31.699><c> John</c><00:05:31.969><c> Green</c><00:05:32.240><c> bot</c><00:05:32.419><c> to</c>
+
+00:05:32.619 --> 00:05:32.629 align:start position:0%
+basically we need John Green bot to
+ 
+
+00:05:32.629 --> 00:05:34.570 align:start position:0%
+basically we need John Green bot to
+learn<00:05:32.809><c> from</c><00:05:33.020><c> his</c><00:05:33.169><c> mistakes</c><00:05:33.619><c> a</c><00:05:33.949><c> lot</c><00:05:34.009><c> like</c><00:05:34.399><c> when</c>
+
+00:05:34.570 --> 00:05:34.580 align:start position:0%
+learn from his mistakes a lot like when
+ 
+
+00:05:34.580 --> 00:05:36.579 align:start position:0%
+learn from his mistakes a lot like when
+we<00:05:34.669><c> push</c><00:05:34.939><c> the</c><00:05:34.969><c> button</c><00:05:35.300><c> a</c><00:05:35.539><c> supervises</c><00:05:36.169><c> learning</c>
+
+00:05:36.579 --> 00:05:36.589 align:start position:0%
+we push the button a supervises learning
+ 
+
+00:05:36.589 --> 00:05:38.889 align:start position:0%
+we push the button a supervises learning
+when<00:05:36.740><c> he</c><00:05:36.830><c> had</c><00:05:36.949><c> the</c><00:05:37.099><c> perception</c><00:05:37.429><c> program</c><00:05:38.149><c> but</c>
+
+00:05:38.889 --> 00:05:38.899 align:start position:0%
+when he had the perception program but
+ 
+
+00:05:38.899 --> 00:05:41.139 align:start position:0%
+when he had the perception program but
+this<00:05:39.409><c> is</c><00:05:39.649><c> a</c><00:05:39.679><c> bit</c><00:05:40.009><c> trickier</c><00:05:40.490><c> because</c><00:05:40.879><c> of</c><00:05:41.029><c> how</c>
+
+00:05:41.139 --> 00:05:41.149 align:start position:0%
+this is a bit trickier because of how
+ 
+
+00:05:41.149 --> 00:05:43.149 align:start position:0%
+this is a bit trickier because of how
+complicated<00:05:41.569><c> neural</c><00:05:42.110><c> networks</c><00:05:42.439><c> are</c><00:05:42.649><c> to</c><00:05:42.979><c> help</c>
+
+00:05:43.149 --> 00:05:43.159 align:start position:0%
+complicated neural networks are to help
+ 
+
+00:05:43.159 --> 00:05:45.309 align:start position:0%
+complicated neural networks are to help
+no<00:05:43.399><c> networks</c><00:05:43.849><c> learn</c><00:05:44.229><c> scientists</c><00:05:45.229><c> and</c>
+
+00:05:45.309 --> 00:05:45.319 align:start position:0%
+no networks learn scientists and
+ 
+
+00:05:45.319 --> 00:05:46.989 align:start position:0%
+no networks learn scientists and
+mathematicians<00:05:45.439><c> came</c><00:05:46.279><c> up</c><00:05:46.429><c> with</c><00:05:46.580><c> an</c><00:05:46.699><c> algorithm</c>
+
+00:05:46.989 --> 00:05:46.999 align:start position:0%
+mathematicians came up with an algorithm
+ 
+
+00:05:46.999 --> 00:05:49.709 align:start position:0%
+mathematicians came up with an algorithm
+called<00:05:47.360><c> back</c><00:05:47.659><c> propagation</c><00:05:47.689><c> of</c><00:05:48.649><c> the</c><00:05:49.129><c> error</c><00:05:49.339><c> or</c>
+
+00:05:49.709 --> 00:05:49.719 align:start position:0%
+called back propagation of the error or
+ 
+
+00:05:49.719 --> 00:05:52.179 align:start position:0%
+called back propagation of the error or
+just<00:05:50.719><c> back</c><00:05:50.959><c> propagation</c><00:05:51.469><c> for</c><00:05:51.800><c> sure</c>
+
+00:05:52.179 --> 00:05:52.189 align:start position:0%
+just back propagation for sure
+ 
+
+00:05:52.189 --> 00:05:54.040 align:start position:0%
+just back propagation for sure
+the<00:05:52.249><c> basic</c><00:05:52.669><c> goal</c><00:05:52.879><c> is</c><00:05:53.209><c> to</c><00:05:53.419><c> look</c><00:05:53.569><c> at</c><00:05:53.749><c> the</c><00:05:53.869><c> loss</c>
+
+00:05:54.040 --> 00:05:54.050 align:start position:0%
+the basic goal is to look at the loss
+ 
+
+00:05:54.050 --> 00:05:56.139 align:start position:0%
+the basic goal is to look at the loss
+function<00:05:54.319><c> and</c><00:05:54.830><c> then</c><00:05:55.009><c> assign</c><00:05:55.399><c> blame</c><00:05:55.669><c> to</c>
+
+00:05:56.139 --> 00:05:56.149 align:start position:0%
+function and then assign blame to
+ 
+
+00:05:56.149 --> 00:05:58.089 align:start position:0%
+function and then assign blame to
+neurons<00:05:56.599><c> back</c><00:05:56.869><c> in</c><00:05:57.050><c> the</c><00:05:57.139><c> previous</c><00:05:57.379><c> layers</c><00:05:57.800><c> of</c>
+
+00:05:58.089 --> 00:05:58.099 align:start position:0%
+neurons back in the previous layers of
+ 
+
+00:05:58.099 --> 00:06:00.429 align:start position:0%
+neurons back in the previous layers of
+the<00:05:58.309><c> network</c><00:05:58.669><c> some</c><00:05:59.389><c> neurons</c><00:05:59.719><c> calculations</c>
+
+00:06:00.429 --> 00:06:00.439 align:start position:0%
+the network some neurons calculations
+ 
+
+00:06:00.439 --> 00:06:02.439 align:start position:0%
+the network some neurons calculations
+may<00:06:00.649><c> be</c><00:06:00.709><c> more</c><00:06:01.009><c> to</c><00:06:01.039><c> blame</c><00:06:01.459><c> for</c><00:06:01.729><c> the</c><00:06:02.059><c> air</c><00:06:02.209><c> than</c>
+
+00:06:02.439 --> 00:06:02.449 align:start position:0%
+may be more to blame for the air than
+ 
+
+00:06:02.449 --> 00:06:04.749 align:start position:0%
+may be more to blame for the air than
+others<00:06:02.839><c> so</c><00:06:03.439><c> the</c><00:06:03.800><c> weights</c><00:06:04.009><c> will</c><00:06:04.159><c> be</c><00:06:04.279><c> adjusted</c>
+
+00:06:04.749 --> 00:06:04.759 align:start position:0%
+others so the weights will be adjusted
+ 
+
+00:06:04.759 --> 00:06:07.209 align:start position:0%
+others so the weights will be adjusted
+more<00:06:04.939><c> this</c><00:06:05.240><c> information</c><00:06:05.959><c> is</c><00:06:06.139><c> fed</c><00:06:06.409><c> backwards</c>
+
+00:06:07.209 --> 00:06:07.219 align:start position:0%
+more this information is fed backwards
+ 
+
+00:06:07.219 --> 00:06:09.129 align:start position:0%
+more this information is fed backwards
+which<00:06:07.759><c> is</c><00:06:07.789><c> where</c><00:06:08.149><c> the</c><00:06:08.300><c> idea</c><00:06:08.419><c> of</c><00:06:08.930><c> back</c>
+
+00:06:09.129 --> 00:06:09.139 align:start position:0%
+which is where the idea of back
+ 
+
+00:06:09.139 --> 00:06:11.589 align:start position:0%
+which is where the idea of back
+propagation<00:06:09.680><c> comes</c><00:06:10.159><c> from</c><00:06:10.490><c> so</c><00:06:10.819><c> for</c><00:06:11.059><c> example</c>
+
+00:06:11.589 --> 00:06:11.599 align:start position:0%
+propagation comes from so for example
+ 
+
+00:06:11.599 --> 00:06:13.540 align:start position:0%
+propagation comes from so for example
+the<00:06:11.809><c> error</c><00:06:12.019><c> from</c><00:06:12.319><c> our</c><00:06:12.469><c> output</c><00:06:12.829><c> neuron</c><00:06:13.129><c> will</c><00:06:13.399><c> go</c>
+
+00:06:13.540 --> 00:06:13.550 align:start position:0%
+the error from our output neuron will go
+ 
+
+00:06:13.550 --> 00:06:15.579 align:start position:0%
+the error from our output neuron will go
+back<00:06:13.909><c> a</c><00:06:13.939><c> layer</c><00:06:14.269><c> and</c><00:06:14.569><c> adjust</c><00:06:15.019><c> the</c><00:06:15.169><c> weights</c><00:06:15.379><c> that</c>
+
+00:06:15.579 --> 00:06:15.589 align:start position:0%
+back a layer and adjust the weights that
+ 
+
+00:06:15.589 --> 00:06:17.529 align:start position:0%
+back a layer and adjust the weights that
+get<00:06:15.740><c> applied</c><00:06:15.979><c> to</c><00:06:16.550><c> our</c><00:06:16.639><c> hidden</c><00:06:16.789><c> layer</c><00:06:17.089><c> neuron</c>
+
+00:06:17.529 --> 00:06:17.539 align:start position:0%
+get applied to our hidden layer neuron
+ 
+
+00:06:17.539 --> 00:06:19.809 align:start position:0%
+get applied to our hidden layer neuron
+outputs<00:06:18.079><c> and</c><00:06:18.409><c> the</c><00:06:18.740><c> error</c><00:06:18.919><c> from</c><00:06:19.369><c> our</c><00:06:19.550><c> hidden</c>
+
+00:06:19.809 --> 00:06:19.819 align:start position:0%
+outputs and the error from our hidden
+ 
+
+00:06:19.819 --> 00:06:22.029 align:start position:0%
+outputs and the error from our hidden
+layer<00:06:20.089><c> neurons</c><00:06:20.599><c> will</c><00:06:20.779><c> go</c><00:06:20.930><c> back</c><00:06:21.349><c> a</c><00:06:21.379><c> layer</c><00:06:21.740><c> to</c>
+
+00:06:22.029 --> 00:06:22.039 align:start position:0%
+layer neurons will go back a layer to
+ 
+
+00:06:22.039 --> 00:06:24.009 align:start position:0%
+layer neurons will go back a layer to
+adjust<00:06:22.399><c> the</c><00:06:22.519><c> weights</c><00:06:22.789><c> that</c><00:06:22.999><c> get</c><00:06:23.240><c> applied</c><00:06:23.599><c> to</c>
+
+00:06:24.009 --> 00:06:24.019 align:start position:0%
+adjust the weights that get applied to
+ 
+
+00:06:24.019 --> 00:06:26.799 align:start position:0%
+adjust the weights that get applied to
+our<00:06:24.139><c> features</c><00:06:24.829><c> remember</c><00:06:25.669><c> our</c><00:06:26.059><c> goal</c><00:06:26.389><c> is</c><00:06:26.659><c> to</c>
+
+00:06:26.799 --> 00:06:26.809 align:start position:0%
+our features remember our goal is to
+ 
+
+00:06:26.809 --> 00:06:28.659 align:start position:0%
+our features remember our goal is to
+find<00:06:26.959><c> the</c><00:06:27.110><c> best</c><00:06:27.349><c> combination</c><00:06:27.680><c> of</c><00:06:28.189><c> weights</c><00:06:28.430><c> to</c>
+
+00:06:28.659 --> 00:06:28.669 align:start position:0%
+find the best combination of weights to
+ 
+
+00:06:28.669 --> 00:06:31.569 align:start position:0%
+find the best combination of weights to
+get<00:06:28.819><c> the</c><00:06:28.939><c> lowest</c><00:06:29.180><c> error</c><00:06:29.659><c> to</c><00:06:30.589><c> explain</c><00:06:31.159><c> logic</c>
+
+00:06:31.569 --> 00:06:31.579 align:start position:0%
+get the lowest error to explain logic
+ 
+
+00:06:31.579 --> 00:06:33.339 align:start position:0%
+get the lowest error to explain logic
+behind<00:06:31.699><c> optimization</c><00:06:32.569><c> with</c><00:06:32.719><c> the</c><00:06:32.839><c> metaphor</c>
+
+00:06:33.339 --> 00:06:33.349 align:start position:0%
+behind optimization with the metaphor
+ 
+
+00:06:33.349 --> 00:06:35.109 align:start position:0%
+behind optimization with the metaphor
+let's<00:06:33.829><c> send</c><00:06:34.099><c> John</c><00:06:34.369><c> and</c><00:06:34.519><c> green</c><00:06:34.699><c> ba</c><00:06:34.849><c> on</c><00:06:35.059><c> a</c>
+
+00:06:35.109 --> 00:06:35.119 align:start position:0%
+let's send John and green ba on a
+ 
+
+00:06:35.119 --> 00:06:37.389 align:start position:0%
+let's send John and green ba on a
+metaphorical<00:06:35.929><c> journey</c><00:06:36.229><c> through</c><00:06:36.949><c> the</c>
+
+00:06:37.389 --> 00:06:37.399 align:start position:0%
+metaphorical journey through the
+ 
+
+00:06:37.399 --> 00:06:42.620 align:start position:0%
+metaphorical journey through the
+thought-bubble
+
+00:06:42.620 --> 00:06:42.630 align:start position:0%
+ 
+ 
+
+00:06:42.630 --> 00:06:45.180 align:start position:0%
+ 
+let's<00:06:43.630><c> imagine</c><00:06:43.810><c> that</c><00:06:44.170><c> weights</c><00:06:44.590><c> in</c><00:06:44.860><c> our</c><00:06:44.980><c> neural</c>
+
+00:06:45.180 --> 00:06:45.190 align:start position:0%
+let's imagine that weights in our neural
+ 
+
+00:06:45.190 --> 00:06:47.190 align:start position:0%
+let's imagine that weights in our neural
+network<00:06:45.310><c> are</c><00:06:45.820><c> like</c><00:06:45.970><c> latitude</c><00:06:46.480><c> and</c><00:06:46.690><c> longitude</c>
+
+00:06:47.190 --> 00:06:47.200 align:start position:0%
+network are like latitude and longitude
+ 
+
+00:06:47.200 --> 00:06:49.110 align:start position:0%
+network are like latitude and longitude
+coordinates<00:06:47.410><c> on</c><00:06:47.830><c> the</c><00:06:47.860><c> map</c><00:06:48.130><c> and</c><00:06:48.370><c> the</c><00:06:48.730><c> error</c><00:06:48.940><c> of</c>
+
+00:06:49.110 --> 00:06:49.120 align:start position:0%
+coordinates on the map and the error of
+ 
+
+00:06:49.120 --> 00:06:51.510 align:start position:0%
+coordinates on the map and the error of
+our<00:06:49.330><c> neural</c><00:06:49.630><c> network</c><00:06:49.990><c> is</c><00:06:50.200><c> the</c><00:06:50.470><c> altitude</c><00:06:50.860><c> lower</c>
+
+00:06:51.510 --> 00:06:51.520 align:start position:0%
+our neural network is the altitude lower
+ 
+
+00:06:51.520 --> 00:06:54.120 align:start position:0%
+our neural network is the altitude lower
+is<00:06:51.880><c> better</c><00:06:52.300><c> John</c><00:06:52.930><c> Green</c><00:06:53.230><c> bought</c><00:06:53.440><c> the</c><00:06:53.680><c> Explorer</c>
+
+00:06:54.120 --> 00:06:54.130 align:start position:0%
+is better John Green bought the Explorer
+ 
+
+00:06:54.130 --> 00:06:56.160 align:start position:0%
+is better John Green bought the Explorer
+is<00:06:54.400><c> on</c><00:06:54.580><c> a</c><00:06:54.610><c> quest</c><00:06:54.880><c> to</c><00:06:55.150><c> find</c><00:06:55.180><c> the</c><00:06:55.480><c> lowest</c><00:06:55.690><c> point</c>
+
+00:06:56.160 --> 00:06:56.170 align:start position:0%
+is on a quest to find the lowest point
+ 
+
+00:06:56.170 --> 00:06:58.350 align:start position:0%
+is on a quest to find the lowest point
+in<00:06:56.380><c> the</c><00:06:56.530><c> deepest</c><00:06:57.070><c> Valley</c><00:06:57.340><c> the</c><00:06:57.790><c> latitude</c><00:06:58.240><c> and</c>
+
+00:06:58.350 --> 00:06:58.360 align:start position:0%
+in the deepest Valley the latitude and
+ 
+
+00:06:58.360 --> 00:07:00.330 align:start position:0%
+in the deepest Valley the latitude and
+longitude<00:06:58.870><c> of</c><00:06:58.990><c> the</c><00:06:59.140><c> lowest</c><00:06:59.410><c> point</c><00:06:59.680><c> where</c><00:07:00.220><c> the</c>
+
+00:07:00.330 --> 00:07:00.340 align:start position:0%
+longitude of the lowest point where the
+ 
+
+00:07:00.340 --> 00:07:02.550 align:start position:0%
+longitude of the lowest point where the
+error<00:07:00.520><c> is</c><00:07:00.700><c> the</c><00:07:00.880><c> smallest</c><00:07:01.180><c> are</c><00:07:01.600><c> the</c><00:07:02.050><c> weights</c><00:07:02.290><c> of</c>
+
+00:07:02.550 --> 00:07:02.560 align:start position:0%
+error is the smallest are the weights of
+ 
+
+00:07:02.560 --> 00:07:04.710 align:start position:0%
+error is the smallest are the weights of
+the<00:07:02.800><c> neural</c><00:07:02.980><c> networks</c><00:07:03.460><c> global</c><00:07:04.090><c> optimal</c>
+
+00:07:04.710 --> 00:07:04.720 align:start position:0%
+the neural networks global optimal
+ 
+
+00:07:04.720 --> 00:07:07.290 align:start position:0%
+the neural networks global optimal
+solution<00:07:05.230><c> but</c><00:07:05.530><c> John</c><00:07:06.040><c> Green</c><00:07:06.280><c> bot</c><00:07:06.460><c> has</c><00:07:06.670><c> no</c><00:07:06.880><c> idea</c>
+
+00:07:07.290 --> 00:07:07.300 align:start position:0%
+solution but John Green bot has no idea
+ 
+
+00:07:07.300 --> 00:07:09.330 align:start position:0%
+solution but John Green bot has no idea
+where<00:07:07.570><c> this</c><00:07:07.720><c> valley</c><00:07:07.990><c> actually</c><00:07:08.620><c> is</c><00:07:08.800><c> by</c>
+
+00:07:09.330 --> 00:07:09.340 align:start position:0%
+where this valley actually is by
+ 
+
+00:07:09.340 --> 00:07:11.250 align:start position:0%
+where this valley actually is by
+randomly<00:07:09.790><c> setting</c><00:07:10.270><c> the</c><00:07:10.390><c> initial</c><00:07:10.660><c> weights</c><00:07:11.050><c> of</c>
+
+00:07:11.250 --> 00:07:11.260 align:start position:0%
+randomly setting the initial weights of
+ 
+
+00:07:11.260 --> 00:07:12.270 align:start position:0%
+randomly setting the initial weights of
+our<00:07:11.380><c> known</c><00:07:11.590><c> Network</c>
+
+00:07:12.270 --> 00:07:12.280 align:start position:0%
+our known Network
+ 
+
+00:07:12.280 --> 00:07:14.100 align:start position:0%
+our known Network
+we're<00:07:12.580><c> basically</c><00:07:13.000><c> dumping</c><00:07:13.720><c> him</c><00:07:13.900><c> in</c><00:07:14.020><c> the</c>
+
+00:07:14.100 --> 00:07:14.110 align:start position:0%
+we're basically dumping him in the
+ 
+
+00:07:14.110 --> 00:07:16.320 align:start position:0%
+we're basically dumping him in the
+middle<00:07:14.410><c> of</c><00:07:14.530><c> the</c><00:07:14.650><c> jungle</c><00:07:14.860><c> all</c><00:07:15.280><c> he</c><00:07:15.520><c> knows</c><00:07:15.790><c> is</c><00:07:15.820><c> his</c>
+
+00:07:16.320 --> 00:07:16.330 align:start position:0%
+middle of the jungle all he knows is his
+ 
+
+00:07:16.330 --> 00:07:18.300 align:start position:0%
+middle of the jungle all he knows is his
+current<00:07:16.630><c> latitude</c><00:07:16.810><c> longitude</c><00:07:17.500><c> and</c><00:07:18.190><c> altitude</c>
+
+00:07:18.300 --> 00:07:18.310 align:start position:0%
+current latitude longitude and altitude
+ 
+
+00:07:18.310 --> 00:07:21.030 align:start position:0%
+current latitude longitude and altitude
+maybe<00:07:19.150><c> we</c><00:07:19.570><c> got</c><00:07:19.720><c> lucky</c><00:07:19.990><c> and</c><00:07:20.290><c> he's</c><00:07:20.440><c> on</c><00:07:20.650><c> the</c><00:07:20.800><c> side</c>
+
+00:07:21.030 --> 00:07:21.040 align:start position:0%
+maybe we got lucky and he's on the side
+ 
+
+00:07:21.040 --> 00:07:23.340 align:start position:0%
+maybe we got lucky and he's on the side
+of<00:07:21.070><c> the</c><00:07:21.400><c> deepest</c><00:07:21.820><c> Valley</c><00:07:22.060><c> but</c><00:07:22.540><c> he</c><00:07:23.020><c> could</c><00:07:23.170><c> also</c>
+
+00:07:23.340 --> 00:07:23.350 align:start position:0%
+of the deepest Valley but he could also
+ 
+
+00:07:23.350 --> 00:07:24.720 align:start position:0%
+of the deepest Valley but he could also
+be<00:07:23.500><c> at</c><00:07:23.740><c> the</c><00:07:23.860><c> top</c><00:07:24.070><c> of</c><00:07:24.280><c> the</c><00:07:24.340><c> highest</c><00:07:24.520><c> mountain</c>
+
+00:07:24.720 --> 00:07:24.730 align:start position:0%
+be at the top of the highest mountain
+ 
+
+00:07:24.730 --> 00:07:27.720 align:start position:0%
+be at the top of the highest mountain
+far<00:07:25.630><c> away</c><00:07:25.900><c> the</c><00:07:26.320><c> only</c><00:07:26.710><c> way</c><00:07:26.830><c> to</c><00:07:26.890><c> know</c><00:07:27.220><c> is</c><00:07:27.580><c> to</c>
+
+00:07:27.720 --> 00:07:27.730 align:start position:0%
+far away the only way to know is to
+ 
+
+00:07:27.730 --> 00:07:30.390 align:start position:0%
+far away the only way to know is to
+explore<00:07:28.450><c> because</c><00:07:28.900><c> the</c><00:07:29.200><c> jungle</c><00:07:29.590><c> is</c><00:07:29.680><c> so</c><00:07:30.010><c> dense</c>
+
+00:07:30.390 --> 00:07:30.400 align:start position:0%
+explore because the jungle is so dense
+ 
+
+00:07:30.400 --> 00:07:32.970 align:start position:0%
+explore because the jungle is so dense
+it's<00:07:30.910><c> hard</c><00:07:31.210><c> to</c><00:07:31.360><c> see</c><00:07:31.540><c> very</c><00:07:31.810><c> far</c><00:07:32.110><c> the</c><00:07:32.500><c> best</c><00:07:32.740><c> John</c>
+
+00:07:32.970 --> 00:07:32.980 align:start position:0%
+it's hard to see very far the best John
+ 
+
+00:07:32.980 --> 00:07:35.100 align:start position:0%
+it's hard to see very far the best John
+Green<00:07:33.220><c> bot</c><00:07:33.400><c> can</c><00:07:33.640><c> do</c><00:07:33.820><c> is</c><00:07:34.120><c> look</c><00:07:34.330><c> around</c><00:07:34.480><c> and</c><00:07:34.960><c> make</c>
+
+00:07:35.100 --> 00:07:35.110 align:start position:0%
+Green bot can do is look around and make
+ 
+
+00:07:35.110 --> 00:07:37.440 align:start position:0%
+Green bot can do is look around and make
+a<00:07:35.140><c> guess</c><00:07:35.440><c> he</c><00:07:35.980><c> notices</c><00:07:36.460><c> he</c><00:07:36.730><c> can</c><00:07:36.880><c> descend</c><00:07:37.240><c> down</c><00:07:37.390><c> a</c>
+
+00:07:37.440 --> 00:07:37.450 align:start position:0%
+a guess he notices he can descend down a
+ 
+
+00:07:37.450 --> 00:07:40.440 align:start position:0%
+a guess he notices he can descend down a
+little<00:07:37.690><c> by</c><00:07:38.110><c> moving</c><00:07:38.500><c> northeast</c><00:07:39.040><c> so</c><00:07:39.670><c> he</c><00:07:40.060><c> takes</c><00:07:40.330><c> a</c>
+
+00:07:40.440 --> 00:07:40.450 align:start position:0%
+little by moving northeast so he takes a
+ 
+
+00:07:40.450 --> 00:07:42.720 align:start position:0%
+little by moving northeast so he takes a
+step<00:07:40.630><c> down</c><00:07:40.930><c> and</c><00:07:41.200><c> updates</c><00:07:41.830><c> his</c><00:07:41.980><c> latitude</c><00:07:42.520><c> and</c>
+
+00:07:42.720 --> 00:07:42.730 align:start position:0%
+step down and updates his latitude and
+ 
+
+00:07:42.730 --> 00:07:44.820 align:start position:0%
+step down and updates his latitude and
+longitude<00:07:43.270><c> from</c><00:07:43.570><c> this</c><00:07:43.810><c> new</c><00:07:43.990><c> position</c><00:07:44.530><c> he</c>
+
+00:07:44.820 --> 00:07:44.830 align:start position:0%
+longitude from this new position he
+ 
+
+00:07:44.830 --> 00:07:46.560 align:start position:0%
+longitude from this new position he
+looks<00:07:45.070><c> around</c><00:07:45.250><c> and</c><00:07:45.640><c> picks</c><00:07:45.940><c> another</c><00:07:46.090><c> step</c><00:07:46.540><c> that</c>
+
+00:07:46.560 --> 00:07:46.570 align:start position:0%
+looks around and picks another step that
+ 
+
+00:07:46.570 --> 00:07:49.110 align:start position:0%
+looks around and picks another step that
+increases<00:07:47.170><c> his</c><00:07:47.320><c> altitude</c><00:07:47.530><c> a</c><00:07:48.040><c> little</c><00:07:48.700><c> more</c><00:07:48.880><c> and</c>
+
+00:07:49.110 --> 00:07:49.120 align:start position:0%
+increases his altitude a little more and
+ 
+
+00:07:49.120 --> 00:07:51.570 align:start position:0%
+increases his altitude a little more and
+then<00:07:49.360><c> another</c><00:07:49.660><c> and</c><00:07:50.080><c> another</c><00:07:50.470><c> with</c><00:07:51.190><c> every</c>
+
+00:07:51.570 --> 00:07:51.580 align:start position:0%
+then another and another with every
+ 
+
+00:07:51.580 --> 00:07:53.310 align:start position:0%
+then another and another with every
+brave<00:07:51.790><c> step</c><00:07:52.090><c> he</c><00:07:52.360><c> updates</c><00:07:52.690><c> his</c><00:07:52.810><c> coordinates</c>
+
+00:07:53.310 --> 00:07:53.320 align:start position:0%
+brave step he updates his coordinates
+ 
+
+00:07:53.320 --> 00:07:55.650 align:start position:0%
+brave step he updates his coordinates
+and<00:07:53.590><c> decreases</c><00:07:54.190><c> his</c><00:07:54.340><c> altitude</c><00:07:54.660><c> eventually</c>
+
+00:07:55.650 --> 00:07:55.660 align:start position:0%
+and decreases his altitude eventually
+ 
+
+00:07:55.660 --> 00:07:57.810 align:start position:0%
+and decreases his altitude eventually
+John<00:07:56.140><c> Green</c><00:07:56.410><c> bot</c><00:07:56.620><c> looks</c><00:07:56.890><c> around</c><00:07:57.250><c> and</c><00:07:57.490><c> finds</c>
+
+00:07:57.810 --> 00:07:57.820 align:start position:0%
+John Green bot looks around and finds
+ 
+
+00:07:57.820 --> 00:07:59.940 align:start position:0%
+John Green bot looks around and finds
+that<00:07:58.090><c> he</c><00:07:58.210><c> can't</c><00:07:58.480><c> go</c><00:07:58.660><c> down</c><00:07:58.900><c> any</c><00:07:59.260><c> more</c><00:07:59.560><c> he</c>
+
+00:07:59.940 --> 00:07:59.950 align:start position:0%
+that he can't go down any more he
+ 
+
+00:07:59.950 --> 00:08:01.590 align:start position:0%
+that he can't go down any more he
+celebrates<00:08:00.490><c> because</c><00:08:00.850><c> it</c><00:08:00.970><c> seems</c><00:08:01.240><c> like</c><00:08:01.450><c> he</c>
+
+00:08:01.590 --> 00:08:01.600 align:start position:0%
+celebrates because it seems like he
+ 
+
+00:08:01.600 --> 00:08:03.450 align:start position:0%
+celebrates because it seems like he
+found<00:08:01.750><c> the</c><00:08:01.900><c> lowest</c><00:08:02.080><c> point</c><00:08:02.500><c> in</c><00:08:02.710><c> the</c><00:08:03.070><c> deepest</c>
+
+00:08:03.450 --> 00:08:03.460 align:start position:0%
+found the lowest point in the deepest
+ 
+
+00:08:03.460 --> 00:08:06.720 align:start position:0%
+found the lowest point in the deepest
+Valley<00:08:03.670><c> or</c><00:08:04.140><c> so</c><00:08:05.140><c> he</c><00:08:05.290><c> thinks</c><00:08:05.740><c> if</c><00:08:06.010><c> we</c><00:08:06.250><c> look</c><00:08:06.430><c> at</c><00:08:06.550><c> the</c>
+
+00:08:06.720 --> 00:08:06.730 align:start position:0%
+Valley or so he thinks if we look at the
+ 
+
+00:08:06.730 --> 00:08:08.760 align:start position:0%
+Valley or so he thinks if we look at the
+whole<00:08:06.940><c> map</c><00:08:07.270><c> we</c><00:08:07.600><c> can</c><00:08:07.630><c> see</c><00:08:07.780><c> that</c><00:08:08.020><c> John</c><00:08:08.290><c> Green</c><00:08:08.560><c> bot</c>
+
+00:08:08.760 --> 00:08:08.770 align:start position:0%
+whole map we can see that John Green bot
+ 
+
+00:08:08.770 --> 00:08:10.680 align:start position:0%
+whole map we can see that John Green bot
+only<00:08:09.130><c> filmed</c><00:08:09.400><c> the</c><00:08:09.490><c> bottom</c><00:08:09.790><c> of</c><00:08:09.910><c> a</c><00:08:10.060><c> small</c><00:08:10.210><c> Gorge</c>
+
+00:08:10.680 --> 00:08:10.690 align:start position:0%
+only filmed the bottom of a small Gorge
+ 
+
+00:08:10.690 --> 00:08:13.290 align:start position:0%
+only filmed the bottom of a small Gorge
+when<00:08:11.110><c> he</c><00:08:11.230><c> ran</c><00:08:11.410><c> out</c><00:08:11.560><c> of</c><00:08:11.590><c> down</c><00:08:11.950><c> it's</c><00:08:12.400><c> way</c><00:08:13.000><c> better</c>
+
+00:08:13.290 --> 00:08:13.300 align:start position:0%
+when he ran out of down it's way better
+ 
+
+00:08:13.300 --> 00:08:15.090 align:start position:0%
+when he ran out of down it's way better
+than<00:08:13.450><c> where</c><00:08:13.810><c> he</c><00:08:13.930><c> started</c><00:08:14.410><c> but</c><00:08:14.800><c> it's</c>
+
+00:08:15.090 --> 00:08:15.100 align:start position:0%
+than where he started but it's
+ 
+
+00:08:15.100 --> 00:08:17.010 align:start position:0%
+than where he started but it's
+definitely<00:08:15.460><c> not</c><00:08:15.730><c> the</c><00:08:15.910><c> lowest</c><00:08:16.240><c> point</c><00:08:16.540><c> of</c><00:08:16.750><c> the</c>
+
+00:08:17.010 --> 00:08:17.020 align:start position:0%
+definitely not the lowest point of the
+ 
+
+00:08:17.020 --> 00:08:19.350 align:start position:0%
+definitely not the lowest point of the
+deepest<00:08:17.470><c> Valley</c><00:08:17.710><c> so</c><00:08:18.280><c> he</c><00:08:18.610><c> just</c><00:08:18.820><c> found</c><00:08:18.910><c> a</c><00:08:19.090><c> local</c>
+
+00:08:19.350 --> 00:08:19.360 align:start position:0%
+deepest Valley so he just found a local
+ 
+
+00:08:19.360 --> 00:08:21.960 align:start position:0%
+deepest Valley so he just found a local
+optimal<00:08:20.230><c> solution</c><00:08:20.710><c> where</c><00:08:20.980><c> the</c><00:08:21.160><c> weights</c><00:08:21.400><c> make</c>
+
+00:08:21.960 --> 00:08:21.970 align:start position:0%
+optimal solution where the weights make
+ 
+
+00:08:21.970 --> 00:08:24.480 align:start position:0%
+optimal solution where the weights make
+the<00:08:22.150><c> error</c><00:08:22.330><c> relatively</c><00:08:23.170><c> small</c><00:08:23.530><c> but</c><00:08:23.950><c> not</c><00:08:24.310><c> the</c>
+
+00:08:24.480 --> 00:08:24.490 align:start position:0%
+the error relatively small but not the
+ 
+
+00:08:24.490 --> 00:08:27.090 align:start position:0%
+the error relatively small but not the
+smallest<00:08:24.820><c> it</c><00:08:25.120><c> could</c><00:08:25.300><c> be</c><00:08:25.480><c> sorry</c><00:08:26.020><c> buddy</c><00:08:26.380><c> thanks</c>
+
+00:08:27.090 --> 00:08:27.100 align:start position:0%
+smallest it could be sorry buddy thanks
+ 
+
+00:08:27.100 --> 00:08:27.450 align:start position:0%
+smallest it could be sorry buddy thanks
+thought-bubble
+
+00:08:27.450 --> 00:08:27.460 align:start position:0%
+thought-bubble
+ 
+
+00:08:27.460 --> 00:08:29.550 align:start position:0%
+thought-bubble
+back<00:08:28.330><c> propagation</c><00:08:28.900><c> and</c><00:08:28.990><c> learning</c><00:08:29.350><c> always</c>
+
+00:08:29.550 --> 00:08:29.560 align:start position:0%
+back propagation and learning always
+ 
+
+00:08:29.560 --> 00:08:31.730 align:start position:0%
+back propagation and learning always
+involves<00:08:30.160><c> lots</c><00:08:30.520><c> of</c><00:08:30.790><c> little</c><00:08:31.030><c> steps</c><00:08:31.330><c> and</c>
+
+00:08:31.730 --> 00:08:31.740 align:start position:0%
+involves lots of little steps and
+ 
+
+00:08:31.740 --> 00:08:34.170 align:start position:0%
+involves lots of little steps and
+optimization<00:08:32.740><c> is</c><00:08:32.860><c> tricky</c><00:08:33.220><c> with</c><00:08:33.460><c> any</c><00:08:33.820><c> neural</c>
+
+00:08:34.170 --> 00:08:34.180 align:start position:0%
+optimization is tricky with any neural
+ 
+
+00:08:34.180 --> 00:08:36.360 align:start position:0%
+optimization is tricky with any neural
+network<00:08:34.479><c> if</c><00:08:34.780><c> we</c><00:08:35.229><c> go</c><00:08:35.380><c> back</c><00:08:35.560><c> to</c><00:08:35.590><c> our</c><00:08:35.800><c> example</c><00:08:36.310><c> of</c>
+
+00:08:36.360 --> 00:08:36.370 align:start position:0%
+network if we go back to our example of
+ 
+
+00:08:36.370 --> 00:08:38.550 align:start position:0%
+network if we go back to our example of
+optimization<00:08:37.090><c> as</c><00:08:37.240><c> exploring</c><00:08:37.660><c> a</c><00:08:37.810><c> map</c><00:08:38.020><c> we're</c>
+
+00:08:38.550 --> 00:08:38.560 align:start position:0%
+optimization as exploring a map we're
+ 
+
+00:08:38.560 --> 00:08:40.530 align:start position:0%
+optimization as exploring a map we're
+never<00:08:39.070><c> quite</c><00:08:39.340><c> sure</c><00:08:39.760><c> if</c><00:08:39.880><c> we're</c><00:08:40.060><c> headed</c><00:08:40.330><c> in</c><00:08:40.450><c> the</c>
+
+00:08:40.530 --> 00:08:40.540 align:start position:0%
+never quite sure if we're headed in the
+ 
+
+00:08:40.540 --> 00:08:42.630 align:start position:0%
+never quite sure if we're headed in the
+right<00:08:40.630><c> direction</c><00:08:40.690><c> or</c><00:08:41.470><c> if</c><00:08:42.070><c> we've</c><00:08:42.280><c> reached</c><00:08:42.490><c> the</c>
+
+00:08:42.630 --> 00:08:42.640 align:start position:0%
+right direction or if we've reached the
+ 
+
+00:08:42.640 --> 00:08:44.400 align:start position:0%
+right direction or if we've reached the
+lowest<00:08:42.790><c> Valley</c><00:08:43.150><c> with</c><00:08:43.630><c> the</c><00:08:43.720><c> smallest</c><00:08:43.990><c> error</c>
+
+00:08:44.400 --> 00:08:44.410 align:start position:0%
+lowest Valley with the smallest error
+ 
+
+00:08:44.410 --> 00:08:47.250 align:start position:0%
+lowest Valley with the smallest error
+again<00:08:45.280><c> that's</c><00:08:45.790><c> the</c><00:08:46.090><c> global</c><00:08:46.300><c> optimal</c><00:08:46.810><c> solution</c>
+
+00:08:47.250 --> 00:08:47.260 align:start position:0%
+again that's the global optimal solution
+ 
+
+00:08:47.260 --> 00:08:49.860 align:start position:0%
+again that's the global optimal solution
+but<00:08:47.650><c> tricks</c><00:08:48.340><c> have</c><00:08:48.700><c> been</c><00:08:49.000><c> discovered</c><00:08:49.510><c> to</c><00:08:49.720><c> help</c>
+
+00:08:49.860 --> 00:08:49.870 align:start position:0%
+but tricks have been discovered to help
+ 
+
+00:08:49.870 --> 00:08:52.290 align:start position:0%
+but tricks have been discovered to help
+us<00:08:49.990><c> better</c><00:08:50.260><c> navigate</c><00:08:50.800><c> for</c><00:08:51.130><c> example</c><00:08:51.670><c> when</c><00:08:52.150><c> we</c>
+
+00:08:52.290 --> 00:08:52.300 align:start position:0%
+us better navigate for example when we
+ 
+
+00:08:52.300 --> 00:08:54.170 align:start position:0%
+us better navigate for example when we
+drop<00:08:52.570><c> and</c><00:08:52.750><c> explore</c><00:08:53.080><c> somewhere</c><00:08:53.560><c> on</c><00:08:53.680><c> the</c><00:08:53.800><c> map</c>
+
+00:08:54.170 --> 00:08:54.180 align:start position:0%
+drop and explore somewhere on the map
+ 
+
+00:08:54.180 --> 00:08:56.090 align:start position:0%
+drop and explore somewhere on the map
+they<00:08:54.330><c> could</c><00:08:54.570><c> be</c><00:08:54.750><c> really</c><00:08:55.260><c> far</c><00:08:55.620><c> from</c><00:08:55.800><c> the</c><00:08:55.920><c> lowest</c>
+
+00:08:56.090 --> 00:08:56.100 align:start position:0%
+they could be really far from the lowest
+ 
+
+00:08:56.100 --> 00:08:58.190 align:start position:0%
+they could be really far from the lowest
+Valley<00:08:56.460><c> with</c><00:08:56.820><c> a</c><00:08:56.850><c> giant</c><00:08:57.390><c> mountain</c><00:08:57.720><c> range</c><00:08:58.050><c> in</c>
+
+00:08:58.190 --> 00:08:58.200 align:start position:0%
+Valley with a giant mountain range in
+ 
+
+00:08:58.200 --> 00:09:00.680 align:start position:0%
+Valley with a giant mountain range in
+the<00:08:58.230><c> way</c><00:08:58.440><c> so</c><00:08:59.160><c> it</c><00:08:59.520><c> might</c><00:08:59.670><c> be</c><00:08:59.820><c> a</c><00:08:59.850><c> good</c><00:09:00.060><c> idea</c><00:09:00.180><c> to</c>
+
+00:09:00.680 --> 00:09:00.690 align:start position:0%
+the way so it might be a good idea to
+ 
+
+00:09:00.690 --> 00:09:02.630 align:start position:0%
+the way so it might be a good idea to
+try<00:09:00.930><c> different</c><00:09:01.200><c> random</c><00:09:01.680><c> starting</c><00:09:02.040><c> points</c><00:09:02.490><c> to</c>
+
+00:09:02.630 --> 00:09:02.640 align:start position:0%
+try different random starting points to
+ 
+
+00:09:02.640 --> 00:09:04.280 align:start position:0%
+try different random starting points to
+make<00:09:02.790><c> sure</c><00:09:02.970><c> the</c><00:09:03.090><c> no</c><00:09:03.270><c> network</c><00:09:03.690><c> isn't</c><00:09:04.080><c> getting</c>
+
+00:09:04.280 --> 00:09:04.290 align:start position:0%
+make sure the no network isn't getting
+ 
+
+00:09:04.290 --> 00:09:06.640 align:start position:0%
+make sure the no network isn't getting
+stuck<00:09:04.620><c> at</c><00:09:05.130><c> a</c><00:09:05.190><c> local</c><00:09:05.640><c> optimal</c><00:09:06.000><c> solution</c><00:09:06.480><c> or</c>
+
+00:09:06.640 --> 00:09:06.650 align:start position:0%
+stuck at a local optimal solution or
+ 
+
+00:09:06.650 --> 00:09:09.020 align:start position:0%
+stuck at a local optimal solution or
+instead<00:09:07.650><c> of</c><00:09:07.770><c> restarting</c><00:09:08.280><c> over</c><00:09:08.640><c> and</c><00:09:08.760><c> over</c>
+
+00:09:09.020 --> 00:09:09.030 align:start position:0%
+instead of restarting over and over
+ 
+
+00:09:09.030 --> 00:09:11.060 align:start position:0%
+instead of restarting over and over
+again<00:09:09.150><c> we</c><00:09:09.840><c> could</c><00:09:09.990><c> have</c><00:09:10.020><c> a</c><00:09:10.170><c> team</c><00:09:10.530><c> of</c><00:09:10.560><c> explorers</c>
+
+00:09:11.060 --> 00:09:11.070 align:start position:0%
+again we could have a team of explorers
+ 
+
+00:09:11.070 --> 00:09:13.280 align:start position:0%
+again we could have a team of explorers
+that<00:09:11.310><c> start</c><00:09:11.850><c> from</c><00:09:11.970><c> different</c><00:09:12.180><c> locations</c><00:09:12.690><c> and</c>
+
+00:09:13.280 --> 00:09:13.290 align:start position:0%
+that start from different locations and
+ 
+
+00:09:13.290 --> 00:09:15.830 align:start position:0%
+that start from different locations and
+explore<00:09:13.770><c> the</c><00:09:13.890><c> jungle</c><00:09:14.150><c> simultaneously</c><00:09:15.150><c> this</c>
+
+00:09:15.830 --> 00:09:15.840 align:start position:0%
+explore the jungle simultaneously this
+ 
+
+00:09:15.840 --> 00:09:17.360 align:start position:0%
+explore the jungle simultaneously this
+strategy<00:09:16.410><c> of</c><00:09:16.500><c> exploring</c><00:09:17.040><c> different</c>
+
+00:09:17.360 --> 00:09:17.370 align:start position:0%
+strategy of exploring different
+ 
+
+00:09:17.370 --> 00:09:19.130 align:start position:0%
+strategy of exploring different
+solutions<00:09:17.880><c> at</c><00:09:18.030><c> the</c><00:09:18.150><c> same</c><00:09:18.390><c> time</c><00:09:18.660><c> on</c><00:09:18.840><c> the</c><00:09:18.930><c> same</c>
+
+00:09:19.130 --> 00:09:19.140 align:start position:0%
+solutions at the same time on the same
+ 
+
+00:09:19.140 --> 00:09:21.920 align:start position:0%
+solutions at the same time on the same
+neural<00:09:19.440><c> network</c><00:09:19.830><c> is</c><00:09:20.010><c> especially</c><00:09:20.910><c> useful</c><00:09:21.270><c> when</c>
+
+00:09:21.920 --> 00:09:21.930 align:start position:0%
+neural network is especially useful when
+ 
+
+00:09:21.930 --> 00:09:24.080 align:start position:0%
+neural network is especially useful when
+you<00:09:22.080><c> have</c><00:09:22.200><c> a</c><00:09:22.230><c> giant</c><00:09:22.560><c> computer</c><00:09:23.010><c> with</c><00:09:23.580><c> lots</c><00:09:23.940><c> of</c>
+
+00:09:24.080 --> 00:09:24.090 align:start position:0%
+you have a giant computer with lots of
+ 
+
+00:09:24.090 --> 00:09:26.480 align:start position:0%
+you have a giant computer with lots of
+processors<00:09:24.750><c> and</c><00:09:25.080><c> we</c><00:09:25.650><c> can</c><00:09:25.800><c> even</c><00:09:25.980><c> adjust</c><00:09:26.430><c> the</c>
+
+00:09:26.480 --> 00:09:26.490 align:start position:0%
+processors and we can even adjust the
+ 
+
+00:09:26.490 --> 00:09:28.610 align:start position:0%
+processors and we can even adjust the
+Explorer<00:09:26.940><c> step</c><00:09:27.300><c> size</c><00:09:27.570><c> so</c><00:09:28.110><c> they</c><00:09:28.260><c> can</c><00:09:28.410><c> step</c>
+
+00:09:28.610 --> 00:09:28.620 align:start position:0%
+Explorer step size so they can step
+ 
+
+00:09:28.620 --> 00:09:30.440 align:start position:0%
+Explorer step size so they can step
+right<00:09:28.860><c> over</c><00:09:28.920><c> small</c><00:09:29.430><c> Hills</c><00:09:29.700><c> as</c><00:09:30.000><c> you</c><00:09:30.120><c> try</c><00:09:30.330><c> and</c>
+
+00:09:30.440 --> 00:09:30.450 align:start position:0%
+right over small Hills as you try and
+ 
+
+00:09:30.450 --> 00:09:32.810 align:start position:0%
+right over small Hills as you try and
+find<00:09:30.690><c> into</c><00:09:31.050><c> sin</c><00:09:31.290><c> into</c><00:09:31.560><c> a</c><00:09:31.710><c> valley</c><00:09:32.010><c> this</c><00:09:32.520><c> step</c>
+
+00:09:32.810 --> 00:09:32.820 align:start position:0%
+find into sin into a valley this step
+ 
+
+00:09:32.820 --> 00:09:34.790 align:start position:0%
+find into sin into a valley this step
+size<00:09:33.060><c> is</c><00:09:33.390><c> called</c><00:09:33.780><c> the</c><00:09:34.050><c> learning</c><00:09:34.230><c> rate</c><00:09:34.590><c> and</c>
+
+00:09:34.790 --> 00:09:34.800 align:start position:0%
+size is called the learning rate and
+ 
+
+00:09:34.800 --> 00:09:36.590 align:start position:0%
+size is called the learning rate and
+it's<00:09:35.190><c> how</c><00:09:35.340><c> much</c><00:09:35.490><c> the</c><00:09:35.730><c> neurons</c><00:09:36.030><c> weights</c><00:09:36.300><c> get</c>
+
+00:09:36.590 --> 00:09:36.600 align:start position:0%
+it's how much the neurons weights get
+ 
+
+00:09:36.600 --> 00:09:38.390 align:start position:0%
+it's how much the neurons weights get
+adjusted<00:09:37.110><c> every</c><00:09:37.440><c> time</c><00:09:37.650><c> back</c><00:09:37.860><c> propagation</c>
+
+00:09:38.390 --> 00:09:38.400 align:start position:0%
+adjusted every time back propagation
+ 
+
+00:09:38.400 --> 00:09:40.730 align:start position:0%
+adjusted every time back propagation
+happens<00:09:38.940><c> we're</c><00:09:39.420><c> always</c><00:09:39.720><c> looking</c><00:09:40.110><c> for</c><00:09:40.350><c> more</c>
+
+00:09:40.730 --> 00:09:40.740 align:start position:0%
+happens we're always looking for more
+ 
+
+00:09:40.740 --> 00:09:43.130 align:start position:0%
+happens we're always looking for more
+creative<00:09:41.130><c> ways</c><00:09:41.340><c> to</c><00:09:41.550><c> explore</c><00:09:41.880><c> solutions</c><00:09:42.140><c> try</c>
+
+00:09:43.130 --> 00:09:43.140 align:start position:0%
+creative ways to explore solutions try
+ 
+
+00:09:43.140 --> 00:09:44.750 align:start position:0%
+creative ways to explore solutions try
+different<00:09:43.320><c> combinations</c><00:09:43.650><c> of</c><00:09:44.190><c> weights</c><00:09:44.460><c> and</c>
+
+00:09:44.750 --> 00:09:44.760 align:start position:0%
+different combinations of weights and
+ 
+
+00:09:44.760 --> 00:09:47.180 align:start position:0%
+different combinations of weights and
+minimize<00:09:45.420><c> the</c><00:09:45.690><c> loss</c><00:09:45.870><c> function</c><00:09:46.170><c> as</c><00:09:46.590><c> we</c><00:09:46.860><c> train</c>
+
+00:09:47.180 --> 00:09:47.190 align:start position:0%
+minimize the loss function as we train
+ 
+
+00:09:47.190 --> 00:09:49.580 align:start position:0%
+minimize the loss function as we train
+neural<00:09:47.490><c> networks</c><00:09:47.940><c> but</c><00:09:48.420><c> even</c><00:09:48.990><c> if</c><00:09:49.080><c> we</c><00:09:49.200><c> use</c><00:09:49.230><c> a</c>
+
+00:09:49.580 --> 00:09:49.590 align:start position:0%
+neural networks but even if we use a
+ 
+
+00:09:49.590 --> 00:09:51.260 align:start position:0%
+neural networks but even if we use a
+bunch<00:09:49.950><c> of</c><00:09:50.190><c> training</c><00:09:50.430><c> data</c><00:09:50.730><c> and</c><00:09:50.880><c> back</c>
+
+00:09:51.260 --> 00:09:51.270 align:start position:0%
+bunch of training data and back
+ 
+
+00:09:51.270 --> 00:09:53.210 align:start position:0%
+bunch of training data and back
+propagation<00:09:51.540><c> to</c><00:09:52.170><c> find</c><00:09:52.380><c> the</c><00:09:52.530><c> global</c><00:09:52.710><c> optimal</c>
+
+00:09:53.210 --> 00:09:53.220 align:start position:0%
+propagation to find the global optimal
+ 
+
+00:09:53.220 --> 00:09:55.940 align:start position:0%
+propagation to find the global optimal
+solution<00:09:53.820><c> we're</c><00:09:54.390><c> still</c><00:09:54.900><c> only</c><00:09:55.200><c> halfway</c><00:09:55.680><c> done</c>
+
+00:09:55.940 --> 00:09:55.950 align:start position:0%
+solution we're still only halfway done
+ 
+
+00:09:55.950 --> 00:09:58.370 align:start position:0%
+solution we're still only halfway done
+the<00:09:56.580><c> other</c><00:09:56.940><c> half</c><00:09:57.330><c> of</c><00:09:57.510><c> training</c><00:09:57.870><c> is</c><00:09:57.990><c> an</c><00:09:58.200><c> AI</c>
+
+00:09:58.370 --> 00:09:58.380 align:start position:0%
+the other half of training is an AI
+ 
+
+00:09:58.380 --> 00:10:00.590 align:start position:0%
+the other half of training is an AI
+checking<00:09:58.920><c> whether</c><00:09:59.100><c> the</c><00:09:59.250><c> system</c><00:09:59.820><c> can</c><00:10:00.270><c> answer</c>
+
+00:10:00.590 --> 00:10:00.600 align:start position:0%
+checking whether the system can answer
+ 
+
+00:10:00.600 --> 00:10:02.660 align:start position:0%
+checking whether the system can answer
+new<00:10:00.720><c> questions</c><00:10:00.750><c> it's</c><00:10:01.620><c> easy</c><00:10:02.130><c> to</c><00:10:02.340><c> solve</c><00:10:02.550><c> a</c>
+
+00:10:02.660 --> 00:10:02.670 align:start position:0%
+new questions it's easy to solve a
+ 
+
+00:10:02.670 --> 00:10:05.120 align:start position:0%
+new questions it's easy to solve a
+problem<00:10:02.850><c> we've</c><00:10:03.270><c> seen</c><00:10:03.300><c> before</c><00:10:03.930><c> like</c><00:10:04.560><c> taking</c><00:10:05.070><c> a</c>
+
+00:10:05.120 --> 00:10:05.130 align:start position:0%
+problem we've seen before like taking a
+ 
+
+00:10:05.130 --> 00:10:07.700 align:start position:0%
+problem we've seen before like taking a
+test<00:10:05.400><c> after</c><00:10:05.730><c> studying</c><00:10:06.240><c> the</c><00:10:06.420><c> answer</c><00:10:06.780><c> key</c><00:10:06.960><c> we</c>
+
+00:10:07.700 --> 00:10:07.710 align:start position:0%
+test after studying the answer key we
+ 
+
+00:10:07.710 --> 00:10:10.070 align:start position:0%
+test after studying the answer key we
+may<00:10:08.070><c> get</c><00:10:08.250><c> an</c><00:10:08.340><c> A</c><00:10:08.520><c> but</c><00:10:08.970><c> we</c><00:10:09.270><c> actually</c><00:10:09.540><c> didn't</c>
+
+00:10:10.070 --> 00:10:10.080 align:start position:0%
+may get an A but we actually didn't
+ 
+
+00:10:10.080 --> 00:10:12.110 align:start position:0%
+may get an A but we actually didn't
+learn<00:10:10.200><c> much</c><00:10:10.470><c> to</c><00:10:10.950><c> really</c><00:10:11.580><c> test</c><00:10:11.850><c> what</c><00:10:11.910><c> we</c>
+
+00:10:12.110 --> 00:10:12.120 align:start position:0%
+learn much to really test what we
+ 
+
+00:10:12.120 --> 00:10:14.000 align:start position:0%
+learn much to really test what we
+learned<00:10:12.420><c> we</c><00:10:12.780><c> need</c><00:10:13.020><c> to</c><00:10:13.110><c> solve</c><00:10:13.380><c> problems</c><00:10:13.860><c> we've</c>
+
+00:10:14.000 --> 00:10:14.010 align:start position:0%
+learned we need to solve problems we've
+ 
+
+00:10:14.010 --> 00:10:16.040 align:start position:0%
+learned we need to solve problems we've
+never<00:10:14.280><c> seen</c><00:10:14.580><c> before</c><00:10:14.640><c> same</c><00:10:15.480><c> goes</c><00:10:15.690><c> for</c><00:10:15.720><c> neural</c>
+
+00:10:16.040 --> 00:10:16.050 align:start position:0%
+never seen before same goes for neural
+ 
+
+00:10:16.050 --> 00:10:18.230 align:start position:0%
+never seen before same goes for neural
+networks<00:10:16.440><c> this</c><00:10:16.860><c> whole</c><00:10:17.100><c> time</c><00:10:17.310><c> John</c><00:10:17.850><c> Green</c><00:10:18.090><c> bot</c>
+
+00:10:18.230 --> 00:10:18.240 align:start position:0%
+networks this whole time John Green bot
+ 
+
+00:10:18.240 --> 00:10:19.880 align:start position:0%
+networks this whole time John Green bot
+has<00:10:18.420><c> been</c><00:10:18.600><c> training</c><00:10:18.960><c> his</c><00:10:19.080><c> new</c><00:10:19.200><c> network</c><00:10:19.650><c> with</c>
+
+00:10:19.880 --> 00:10:19.890 align:start position:0%
+has been training his new network with
+ 
+
+00:10:19.890 --> 00:10:21.920 align:start position:0%
+has been training his new network with
+swimming<00:10:20.250><c> pool</c><00:10:20.430><c> data</c><00:10:20.610><c> his</c><00:10:21.030><c> new</c><00:10:21.210><c> network</c><00:10:21.660><c> has</c>
+
+00:10:21.920 --> 00:10:21.930 align:start position:0%
+swimming pool data his new network has
+ 
+
+00:10:21.930 --> 00:10:23.960 align:start position:0%
+swimming pool data his new network has
+dozens<00:10:22.470><c> of</c><00:10:22.590><c> features</c><00:10:23.010><c> like</c><00:10:23.190><c> temperature</c>
+
+00:10:23.960 --> 00:10:23.970 align:start position:0%
+dozens of features like temperature
+ 
+
+00:10:23.970 --> 00:10:26.690 align:start position:0%
+dozens of features like temperature
+humidity<00:10:24.000><c> rain</c><00:10:24.930><c> day</c><00:10:25.530><c> week</c><00:10:25.860><c> and</c><00:10:26.160><c> wind</c><00:10:26.400><c> speed</c>
+
+00:10:26.690 --> 00:10:26.700 align:start position:0%
+humidity rain day week and wind speed
+ 
+
+00:10:26.700 --> 00:10:29.390 align:start position:0%
+humidity rain day week and wind speed
+but<00:10:27.330><c> also</c><00:10:27.380><c> grass</c><00:10:28.380><c> length</c><00:10:28.740><c> number</c><00:10:29.310><c> of</c>
+
+00:10:29.390 --> 00:10:29.400 align:start position:0%
+but also grass length number of
+ 
+
+00:10:29.400 --> 00:10:31.280 align:start position:0%
+but also grass length number of
+butterflies<00:10:29.880><c> around</c><00:10:30.090><c> the</c><00:10:30.270><c> pool</c><00:10:30.510><c> and</c><00:10:30.840><c> the</c>
+
+00:10:31.280 --> 00:10:31.290 align:start position:0%
+butterflies around the pool and the
+ 
+
+00:10:31.290 --> 00:10:33.950 align:start position:0%
+butterflies around the pool and the
+average<00:10:31.650><c> GPA</c><00:10:32.160><c> of</c><00:10:32.460><c> the</c><00:10:32.580><c> lifeguards</c><00:10:33.210><c> more</c><00:10:33.690><c> data</c>
+
+00:10:33.950 --> 00:10:33.960 align:start position:0%
+average GPA of the lifeguards more data
+ 
+
+00:10:33.960 --> 00:10:35.900 align:start position:0%
+average GPA of the lifeguards more data
+can<00:10:34.440><c> be</c><00:10:34.560><c> better</c><00:10:34.740><c> for</c><00:10:34.980><c> finding</c><00:10:35.280><c> patterns</c><00:10:35.700><c> in</c>
+
+00:10:35.900 --> 00:10:35.910 align:start position:0%
+can be better for finding patterns in
+ 
+
+00:10:35.910 --> 00:10:38.450 align:start position:0%
+can be better for finding patterns in
+accuracy<00:10:36.270><c> as</c><00:10:36.630><c> long</c><00:10:37.260><c> as</c><00:10:37.560><c> the</c><00:10:37.740><c> computer</c><00:10:37.920><c> can</c>
+
+00:10:38.450 --> 00:10:38.460 align:start position:0%
+accuracy as long as the computer can
+ 
+
+00:10:38.460 --> 00:10:40.700 align:start position:0%
+accuracy as long as the computer can
+handle<00:10:38.820><c> it</c><00:10:38.970><c> over</c><00:10:39.180><c> time</c><00:10:39.660><c> back</c><00:10:40.200><c> propagation</c>
+
+00:10:40.700 --> 00:10:40.710 align:start position:0%
+handle it over time back propagation
+ 
+
+00:10:40.710 --> 00:10:42.860 align:start position:0%
+handle it over time back propagation
+will<00:10:41.040><c> adjust</c><00:10:41.340><c> the</c><00:10:41.550><c> neurons</c><00:10:41.820><c> weights</c><00:10:42.120><c> so</c><00:10:42.660><c> that</c>
+
+00:10:42.860 --> 00:10:42.870 align:start position:0%
+will adjust the neurons weights so that
+ 
+
+00:10:42.870 --> 00:10:44.750 align:start position:0%
+will adjust the neurons weights so that
+the<00:10:42.990><c> known</c><00:10:43.200><c> networks</c><00:10:43.620><c> output</c><00:10:44.130><c> matches</c><00:10:44.610><c> the</c>
+
+00:10:44.750 --> 00:10:44.760 align:start position:0%
+the known networks output matches the
+ 
+
+00:10:44.760 --> 00:10:46.550 align:start position:0%
+the known networks output matches the
+training<00:10:45.180><c> data</c><00:10:45.360><c> remember</c>
+
+00:10:46.550 --> 00:10:46.560 align:start position:0%
+training data remember
+ 
+
+00:10:46.560 --> 00:10:48.830 align:start position:0%
+training data remember
+that's<00:10:46.950><c> called</c><00:10:47.280><c> fitting</c><00:10:48.030><c> to</c><00:10:48.360><c> the</c><00:10:48.390><c> training</c>
+
+00:10:48.830 --> 00:10:48.840 align:start position:0%
+that's called fitting to the training
+ 
+
+00:10:48.840 --> 00:10:50.720 align:start position:0%
+that's called fitting to the training
+data<00:10:49.020><c> and</c><00:10:49.260><c> with</c><00:10:49.830><c> this</c><00:10:50.010><c> complicated</c><00:10:50.340><c> neural</c>
+
+00:10:50.720 --> 00:10:50.730 align:start position:0%
+data and with this complicated neural
+ 
+
+00:10:50.730 --> 00:10:53.060 align:start position:0%
+data and with this complicated neural
+network<00:10:51.240><c> we're</c><00:10:51.840><c> looking</c><00:10:52.410><c> for</c><00:10:52.650><c> a</c><00:10:52.680><c> multi</c>
+
+00:10:53.060 --> 00:10:53.070 align:start position:0%
+network we're looking for a multi
+ 
+
+00:10:53.070 --> 00:10:55.400 align:start position:0%
+network we're looking for a multi
+dimensional<00:10:53.610><c> function</c><00:10:53.850><c> and</c><00:10:54.240><c> sometimes</c><00:10:54.870><c> back</c>
+
+00:10:55.400 --> 00:10:55.410 align:start position:0%
+dimensional function and sometimes back
+ 
+
+00:10:55.410 --> 00:10:57.590 align:start position:0%
+dimensional function and sometimes back
+propagation<00:10:55.920><c> is</c><00:10:56.220><c> too</c><00:10:56.580><c> good</c><00:10:56.880><c> at</c><00:10:57.120><c> making</c><00:10:57.150><c> a</c>
+
+00:10:57.590 --> 00:10:57.600 align:start position:0%
+propagation is too good at making a
+ 
+
+00:10:57.600 --> 00:10:59.750 align:start position:0%
+propagation is too good at making a
+neural<00:10:57.870><c> network</c><00:10:58.080><c> fit</c><00:10:58.530><c> to</c><00:10:58.770><c> certain</c><00:10:59.100><c> data</c><00:10:59.310><c> see</c>
+
+00:10:59.750 --> 00:10:59.760 align:start position:0%
+neural network fit to certain data see
+ 
+
+00:10:59.760 --> 00:11:01.430 align:start position:0%
+neural network fit to certain data see
+there<00:11:00.120><c> are</c><00:11:00.300><c> lots</c><00:11:00.660><c> of</c><00:11:00.900><c> coincidental</c>
+
+00:11:01.430 --> 00:11:01.440 align:start position:0%
+there are lots of coincidental
+ 
+
+00:11:01.440 --> 00:11:04.280 align:start position:0%
+there are lots of coincidental
+relationships<00:11:02.190><c> in</c><00:11:02.430><c> big</c><00:11:02.700><c> datasets</c><00:11:03.060><c> like</c><00:11:03.930><c> for</c>
+
+00:11:04.280 --> 00:11:04.290 align:start position:0%
+relationships in big datasets like for
+ 
+
+00:11:04.290 --> 00:11:06.440 align:start position:0%
+relationships in big datasets like for
+example<00:11:04.380><c> the</c><00:11:05.160><c> divorce</c><00:11:05.520><c> rate</c><00:11:05.760><c> in</c><00:11:05.880><c> Maine</c><00:11:06.120><c> may</c><00:11:06.390><c> be</c>
+
+00:11:06.440 --> 00:11:06.450 align:start position:0%
+example the divorce rate in Maine may be
+ 
+
+00:11:06.450 --> 00:11:07.730 align:start position:0%
+example the divorce rate in Maine may be
+correlated<00:11:06.780><c> with</c><00:11:07.290><c> us</c>
+
+00:11:07.730 --> 00:11:07.740 align:start position:0%
+correlated with us
+ 
+
+00:11:07.740 --> 00:11:10.340 align:start position:0%
+correlated with us
+Largent<00:11:08.100><c> consumption</c><00:11:08.700><c> or</c><00:11:08.880><c> skin</c><00:11:09.570><c> revenue</c><00:11:10.080><c> may</c>
+
+00:11:10.340 --> 00:11:10.350 align:start position:0%
+Largent consumption or skin revenue may
+ 
+
+00:11:10.350 --> 00:11:11.870 align:start position:0%
+Largent consumption or skin revenue may
+be<00:11:10.410><c> correlated</c><00:11:10.830><c> with</c><00:11:11.100><c> the</c><00:11:11.190><c> number</c><00:11:11.280><c> of</c><00:11:11.610><c> people</c>
+
+00:11:11.870 --> 00:11:11.880 align:start position:0%
+be correlated with the number of people
+ 
+
+00:11:11.880 --> 00:11:13.310 align:start position:0%
+be correlated with the number of people
+dying<00:11:12.180><c> by</c><00:11:12.480><c> getting</c><00:11:12.750><c> trapped</c><00:11:13.020><c> in</c><00:11:13.200><c> their</c>
+
+00:11:13.310 --> 00:11:13.320 align:start position:0%
+dying by getting trapped in their
+ 
+
+00:11:13.320 --> 00:11:15.350 align:start position:0%
+dying by getting trapped in their
+bedsheets<00:11:13.920><c> neural</c><00:11:14.550><c> networks</c><00:11:14.910><c> are</c><00:11:15.150><c> really</c>
+
+00:11:15.350 --> 00:11:15.360 align:start position:0%
+bedsheets neural networks are really
+ 
+
+00:11:15.360 --> 00:11:16.820 align:start position:0%
+bedsheets neural networks are really
+good<00:11:15.870><c> at</c><00:11:16.080><c> finding</c><00:11:16.380><c> these</c><00:11:16.500><c> kind</c><00:11:16.770><c> of</c>
+
+00:11:16.820 --> 00:11:16.830 align:start position:0%
+good at finding these kind of
+ 
+
+00:11:16.830 --> 00:11:19.160 align:start position:0%
+good at finding these kind of
+relationships<00:11:17.010><c> and</c><00:11:17.910><c> it</c><00:11:18.360><c> can</c><00:11:18.540><c> be</c><00:11:18.690><c> a</c><00:11:18.720><c> big</c>
+
+00:11:19.160 --> 00:11:19.170 align:start position:0%
+relationships and it can be a big
+ 
+
+00:11:19.170 --> 00:11:21.320 align:start position:0%
+relationships and it can be a big
+problem<00:11:19.530><c> because</c><00:11:20.520><c> if</c><00:11:20.700><c> we</c><00:11:20.850><c> give</c><00:11:21.030><c> a</c><00:11:21.060><c> neuro</c>
+
+00:11:21.320 --> 00:11:21.330 align:start position:0%
+problem because if we give a neuro
+ 
+
+00:11:21.330 --> 00:11:22.910 align:start position:0%
+problem because if we give a neuro
+network<00:11:21.690><c> some</c><00:11:21.960><c> new</c><00:11:22.140><c> data</c><00:11:22.380><c> that</c><00:11:22.530><c> doesn't</c>
+
+00:11:22.910 --> 00:11:22.920 align:start position:0%
+network some new data that doesn't
+ 
+
+00:11:22.920 --> 00:11:25.400 align:start position:0%
+network some new data that doesn't
+adhere<00:11:23.310><c> to</c><00:11:23.430><c> these</c><00:11:23.580><c> silly</c><00:11:23.820><c> correlations</c><00:11:24.660><c> then</c>
+
+00:11:25.400 --> 00:11:25.410 align:start position:0%
+adhere to these silly correlations then
+ 
+
+00:11:25.410 --> 00:11:27.410 align:start position:0%
+adhere to these silly correlations then
+it<00:11:25.830><c> will</c><00:11:26.040><c> probably</c><00:11:26.400><c> make</c><00:11:26.760><c> some</c><00:11:27.000><c> strange</c>
+
+00:11:27.410 --> 00:11:27.420 align:start position:0%
+it will probably make some strange
+ 
+
+00:11:27.420 --> 00:11:29.840 align:start position:0%
+it will probably make some strange
+errors<00:11:27.900><c> that's</c><00:11:28.650><c> the</c><00:11:28.920><c> danger</c><00:11:29.340><c> known</c><00:11:29.700><c> as</c>
+
+00:11:29.840 --> 00:11:29.850 align:start position:0%
+errors that's the danger known as
+ 
+
+00:11:29.850 --> 00:11:32.000 align:start position:0%
+errors that's the danger known as
+overfitting<00:11:30.480><c> the</c><00:11:30.810><c> easiest</c><00:11:31.380><c> way</c><00:11:31.650><c> to</c><00:11:31.680><c> prevent</c>
+
+00:11:32.000 --> 00:11:32.010 align:start position:0%
+overfitting the easiest way to prevent
+ 
+
+00:11:32.010 --> 00:11:33.860 align:start position:0%
+overfitting the easiest way to prevent
+overfitting<00:11:32.610><c> is</c><00:11:32.970><c> to</c><00:11:33.180><c> keep</c><00:11:33.360><c> the</c><00:11:33.600><c> neural</c>
+
+00:11:33.860 --> 00:11:33.870 align:start position:0%
+overfitting is to keep the neural
+ 
+
+00:11:33.870 --> 00:11:36.470 align:start position:0%
+overfitting is to keep the neural
+networks<00:11:34.230><c> simple</c><00:11:34.830><c> if</c><00:11:35.040><c> we</c><00:11:35.340><c> retrain</c><00:11:36.000><c> John</c><00:11:36.240><c> Green</c>
+
+00:11:36.470 --> 00:11:36.480 align:start position:0%
+networks simple if we retrain John Green
+ 
+
+00:11:36.480 --> 00:11:38.420 align:start position:0%
+networks simple if we retrain John Green
+BOTS<00:11:36.720><c> swimming</c><00:11:37.080><c> pool</c><00:11:37.260><c> program</c><00:11:37.710><c> without</c><00:11:37.950><c> data</c>
+
+00:11:38.420 --> 00:11:38.430 align:start position:0%
+BOTS swimming pool program without data
+ 
+
+00:11:38.430 --> 00:11:40.160 align:start position:0%
+BOTS swimming pool program without data
+like<00:11:38.850><c> grass</c><00:11:39.120><c> length</c><00:11:39.510><c> and</c><00:11:39.810><c> number</c><00:11:39.900><c> of</c>
+
+00:11:40.160 --> 00:11:40.170 align:start position:0%
+like grass length and number of
+ 
+
+00:11:40.170 --> 00:11:42.020 align:start position:0%
+like grass length and number of
+butterflies<00:11:40.650><c> and</c><00:11:40.980><c> we</c><00:11:41.340><c> observed</c><00:11:41.790><c> that</c><00:11:41.910><c> our</c>
+
+00:11:42.020 --> 00:11:42.030 align:start position:0%
+butterflies and we observed that our
+ 
+
+00:11:42.030 --> 00:11:44.660 align:start position:0%
+butterflies and we observed that our
+accuracy<00:11:42.540><c> doesn't</c><00:11:43.020><c> change</c><00:11:43.260><c> then</c><00:11:43.800><c> ignoring</c>
+
+00:11:44.660 --> 00:11:44.670 align:start position:0%
+accuracy doesn't change then ignoring
+ 
+
+00:11:44.670 --> 00:11:46.520 align:start position:0%
+accuracy doesn't change then ignoring
+those<00:11:44.880><c> features</c><00:11:45.390><c> is</c><00:11:45.690><c> for</c><00:11:45.930><c> the</c><00:11:46.050><c> best</c>
+
+00:11:46.520 --> 00:11:46.530 align:start position:0%
+those features is for the best
+ 
+
+00:11:46.530 --> 00:11:48.710 align:start position:0%
+those features is for the best
+so<00:11:46.800><c> training</c><00:11:47.460><c> a</c><00:11:47.520><c> neural</c><00:11:47.640><c> network</c><00:11:47.970><c> isn't</c><00:11:48.330><c> just</c>
+
+00:11:48.710 --> 00:11:48.720 align:start position:0%
+so training a neural network isn't just
+ 
+
+00:11:48.720 --> 00:11:50.660 align:start position:0%
+so training a neural network isn't just
+a<00:11:48.870><c> bunch</c><00:11:49.080><c> of</c><00:11:49.200><c> math</c><00:11:49.410><c> we</c><00:11:49.920><c> need</c><00:11:50.100><c> to</c><00:11:50.160><c> consider</c><00:11:50.520><c> how</c>
+
+00:11:50.660 --> 00:11:50.670 align:start position:0%
+a bunch of math we need to consider how
+ 
+
+00:11:50.670 --> 00:11:52.730 align:start position:0%
+a bunch of math we need to consider how
+to<00:11:50.850><c> best</c><00:11:51.180><c> represent</c><00:11:51.390><c> our</c><00:11:51.840><c> various</c><00:11:52.200><c> problems</c>
+
+00:11:52.730 --> 00:11:52.740 align:start position:0%
+to best represent our various problems
+ 
+
+00:11:52.740 --> 00:11:55.730 align:start position:0%
+to best represent our various problems
+as<00:11:53.010><c> features</c><00:11:53.490><c> and</c><00:11:53.790><c> AI</c><00:11:54.090><c> systems</c><00:11:54.810><c> and</c><00:11:55.110><c> to</c><00:11:55.500><c> think</c>
+
+00:11:55.730 --> 00:11:55.740 align:start position:0%
+as features and AI systems and to think
+ 
+
+00:11:55.740 --> 00:11:57.860 align:start position:0%
+as features and AI systems and to think
+carefully<00:11:55.950><c> about</c><00:11:56.820><c> what</c><00:11:57.060><c> mistakes</c><00:11:57.540><c> these</c>
+
+00:11:57.860 --> 00:11:57.870 align:start position:0%
+carefully about what mistakes these
+ 
+
+00:11:57.870 --> 00:12:00.500 align:start position:0%
+carefully about what mistakes these
+programs<00:11:58.440><c> might</c><00:11:58.800><c> make</c><00:11:59.040><c> next</c><00:11:59.490><c> time</c><00:11:59.790><c> well</c><00:12:00.270><c> jump</c>
+
+00:12:00.500 --> 00:12:00.510 align:start position:0%
+programs might make next time well jump
+ 
+
+00:12:00.510 --> 00:12:02.210 align:start position:0%
+programs might make next time well jump
+into<00:12:00.750><c> our</c><00:12:00.780><c> very</c><00:12:01.170><c> first</c><00:12:01.260><c> lab</c><00:12:01.680><c> in</c><00:12:01.860><c> the</c><00:12:01.950><c> course</c>
+
+00:12:02.210 --> 00:12:02.220 align:start position:0%
+into our very first lab in the course
+ 
+
+00:12:02.220 --> 00:12:04.610 align:start position:0%
+into our very first lab in the course
+when<00:12:02.820><c> we'll</c><00:12:03.000><c> apply</c><00:12:03.240><c> all</c><00:12:03.600><c> this</c><00:12:03.930><c> knowledge</c><00:12:03.990><c> and</c>
+
+00:12:04.610 --> 00:12:04.620 align:start position:0%
+when we'll apply all this knowledge and
+ 
+
+00:12:04.620 --> 00:12:07.400 align:start position:0%
+when we'll apply all this knowledge and
+build<00:12:04.920><c> a</c><00:12:05.010><c> neural</c><00:12:05.340><c> network</c><00:12:05.550><c> together</c><00:12:06.180><c> I'll</c><00:12:07.140><c> see</c>
+
+00:12:07.400 --> 00:12:07.410 align:start position:0%
+build a neural network together I'll see
+ 
+
+00:12:07.410 --> 00:12:09.170 align:start position:0%
+build a neural network together I'll see
+you<00:12:07.500><c> in</c><00:12:07.620><c> the</c><00:12:07.710><c> lab</c><00:12:07.890><c> crash</c><00:12:08.520><c> course</c><00:12:08.850><c> AI</c><00:12:09.060><c> is</c>
+
+00:12:09.170 --> 00:12:09.180 align:start position:0%
+you in the lab crash course AI is
+ 
+
+00:12:09.180 --> 00:12:11.240 align:start position:0%
+you in the lab crash course AI is
+produced<00:12:09.630><c> in</c><00:12:09.780><c> association</c><00:12:10.050><c> with</c><00:12:10.530><c> PBS</c><00:12:10.710><c> Digital</c>
+
+00:12:11.240 --> 00:12:11.250 align:start position:0%
+produced in association with PBS Digital
+ 
+
+00:12:11.250 --> 00:12:13.730 align:start position:0%
+produced in association with PBS Digital
+Studios<00:12:11.760><c> if</c><00:12:12.570><c> you</c><00:12:13.080><c> wanna</c><00:12:13.200><c> help</c><00:12:13.350><c> keep</c><00:12:13.590><c> crash</c>
+
+00:12:13.730 --> 00:12:13.740 align:start position:0%
+Studios if you wanna help keep crash
+ 
+
+00:12:13.740 --> 00:12:15.710 align:start position:0%
+Studios if you wanna help keep crash
+course<00:12:13.830><c> free</c><00:12:14.130><c> for</c><00:12:14.340><c> everyone</c><00:12:14.490><c> forever</c><00:12:14.880><c> you</c><00:12:15.570><c> can</c>
+
+00:12:15.710 --> 00:12:15.720 align:start position:0%
+course free for everyone forever you can
+ 
+
+00:12:15.720 --> 00:12:18.560 align:start position:0%
+course free for everyone forever you can
+join<00:12:15.930><c> our</c><00:12:15.990><c> community</c><00:12:16.290><c> on</c><00:12:16.830><c> patreon</c><00:12:17.610><c> and</c><00:12:17.820><c> if</c><00:12:18.480><c> you</c>
+
+00:12:18.560 --> 00:12:18.570 align:start position:0%
+join our community on patreon and if you
+ 
+
+00:12:18.570 --> 00:12:19.640 align:start position:0%
+join our community on patreon and if you
+don't<00:12:18.750><c> learn</c><00:12:18.810><c> more</c><00:12:19.020><c> about</c><00:12:19.080><c> the</c><00:12:19.290><c> math</c><00:12:19.470><c> behind</c>
+
+00:12:19.640 --> 00:12:19.650 align:start position:0%
+don't learn more about the math behind
+ 
+
+00:12:19.650 --> 00:12:22.310 align:start position:0%
+don't learn more about the math behind
+k-means<00:12:20.160><c> clustering</c><00:12:20.430><c> check</c><00:12:21.330><c> out</c><00:12:21.510><c> this</c><00:12:22.020><c> video</c>
+
+00:12:22.310 --> 00:12:22.320 align:start position:0%
+k-means clustering check out this video
+ 
+
+00:12:22.320 --> 00:12:26.380 align:start position:0%
+k-means clustering check out this video
+from<00:12:22.680><c> crash</c><00:12:22.980><c> course</c><00:12:23.370><c> statistics</c>
+
+00:12:26.380 --> 00:12:26.390 align:start position:0%
+ 
+ 
+
+00:12:26.390 --> 00:12:30.039 align:start position:0%
+ 
+[Music]
+

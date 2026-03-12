@@ -1,0 +1,2768 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:04.309 align:start position:0%
+ 
+[Music]
+
+00:00:04.309 --> 00:00:04.319 align:start position:0%
+ 
+ 
+
+00:00:04.319 --> 00:00:06.829 align:start position:0%
+ 
+here<00:00:04.600><c> we</c><00:00:04.759><c> tackle</c><00:00:05.120><c> back</c><00:00:05.440><c> propagation</c><00:00:06.359><c> the</c><00:00:06.520><c> core</c>
+
+00:00:06.829 --> 00:00:06.839 align:start position:0%
+here we tackle back propagation the core
+ 
+
+00:00:06.839 --> 00:00:08.509 align:start position:0%
+here we tackle back propagation the core
+algorithm<00:00:07.359><c> behind</c><00:00:07.640><c> how</c><00:00:07.759><c> nural</c><00:00:08.160><c> networks</c>
+
+00:00:08.509 --> 00:00:08.519 align:start position:0%
+algorithm behind how nural networks
+ 
+
+00:00:08.519 --> 00:00:10.790 align:start position:0%
+algorithm behind how nural networks
+learn<00:00:09.400><c> after</c><00:00:09.599><c> a</c><00:00:09.760><c> quick</c><00:00:09.960><c> recap</c><00:00:10.320><c> for</c><00:00:10.519><c> where</c><00:00:10.679><c> we</c>
+
+00:00:10.790 --> 00:00:10.800 align:start position:0%
+learn after a quick recap for where we
+ 
+
+00:00:10.800 --> 00:00:12.350 align:start position:0%
+learn after a quick recap for where we
+are<00:00:11.200><c> the</c><00:00:11.320><c> first</c><00:00:11.519><c> thing</c><00:00:11.639><c> I'll</c><00:00:11.840><c> do</c><00:00:12.080><c> is</c><00:00:12.200><c> an</c>
+
+00:00:12.350 --> 00:00:12.360 align:start position:0%
+are the first thing I'll do is an
+ 
+
+00:00:12.360 --> 00:00:13.789 align:start position:0%
+are the first thing I'll do is an
+intuitive<00:00:12.880><c> walkthrough</c><00:00:13.320><c> for</c><00:00:13.519><c> what</c><00:00:13.639><c> the</c>
+
+00:00:13.789 --> 00:00:13.799 align:start position:0%
+intuitive walkthrough for what the
+ 
+
+00:00:13.799 --> 00:00:15.990 align:start position:0%
+intuitive walkthrough for what the
+algorithm<00:00:14.320><c> is</c><00:00:14.559><c> actually</c><00:00:14.920><c> doing</c><00:00:15.440><c> without</c><00:00:15.719><c> any</c>
+
+00:00:15.990 --> 00:00:16.000 align:start position:0%
+algorithm is actually doing without any
+ 
+
+00:00:16.000 --> 00:00:18.189 align:start position:0%
+algorithm is actually doing without any
+reference<00:00:16.279><c> to</c><00:00:16.400><c> the</c><00:00:16.640><c> formulas</c><00:00:17.640><c> then</c><00:00:17.880><c> for</c><00:00:18.080><c> those</c>
+
+00:00:18.189 --> 00:00:18.199 align:start position:0%
+reference to the formulas then for those
+ 
+
+00:00:18.199 --> 00:00:20.189 align:start position:0%
+reference to the formulas then for those
+of<00:00:18.320><c> you</c><00:00:18.439><c> who</c><00:00:18.600><c> do</c><00:00:18.800><c> want</c><00:00:18.960><c> to</c><00:00:19.119><c> dive</c><00:00:19.359><c> into</c><00:00:19.560><c> the</c><00:00:19.720><c> math</c>
+
+00:00:20.189 --> 00:00:20.199 align:start position:0%
+of you who do want to dive into the math
+ 
+
+00:00:20.199 --> 00:00:21.910 align:start position:0%
+of you who do want to dive into the math
+the<00:00:20.359><c> next</c><00:00:20.600><c> video</c><00:00:20.880><c> goes</c><00:00:21.080><c> into</c><00:00:21.320><c> the</c><00:00:21.439><c> calculus</c>
+
+00:00:21.910 --> 00:00:21.920 align:start position:0%
+the next video goes into the calculus
+ 
+
+00:00:21.920 --> 00:00:24.589 align:start position:0%
+the next video goes into the calculus
+underlying<00:00:22.480><c> all</c><00:00:22.880><c> this</c><00:00:23.880><c> if</c><00:00:24.039><c> you</c><00:00:24.199><c> watch</c><00:00:24.480><c> the</c>
+
+00:00:24.589 --> 00:00:24.599 align:start position:0%
+underlying all this if you watch the
+ 
+
+00:00:24.599 --> 00:00:25.990 align:start position:0%
+underlying all this if you watch the
+last<00:00:24.760><c> two</c><00:00:24.960><c> videos</c><00:00:25.480><c> or</c><00:00:25.599><c> if</c><00:00:25.720><c> you're</c><00:00:25.880><c> just</c>
+
+00:00:25.990 --> 00:00:26.000 align:start position:0%
+last two videos or if you're just
+ 
+
+00:00:26.000 --> 00:00:27.189 align:start position:0%
+last two videos or if you're just
+jumping<00:00:26.320><c> in</c><00:00:26.480><c> with</c><00:00:26.599><c> the</c><00:00:26.720><c> appropriate</c>
+
+00:00:27.189 --> 00:00:27.199 align:start position:0%
+jumping in with the appropriate
+ 
+
+00:00:27.199 --> 00:00:28.750 align:start position:0%
+jumping in with the appropriate
+background<00:00:27.880><c> you</c><00:00:28.000><c> know</c><00:00:28.199><c> what</c><00:00:28.320><c> a</c><00:00:28.439><c> neural</c>
+
+00:00:28.750 --> 00:00:28.760 align:start position:0%
+background you know what a neural
+ 
+
+00:00:28.760 --> 00:00:30.589 align:start position:0%
+background you know what a neural
+network<00:00:29.119><c> is</c><00:00:29.400><c> and</c><00:00:29.519><c> how</c><00:00:29.599><c> it</c><00:00:29.679><c> feeds</c><00:00:30.119><c> forward</c>
+
+00:00:30.589 --> 00:00:30.599 align:start position:0%
+network is and how it feeds forward
+ 
+
+00:00:30.599 --> 00:00:32.709 align:start position:0%
+network is and how it feeds forward
+information<00:00:31.599><c> here</c><00:00:31.720><c> we're</c><00:00:31.880><c> doing</c><00:00:32.119><c> the</c><00:00:32.320><c> classic</c>
+
+00:00:32.709 --> 00:00:32.719 align:start position:0%
+information here we're doing the classic
+ 
+
+00:00:32.719 --> 00:00:34.389 align:start position:0%
+information here we're doing the classic
+example<00:00:33.120><c> of</c><00:00:33.280><c> recognizing</c><00:00:33.879><c> handwritten</c>
+
+00:00:34.389 --> 00:00:34.399 align:start position:0%
+example of recognizing handwritten
+ 
+
+00:00:34.399 --> 00:00:36.510 align:start position:0%
+example of recognizing handwritten
+digits<00:00:35.000><c> whose</c><00:00:35.200><c> pixel</c><00:00:35.520><c> values</c><00:00:35.879><c> get</c><00:00:36.040><c> fed</c><00:00:36.280><c> into</c>
+
+00:00:36.510 --> 00:00:36.520 align:start position:0%
+digits whose pixel values get fed into
+ 
+
+00:00:36.520 --> 00:00:38.910 align:start position:0%
+digits whose pixel values get fed into
+the<00:00:36.640><c> first</c><00:00:36.879><c> layer</c><00:00:37.079><c> of</c><00:00:37.200><c> the</c><00:00:37.320><c> network</c><00:00:37.719><c> with</c><00:00:38.000><c> 784</c>
+
+00:00:38.910 --> 00:00:38.920 align:start position:0%
+the first layer of the network with 784
+ 
+
+00:00:38.920 --> 00:00:40.910 align:start position:0%
+the first layer of the network with 784
+neurons<00:00:39.800><c> and</c><00:00:39.960><c> I've</c><00:00:40.079><c> been</c><00:00:40.200><c> showing</c><00:00:40.440><c> a</c><00:00:40.559><c> network</c>
+
+00:00:40.910 --> 00:00:40.920 align:start position:0%
+neurons and I've been showing a network
+ 
+
+00:00:40.920 --> 00:00:42.869 align:start position:0%
+neurons and I've been showing a network
+with<00:00:41.079><c> two</c><00:00:41.320><c> hidden</c><00:00:41.559><c> layers</c><00:00:42.039><c> having</c><00:00:42.320><c> just</c><00:00:42.520><c> 16</c>
+
+00:00:42.869 --> 00:00:42.879 align:start position:0%
+with two hidden layers having just 16
+ 
+
+00:00:42.879 --> 00:00:45.229 align:start position:0%
+with two hidden layers having just 16
+neurons<00:00:43.360><c> each</c><00:00:43.879><c> and</c><00:00:44.000><c> an</c><00:00:44.120><c> output</c><00:00:44.480><c> layer</c><00:00:44.760><c> of</c><00:00:44.960><c> 10</c>
+
+00:00:45.229 --> 00:00:45.239 align:start position:0%
+neurons each and an output layer of 10
+ 
+
+00:00:45.239 --> 00:00:47.270 align:start position:0%
+neurons each and an output layer of 10
+neurons<00:00:45.960><c> indicating</c><00:00:46.600><c> which</c><00:00:46.879><c> digit</c><00:00:47.160><c> the</c>
+
+00:00:47.270 --> 00:00:47.280 align:start position:0%
+neurons indicating which digit the
+ 
+
+00:00:47.280 --> 00:00:50.069 align:start position:0%
+neurons indicating which digit the
+network<00:00:47.640><c> is</c><00:00:47.800><c> choosing</c><00:00:48.320><c> as</c><00:00:48.440><c> its</c><00:00:48.920><c> answer</c><00:00:49.920><c> I'm</c>
+
+00:00:50.069 --> 00:00:50.079 align:start position:0%
+network is choosing as its answer I'm
+ 
+
+00:00:50.079 --> 00:00:51.510 align:start position:0%
+network is choosing as its answer I'm
+also<00:00:50.360><c> expecting</c><00:00:50.719><c> you</c><00:00:50.840><c> to</c><00:00:51.280><c> understand</c>
+
+00:00:51.510 --> 00:00:51.520 align:start position:0%
+also expecting you to understand
+ 
+
+00:00:51.520 --> 00:00:53.270 align:start position:0%
+also expecting you to understand
+gradient<00:00:51.920><c> descent</c><00:00:52.480><c> as</c><00:00:52.640><c> described</c><00:00:53.000><c> in</c><00:00:53.120><c> the</c>
+
+00:00:53.270 --> 00:00:53.280 align:start position:0%
+gradient descent as described in the
+ 
+
+00:00:53.280 --> 00:00:55.750 align:start position:0%
+gradient descent as described in the
+last<00:00:53.520><c> video</c><00:00:54.280><c> and</c><00:00:54.480><c> how</c><00:00:54.879><c> what</c><00:00:55.039><c> we</c><00:00:55.199><c> mean</c><00:00:55.600><c> by</c>
+
+00:00:55.750 --> 00:00:55.760 align:start position:0%
+last video and how what we mean by
+ 
+
+00:00:55.760 --> 00:00:57.910 align:start position:0%
+last video and how what we mean by
+learning<00:00:56.559><c> is</c><00:00:56.719><c> that</c><00:00:56.840><c> we</c><00:00:56.960><c> want</c><00:00:57.079><c> to</c><00:00:57.280><c> find</c><00:00:57.640><c> which</c>
+
+00:00:57.910 --> 00:00:57.920 align:start position:0%
+learning is that we want to find which
+ 
+
+00:00:57.920 --> 00:01:00.549 align:start position:0%
+learning is that we want to find which
+weights<00:00:58.320><c> and</c><00:00:58.519><c> biases</c><00:00:59.359><c> minimize</c><00:01:00.120><c> a</c><00:01:00.239><c> certain</c>
+
+00:01:00.549 --> 00:01:00.559 align:start position:0%
+weights and biases minimize a certain
+ 
+
+00:01:00.559 --> 00:01:02.950 align:start position:0%
+weights and biases minimize a certain
+cost<00:01:00.920><c> function</c><00:01:01.920><c> as</c><00:01:02.000><c> a</c><00:01:02.120><c> quick</c><00:01:02.320><c> reminder</c><00:01:02.800><c> for</c>
+
+00:01:02.950 --> 00:01:02.960 align:start position:0%
+cost function as a quick reminder for
+ 
+
+00:01:02.960 --> 00:01:05.390 align:start position:0%
+cost function as a quick reminder for
+the<00:01:03.199><c> cost</c><00:01:03.480><c> of</c><00:01:03.600><c> a</c><00:01:03.760><c> single</c><00:01:04.119><c> training</c><00:01:04.559><c> example</c>
+
+00:01:05.390 --> 00:01:05.400 align:start position:0%
+the cost of a single training example
+ 
+
+00:01:05.400 --> 00:01:07.190 align:start position:0%
+the cost of a single training example
+what<00:01:05.519><c> you</c><00:01:05.640><c> do</c><00:01:05.799><c> is</c><00:01:05.960><c> take</c><00:01:06.200><c> the</c><00:01:06.400><c> output</c><00:01:06.960><c> that</c><00:01:07.080><c> the</c>
+
+00:01:07.190 --> 00:01:07.200 align:start position:0%
+what you do is take the output that the
+ 
+
+00:01:07.200 --> 00:01:09.590 align:start position:0%
+what you do is take the output that the
+network<00:01:07.600><c> gives</c><00:01:08.360><c> along</c><00:01:08.640><c> with</c><00:01:08.799><c> the</c><00:01:08.960><c> output</c><00:01:09.479><c> that</c>
+
+00:01:09.590 --> 00:01:09.600 align:start position:0%
+network gives along with the output that
+ 
+
+00:01:09.600 --> 00:01:11.830 align:start position:0%
+network gives along with the output that
+you<00:01:09.720><c> wanted</c><00:01:10.040><c> it</c><00:01:10.159><c> to</c><00:01:10.400><c> give</c><00:01:11.119><c> and</c><00:01:11.200><c> you</c><00:01:11.400><c> just</c><00:01:11.640><c> add</c>
+
+00:01:11.830 --> 00:01:11.840 align:start position:0%
+you wanted it to give and you just add
+ 
+
+00:01:11.840 --> 00:01:13.550 align:start position:0%
+you wanted it to give and you just add
+up<00:01:12.040><c> the</c><00:01:12.200><c> squares</c><00:01:12.640><c> of</c><00:01:12.799><c> the</c><00:01:13.000><c> differences</c>
+
+00:01:13.550 --> 00:01:13.560 align:start position:0%
+up the squares of the differences
+ 
+
+00:01:13.560 --> 00:01:16.030 align:start position:0%
+up the squares of the differences
+between<00:01:13.920><c> each</c><00:01:14.240><c> component</c><00:01:15.240><c> doing</c><00:01:15.560><c> this</c><00:01:15.680><c> for</c>
+
+00:01:16.030 --> 00:01:16.040 align:start position:0%
+between each component doing this for
+ 
+
+00:01:16.040 --> 00:01:17.510 align:start position:0%
+between each component doing this for
+all<00:01:16.240><c> of</c><00:01:16.400><c> your</c><00:01:16.560><c> tens</c><00:01:16.840><c> of</c><00:01:17.040><c> thousands</c><00:01:17.400><c> of</c>
+
+00:01:17.510 --> 00:01:17.520 align:start position:0%
+all of your tens of thousands of
+ 
+
+00:01:17.520 --> 00:01:19.190 align:start position:0%
+all of your tens of thousands of
+training<00:01:17.920><c> examples</c><00:01:18.400><c> and</c><00:01:18.640><c> averaging</c><00:01:19.040><c> the</c>
+
+00:01:19.190 --> 00:01:19.200 align:start position:0%
+training examples and averaging the
+ 
+
+00:01:19.200 --> 00:01:21.630 align:start position:0%
+training examples and averaging the
+results<00:01:20.040><c> this</c><00:01:20.200><c> gives</c><00:01:20.400><c> you</c><00:01:20.640><c> the</c><00:01:20.840><c> total</c><00:01:21.280><c> cost</c><00:01:21.520><c> of</c>
+
+00:01:21.630 --> 00:01:21.640 align:start position:0%
+results this gives you the total cost of
+ 
+
+00:01:21.640 --> 00:01:23.789 align:start position:0%
+results this gives you the total cost of
+the<00:01:21.840><c> network</c><00:01:22.840><c> and</c><00:01:22.960><c> as</c><00:01:23.079><c> if</c><00:01:23.280><c> that's</c><00:01:23.439><c> not</c><00:01:23.600><c> enough</c>
+
+00:01:23.789 --> 00:01:23.799 align:start position:0%
+the network and as if that's not enough
+ 
+
+00:01:23.799 --> 00:01:25.630 align:start position:0%
+the network and as if that's not enough
+to<00:01:24.000><c> think</c><00:01:24.200><c> about</c><00:01:24.600><c> as</c><00:01:24.759><c> described</c><00:01:25.159><c> in</c><00:01:25.240><c> the</c><00:01:25.439><c> last</c>
+
+00:01:25.630 --> 00:01:25.640 align:start position:0%
+to think about as described in the last
+ 
+
+00:01:25.640 --> 00:01:27.510 align:start position:0%
+to think about as described in the last
+video<00:01:26.000><c> the</c><00:01:26.159><c> thing</c><00:01:26.360><c> that</c><00:01:26.479><c> we're</c><00:01:26.680><c> looking</c><00:01:26.960><c> for</c>
+
+00:01:27.510 --> 00:01:27.520 align:start position:0%
+video the thing that we're looking for
+ 
+
+00:01:27.520 --> 00:01:30.030 align:start position:0%
+video the thing that we're looking for
+is<00:01:27.680><c> the</c><00:01:27.920><c> negative</c><00:01:28.479><c> gradient</c><00:01:29.200><c> of</c><00:01:29.400><c> this</c><00:01:29.600><c> cost</c>
+
+00:01:30.030 --> 00:01:30.040 align:start position:0%
+is the negative gradient of this cost
+ 
+
+00:01:30.040 --> 00:01:32.149 align:start position:0%
+is the negative gradient of this cost
+function<00:01:30.840><c> which</c><00:01:31.000><c> tells</c><00:01:31.240><c> you</c><00:01:31.560><c> how</c><00:01:31.680><c> you</c><00:01:31.799><c> need</c><00:01:31.960><c> to</c>
+
+00:01:32.149 --> 00:01:32.159 align:start position:0%
+function which tells you how you need to
+ 
+
+00:01:32.159 --> 00:01:34.310 align:start position:0%
+function which tells you how you need to
+change<00:01:32.600><c> all</c><00:01:32.759><c> of</c><00:01:32.880><c> the</c><00:01:33.000><c> weights</c><00:01:33.200><c> and</c><00:01:33.399><c> biases</c><00:01:34.200><c> all</c>
+
+00:01:34.310 --> 00:01:34.320 align:start position:0%
+change all of the weights and biases all
+ 
+
+00:01:34.320 --> 00:01:36.310 align:start position:0%
+change all of the weights and biases all
+of<00:01:34.479><c> these</c><00:01:34.640><c> connections</c><00:01:35.560><c> so</c><00:01:35.759><c> as</c><00:01:35.880><c> to</c><00:01:36.040><c> most</c>
+
+00:01:36.310 --> 00:01:36.320 align:start position:0%
+of these connections so as to most
+ 
+
+00:01:36.320 --> 00:01:41.830 align:start position:0%
+of these connections so as to most
+efficiently<00:01:36.960><c> decrease</c><00:01:37.479><c> the</c>
+
+00:01:41.830 --> 00:01:41.840 align:start position:0%
+ 
+ 
+
+00:01:41.840 --> 00:01:44.590 align:start position:0%
+ 
+cost<00:01:42.840><c> back</c><00:01:43.159><c> propagation</c><00:01:43.880><c> the</c><00:01:44.040><c> topic</c><00:01:44.280><c> of</c><00:01:44.439><c> this</c>
+
+00:01:44.590 --> 00:01:44.600 align:start position:0%
+cost back propagation the topic of this
+ 
+
+00:01:44.600 --> 00:01:47.270 align:start position:0%
+cost back propagation the topic of this
+video<00:01:45.119><c> is</c><00:01:45.240><c> an</c><00:01:45.439><c> algorithm</c><00:01:46.040><c> for</c><00:01:46.320><c> computing</c><00:01:47.079><c> that</c>
+
+00:01:47.270 --> 00:01:47.280 align:start position:0%
+video is an algorithm for computing that
+ 
+
+00:01:47.280 --> 00:01:49.950 align:start position:0%
+video is an algorithm for computing that
+crazy<00:01:47.680><c> complicated</c><00:01:48.399><c> gradient</c><00:01:49.399><c> and</c><00:01:49.560><c> the</c><00:01:49.719><c> one</c>
+
+00:01:49.950 --> 00:01:49.960 align:start position:0%
+crazy complicated gradient and the one
+ 
+
+00:01:49.960 --> 00:01:51.590 align:start position:0%
+crazy complicated gradient and the one
+idea<00:01:50.280><c> from</c><00:01:50.439><c> the</c><00:01:50.600><c> last</c><00:01:50.799><c> video</c><00:01:51.119><c> that</c><00:01:51.240><c> I</c><00:01:51.399><c> really</c>
+
+00:01:51.590 --> 00:01:51.600 align:start position:0%
+idea from the last video that I really
+ 
+
+00:01:51.600 --> 00:01:53.230 align:start position:0%
+idea from the last video that I really
+want<00:01:51.759><c> you</c><00:01:51.880><c> to</c><00:01:52.000><c> hold</c><00:01:52.240><c> firmly</c><00:01:52.600><c> in</c><00:01:52.759><c> your</c><00:01:52.920><c> mind</c>
+
+00:01:53.230 --> 00:01:53.240 align:start position:0%
+want you to hold firmly in your mind
+ 
+
+00:01:53.240 --> 00:01:54.910 align:start position:0%
+want you to hold firmly in your mind
+right<00:01:53.399><c> now</c><00:01:53.960><c> is</c><00:01:54.040><c> that</c><00:01:54.240><c> because</c><00:01:54.520><c> thinking</c><00:01:54.759><c> of</c>
+
+00:01:54.910 --> 00:01:54.920 align:start position:0%
+right now is that because thinking of
+ 
+
+00:01:54.920 --> 00:01:56.789 align:start position:0%
+right now is that because thinking of
+the<00:01:55.040><c> gradient</c><00:01:55.439><c> Vector</c><00:01:55.799><c> as</c><00:01:55.920><c> a</c><00:01:56.119><c> direction</c><00:01:56.640><c> in</c>
+
+00:01:56.789 --> 00:01:56.799 align:start position:0%
+the gradient Vector as a direction in
+ 
+
+00:01:56.799 --> 00:01:59.870 align:start position:0%
+the gradient Vector as a direction in
+13,000<00:01:57.560><c> Dimensions</c><00:01:58.399><c> is</c><00:01:58.799><c> to</c><00:01:58.960><c> put</c><00:01:59.079><c> it</c><00:01:59.200><c> lightly</c>
+
+00:01:59.870 --> 00:01:59.880 align:start position:0%
+13,000 Dimensions is to put it lightly
+ 
+
+00:01:59.880 --> 00:02:01.950 align:start position:0%
+13,000 Dimensions is to put it lightly
+beyond<00:02:00.159><c> the</c><00:02:00.280><c> scope</c><00:02:00.520><c> of</c><00:02:00.640><c> our</c><00:02:00.960><c> imaginations</c>
+
+00:02:01.950 --> 00:02:01.960 align:start position:0%
+beyond the scope of our imaginations
+ 
+
+00:02:01.960 --> 00:02:03.550 align:start position:0%
+beyond the scope of our imaginations
+there's<00:02:02.200><c> another</c><00:02:02.439><c> way</c><00:02:02.560><c> you</c><00:02:02.680><c> can</c><00:02:02.840><c> think</c><00:02:03.039><c> about</c>
+
+00:02:03.550 --> 00:02:03.560 align:start position:0%
+there's another way you can think about
+ 
+
+00:02:03.560 --> 00:02:06.910 align:start position:0%
+there's another way you can think about
+it<00:02:04.560><c> the</c><00:02:04.759><c> magnitude</c><00:02:05.479><c> of</c><00:02:05.680><c> each</c><00:02:05.920><c> component</c><00:02:06.439><c> here</c>
+
+00:02:06.910 --> 00:02:06.920 align:start position:0%
+it the magnitude of each component here
+ 
+
+00:02:06.920 --> 00:02:08.910 align:start position:0%
+it the magnitude of each component here
+is<00:02:07.079><c> telling</c><00:02:07.399><c> you</c><00:02:07.680><c> how</c><00:02:08.039><c> sensitive</c><00:02:08.479><c> the</c><00:02:08.599><c> cost</c>
+
+00:02:08.910 --> 00:02:08.920 align:start position:0%
+is telling you how sensitive the cost
+ 
+
+00:02:08.920 --> 00:02:11.869 align:start position:0%
+is telling you how sensitive the cost
+function<00:02:09.360><c> is</c><00:02:09.560><c> to</c><00:02:09.759><c> each</c><00:02:10.000><c> weight</c><00:02:10.200><c> and</c><00:02:10.680><c> bias</c><00:02:11.680><c> for</c>
+
+00:02:11.869 --> 00:02:11.879 align:start position:0%
+function is to each weight and bias for
+ 
+
+00:02:11.879 --> 00:02:13.270 align:start position:0%
+function is to each weight and bias for
+example<00:02:12.280><c> let's</c><00:02:12.440><c> say</c><00:02:12.599><c> you</c><00:02:12.760><c> go</c><00:02:12.920><c> through</c><00:02:13.080><c> the</c>
+
+00:02:13.270 --> 00:02:13.280 align:start position:0%
+example let's say you go through the
+ 
+
+00:02:13.280 --> 00:02:14.830 align:start position:0%
+example let's say you go through the
+process<00:02:13.599><c> I'm</c><00:02:13.760><c> about</c><00:02:13.959><c> to</c><00:02:14.120><c> describe</c><00:02:14.560><c> and</c><00:02:14.680><c> you</c>
+
+00:02:14.830 --> 00:02:14.840 align:start position:0%
+process I'm about to describe and you
+ 
+
+00:02:14.840 --> 00:02:16.550 align:start position:0%
+process I'm about to describe and you
+compute<00:02:15.200><c> the</c><00:02:15.319><c> negative</c><00:02:15.680><c> gradient</c><00:02:16.280><c> and</c><00:02:16.440><c> the</c>
+
+00:02:16.550 --> 00:02:16.560 align:start position:0%
+compute the negative gradient and the
+ 
+
+00:02:16.560 --> 00:02:18.509 align:start position:0%
+compute the negative gradient and the
+component<00:02:17.080><c> associated</c><00:02:17.640><c> with</c><00:02:17.800><c> the</c><00:02:17.920><c> weight</c><00:02:18.200><c> on</c>
+
+00:02:18.509 --> 00:02:18.519 align:start position:0%
+component associated with the weight on
+ 
+
+00:02:18.519 --> 00:02:21.990 align:start position:0%
+component associated with the weight on
+this<00:02:18.720><c> edge</c><00:02:19.080><c> here</c><00:02:19.760><c> comes</c><00:02:20.000><c> out</c><00:02:20.160><c> to</c><00:02:20.280><c> be</c><00:02:20.800><c> 3.2</c><00:02:21.800><c> while</c>
+
+00:02:21.990 --> 00:02:22.000 align:start position:0%
+this edge here comes out to be 3.2 while
+ 
+
+00:02:22.000 --> 00:02:24.190 align:start position:0%
+this edge here comes out to be 3.2 while
+the<00:02:22.160><c> component</c><00:02:22.599><c> associated</c><00:02:23.239><c> with</c><00:02:23.560><c> this</c><00:02:23.760><c> edge</c>
+
+00:02:24.190 --> 00:02:24.200 align:start position:0%
+the component associated with this edge
+ 
+
+00:02:24.200 --> 00:02:25.830 align:start position:0%
+the component associated with this edge
+here<00:02:24.680><c> comes</c><00:02:24.920><c> out</c><00:02:25.160><c> as</c>
+
+00:02:25.830 --> 00:02:25.840 align:start position:0%
+here comes out as
+ 
+
+00:02:25.840 --> 00:02:28.229 align:start position:0%
+here comes out as
+0.1<00:02:26.840><c> the</c><00:02:26.959><c> way</c><00:02:27.120><c> you</c><00:02:27.200><c> would</c><00:02:27.400><c> interpret</c><00:02:27.879><c> that</c><00:02:28.120><c> is</c>
+
+00:02:28.229 --> 00:02:28.239 align:start position:0%
+0.1 the way you would interpret that is
+ 
+
+00:02:28.239 --> 00:02:30.509 align:start position:0%
+0.1 the way you would interpret that is
+that<00:02:28.440><c> the</c><00:02:28.599><c> cost</c><00:02:28.879><c> of</c><00:02:29.000><c> the</c><00:02:29.160><c> function</c><00:02:29.640><c> is</c><00:02:30.000><c> 32</c>
+
+00:02:30.509 --> 00:02:30.519 align:start position:0%
+that the cost of the function is 32
+ 
+
+00:02:30.519 --> 00:02:32.390 align:start position:0%
+that the cost of the function is 32
+times<00:02:30.840><c> more</c><00:02:31.080><c> sensitive</c><00:02:31.560><c> to</c><00:02:31.720><c> changes</c><00:02:32.040><c> in</c><00:02:32.239><c> that</c>
+
+00:02:32.390 --> 00:02:32.400 align:start position:0%
+times more sensitive to changes in that
+ 
+
+00:02:32.400 --> 00:02:34.430 align:start position:0%
+times more sensitive to changes in that
+first<00:02:32.720><c> weight</c><00:02:33.480><c> so</c><00:02:33.640><c> if</c><00:02:33.720><c> you</c><00:02:33.800><c> were</c><00:02:33.920><c> to</c><00:02:34.080><c> wiggle</c>
+
+00:02:34.430 --> 00:02:34.440 align:start position:0%
+first weight so if you were to wiggle
+ 
+
+00:02:34.440 --> 00:02:36.110 align:start position:0%
+first weight so if you were to wiggle
+that<00:02:34.640><c> value</c><00:02:34.959><c> just</c><00:02:35.080><c> a</c><00:02:35.200><c> little</c><00:02:35.440><c> bit</c><00:02:35.879><c> it's</c><00:02:36.040><c> going</c>
+
+00:02:36.110 --> 00:02:36.120 align:start position:0%
+that value just a little bit it's going
+ 
+
+00:02:36.120 --> 00:02:38.270 align:start position:0%
+that value just a little bit it's going
+to<00:02:36.280><c> cause</c><00:02:36.599><c> some</c><00:02:36.800><c> change</c><00:02:37.080><c> to</c><00:02:37.239><c> the</c><00:02:37.440><c> cost</c><00:02:38.120><c> and</c>
+
+00:02:38.270 --> 00:02:38.280 align:start position:0%
+to cause some change to the cost and
+ 
+
+00:02:38.280 --> 00:02:40.670 align:start position:0%
+to cause some change to the cost and
+that<00:02:38.400><c> change</c><00:02:38.840><c> is</c><00:02:39.040><c> 32</c><00:02:39.560><c> times</c><00:02:39.840><c> greater</c><00:02:40.519><c> than</c>
+
+00:02:40.670 --> 00:02:40.680 align:start position:0%
+that change is 32 times greater than
+ 
+
+00:02:40.680 --> 00:02:42.390 align:start position:0%
+that change is 32 times greater than
+what<00:02:40.840><c> the</c><00:02:40.959><c> same</c><00:02:41.319><c> wiggle</c><00:02:41.720><c> to</c><00:02:41.920><c> that</c><00:02:42.080><c> second</c>
+
+00:02:42.390 --> 00:02:42.400 align:start position:0%
+what the same wiggle to that second
+ 
+
+00:02:42.400 --> 00:02:47.470 align:start position:0%
+what the same wiggle to that second
+weight<00:02:42.680><c> would</c>
+
+00:02:47.470 --> 00:02:47.480 align:start position:0%
+ 
+ 
+
+00:02:47.480 --> 00:02:49.589 align:start position:0%
+ 
+give<00:02:48.480><c> personally</c><00:02:49.080><c> when</c><00:02:49.200><c> I</c><00:02:49.319><c> was</c><00:02:49.440><c> first</c>
+
+00:02:49.589 --> 00:02:49.599 align:start position:0%
+give personally when I was first
+ 
+
+00:02:49.599 --> 00:02:51.630 align:start position:0%
+give personally when I was first
+learning<00:02:49.959><c> about</c><00:02:50.200><c> back</c><00:02:50.480><c> propagation</c><00:02:51.400><c> I</c><00:02:51.480><c> think</c>
+
+00:02:51.630 --> 00:02:51.640 align:start position:0%
+learning about back propagation I think
+ 
+
+00:02:51.640 --> 00:02:53.470 align:start position:0%
+learning about back propagation I think
+the<00:02:51.800><c> most</c><00:02:52.080><c> confusing</c><00:02:52.680><c> aspect</c><00:02:53.000><c> was</c><00:02:53.200><c> just</c><00:02:53.360><c> the</c>
+
+00:02:53.470 --> 00:02:53.480 align:start position:0%
+the most confusing aspect was just the
+ 
+
+00:02:53.480 --> 00:02:56.110 align:start position:0%
+the most confusing aspect was just the
+notation<00:02:54.120><c> and</c><00:02:54.239><c> the</c><00:02:54.400><c> index</c><00:02:54.720><c> chasing</c><00:02:55.120><c> of</c><00:02:55.200><c> it</c><00:02:55.360><c> all</c>
+
+00:02:56.110 --> 00:02:56.120 align:start position:0%
+notation and the index chasing of it all
+ 
+
+00:02:56.120 --> 00:02:57.710 align:start position:0%
+notation and the index chasing of it all
+but<00:02:56.239><c> once</c><00:02:56.360><c> you</c><00:02:56.480><c> unwrap</c><00:02:57.080><c> what</c><00:02:57.239><c> each</c><00:02:57.440><c> part</c><00:02:57.560><c> of</c>
+
+00:02:57.710 --> 00:02:57.720 align:start position:0%
+but once you unwrap what each part of
+ 
+
+00:02:57.720 --> 00:02:59.869 align:start position:0%
+but once you unwrap what each part of
+this<00:02:57.840><c> algorithm</c><00:02:58.280><c> is</c><00:02:58.440><c> really</c><00:02:58.680><c> doing</c><00:02:59.360><c> each</c>
+
+00:02:59.869 --> 00:02:59.879 align:start position:0%
+this algorithm is really doing each
+ 
+
+00:02:59.879 --> 00:03:01.710 align:start position:0%
+this algorithm is really doing each
+individual<00:03:00.440><c> effect</c><00:03:00.800><c> that</c><00:03:00.920><c> it's</c><00:03:01.120><c> having</c><00:03:01.440><c> is</c>
+
+00:03:01.710 --> 00:03:01.720 align:start position:0%
+individual effect that it's having is
+ 
+
+00:03:01.720 --> 00:03:03.550 align:start position:0%
+individual effect that it's having is
+actually<00:03:02.000><c> pretty</c><00:03:02.239><c> intuitive</c><00:03:03.120><c> it's</c><00:03:03.280><c> just</c><00:03:03.440><c> that</c>
+
+00:03:03.550 --> 00:03:03.560 align:start position:0%
+actually pretty intuitive it's just that
+ 
+
+00:03:03.560 --> 00:03:05.070 align:start position:0%
+actually pretty intuitive it's just that
+there's<00:03:03.840><c> a</c><00:03:04.000><c> lot</c><00:03:04.159><c> of</c><00:03:04.319><c> little</c><00:03:04.599><c> adjustments</c>
+
+00:03:05.070 --> 00:03:05.080 align:start position:0%
+there's a lot of little adjustments
+ 
+
+00:03:05.080 --> 00:03:07.910 align:start position:0%
+there's a lot of little adjustments
+getting<00:03:05.319><c> layered</c><00:03:05.680><c> on</c><00:03:05.840><c> top</c><00:03:06.000><c> of</c><00:03:06.159><c> each</c><00:03:06.599><c> other</c><00:03:07.599><c> so</c>
+
+00:03:07.910 --> 00:03:07.920 align:start position:0%
+getting layered on top of each other so
+ 
+
+00:03:07.920 --> 00:03:09.229 align:start position:0%
+getting layered on top of each other so
+I'm<00:03:08.000><c> going</c><00:03:08.120><c> to</c><00:03:08.239><c> start</c><00:03:08.480><c> things</c><00:03:08.680><c> off</c><00:03:08.879><c> here</c><00:03:09.080><c> with</c>
+
+00:03:09.229 --> 00:03:09.239 align:start position:0%
+I'm going to start things off here with
+ 
+
+00:03:09.239 --> 00:03:11.229 align:start position:0%
+I'm going to start things off here with
+a<00:03:09.440><c> complete</c><00:03:09.799><c> disregard</c><00:03:10.280><c> for</c><00:03:10.440><c> the</c><00:03:10.560><c> notation</c>
+
+00:03:11.229 --> 00:03:11.239 align:start position:0%
+a complete disregard for the notation
+ 
+
+00:03:11.239 --> 00:03:13.309 align:start position:0%
+a complete disregard for the notation
+and<00:03:11.440><c> just</c><00:03:11.680><c> step</c><00:03:12.040><c> through</c><00:03:12.360><c> those</c><00:03:12.640><c> effects</c><00:03:13.159><c> that</c>
+
+00:03:13.309 --> 00:03:13.319 align:start position:0%
+and just step through those effects that
+ 
+
+00:03:13.319 --> 00:03:15.149 align:start position:0%
+and just step through those effects that
+each<00:03:13.519><c> training</c><00:03:13.959><c> example</c><00:03:14.319><c> is</c><00:03:14.519><c> having</c><00:03:14.920><c> on</c><00:03:15.040><c> the</c>
+
+00:03:15.149 --> 00:03:15.159 align:start position:0%
+each training example is having on the
+ 
+
+00:03:15.159 --> 00:03:16.110 align:start position:0%
+each training example is having on the
+weights<00:03:15.400><c> and</c>
+
+00:03:16.110 --> 00:03:16.120 align:start position:0%
+weights and
+ 
+
+00:03:16.120 --> 00:03:18.149 align:start position:0%
+weights and
+biases<00:03:17.120><c> because</c><00:03:17.400><c> the</c><00:03:17.519><c> cost</c><00:03:17.799><c> function</c>
+
+00:03:18.149 --> 00:03:18.159 align:start position:0%
+biases because the cost function
+ 
+
+00:03:18.159 --> 00:03:20.070 align:start position:0%
+biases because the cost function
+involves<00:03:18.599><c> averaging</c><00:03:19.000><c> a</c><00:03:19.120><c> certain</c><00:03:19.519><c> cost</c><00:03:19.840><c> per</c>
+
+00:03:20.070 --> 00:03:20.080 align:start position:0%
+involves averaging a certain cost per
+ 
+
+00:03:20.080 --> 00:03:22.350 align:start position:0%
+involves averaging a certain cost per
+example<00:03:20.760><c> over</c><00:03:21.120><c> all</c><00:03:21.400><c> the</c><00:03:21.560><c> tens</c><00:03:21.840><c> of</c><00:03:22.040><c> thousands</c>
+
+00:03:22.350 --> 00:03:22.360 align:start position:0%
+example over all the tens of thousands
+ 
+
+00:03:22.360 --> 00:03:24.670 align:start position:0%
+example over all the tens of thousands
+of<00:03:22.480><c> training</c><00:03:22.959><c> examples</c><00:03:23.959><c> the</c><00:03:24.080><c> way</c><00:03:24.319><c> that</c><00:03:24.440><c> we</c>
+
+00:03:24.670 --> 00:03:24.680 align:start position:0%
+of training examples the way that we
+ 
+
+00:03:24.680 --> 00:03:26.630 align:start position:0%
+of training examples the way that we
+adjust<00:03:25.120><c> the</c><00:03:25.239><c> weights</c><00:03:25.480><c> and</c><00:03:25.680><c> biases</c><00:03:26.239><c> for</c><00:03:26.480><c> a</c>
+
+00:03:26.630 --> 00:03:26.640 align:start position:0%
+adjust the weights and biases for a
+ 
+
+00:03:26.640 --> 00:03:28.990 align:start position:0%
+adjust the weights and biases for a
+single<00:03:27.040><c> gradient</c><00:03:27.440><c> descent</c><00:03:27.879><c> step</c><00:03:28.680><c> also</c>
+
+00:03:28.990 --> 00:03:29.000 align:start position:0%
+single gradient descent step also
+ 
+
+00:03:29.000 --> 00:03:31.789 align:start position:0%
+single gradient descent step also
+depends<00:03:29.439><c> on</c><00:03:29.879><c> every</c><00:03:30.120><c> single</c><00:03:30.560><c> example</c><00:03:31.560><c> or</c>
+
+00:03:31.789 --> 00:03:31.799 align:start position:0%
+depends on every single example or
+ 
+
+00:03:31.799 --> 00:03:33.509 align:start position:0%
+depends on every single example or
+rather<00:03:32.120><c> in</c><00:03:32.319><c> principle</c><00:03:32.680><c> it</c><00:03:32.799><c> should</c><00:03:33.159><c> but</c><00:03:33.280><c> for</c>
+
+00:03:33.509 --> 00:03:33.519 align:start position:0%
+rather in principle it should but for
+ 
+
+00:03:33.519 --> 00:03:34.869 align:start position:0%
+rather in principle it should but for
+computational<00:03:34.120><c> efficiency</c><00:03:34.560><c> we're</c><00:03:34.720><c> going</c><00:03:34.799><c> to</c>
+
+00:03:34.869 --> 00:03:34.879 align:start position:0%
+computational efficiency we're going to
+ 
+
+00:03:34.879 --> 00:03:36.429 align:start position:0%
+computational efficiency we're going to
+do<00:03:35.000><c> a</c><00:03:35.120><c> little</c><00:03:35.280><c> trick</c><00:03:35.560><c> later</c><00:03:35.840><c> to</c><00:03:36.000><c> keep</c><00:03:36.159><c> you</c><00:03:36.280><c> from</c>
+
+00:03:36.429 --> 00:03:36.439 align:start position:0%
+do a little trick later to keep you from
+ 
+
+00:03:36.439 --> 00:03:38.350 align:start position:0%
+do a little trick later to keep you from
+needing<00:03:36.680><c> to</c><00:03:36.879><c> hit</c><00:03:37.120><c> every</c><00:03:37.360><c> single</c><00:03:37.760><c> example</c><00:03:38.120><c> for</c>
+
+00:03:38.350 --> 00:03:38.360 align:start position:0%
+needing to hit every single example for
+ 
+
+00:03:38.360 --> 00:03:40.710 align:start position:0%
+needing to hit every single example for
+every<00:03:38.599><c> single</c><00:03:38.959><c> step</c><00:03:39.680><c> in</c><00:03:39.840><c> either</c><00:03:40.120><c> case</c><00:03:40.519><c> right</c>
+
+00:03:40.710 --> 00:03:40.720 align:start position:0%
+every single step in either case right
+ 
+
+00:03:40.720 --> 00:03:42.589 align:start position:0%
+every single step in either case right
+now<00:03:41.239><c> all</c><00:03:41.360><c> we're</c><00:03:41.519><c> going</c><00:03:41.599><c> to</c><00:03:41.760><c> do</c><00:03:41.959><c> is</c><00:03:42.120><c> focus</c><00:03:42.400><c> our</c>
+
+00:03:42.589 --> 00:03:42.599 align:start position:0%
+now all we're going to do is focus our
+ 
+
+00:03:42.599 --> 00:03:45.110 align:start position:0%
+now all we're going to do is focus our
+attention<00:03:42.959><c> on</c><00:03:43.239><c> one</c><00:03:43.599><c> single</c><00:03:44.080><c> example</c><00:03:44.920><c> this</c>
+
+00:03:45.110 --> 00:03:45.120 align:start position:0%
+attention on one single example this
+ 
+
+00:03:45.120 --> 00:03:47.789 align:start position:0%
+attention on one single example this
+image<00:03:45.360><c> of</c><00:03:45.480><c> a</c><00:03:45.680><c> two</c><00:03:46.680><c> what</c><00:03:46.920><c> effect</c><00:03:47.360><c> should</c><00:03:47.640><c> this</c>
+
+00:03:47.789 --> 00:03:47.799 align:start position:0%
+image of a two what effect should this
+ 
+
+00:03:47.799 --> 00:03:49.949 align:start position:0%
+image of a two what effect should this
+one<00:03:48.000><c> training</c><00:03:48.480><c> example</c><00:03:48.959><c> have</c><00:03:49.480><c> on</c><00:03:49.680><c> how</c><00:03:49.840><c> the</c>
+
+00:03:49.949 --> 00:03:49.959 align:start position:0%
+one training example have on how the
+ 
+
+00:03:49.959 --> 00:03:51.589 align:start position:0%
+one training example have on how the
+weights<00:03:50.200><c> and</c><00:03:50.360><c> biases</c><00:03:50.840><c> get</c>
+
+00:03:51.589 --> 00:03:51.599 align:start position:0%
+weights and biases get
+ 
+
+00:03:51.599 --> 00:03:53.390 align:start position:0%
+weights and biases get
+adjusted<00:03:52.599><c> let's</c><00:03:52.760><c> say</c><00:03:52.879><c> we're</c><00:03:53.040><c> at</c><00:03:53.120><c> a</c><00:03:53.239><c> point</c>
+
+00:03:53.390 --> 00:03:53.400 align:start position:0%
+adjusted let's say we're at a point
+ 
+
+00:03:53.400 --> 00:03:54.869 align:start position:0%
+adjusted let's say we're at a point
+where<00:03:53.480><c> the</c><00:03:53.599><c> network</c><00:03:53.959><c> is</c><00:03:54.120><c> not</c><00:03:54.280><c> well</c><00:03:54.480><c> trained</c>
+
+00:03:54.869 --> 00:03:54.879 align:start position:0%
+where the network is not well trained
+ 
+
+00:03:54.879 --> 00:03:56.670 align:start position:0%
+where the network is not well trained
+yet<00:03:55.159><c> so</c><00:03:55.319><c> the</c><00:03:55.480><c> activations</c><00:03:55.959><c> in</c><00:03:56.120><c> the</c><00:03:56.239><c> output</c><00:03:56.560><c> are</c>
+
+00:03:56.670 --> 00:03:56.680 align:start position:0%
+yet so the activations in the output are
+ 
+
+00:03:56.680 --> 00:03:58.190 align:start position:0%
+yet so the activations in the output are
+going<00:03:56.760><c> to</c><00:03:56.879><c> look</c><00:03:57.079><c> pretty</c><00:03:57.360><c> random</c><00:03:57.920><c> maybe</c>
+
+00:03:58.190 --> 00:03:58.200 align:start position:0%
+going to look pretty random maybe
+ 
+
+00:03:58.200 --> 00:04:02.550 align:start position:0%
+going to look pretty random maybe
+something<00:03:58.519><c> like</c><00:03:58.680><c> 0.5</c><00:03:59.400><c> 0</c><00:03:59.760><c> .8</c><00:04:00.280><c> 0.2</c><00:04:01.280><c> on</c><00:04:01.439><c> and</c><00:04:01.599><c> on</c>
+
+00:04:02.550 --> 00:04:02.560 align:start position:0%
+something like 0.5 0 .8 0.2 on and on
+ 
+
+00:04:02.560 --> 00:04:04.270 align:start position:0%
+something like 0.5 0 .8 0.2 on and on
+now<00:04:02.720><c> we</c><00:04:02.879><c> can't</c><00:04:03.200><c> directly</c><00:04:03.640><c> change</c><00:04:04.040><c> those</c>
+
+00:04:04.270 --> 00:04:04.280 align:start position:0%
+now we can't directly change those
+ 
+
+00:04:04.280 --> 00:04:06.190 align:start position:0%
+now we can't directly change those
+activations<00:04:05.120><c> we</c><00:04:05.239><c> only</c><00:04:05.439><c> have</c><00:04:05.640><c> influence</c><00:04:06.079><c> on</c>
+
+00:04:06.190 --> 00:04:06.200 align:start position:0%
+activations we only have influence on
+ 
+
+00:04:06.200 --> 00:04:08.390 align:start position:0%
+activations we only have influence on
+the<00:04:06.319><c> weights</c><00:04:06.560><c> and</c><00:04:06.720><c> biases</c><00:04:07.680><c> but</c><00:04:07.840><c> it</c><00:04:07.959><c> is</c><00:04:08.079><c> helpful</c>
+
+00:04:08.390 --> 00:04:08.400 align:start position:0%
+the weights and biases but it is helpful
+ 
+
+00:04:08.400 --> 00:04:10.270 align:start position:0%
+the weights and biases but it is helpful
+to<00:04:08.519><c> keep</c><00:04:08.720><c> track</c><00:04:09.000><c> of</c><00:04:09.200><c> which</c><00:04:09.360><c> adjustments</c><00:04:10.040><c> we</c>
+
+00:04:10.270 --> 00:04:10.280 align:start position:0%
+to keep track of which adjustments we
+ 
+
+00:04:10.280 --> 00:04:12.190 align:start position:0%
+to keep track of which adjustments we
+wish<00:04:10.680><c> should</c><00:04:10.920><c> take</c><00:04:11.200><c> place</c><00:04:11.360><c> to</c><00:04:11.560><c> that</c><00:04:11.720><c> output</c>
+
+00:04:12.190 --> 00:04:12.200 align:start position:0%
+wish should take place to that output
+ 
+
+00:04:12.200 --> 00:04:14.509 align:start position:0%
+wish should take place to that output
+layer<00:04:13.200><c> and</c><00:04:13.319><c> since</c><00:04:13.519><c> we</c><00:04:13.640><c> want</c><00:04:13.760><c> it</c><00:04:13.879><c> to</c><00:04:14.079><c> classify</c>
+
+00:04:14.509 --> 00:04:14.519 align:start position:0%
+layer and since we want it to classify
+ 
+
+00:04:14.519 --> 00:04:17.030 align:start position:0%
+layer and since we want it to classify
+the<00:04:14.640><c> image</c><00:04:14.879><c> as</c><00:04:15.000><c> a</c><00:04:15.159><c> two</c><00:04:15.959><c> we</c><00:04:16.079><c> want</c><00:04:16.400><c> that</c><00:04:16.600><c> third</c>
+
+00:04:17.030 --> 00:04:17.040 align:start position:0%
+the image as a two we want that third
+ 
+
+00:04:17.040 --> 00:04:19.710 align:start position:0%
+the image as a two we want that third
+value<00:04:17.440><c> to</c><00:04:17.560><c> get</c><00:04:17.720><c> nudged</c><00:04:18.280><c> up</c><00:04:19.040><c> while</c><00:04:19.280><c> all</c><00:04:19.400><c> of</c><00:04:19.560><c> the</c>
+
+00:04:19.710 --> 00:04:19.720 align:start position:0%
+value to get nudged up while all of the
+ 
+
+00:04:19.720 --> 00:04:23.030 align:start position:0%
+value to get nudged up while all of the
+others<00:04:20.120><c> get</c><00:04:20.280><c> nudged</c><00:04:21.000><c> down</c><00:04:22.000><c> moreover</c><00:04:22.759><c> the</c>
+
+00:04:23.030 --> 00:04:23.040 align:start position:0%
+others get nudged down moreover the
+ 
+
+00:04:23.040 --> 00:04:25.189 align:start position:0%
+others get nudged down moreover the
+sizes<00:04:23.520><c> of</c><00:04:23.800><c> these</c><00:04:23.960><c> nudges</c><00:04:24.800><c> should</c><00:04:25.000><c> be</c>
+
+00:04:25.189 --> 00:04:25.199 align:start position:0%
+sizes of these nudges should be
+ 
+
+00:04:25.199 --> 00:04:27.230 align:start position:0%
+sizes of these nudges should be
+proportional<00:04:25.759><c> to</c><00:04:26.040><c> how</c><00:04:26.320><c> far</c><00:04:26.560><c> away</c><00:04:27.000><c> each</c>
+
+00:04:27.230 --> 00:04:27.240 align:start position:0%
+proportional to how far away each
+ 
+
+00:04:27.240 --> 00:04:30.070 align:start position:0%
+proportional to how far away each
+current<00:04:27.680><c> value</c><00:04:28.080><c> is</c><00:04:28.400><c> from</c><00:04:28.560><c> its</c><00:04:28.759><c> Target</c><00:04:29.160><c> value</c>
+
+00:04:30.070 --> 00:04:30.080 align:start position:0%
+current value is from its Target value
+ 
+
+00:04:30.080 --> 00:04:32.230 align:start position:0%
+current value is from its Target value
+for<00:04:30.280><c> example</c><00:04:30.800><c> the</c><00:04:31.000><c> increase</c><00:04:31.479><c> to</c><00:04:31.720><c> that</c><00:04:31.960><c> number</c>
+
+00:04:32.230 --> 00:04:32.240 align:start position:0%
+for example the increase to that number
+ 
+
+00:04:32.240 --> 00:04:34.990 align:start position:0%
+for example the increase to that number
+two<00:04:32.520><c> neuron's</c><00:04:33.160><c> activation</c><00:04:34.160><c> is</c><00:04:34.280><c> in</c><00:04:34.400><c> a</c><00:04:34.560><c> sense</c>
+
+00:04:34.990 --> 00:04:35.000 align:start position:0%
+two neuron's activation is in a sense
+ 
+
+00:04:35.000 --> 00:04:37.150 align:start position:0%
+two neuron's activation is in a sense
+more<00:04:35.400><c> important</c><00:04:36.080><c> than</c><00:04:36.240><c> the</c><00:04:36.400><c> decrease</c><00:04:36.880><c> to</c><00:04:37.039><c> the</c>
+
+00:04:37.150 --> 00:04:37.160 align:start position:0%
+more important than the decrease to the
+ 
+
+00:04:37.160 --> 00:04:38.950 align:start position:0%
+more important than the decrease to the
+number<00:04:37.400><c> eight</c><00:04:37.680><c> neuron</c><00:04:38.400><c> which</c><00:04:38.520><c> is</c><00:04:38.680><c> already</c>
+
+00:04:38.950 --> 00:04:38.960 align:start position:0%
+number eight neuron which is already
+ 
+
+00:04:38.960 --> 00:04:40.870 align:start position:0%
+number eight neuron which is already
+pretty<00:04:39.240><c> close</c><00:04:39.479><c> to</c><00:04:39.639><c> where</c><00:04:39.800><c> it</c><00:04:39.919><c> should</c>
+
+00:04:40.870 --> 00:04:40.880 align:start position:0%
+pretty close to where it should
+ 
+
+00:04:40.880 --> 00:04:43.629 align:start position:0%
+pretty close to where it should
+be<00:04:41.880><c> so</c><00:04:42.039><c> zooming</c><00:04:42.360><c> in</c><00:04:42.560><c> further</c><00:04:42.960><c> let's</c><00:04:43.199><c> focus</c>
+
+00:04:43.629 --> 00:04:43.639 align:start position:0%
+be so zooming in further let's focus
+ 
+
+00:04:43.639 --> 00:04:45.749 align:start position:0%
+be so zooming in further let's focus
+just<00:04:43.840><c> on</c><00:04:44.039><c> this</c><00:04:44.199><c> one</c><00:04:44.440><c> neuron</c><00:04:45.160><c> the</c><00:04:45.240><c> one</c><00:04:45.400><c> whose</c>
+
+00:04:45.749 --> 00:04:45.759 align:start position:0%
+just on this one neuron the one whose
+ 
+
+00:04:45.759 --> 00:04:48.870 align:start position:0%
+just on this one neuron the one whose
+activation<00:04:46.240><c> we</c><00:04:46.400><c> wish</c><00:04:46.600><c> to</c><00:04:47.120><c> increase</c><00:04:48.120><c> remember</c>
+
+00:04:48.870 --> 00:04:48.880 align:start position:0%
+activation we wish to increase remember
+ 
+
+00:04:48.880 --> 00:04:51.070 align:start position:0%
+activation we wish to increase remember
+that<00:04:49.080><c> activation</c><00:04:49.680><c> is</c><00:04:49.880><c> defined</c><00:04:50.360><c> as</c><00:04:50.479><c> a</c><00:04:50.639><c> certain</c>
+
+00:04:51.070 --> 00:04:51.080 align:start position:0%
+that activation is defined as a certain
+ 
+
+00:04:51.080 --> 00:04:53.670 align:start position:0%
+that activation is defined as a certain
+weighted<00:04:51.520><c> sum</c><00:04:52.240><c> of</c><00:04:52.520><c> all</c><00:04:52.720><c> of</c><00:04:52.880><c> the</c><00:04:53.080><c> activations</c>
+
+00:04:53.670 --> 00:04:53.680 align:start position:0%
+weighted sum of all of the activations
+ 
+
+00:04:53.680 --> 00:04:56.469 align:start position:0%
+weighted sum of all of the activations
+in<00:04:53.800><c> the</c><00:04:53.960><c> previous</c><00:04:54.320><c> layer</c><00:04:55.080><c> plus</c><00:04:55.240><c> a</c><00:04:55.440><c> bias</c><00:04:56.360><c> which</c>
+
+00:04:56.469 --> 00:04:56.479 align:start position:0%
+in the previous layer plus a bias which
+ 
+
+00:04:56.479 --> 00:04:58.270 align:start position:0%
+in the previous layer plus a bias which
+is<00:04:56.680><c> all</c><00:04:56.880><c> then</c><00:04:57.080><c> plugged</c><00:04:57.400><c> into</c><00:04:57.720><c> something</c><00:04:58.080><c> like</c>
+
+00:04:58.270 --> 00:04:58.280 align:start position:0%
+is all then plugged into something like
+ 
+
+00:04:58.280 --> 00:05:01.790 align:start position:0%
+is all then plugged into something like
+the<00:04:58.440><c> sigmoid</c><00:04:58.919><c> squish</c><00:04:59.800><c> function</c><00:05:00.199><c> or</c><00:05:00.400><c> a</c><00:05:00.800><c> railu</c>
+
+00:05:01.790 --> 00:05:01.800 align:start position:0%
+the sigmoid squish function or a railu
+ 
+
+00:05:01.800 --> 00:05:04.029 align:start position:0%
+the sigmoid squish function or a railu
+so<00:05:02.320><c> there</c><00:05:02.440><c> are</c><00:05:02.840><c> three</c><00:05:03.160><c> different</c><00:05:03.520><c> avenues</c>
+
+00:05:04.029 --> 00:05:04.039 align:start position:0%
+so there are three different avenues
+ 
+
+00:05:04.039 --> 00:05:05.749 align:start position:0%
+so there are three different avenues
+that<00:05:04.160><c> can</c><00:05:04.280><c> team</c><00:05:04.600><c> up</c><00:05:04.919><c> together</c><00:05:05.240><c> to</c><00:05:05.400><c> help</c>
+
+00:05:05.749 --> 00:05:05.759 align:start position:0%
+that can team up together to help
+ 
+
+00:05:05.759 --> 00:05:07.950 align:start position:0%
+that can team up together to help
+increase<00:05:06.240><c> that</c><00:05:06.680><c> activation</c><00:05:07.680><c> you</c><00:05:07.759><c> can</c>
+
+00:05:07.950 --> 00:05:07.960 align:start position:0%
+increase that activation you can
+ 
+
+00:05:07.960 --> 00:05:10.070 align:start position:0%
+increase that activation you can
+increase<00:05:08.320><c> the</c><00:05:08.479><c> bias</c><00:05:09.280><c> you</c><00:05:09.360><c> can</c><00:05:09.560><c> increase</c><00:05:09.960><c> the</c>
+
+00:05:10.070 --> 00:05:10.080 align:start position:0%
+increase the bias you can increase the
+ 
+
+00:05:10.080 --> 00:05:12.029 align:start position:0%
+increase the bias you can increase the
+weights<00:05:10.919><c> and</c><00:05:11.039><c> you</c><00:05:11.120><c> can</c><00:05:11.360><c> change</c><00:05:11.800><c> the</c>
+
+00:05:12.029 --> 00:05:12.039 align:start position:0%
+weights and you can change the
+ 
+
+00:05:12.039 --> 00:05:14.830 align:start position:0%
+weights and you can change the
+activations<00:05:12.800><c> from</c><00:05:12.960><c> the</c><00:05:13.160><c> previous</c><00:05:13.840><c> layer</c>
+
+00:05:14.830 --> 00:05:14.840 align:start position:0%
+activations from the previous layer
+ 
+
+00:05:14.840 --> 00:05:16.590 align:start position:0%
+activations from the previous layer
+focusing<00:05:15.320><c> just</c><00:05:15.440><c> on</c><00:05:15.680><c> how</c><00:05:15.840><c> the</c><00:05:15.960><c> weights</c><00:05:16.400><c> should</c>
+
+00:05:16.590 --> 00:05:16.600 align:start position:0%
+focusing just on how the weights should
+ 
+
+00:05:16.600 --> 00:05:18.710 align:start position:0%
+focusing just on how the weights should
+be<00:05:16.800><c> adjusted</c><00:05:17.759><c> notice</c><00:05:18.039><c> how</c><00:05:18.199><c> the</c><00:05:18.319><c> weights</c>
+
+00:05:18.710 --> 00:05:18.720 align:start position:0%
+be adjusted notice how the weights
+ 
+
+00:05:18.720 --> 00:05:20.309 align:start position:0%
+be adjusted notice how the weights
+actually<00:05:19.000><c> have</c><00:05:19.280><c> differing</c><00:05:19.759><c> levels</c><00:05:20.080><c> of</c>
+
+00:05:20.309 --> 00:05:20.319 align:start position:0%
+actually have differing levels of
+ 
+
+00:05:20.319 --> 00:05:22.189 align:start position:0%
+actually have differing levels of
+influence<00:05:21.319><c> the</c><00:05:21.479><c> connections</c><00:05:21.919><c> with</c><00:05:22.080><c> the</c>
+
+00:05:22.189 --> 00:05:22.199 align:start position:0%
+influence the connections with the
+ 
+
+00:05:22.199 --> 00:05:23.790 align:start position:0%
+influence the connections with the
+brightest<00:05:22.560><c> neurons</c><00:05:23.039><c> from</c><00:05:23.199><c> the</c><00:05:23.319><c> preceding</c>
+
+00:05:23.790 --> 00:05:23.800 align:start position:0%
+brightest neurons from the preceding
+ 
+
+00:05:23.800 --> 00:05:25.950 align:start position:0%
+brightest neurons from the preceding
+layer<00:05:24.400><c> have</c><00:05:24.560><c> the</c><00:05:24.720><c> biggest</c><00:05:25.199><c> effect</c><00:05:25.680><c> since</c>
+
+00:05:25.950 --> 00:05:25.960 align:start position:0%
+layer have the biggest effect since
+ 
+
+00:05:25.960 --> 00:05:27.909 align:start position:0%
+layer have the biggest effect since
+those<00:05:26.120><c> weights</c><00:05:26.400><c> are</c><00:05:26.600><c> multiplied</c><00:05:27.280><c> by</c><00:05:27.440><c> larger</c>
+
+00:05:27.909 --> 00:05:27.919 align:start position:0%
+those weights are multiplied by larger
+ 
+
+00:05:27.919 --> 00:05:31.230 align:start position:0%
+those weights are multiplied by larger
+activation<00:05:28.560><c> values</c>
+
+00:05:31.230 --> 00:05:31.240 align:start position:0%
+activation values
+ 
+
+00:05:31.240 --> 00:05:32.790 align:start position:0%
+activation values
+so<00:05:31.479><c> if</c><00:05:31.560><c> you</c><00:05:31.680><c> were</c><00:05:31.800><c> to</c><00:05:31.960><c> increase</c><00:05:32.360><c> one</c><00:05:32.479><c> of</c><00:05:32.639><c> those</c>
+
+00:05:32.790 --> 00:05:32.800 align:start position:0%
+so if you were to increase one of those
+ 
+
+00:05:32.800 --> 00:05:34.950 align:start position:0%
+so if you were to increase one of those
+weights<00:05:33.440><c> it</c><00:05:33.639><c> actually</c><00:05:33.919><c> has</c><00:05:34.120><c> a</c><00:05:34.520><c> stronger</c>
+
+00:05:34.950 --> 00:05:34.960 align:start position:0%
+weights it actually has a stronger
+ 
+
+00:05:34.960 --> 00:05:37.309 align:start position:0%
+weights it actually has a stronger
+influence<00:05:35.479><c> on</c><00:05:35.639><c> the</c><00:05:35.800><c> ultimate</c><00:05:36.240><c> cost</c><00:05:36.560><c> function</c>
+
+00:05:37.309 --> 00:05:37.319 align:start position:0%
+influence on the ultimate cost function
+ 
+
+00:05:37.319 --> 00:05:38.710 align:start position:0%
+influence on the ultimate cost function
+than<00:05:37.680><c> increasing</c><00:05:38.120><c> the</c><00:05:38.240><c> weights</c><00:05:38.520><c> of</c>
+
+00:05:38.710 --> 00:05:38.720 align:start position:0%
+than increasing the weights of
+ 
+
+00:05:38.720 --> 00:05:41.150 align:start position:0%
+than increasing the weights of
+connections<00:05:39.319><c> with</c><00:05:39.520><c> dimmer</c><00:05:39.919><c> neurons</c><00:05:40.759><c> at</c><00:05:40.880><c> least</c>
+
+00:05:41.150 --> 00:05:41.160 align:start position:0%
+connections with dimmer neurons at least
+ 
+
+00:05:41.160 --> 00:05:43.350 align:start position:0%
+connections with dimmer neurons at least
+as<00:05:41.280><c> far</c><00:05:41.400><c> as</c><00:05:41.560><c> this</c><00:05:41.720><c> one</c><00:05:41.960><c> training</c><00:05:42.400><c> example</c><00:05:42.800><c> is</c>
+
+00:05:43.350 --> 00:05:43.360 align:start position:0%
+as far as this one training example is
+ 
+
+00:05:43.360 --> 00:05:45.670 align:start position:0%
+as far as this one training example is
+concerned<00:05:44.360><c> remember</c><00:05:44.880><c> when</c><00:05:45.039><c> we</c><00:05:45.199><c> talk</c><00:05:45.360><c> about</c>
+
+00:05:45.670 --> 00:05:45.680 align:start position:0%
+concerned remember when we talk about
+ 
+
+00:05:45.680 --> 00:05:47.469 align:start position:0%
+concerned remember when we talk about
+gradient<00:05:46.080><c> descent</c><00:05:46.800><c> we</c><00:05:46.919><c> don't</c><00:05:47.080><c> just</c><00:05:47.280><c> care</c>
+
+00:05:47.469 --> 00:05:47.479 align:start position:0%
+gradient descent we don't just care
+ 
+
+00:05:47.479 --> 00:05:48.909 align:start position:0%
+gradient descent we don't just care
+about<00:05:47.800><c> whether</c><00:05:48.039><c> each</c><00:05:48.280><c> component</c><00:05:48.639><c> should</c><00:05:48.800><c> get</c>
+
+00:05:48.909 --> 00:05:48.919 align:start position:0%
+about whether each component should get
+ 
+
+00:05:48.919 --> 00:05:51.390 align:start position:0%
+about whether each component should get
+nudged<00:05:49.360><c> up</c><00:05:49.520><c> or</c><00:05:49.759><c> down</c><00:05:50.560><c> we</c><00:05:50.720><c> care</c><00:05:50.919><c> about</c><00:05:51.240><c> which</c>
+
+00:05:51.390 --> 00:05:51.400 align:start position:0%
+nudged up or down we care about which
+ 
+
+00:05:51.400 --> 00:05:54.350 align:start position:0%
+nudged up or down we care about which
+ones<00:05:51.680><c> give</c><00:05:51.840><c> you</c><00:05:51.960><c> the</c><00:05:52.080><c> most</c><00:05:52.319><c> bang</c><00:05:52.600><c> for</c><00:05:52.800><c> your</c>
+
+00:05:54.350 --> 00:05:54.360 align:start position:0%
+ones give you the most bang for your
+ 
+
+00:05:54.360 --> 00:05:56.790 align:start position:0%
+ones give you the most bang for your
+butt<00:05:55.360><c> this</c><00:05:55.639><c> by</c><00:05:55.759><c> the</c><00:05:55.880><c> way</c><00:05:56.120><c> is</c><00:05:56.280><c> at</c><00:05:56.400><c> least</c>
+
+00:05:56.790 --> 00:05:56.800 align:start position:0%
+butt this by the way is at least
+ 
+
+00:05:56.800 --> 00:05:58.550 align:start position:0%
+butt this by the way is at least
+somewhat<00:05:57.240><c> reminiscent</c><00:05:57.840><c> of</c><00:05:57.960><c> a</c><00:05:58.120><c> theory</c><00:05:58.400><c> in</c>
+
+00:05:58.550 --> 00:05:58.560 align:start position:0%
+somewhat reminiscent of a theory in
+ 
+
+00:05:58.560 --> 00:06:00.590 align:start position:0%
+somewhat reminiscent of a theory in
+Neuroscience<00:05:59.199><c> for</c><00:05:59.319><c> how</c><00:05:59.680><c> biological</c><00:06:00.240><c> networks</c>
+
+00:06:00.590 --> 00:06:00.600 align:start position:0%
+Neuroscience for how biological networks
+ 
+
+00:06:00.600 --> 00:06:03.230 align:start position:0%
+Neuroscience for how biological networks
+of<00:06:00.759><c> neurons</c><00:06:01.160><c> learn</c><00:06:01.800><c> heian</c><00:06:02.280><c> theory</c><00:06:03.039><c> often</c>
+
+00:06:03.230 --> 00:06:03.240 align:start position:0%
+of neurons learn heian theory often
+ 
+
+00:06:03.240 --> 00:06:04.950 align:start position:0%
+of neurons learn heian theory often
+summed<00:06:03.560><c> up</c><00:06:03.720><c> in</c><00:06:03.800><c> the</c><00:06:03.919><c> phrase</c><00:06:04.319><c> neurons</c><00:06:04.800><c> that</c>
+
+00:06:04.950 --> 00:06:04.960 align:start position:0%
+summed up in the phrase neurons that
+ 
+
+00:06:04.960 --> 00:06:07.830 align:start position:0%
+summed up in the phrase neurons that
+fire<00:06:05.400><c> together</c><00:06:05.720><c> wire</c><00:06:06.240><c> together</c><00:06:07.240><c> here</c><00:06:07.599><c> the</c>
+
+00:06:07.830 --> 00:06:07.840 align:start position:0%
+fire together wire together here the
+ 
+
+00:06:07.840 --> 00:06:10.110 align:start position:0%
+fire together wire together here the
+biggest<00:06:08.240><c> increases</c><00:06:08.759><c> to</c><00:06:08.960><c> weights</c><00:06:09.560><c> the</c><00:06:09.680><c> biggest</c>
+
+00:06:10.110 --> 00:06:10.120 align:start position:0%
+biggest increases to weights the biggest
+ 
+
+00:06:10.120 --> 00:06:12.510 align:start position:0%
+biggest increases to weights the biggest
+strengthening<00:06:10.800><c> of</c><00:06:11.160><c> connections</c><00:06:12.160><c> happens</c>
+
+00:06:12.510 --> 00:06:12.520 align:start position:0%
+strengthening of connections happens
+ 
+
+00:06:12.520 --> 00:06:14.070 align:start position:0%
+strengthening of connections happens
+between<00:06:12.840><c> neurons</c><00:06:13.360><c> which</c><00:06:13.479><c> are</c><00:06:13.599><c> the</c><00:06:13.759><c> most</c>
+
+00:06:14.070 --> 00:06:14.080 align:start position:0%
+between neurons which are the most
+ 
+
+00:06:14.080 --> 00:06:16.270 align:start position:0%
+between neurons which are the most
+active<00:06:14.800><c> and</c><00:06:14.919><c> the</c><00:06:15.039><c> ones</c><00:06:15.319><c> which</c><00:06:15.560><c> we</c><00:06:15.840><c> wish</c><00:06:16.080><c> to</c>
+
+00:06:16.270 --> 00:06:16.280 align:start position:0%
+active and the ones which we wish to
+ 
+
+00:06:16.280 --> 00:06:18.629 align:start position:0%
+active and the ones which we wish to
+become<00:06:16.680><c> more</c><00:06:17.000><c> active</c><00:06:17.960><c> in</c><00:06:18.080><c> a</c><00:06:18.240><c> sense</c><00:06:18.520><c> the</c>
+
+00:06:18.629 --> 00:06:18.639 align:start position:0%
+become more active in a sense the
+ 
+
+00:06:18.639 --> 00:06:20.430 align:start position:0%
+become more active in a sense the
+neurons<00:06:19.000><c> that</c><00:06:19.120><c> are</c><00:06:19.240><c> firing</c><00:06:19.720><c> while</c><00:06:19.919><c> seeing</c><00:06:20.280><c> a</c>
+
+00:06:20.430 --> 00:06:20.440 align:start position:0%
+neurons that are firing while seeing a
+ 
+
+00:06:20.440 --> 00:06:22.589 align:start position:0%
+neurons that are firing while seeing a
+two<00:06:21.000><c> get</c><00:06:21.199><c> more</c><00:06:21.479><c> strongly</c><00:06:21.759><c> linked</c><00:06:22.199><c> to</c><00:06:22.360><c> those</c>
+
+00:06:22.589 --> 00:06:22.599 align:start position:0%
+two get more strongly linked to those
+ 
+
+00:06:22.599 --> 00:06:25.589 align:start position:0%
+two get more strongly linked to those
+firing<00:06:23.080><c> when</c><00:06:23.400><c> thinking</c><00:06:23.840><c> about</c><00:06:24.039><c> a</c><00:06:24.319><c> to</c><00:06:25.319><c> to</c><00:06:25.440><c> be</c>
+
+00:06:25.589 --> 00:06:25.599 align:start position:0%
+firing when thinking about a to to be
+ 
+
+00:06:25.599 --> 00:06:27.309 align:start position:0%
+firing when thinking about a to to be
+clear<00:06:25.960><c> I</c><00:06:26.160><c> really</c><00:06:26.360><c> am</c><00:06:26.479><c> not</c><00:06:26.639><c> in</c><00:06:26.759><c> a</c><00:06:26.919><c> position</c><00:06:27.160><c> to</c>
+
+00:06:27.309 --> 00:06:27.319 align:start position:0%
+clear I really am not in a position to
+ 
+
+00:06:27.319 --> 00:06:28.990 align:start position:0%
+clear I really am not in a position to
+make<00:06:27.479><c> statements</c><00:06:27.960><c> one</c><00:06:28.120><c> way</c><00:06:28.240><c> or</c><00:06:28.400><c> another</c><00:06:28.720><c> about</c>
+
+00:06:28.990 --> 00:06:29.000 align:start position:0%
+make statements one way or another about
+ 
+
+00:06:29.000 --> 00:06:30.629 align:start position:0%
+make statements one way or another about
+whether<00:06:29.199><c> artif</c><00:06:29.560><c> IAL</c><00:06:29.800><c> networks</c><00:06:30.120><c> of</c><00:06:30.240><c> neurons</c>
+
+00:06:30.629 --> 00:06:30.639 align:start position:0%
+whether artif IAL networks of neurons
+ 
+
+00:06:30.639 --> 00:06:32.990 align:start position:0%
+whether artif IAL networks of neurons
+behave<00:06:31.000><c> anything</c><00:06:31.400><c> like</c><00:06:31.599><c> biological</c><00:06:32.199><c> brains</c>
+
+00:06:32.990 --> 00:06:33.000 align:start position:0%
+behave anything like biological brains
+ 
+
+00:06:33.000 --> 00:06:34.670 align:start position:0%
+behave anything like biological brains
+and<00:06:33.160><c> this</c><00:06:33.319><c> fires</c><00:06:33.800><c> together</c><00:06:34.039><c> wire</c><00:06:34.440><c> together</c>
+
+00:06:34.670 --> 00:06:34.680 align:start position:0%
+and this fires together wire together
+ 
+
+00:06:34.680 --> 00:06:36.270 align:start position:0%
+and this fires together wire together
+idea<00:06:35.039><c> comes</c><00:06:35.280><c> with</c><00:06:35.400><c> a</c><00:06:35.520><c> couple</c><00:06:35.759><c> meaningful</c>
+
+00:06:36.270 --> 00:06:36.280 align:start position:0%
+idea comes with a couple meaningful
+ 
+
+00:06:36.280 --> 00:06:38.710 align:start position:0%
+idea comes with a couple meaningful
+asterisks<00:06:37.280><c> but</c><00:06:37.720><c> taken</c><00:06:38.039><c> as</c><00:06:38.120><c> a</c><00:06:38.280><c> very</c><00:06:38.440><c> loose</c>
+
+00:06:38.710 --> 00:06:38.720 align:start position:0%
+asterisks but taken as a very loose
+ 
+
+00:06:38.720 --> 00:06:41.870 align:start position:0%
+asterisks but taken as a very loose
+analogy<00:06:39.440><c> I</c><00:06:39.599><c> do</c><00:06:39.759><c> find</c><00:06:39.960><c> it</c><00:06:40.120><c> interesting</c><00:06:40.520><c> to</c><00:06:40.880><c> note</c>
+
+00:06:41.870 --> 00:06:41.880 align:start position:0%
+analogy I do find it interesting to note
+ 
+
+00:06:41.880 --> 00:06:43.870 align:start position:0%
+analogy I do find it interesting to note
+anyway<00:06:42.639><c> the</c><00:06:42.800><c> third</c><00:06:43.080><c> way</c><00:06:43.240><c> that</c><00:06:43.360><c> we</c><00:06:43.440><c> can</c><00:06:43.599><c> help</c>
+
+00:06:43.870 --> 00:06:43.880 align:start position:0%
+anyway the third way that we can help
+ 
+
+00:06:43.880 --> 00:06:46.270 align:start position:0%
+anyway the third way that we can help
+increase<00:06:44.319><c> this</c><00:06:44.479><c> neuron's</c><00:06:44.960><c> activation</c><00:06:45.919><c> is</c><00:06:46.120><c> by</c>
+
+00:06:46.270 --> 00:06:46.280 align:start position:0%
+increase this neuron's activation is by
+ 
+
+00:06:46.280 --> 00:06:48.070 align:start position:0%
+increase this neuron's activation is by
+changing<00:06:46.800><c> all</c><00:06:47.000><c> the</c><00:06:47.199><c> activations</c><00:06:47.800><c> in</c><00:06:47.919><c> the</c>
+
+00:06:48.070 --> 00:06:48.080 align:start position:0%
+changing all the activations in the
+ 
+
+00:06:48.080 --> 00:06:50.710 align:start position:0%
+changing all the activations in the
+previous<00:06:48.520><c> layer</c><00:06:49.520><c> namely</c><00:06:50.080><c> if</c><00:06:50.319><c> everything</c>
+
+00:06:50.710 --> 00:06:50.720 align:start position:0%
+previous layer namely if everything
+ 
+
+00:06:50.720 --> 00:06:52.909 align:start position:0%
+previous layer namely if everything
+connected<00:06:51.199><c> to</c><00:06:51.360><c> that</c><00:06:51.520><c> digit</c><00:06:51.800><c> 2</c><00:06:52.039><c> neuron</c><00:06:52.560><c> with</c><00:06:52.680><c> a</c>
+
+00:06:52.909 --> 00:06:52.919 align:start position:0%
+connected to that digit 2 neuron with a
+ 
+
+00:06:52.919 --> 00:06:55.189 align:start position:0%
+connected to that digit 2 neuron with a
+positive<00:06:53.280><c> weight</c><00:06:53.759><c> got</c><00:06:53.960><c> brighter</c><00:06:54.880><c> and</c><00:06:55.000><c> if</c>
+
+00:06:55.189 --> 00:06:55.199 align:start position:0%
+positive weight got brighter and if
+ 
+
+00:06:55.199 --> 00:06:56.629 align:start position:0%
+positive weight got brighter and if
+everything<00:06:55.520><c> connected</c><00:06:55.960><c> with</c><00:06:56.080><c> a</c><00:06:56.280><c> negative</c>
+
+00:06:56.629 --> 00:06:56.639 align:start position:0%
+everything connected with a negative
+ 
+
+00:06:56.639 --> 00:06:59.029 align:start position:0%
+everything connected with a negative
+weight<00:06:57.039><c> got</c><00:06:57.280><c> dimmer</c><00:06:58.240><c> then</c><00:06:58.400><c> that</c><00:06:58.560><c> digit</c><00:06:58.840><c> 2</c>
+
+00:06:59.029 --> 00:06:59.039 align:start position:0%
+weight got dimmer then that digit 2
+ 
+
+00:06:59.039 --> 00:07:01.430 align:start position:0%
+weight got dimmer then that digit 2
+neuron<00:06:59.360><c> would</c><00:06:59.720><c> become</c><00:07:00.000><c> more</c>
+
+00:07:01.430 --> 00:07:01.440 align:start position:0%
+neuron would become more
+ 
+
+00:07:01.440 --> 00:07:04.150 align:start position:0%
+neuron would become more
+active<00:07:02.440><c> and</c><00:07:02.680><c> similar</c><00:07:03.039><c> to</c><00:07:03.160><c> the</c><00:07:03.319><c> weight</c><00:07:03.520><c> changes</c>
+
+00:07:04.150 --> 00:07:04.160 align:start position:0%
+active and similar to the weight changes
+ 
+
+00:07:04.160 --> 00:07:05.469 align:start position:0%
+active and similar to the weight changes
+you're<00:07:04.319><c> going</c><00:07:04.400><c> to</c><00:07:04.560><c> get</c><00:07:04.680><c> the</c><00:07:04.800><c> most</c><00:07:05.000><c> bang</c><00:07:05.280><c> for</c>
+
+00:07:05.469 --> 00:07:05.479 align:start position:0%
+you're going to get the most bang for
+ 
+
+00:07:05.479 --> 00:07:07.350 align:start position:0%
+you're going to get the most bang for
+your<00:07:05.639><c> buck</c><00:07:06.080><c> by</c><00:07:06.199><c> seeking</c><00:07:06.560><c> changes</c><00:07:07.000><c> that</c><00:07:07.120><c> are</c>
+
+00:07:07.350 --> 00:07:07.360 align:start position:0%
+your buck by seeking changes that are
+ 
+
+00:07:07.360 --> 00:07:09.150 align:start position:0%
+your buck by seeking changes that are
+proportional<00:07:08.160><c> to</c><00:07:08.360><c> the</c><00:07:08.560><c> size</c><00:07:08.840><c> of</c><00:07:09.000><c> the</c>
+
+00:07:09.150 --> 00:07:09.160 align:start position:0%
+proportional to the size of the
+ 
+
+00:07:09.160 --> 00:07:11.029 align:start position:0%
+proportional to the size of the
+corresponding
+
+00:07:11.029 --> 00:07:11.039 align:start position:0%
+corresponding
+ 
+
+00:07:11.039 --> 00:07:13.670 align:start position:0%
+corresponding
+weights<00:07:12.039><c> now</c><00:07:12.160><c> of</c><00:07:12.319><c> course</c><00:07:12.680><c> we</c><00:07:12.840><c> cannot</c><00:07:13.240><c> directly</c>
+
+00:07:13.670 --> 00:07:13.680 align:start position:0%
+weights now of course we cannot directly
+ 
+
+00:07:13.680 --> 00:07:15.869 align:start position:0%
+weights now of course we cannot directly
+influence<00:07:14.199><c> those</c><00:07:14.440><c> activations</c><00:07:15.240><c> we</c><00:07:15.360><c> only</c><00:07:15.680><c> have</c>
+
+00:07:15.869 --> 00:07:15.879 align:start position:0%
+influence those activations we only have
+ 
+
+00:07:15.879 --> 00:07:18.309 align:start position:0%
+influence those activations we only have
+control<00:07:16.280><c> over</c><00:07:16.479><c> the</c><00:07:16.560><c> weights</c><00:07:16.800><c> and</c><00:07:17.160><c> biases</c><00:07:18.160><c> but</c>
+
+00:07:18.309 --> 00:07:18.319 align:start position:0%
+control over the weights and biases but
+ 
+
+00:07:18.319 --> 00:07:20.589 align:start position:0%
+control over the weights and biases but
+just<00:07:18.479><c> as</c><00:07:18.680><c> with</c><00:07:18.840><c> the</c><00:07:19.120><c> last</c><00:07:19.440><c> layer</c><00:07:20.120><c> it's</c><00:07:20.319><c> helpful</c>
+
+00:07:20.589 --> 00:07:20.599 align:start position:0%
+just as with the last layer it's helpful
+ 
+
+00:07:20.599 --> 00:07:22.510 align:start position:0%
+just as with the last layer it's helpful
+to<00:07:20.759><c> just</c><00:07:20.919><c> keep</c><00:07:21.080><c> a</c><00:07:21.240><c> note</c><00:07:21.560><c> of</c><00:07:21.759><c> what</c><00:07:21.919><c> those</c><00:07:22.120><c> desire</c>
+
+00:07:22.510 --> 00:07:22.520 align:start position:0%
+to just keep a note of what those desire
+ 
+
+00:07:22.520 --> 00:07:25.510 align:start position:0%
+to just keep a note of what those desire
+changes<00:07:23.360><c> are</c><00:07:24.360><c> but</c><00:07:24.520><c> keep</c><00:07:24.680><c> in</c><00:07:24.800><c> mind</c><00:07:25.039><c> zooming</c><00:07:25.360><c> out</c>
+
+00:07:25.510 --> 00:07:25.520 align:start position:0%
+changes are but keep in mind zooming out
+ 
+
+00:07:25.520 --> 00:07:27.350 align:start position:0%
+changes are but keep in mind zooming out
+one<00:07:25.759><c> step</c><00:07:26.039><c> here</c><00:07:26.440><c> this</c><00:07:26.560><c> is</c><00:07:26.720><c> only</c><00:07:27.000><c> what</c><00:07:27.160><c> that</c>
+
+00:07:27.350 --> 00:07:27.360 align:start position:0%
+one step here this is only what that
+ 
+
+00:07:27.360 --> 00:07:30.350 align:start position:0%
+one step here this is only what that
+digit<00:07:27.639><c> 2</c><00:07:28.000><c> output</c><00:07:28.360><c> neuron</c><00:07:28.800><c> wants</c><00:07:29.680><c> remember</c><00:07:30.199><c> we</c>
+
+00:07:30.350 --> 00:07:30.360 align:start position:0%
+digit 2 output neuron wants remember we
+ 
+
+00:07:30.360 --> 00:07:32.189 align:start position:0%
+digit 2 output neuron wants remember we
+also<00:07:30.599><c> want</c><00:07:30.960><c> all</c><00:07:31.120><c> of</c><00:07:31.280><c> the</c><00:07:31.440><c> other</c><00:07:31.680><c> neurons</c><00:07:32.080><c> in</c>
+
+00:07:32.189 --> 00:07:32.199 align:start position:0%
+also want all of the other neurons in
+ 
+
+00:07:32.199 --> 00:07:34.869 align:start position:0%
+also want all of the other neurons in
+the<00:07:32.360><c> last</c><00:07:32.560><c> layer</c><00:07:32.879><c> to</c><00:07:33.039><c> become</c><00:07:33.479><c> less</c><00:07:33.879><c> active</c><00:07:34.720><c> and</c>
+
+00:07:34.869 --> 00:07:34.879 align:start position:0%
+the last layer to become less active and
+ 
+
+00:07:34.879 --> 00:07:36.550 align:start position:0%
+the last layer to become less active and
+each<00:07:35.039><c> of</c><00:07:35.199><c> those</c><00:07:35.360><c> other</c><00:07:35.560><c> output</c><00:07:35.919><c> neurons</c><00:07:36.440><c> has</c>
+
+00:07:36.550 --> 00:07:36.560 align:start position:0%
+each of those other output neurons has
+ 
+
+00:07:36.560 --> 00:07:37.869 align:start position:0%
+each of those other output neurons has
+its<00:07:36.680><c> own</c><00:07:36.919><c> thoughts</c><00:07:37.199><c> about</c><00:07:37.560><c> what</c><00:07:37.680><c> should</c>
+
+00:07:37.869 --> 00:07:37.879 align:start position:0%
+its own thoughts about what should
+ 
+
+00:07:37.879 --> 00:07:42.110 align:start position:0%
+its own thoughts about what should
+happen<00:07:38.120><c> to</c><00:07:38.319><c> that</c><00:07:38.479><c> second</c><00:07:38.759><c> to</c><00:07:38.960><c> last</c>
+
+00:07:42.110 --> 00:07:42.120 align:start position:0%
+ 
+ 
+
+00:07:42.120 --> 00:07:45.189 align:start position:0%
+ 
+layer<00:07:43.120><c> so</c><00:07:43.639><c> the</c><00:07:43.800><c> desire</c><00:07:44.280><c> of</c><00:07:44.479><c> this</c><00:07:44.680><c> digit</c><00:07:44.960><c> 2</c>
+
+00:07:45.189 --> 00:07:45.199 align:start position:0%
+layer so the desire of this digit 2
+ 
+
+00:07:45.199 --> 00:07:47.830 align:start position:0%
+layer so the desire of this digit 2
+neuron<00:07:46.080><c> is</c><00:07:46.360><c> added</c><00:07:46.919><c> together</c><00:07:47.520><c> with</c><00:07:47.639><c> the</c>
+
+00:07:47.830 --> 00:07:47.840 align:start position:0%
+neuron is added together with the
+ 
+
+00:07:47.840 --> 00:07:50.390 align:start position:0%
+neuron is added together with the
+desires<00:07:48.360><c> of</c><00:07:48.599><c> all</c><00:07:48.840><c> the</c><00:07:49.000><c> other</c><00:07:49.240><c> output</c><00:07:49.639><c> neurons</c>
+
+00:07:50.390 --> 00:07:50.400 align:start position:0%
+desires of all the other output neurons
+ 
+
+00:07:50.400 --> 00:07:52.390 align:start position:0%
+desires of all the other output neurons
+for<00:07:50.720><c> what</c><00:07:50.840><c> should</c><00:07:51.120><c> happen</c><00:07:51.479><c> to</c><00:07:51.720><c> this</c><00:07:51.879><c> second</c><00:07:52.159><c> to</c>
+
+00:07:52.390 --> 00:07:52.400 align:start position:0%
+for what should happen to this second to
+ 
+
+00:07:52.400 --> 00:07:54.990 align:start position:0%
+for what should happen to this second to
+last<00:07:52.680><c> layer</c><00:07:53.680><c> again</c><00:07:54.120><c> in</c><00:07:54.319><c> proportion</c><00:07:54.720><c> to</c><00:07:54.879><c> the</c>
+
+00:07:54.990 --> 00:07:55.000 align:start position:0%
+last layer again in proportion to the
+ 
+
+00:07:55.000 --> 00:07:57.869 align:start position:0%
+last layer again in proportion to the
+corresponding<00:07:55.599><c> weights</c><00:07:56.520><c> and</c><00:07:57.199><c> in</c><00:07:57.400><c> proportion</c>
+
+00:07:57.869 --> 00:07:57.879 align:start position:0%
+corresponding weights and in proportion
+ 
+
+00:07:57.879 --> 00:08:00.589 align:start position:0%
+corresponding weights and in proportion
+to<00:07:58.199><c> how</c><00:07:58.440><c> much</c><00:07:58.720><c> each</c><00:07:58.879><c> of</c><00:07:59.000><c> those</c><00:07:59.159><c> neur</c><00:07:59.840><c> needs</c><00:08:00.080><c> to</c>
+
+00:08:00.589 --> 00:08:00.599 align:start position:0%
+to how much each of those neur needs to
+ 
+
+00:08:00.599 --> 00:08:03.189 align:start position:0%
+to how much each of those neur needs to
+change<00:08:01.599><c> this</c><00:08:01.840><c> right</c><00:08:02.039><c> here</c><00:08:02.400><c> is</c><00:08:02.560><c> where</c><00:08:02.759><c> the</c><00:08:02.879><c> idea</c>
+
+00:08:03.189 --> 00:08:03.199 align:start position:0%
+change this right here is where the idea
+ 
+
+00:08:03.199 --> 00:08:06.110 align:start position:0%
+change this right here is where the idea
+of<00:08:03.479><c> propagating</c><00:08:04.120><c> backwards</c><00:08:04.759><c> comes</c><00:08:05.039><c> in</c><00:08:05.919><c> by</c>
+
+00:08:06.110 --> 00:08:06.120 align:start position:0%
+of propagating backwards comes in by
+ 
+
+00:08:06.120 --> 00:08:07.950 align:start position:0%
+of propagating backwards comes in by
+adding<00:08:06.560><c> together</c><00:08:06.960><c> all</c><00:08:07.240><c> these</c><00:08:07.520><c> desired</c>
+
+00:08:07.950 --> 00:08:07.960 align:start position:0%
+adding together all these desired
+ 
+
+00:08:07.960 --> 00:08:10.029 align:start position:0%
+adding together all these desired
+effects<00:08:08.639><c> you</c><00:08:08.800><c> basically</c><00:08:09.199><c> get</c><00:08:09.400><c> a</c><00:08:09.599><c> list</c><00:08:09.879><c> of</c>
+
+00:08:10.029 --> 00:08:10.039 align:start position:0%
+effects you basically get a list of
+ 
+
+00:08:10.039 --> 00:08:12.309 align:start position:0%
+effects you basically get a list of
+nudges<00:08:10.840><c> that</c><00:08:10.960><c> you</c><00:08:11.159><c> want</c><00:08:11.440><c> to</c><00:08:11.680><c> happen</c><00:08:11.960><c> to</c><00:08:12.120><c> the</c>
+
+00:08:12.309 --> 00:08:12.319 align:start position:0%
+nudges that you want to happen to the
+ 
+
+00:08:12.319 --> 00:08:14.749 align:start position:0%
+nudges that you want to happen to the
+second<00:08:12.560><c> to</c><00:08:12.759><c> last</c><00:08:13.080><c> layer</c><00:08:14.080><c> and</c><00:08:14.240><c> once</c><00:08:14.360><c> you</c><00:08:14.520><c> have</c>
+
+00:08:14.749 --> 00:08:14.759 align:start position:0%
+second to last layer and once you have
+ 
+
+00:08:14.759 --> 00:08:17.270 align:start position:0%
+second to last layer and once you have
+those<00:08:15.319><c> you</c><00:08:15.479><c> can</c><00:08:15.720><c> recursively</c><00:08:16.440><c> apply</c><00:08:16.800><c> the</c><00:08:16.919><c> same</c>
+
+00:08:17.270 --> 00:08:17.280 align:start position:0%
+those you can recursively apply the same
+ 
+
+00:08:17.280 --> 00:08:18.869 align:start position:0%
+those you can recursively apply the same
+process<00:08:17.720><c> to</c><00:08:17.879><c> the</c><00:08:18.000><c> relevant</c><00:08:18.400><c> weights</c><00:08:18.720><c> and</c>
+
+00:08:18.869 --> 00:08:18.879 align:start position:0%
+process to the relevant weights and
+ 
+
+00:08:18.879 --> 00:08:21.070 align:start position:0%
+process to the relevant weights and
+biases<00:08:19.479><c> that</c><00:08:19.639><c> determine</c><00:08:20.120><c> those</c><00:08:20.360><c> values</c>
+
+00:08:21.070 --> 00:08:21.080 align:start position:0%
+biases that determine those values
+ 
+
+00:08:21.080 --> 00:08:22.909 align:start position:0%
+biases that determine those values
+repeating<00:08:21.520><c> the</c><00:08:21.639><c> same</c><00:08:21.960><c> process</c><00:08:22.280><c> I</c><00:08:22.440><c> just</c><00:08:22.599><c> walked</c>
+
+00:08:22.909 --> 00:08:22.919 align:start position:0%
+repeating the same process I just walked
+ 
+
+00:08:22.919 --> 00:08:27.909 align:start position:0%
+repeating the same process I just walked
+through<00:08:23.199><c> and</c><00:08:23.479><c> moving</c><00:08:23.840><c> backwards</c><00:08:24.240><c> through</c><00:08:24.400><c> the</c>
+
+00:08:27.909 --> 00:08:27.919 align:start position:0%
+ 
+ 
+
+00:08:27.919 --> 00:08:30.390 align:start position:0%
+ 
+network<00:08:28.919><c> and</c><00:08:29.080><c> zooming</c><00:08:29.560><c> out</c><00:08:29.680><c> a</c><00:08:29.800><c> bit</c><00:08:29.960><c> further</c>
+
+00:08:30.390 --> 00:08:30.400 align:start position:0%
+network and zooming out a bit further
+ 
+
+00:08:30.400 --> 00:08:32.230 align:start position:0%
+network and zooming out a bit further
+remember<00:08:30.800><c> that</c><00:08:31.039><c> this</c><00:08:31.159><c> is</c><00:08:31.400><c> all</c><00:08:31.680><c> just</c><00:08:31.879><c> how</c><00:08:32.080><c> a</c>
+
+00:08:32.230 --> 00:08:32.240 align:start position:0%
+remember that this is all just how a
+ 
+
+00:08:32.240 --> 00:08:35.269 align:start position:0%
+remember that this is all just how a
+single<00:08:32.599><c> training</c><00:08:33.159><c> example</c><00:08:34.039><c> wishes</c><00:08:34.440><c> to</c><00:08:34.640><c> nudge</c>
+
+00:08:35.269 --> 00:08:35.279 align:start position:0%
+single training example wishes to nudge
+ 
+
+00:08:35.279 --> 00:08:37.509 align:start position:0%
+single training example wishes to nudge
+each<00:08:35.519><c> one</c><00:08:35.719><c> of</c><00:08:35.880><c> those</c><00:08:36.080><c> weights</c><00:08:36.320><c> and</c><00:08:36.519><c> biases</c><00:08:37.360><c> if</c>
+
+00:08:37.509 --> 00:08:37.519 align:start position:0%
+each one of those weights and biases if
+ 
+
+00:08:37.519 --> 00:08:39.589 align:start position:0%
+each one of those weights and biases if
+we<00:08:37.680><c> only</c><00:08:37.880><c> listen</c><00:08:38.200><c> to</c><00:08:38.360><c> what</c><00:08:38.519><c> that</c><00:08:38.640><c> two</c><00:08:39.000><c> wanted</c>
+
+00:08:39.589 --> 00:08:39.599 align:start position:0%
+we only listen to what that two wanted
+ 
+
+00:08:39.599 --> 00:08:40.750 align:start position:0%
+we only listen to what that two wanted
+the<00:08:39.719><c> network</c><00:08:40.039><c> would</c><00:08:40.200><c> ultimately</c><00:08:40.599><c> be</c>
+
+00:08:40.750 --> 00:08:40.760 align:start position:0%
+the network would ultimately be
+ 
+
+00:08:40.760 --> 00:08:42.709 align:start position:0%
+the network would ultimately be
+incentivized<00:08:41.399><c> just</c><00:08:41.479><c> to</c><00:08:41.680><c> classify</c><00:08:42.159><c> all</c><00:08:42.320><c> images</c>
+
+00:08:42.709 --> 00:08:42.719 align:start position:0%
+incentivized just to classify all images
+ 
+
+00:08:42.719 --> 00:08:45.070 align:start position:0%
+incentivized just to classify all images
+as<00:08:42.800><c> a</c><00:08:42.959><c> two</c><00:08:43.959><c> so</c><00:08:44.120><c> what</c><00:08:44.200><c> you</c><00:08:44.360><c> do</c><00:08:44.680><c> is</c><00:08:44.800><c> you</c><00:08:44.920><c> go</c>
+
+00:08:45.070 --> 00:08:45.080 align:start position:0%
+as a two so what you do is you go
+ 
+
+00:08:45.080 --> 00:08:47.150 align:start position:0%
+as a two so what you do is you go
+through<00:08:45.279><c> this</c><00:08:45.560><c> same</c><00:08:45.880><c> back</c><00:08:46.200><c> propop</c><00:08:46.440><c> routine</c>
+
+00:08:47.150 --> 00:08:47.160 align:start position:0%
+through this same back propop routine
+ 
+
+00:08:47.160 --> 00:08:49.350 align:start position:0%
+through this same back propop routine
+for<00:08:47.519><c> every</c><00:08:47.839><c> other</c><00:08:48.120><c> training</c><00:08:48.560><c> example</c>
+
+00:08:49.350 --> 00:08:49.360 align:start position:0%
+for every other training example
+ 
+
+00:08:49.360 --> 00:08:51.389 align:start position:0%
+for every other training example
+recording<00:08:49.880><c> how</c><00:08:50.080><c> each</c><00:08:50.240><c> of</c><00:08:50.480><c> them</c><00:08:50.920><c> would</c><00:08:51.080><c> like</c><00:08:51.240><c> to</c>
+
+00:08:51.389 --> 00:08:51.399 align:start position:0%
+recording how each of them would like to
+ 
+
+00:08:51.399 --> 00:08:53.710 align:start position:0%
+recording how each of them would like to
+change<00:08:51.800><c> the</c><00:08:51.920><c> weights</c><00:08:52.160><c> and</c><00:08:52.320><c> the</c><00:08:52.600><c> biases</c><00:08:53.600><c> and</c>
+
+00:08:53.710 --> 00:08:53.720 align:start position:0%
+change the weights and the biases and
+ 
+
+00:08:53.720 --> 00:08:55.430 align:start position:0%
+change the weights and the biases and
+you<00:08:53.920><c> average</c><00:08:54.440><c> together</c><00:08:54.760><c> those</c><00:08:55.000><c> desired</c>
+
+00:08:55.430 --> 00:08:55.440 align:start position:0%
+you average together those desired
+ 
+
+00:08:55.440 --> 00:08:57.640 align:start position:0%
+you average together those desired
+changes
+
+00:08:57.640 --> 00:08:57.650 align:start position:0%
+changes
+ 
+
+00:08:57.650 --> 00:09:02.150 align:start position:0%
+changes
+[Music]
+
+00:09:02.150 --> 00:09:02.160 align:start position:0%
+ 
+ 
+
+00:09:02.160 --> 00:09:04.190 align:start position:0%
+ 
+this<00:09:02.399><c> collection</c><00:09:02.920><c> here</c><00:09:03.320><c> of</c><00:09:03.480><c> the</c><00:09:03.680><c> averaged</c>
+
+00:09:04.190 --> 00:09:04.200 align:start position:0%
+this collection here of the averaged
+ 
+
+00:09:04.200 --> 00:09:06.829 align:start position:0%
+this collection here of the averaged
+nudges<00:09:04.680><c> to</c><00:09:04.839><c> each</c><00:09:05.040><c> weight</c><00:09:05.240><c> and</c><00:09:05.440><c> bias</c><00:09:06.320><c> is</c>
+
+00:09:06.829 --> 00:09:06.839 align:start position:0%
+nudges to each weight and bias is
+ 
+
+00:09:06.839 --> 00:09:09.150 align:start position:0%
+nudges to each weight and bias is
+Loosely<00:09:07.240><c> speaking</c><00:09:08.120><c> the</c><00:09:08.360><c> negative</c><00:09:08.760><c> gradient</c>
+
+00:09:09.150 --> 00:09:09.160 align:start position:0%
+Loosely speaking the negative gradient
+ 
+
+00:09:09.160 --> 00:09:10.910 align:start position:0%
+Loosely speaking the negative gradient
+of<00:09:09.320><c> the</c><00:09:09.440><c> cost</c><00:09:09.760><c> function</c><00:09:10.200><c> referenced</c><00:09:10.640><c> in</c><00:09:10.760><c> the</c>
+
+00:09:10.910 --> 00:09:10.920 align:start position:0%
+of the cost function referenced in the
+ 
+
+00:09:10.920 --> 00:09:12.710 align:start position:0%
+of the cost function referenced in the
+last<00:09:11.160><c> video</c><00:09:11.839><c> or</c><00:09:11.959><c> at</c><00:09:12.079><c> least</c><00:09:12.360><c> something</c>
+
+00:09:12.710 --> 00:09:12.720 align:start position:0%
+last video or at least something
+ 
+
+00:09:12.720 --> 00:09:15.030 align:start position:0%
+last video or at least something
+proportional<00:09:13.200><c> to</c><00:09:13.360><c> it</c><00:09:14.320><c> I</c><00:09:14.399><c> say</c><00:09:14.640><c> Loosely</c>
+
+00:09:15.030 --> 00:09:15.040 align:start position:0%
+proportional to it I say Loosely
+ 
+
+00:09:15.040 --> 00:09:16.990 align:start position:0%
+proportional to it I say Loosely
+speaking<00:09:15.640><c> only</c><00:09:15.959><c> because</c><00:09:16.240><c> I</c><00:09:16.360><c> have</c><00:09:16.560><c> yet</c><00:09:16.680><c> to</c><00:09:16.839><c> get</c>
+
+00:09:16.990 --> 00:09:17.000 align:start position:0%
+speaking only because I have yet to get
+ 
+
+00:09:17.000 --> 00:09:18.750 align:start position:0%
+speaking only because I have yet to get
+quantitatively<00:09:17.800><c> precise</c><00:09:18.279><c> about</c><00:09:18.560><c> those</c>
+
+00:09:18.750 --> 00:09:18.760 align:start position:0%
+quantitatively precise about those
+ 
+
+00:09:18.760 --> 00:09:20.710 align:start position:0%
+quantitatively precise about those
+nudges<00:09:19.519><c> but</c><00:09:19.640><c> if</c><00:09:19.760><c> you</c><00:09:19.920><c> understood</c><00:09:20.480><c> every</c>
+
+00:09:20.710 --> 00:09:20.720 align:start position:0%
+nudges but if you understood every
+ 
+
+00:09:20.720 --> 00:09:22.670 align:start position:0%
+nudges but if you understood every
+change<00:09:21.079><c> that</c><00:09:21.240><c> I</c><00:09:21.360><c> just</c><00:09:21.519><c> referenced</c><00:09:22.279><c> why</c><00:09:22.440><c> some</c>
+
+00:09:22.670 --> 00:09:22.680 align:start position:0%
+change that I just referenced why some
+ 
+
+00:09:22.680 --> 00:09:24.790 align:start position:0%
+change that I just referenced why some
+are<00:09:22.880><c> proportionally</c><00:09:23.519><c> bigger</c><00:09:23.800><c> than</c><00:09:24.000><c> others</c>
+
+00:09:24.790 --> 00:09:24.800 align:start position:0%
+are proportionally bigger than others
+ 
+
+00:09:24.800 --> 00:09:26.389 align:start position:0%
+are proportionally bigger than others
+and<00:09:25.040><c> how</c><00:09:25.200><c> they</c><00:09:25.320><c> all</c><00:09:25.480><c> need</c><00:09:25.640><c> to</c><00:09:25.800><c> be</c><00:09:25.959><c> added</c>
+
+00:09:26.389 --> 00:09:26.399 align:start position:0%
+and how they all need to be added
+ 
+
+00:09:26.399 --> 00:09:28.710 align:start position:0%
+and how they all need to be added
+together<00:09:27.160><c> you</c><00:09:27.760><c> understand</c><00:09:28.040><c> the</c><00:09:28.200><c> Mechanics</c>
+
+00:09:28.710 --> 00:09:28.720 align:start position:0%
+together you understand the Mechanics
+ 
+
+00:09:28.720 --> 00:09:32.949 align:start position:0%
+together you understand the Mechanics
+for<00:09:28.920><c> what</c><00:09:29.079><c> back</c><00:09:29.440><c> propagation</c><00:09:29.959><c> is</c><00:09:30.200><c> actually</c>
+
+00:09:32.949 --> 00:09:32.959 align:start position:0%
+ 
+ 
+
+00:09:32.959 --> 00:09:35.470 align:start position:0%
+ 
+doing<00:09:33.959><c> by</c><00:09:34.079><c> the</c><00:09:34.200><c> way</c><00:09:34.440><c> in</c><00:09:34.640><c> practice</c><00:09:35.079><c> it</c><00:09:35.240><c> takes</c>
+
+00:09:35.470 --> 00:09:35.480 align:start position:0%
+doing by the way in practice it takes
+ 
+
+00:09:35.480 --> 00:09:37.630 align:start position:0%
+doing by the way in practice it takes
+computers<00:09:36.000><c> an</c><00:09:36.200><c> extremely</c><00:09:36.720><c> long</c><00:09:37.000><c> time</c><00:09:37.360><c> to</c><00:09:37.480><c> add</c>
+
+00:09:37.630 --> 00:09:37.640 align:start position:0%
+computers an extremely long time to add
+ 
+
+00:09:37.640 --> 00:09:39.470 align:start position:0%
+computers an extremely long time to add
+up<00:09:37.839><c> the</c><00:09:38.000><c> influence</c><00:09:38.560><c> of</c><00:09:38.880><c> every</c><00:09:39.160><c> single</c>
+
+00:09:39.470 --> 00:09:39.480 align:start position:0%
+up the influence of every single
+ 
+
+00:09:39.480 --> 00:09:41.630 align:start position:0%
+up the influence of every single
+training<00:09:39.880><c> example</c><00:09:40.720><c> every</c><00:09:40.920><c> single</c><00:09:41.240><c> gradient</c>
+
+00:09:41.630 --> 00:09:41.640 align:start position:0%
+training example every single gradient
+ 
+
+00:09:41.640 --> 00:09:44.110 align:start position:0%
+training example every single gradient
+descent<00:09:42.040><c> step</c><00:09:43.000><c> so</c><00:09:43.320><c> here's</c><00:09:43.519><c> what's</c><00:09:43.720><c> commonly</c>
+
+00:09:44.110 --> 00:09:44.120 align:start position:0%
+descent step so here's what's commonly
+ 
+
+00:09:44.120 --> 00:09:46.389 align:start position:0%
+descent step so here's what's commonly
+done<00:09:44.360><c> instead</c><00:09:45.360><c> you</c><00:09:45.519><c> randomly</c><00:09:45.880><c> shuffle</c><00:09:46.240><c> your</c>
+
+00:09:46.389 --> 00:09:46.399 align:start position:0%
+done instead you randomly shuffle your
+ 
+
+00:09:46.399 --> 00:09:48.350 align:start position:0%
+done instead you randomly shuffle your
+training<00:09:46.760><c> data</c><00:09:47.240><c> and</c><00:09:47.360><c> then</c><00:09:47.560><c> divide</c><00:09:47.839><c> it</c><00:09:48.000><c> into</c><00:09:48.240><c> a</c>
+
+00:09:48.350 --> 00:09:48.360 align:start position:0%
+training data and then divide it into a
+ 
+
+00:09:48.360 --> 00:09:50.550 align:start position:0%
+training data and then divide it into a
+whole<00:09:48.560><c> bunch</c><00:09:48.760><c> of</c><00:09:48.959><c> mini</c><00:09:49.320><c> batches</c><00:09:50.200><c> let's</c><00:09:50.399><c> say</c>
+
+00:09:50.550 --> 00:09:50.560 align:start position:0%
+whole bunch of mini batches let's say
+ 
+
+00:09:50.560 --> 00:09:53.190 align:start position:0%
+whole bunch of mini batches let's say
+each<00:09:50.720><c> one</c><00:09:50.920><c> having</c><00:09:51.279><c> 100</c><00:09:51.519><c> training</c><00:09:52.200><c> examples</c>
+
+00:09:53.190 --> 00:09:53.200 align:start position:0%
+each one having 100 training examples
+ 
+
+00:09:53.200 --> 00:09:55.550 align:start position:0%
+each one having 100 training examples
+then<00:09:53.480><c> you</c><00:09:53.680><c> compute</c><00:09:54.079><c> a</c><00:09:54.320><c> step</c><00:09:54.959><c> according</c><00:09:55.320><c> to</c><00:09:55.440><c> the</c>
+
+00:09:55.550 --> 00:09:55.560 align:start position:0%
+then you compute a step according to the
+ 
+
+00:09:55.560 --> 00:09:57.550 align:start position:0%
+then you compute a step according to the
+mini<00:09:55.920><c> batch</c><00:09:56.760><c> it's</c><00:09:56.920><c> not</c><00:09:57.040><c> going</c><00:09:57.120><c> to</c><00:09:57.240><c> be</c><00:09:57.399><c> the</c>
+
+00:09:57.550 --> 00:09:57.560 align:start position:0%
+mini batch it's not going to be the
+ 
+
+00:09:57.560 --> 00:09:59.389 align:start position:0%
+mini batch it's not going to be the
+actual<00:09:57.880><c> gradient</c><00:09:58.240><c> of</c><00:09:58.360><c> the</c><00:09:58.480><c> cost</c><00:09:58.760><c> function</c>
+
+00:09:59.389 --> 00:09:59.399 align:start position:0%
+actual gradient of the cost function
+ 
+
+00:09:59.399 --> 00:10:00.870 align:start position:0%
+actual gradient of the cost function
+which<00:09:59.560><c> depends</c><00:09:59.880><c> on</c><00:10:00.079><c> all</c><00:10:00.240><c> of</c><00:10:00.360><c> the</c><00:10:00.480><c> training</c>
+
+00:10:00.870 --> 00:10:00.880 align:start position:0%
+which depends on all of the training
+ 
+
+00:10:00.880 --> 00:10:03.670 align:start position:0%
+which depends on all of the training
+data<00:10:01.279><c> not</c><00:10:01.480><c> this</c><00:10:01.640><c> tiny</c><00:10:02.040><c> subset</c><00:10:03.040><c> so</c><00:10:03.360><c> it's</c><00:10:03.480><c> not</c>
+
+00:10:03.670 --> 00:10:03.680 align:start position:0%
+data not this tiny subset so it's not
+ 
+
+00:10:03.680 --> 00:10:06.069 align:start position:0%
+data not this tiny subset so it's not
+the<00:10:03.839><c> most</c><00:10:04.160><c> efficient</c><00:10:04.560><c> step</c><00:10:04.959><c> downhill</c><00:10:05.959><c> but</c>
+
+00:10:06.069 --> 00:10:06.079 align:start position:0%
+the most efficient step downhill but
+ 
+
+00:10:06.079 --> 00:10:07.630 align:start position:0%
+the most efficient step downhill but
+each<00:10:06.240><c> mini</c><00:10:06.519><c> batch</c><00:10:06.839><c> does</c><00:10:07.000><c> give</c><00:10:07.160><c> you</c><00:10:07.279><c> a</c><00:10:07.440><c> pretty</c>
+
+00:10:07.630 --> 00:10:07.640 align:start position:0%
+each mini batch does give you a pretty
+ 
+
+00:10:07.640 --> 00:10:09.630 align:start position:0%
+each mini batch does give you a pretty
+good<00:10:07.880><c> approximation</c><00:10:08.880><c> and</c><00:10:09.000><c> more</c><00:10:09.160><c> importantly</c>
+
+00:10:09.630 --> 00:10:09.640 align:start position:0%
+good approximation and more importantly
+ 
+
+00:10:09.640 --> 00:10:11.550 align:start position:0%
+good approximation and more importantly
+it<00:10:09.760><c> gives</c><00:10:09.920><c> you</c><00:10:10.079><c> a</c><00:10:10.279><c> significant</c><00:10:10.920><c> computational</c>
+
+00:10:11.550 --> 00:10:11.560 align:start position:0%
+it gives you a significant computational
+ 
+
+00:10:11.560 --> 00:10:13.590 align:start position:0%
+it gives you a significant computational
+speed<00:10:11.839><c> up</c><00:10:12.720><c> if</c><00:10:12.839><c> you</c><00:10:12.920><c> were</c><00:10:13.040><c> to</c><00:10:13.200><c> plot</c><00:10:13.440><c> the</c>
+
+00:10:13.590 --> 00:10:13.600 align:start position:0%
+speed up if you were to plot the
+ 
+
+00:10:13.600 --> 00:10:15.069 align:start position:0%
+speed up if you were to plot the
+trajectory<00:10:14.040><c> of</c><00:10:14.160><c> your</c><00:10:14.279><c> network</c><00:10:14.720><c> under</c><00:10:14.959><c> the</c>
+
+00:10:15.069 --> 00:10:15.079 align:start position:0%
+trajectory of your network under the
+ 
+
+00:10:15.079 --> 00:10:17.150 align:start position:0%
+trajectory of your network under the
+relevant<00:10:15.560><c> cost</c><00:10:15.839><c> surface</c><00:10:16.720><c> it</c><00:10:16.800><c> would</c><00:10:16.959><c> be</c><00:10:17.079><c> a</c>
+
+00:10:17.150 --> 00:10:17.160 align:start position:0%
+relevant cost surface it would be a
+ 
+
+00:10:17.160 --> 00:10:19.150 align:start position:0%
+relevant cost surface it would be a
+little<00:10:17.320><c> more</c><00:10:17.560><c> like</c><00:10:17.760><c> a</c><00:10:17.920><c> drunk</c><00:10:18.279><c> man</c><00:10:18.600><c> stumbling</c>
+
+00:10:19.150 --> 00:10:19.160 align:start position:0%
+little more like a drunk man stumbling
+ 
+
+00:10:19.160 --> 00:10:21.230 align:start position:0%
+little more like a drunk man stumbling
+aimlessly<00:10:19.720><c> down</c><00:10:19.880><c> a</c><00:10:20.079><c> hill</c><00:10:20.440><c> but</c><00:10:20.600><c> taking</c><00:10:20.959><c> quick</c>
+
+00:10:21.230 --> 00:10:21.240 align:start position:0%
+aimlessly down a hill but taking quick
+ 
+
+00:10:21.240 --> 00:10:22.990 align:start position:0%
+aimlessly down a hill but taking quick
+steps<00:10:21.959><c> rather</c><00:10:22.200><c> than</c><00:10:22.360><c> a</c><00:10:22.560><c> carefully</c>
+
+00:10:22.990 --> 00:10:23.000 align:start position:0%
+steps rather than a carefully
+ 
+
+00:10:23.000 --> 00:10:25.230 align:start position:0%
+steps rather than a carefully
+calculating<00:10:23.600><c> man</c><00:10:23.920><c> determining</c><00:10:24.440><c> the</c><00:10:24.760><c> exact</c>
+
+00:10:25.230 --> 00:10:25.240 align:start position:0%
+calculating man determining the exact
+ 
+
+00:10:25.240 --> 00:10:27.389 align:start position:0%
+calculating man determining the exact
+downhill<00:10:25.839><c> direction</c><00:10:26.279><c> of</c><00:10:26.440><c> each</c><00:10:26.640><c> step</c><00:10:27.120><c> before</c>
+
+00:10:27.389 --> 00:10:27.399 align:start position:0%
+downhill direction of each step before
+ 
+
+00:10:27.399 --> 00:10:29.509 align:start position:0%
+downhill direction of each step before
+taking<00:10:27.680><c> a</c><00:10:27.880><c> very</c><00:10:28.200><c> slow</c><00:10:28.560><c> and</c><00:10:28.720><c> careful</c><00:10:29.040><c> step</c><00:10:29.399><c> in</c>
+
+00:10:29.509 --> 00:10:29.519 align:start position:0%
+taking a very slow and careful step in
+ 
+
+00:10:29.519 --> 00:10:30.470 align:start position:0%
+taking a very slow and careful step in
+that
+
+00:10:30.470 --> 00:10:30.480 align:start position:0%
+that
+ 
+
+00:10:30.480 --> 00:10:32.790 align:start position:0%
+that
+direction<00:10:31.480><c> this</c><00:10:31.680><c> technique</c><00:10:32.120><c> is</c><00:10:32.279><c> referred</c><00:10:32.600><c> to</c>
+
+00:10:32.790 --> 00:10:32.800 align:start position:0%
+direction this technique is referred to
+ 
+
+00:10:32.800 --> 00:10:34.910 align:start position:0%
+direction this technique is referred to
+as<00:10:33.079><c> stochastic</c><00:10:33.839><c> gradient</c>
+
+00:10:34.910 --> 00:10:34.920 align:start position:0%
+as stochastic gradient
+ 
+
+00:10:34.920 --> 00:10:37.150 align:start position:0%
+as stochastic gradient
+descent<00:10:35.920><c> there's</c><00:10:36.240><c> kind</c><00:10:36.360><c> of</c><00:10:36.480><c> a</c><00:10:36.560><c> lot</c><00:10:36.760><c> going</c><00:10:36.959><c> on</c>
+
+00:10:37.150 --> 00:10:37.160 align:start position:0%
+descent there's kind of a lot going on
+ 
+
+00:10:37.160 --> 00:10:38.710 align:start position:0%
+descent there's kind of a lot going on
+here<00:10:37.440><c> so</c><00:10:37.680><c> let's</c><00:10:37.880><c> just</c><00:10:38.079><c> sum</c><00:10:38.279><c> it</c><00:10:38.399><c> up</c><00:10:38.560><c> for</c>
+
+00:10:38.710 --> 00:10:38.720 align:start position:0%
+here so let's just sum it up for
+ 
+
+00:10:38.720 --> 00:10:41.310 align:start position:0%
+here so let's just sum it up for
+ourselves<00:10:39.160><c> shall</c><00:10:39.399><c> we</c><00:10:40.160><c> back</c><00:10:40.440><c> propagation</c><00:10:41.120><c> is</c>
+
+00:10:41.310 --> 00:10:41.320 align:start position:0%
+ourselves shall we back propagation is
+ 
+
+00:10:41.320 --> 00:10:43.350 align:start position:0%
+ourselves shall we back propagation is
+the<00:10:41.480><c> algorithm</c><00:10:42.120><c> for</c><00:10:42.320><c> determining</c><00:10:42.880><c> how</c><00:10:43.120><c> a</c>
+
+00:10:43.350 --> 00:10:43.360 align:start position:0%
+the algorithm for determining how a
+ 
+
+00:10:43.360 --> 00:10:45.470 align:start position:0%
+the algorithm for determining how a
+single<00:10:43.760><c> training</c><00:10:44.240><c> example</c><00:10:44.959><c> would</c><00:10:45.120><c> like</c><00:10:45.320><c> to</c>
+
+00:10:45.470 --> 00:10:45.480 align:start position:0%
+single training example would like to
+ 
+
+00:10:45.480 --> 00:10:47.829 align:start position:0%
+single training example would like to
+nudge<00:10:45.800><c> the</c><00:10:45.920><c> weights</c><00:10:46.160><c> and</c><00:10:46.360><c> biases</c><00:10:47.360><c> not</c><00:10:47.560><c> just</c><00:10:47.720><c> in</c>
+
+00:10:47.829 --> 00:10:47.839 align:start position:0%
+nudge the weights and biases not just in
+ 
+
+00:10:47.839 --> 00:10:49.230 align:start position:0%
+nudge the weights and biases not just in
+terms<00:10:48.079><c> of</c><00:10:48.240><c> whether</c><00:10:48.440><c> they</c><00:10:48.560><c> should</c><00:10:48.720><c> go</c><00:10:48.920><c> up</c><00:10:49.040><c> or</c>
+
+00:10:49.230 --> 00:10:49.240 align:start position:0%
+terms of whether they should go up or
+ 
+
+00:10:49.240 --> 00:10:51.430 align:start position:0%
+terms of whether they should go up or
+down<00:10:49.839><c> but</c><00:10:49.959><c> in</c><00:10:50.079><c> terms</c><00:10:50.320><c> of</c><00:10:50.560><c> what</c><00:10:50.880><c> relative</c>
+
+00:10:51.430 --> 00:10:51.440 align:start position:0%
+down but in terms of what relative
+ 
+
+00:10:51.440 --> 00:10:53.590 align:start position:0%
+down but in terms of what relative
+proportions<00:10:51.959><c> to</c><00:10:52.200><c> those</c><00:10:52.399><c> changes</c><00:10:53.120><c> caus</c><00:10:53.480><c> the</c>
+
+00:10:53.590 --> 00:10:53.600 align:start position:0%
+proportions to those changes caus the
+ 
+
+00:10:53.600 --> 00:10:56.829 align:start position:0%
+proportions to those changes caus the
+most<00:10:53.880><c> rapid</c><00:10:54.279><c> decrease</c><00:10:54.760><c> to</c><00:10:54.920><c> the</c><00:10:55.200><c> cost</c><00:10:56.200><c> a</c><00:10:56.440><c> true</c>
+
+00:10:56.829 --> 00:10:56.839 align:start position:0%
+most rapid decrease to the cost a true
+ 
+
+00:10:56.839 --> 00:10:58.670 align:start position:0%
+most rapid decrease to the cost a true
+gradient<00:10:57.279><c> descent</c><00:10:57.639><c> step</c><00:10:58.160><c> would</c><00:10:58.360><c> involve</c>
+
+00:10:58.670 --> 00:10:58.680 align:start position:0%
+gradient descent step would involve
+ 
+
+00:10:58.680 --> 00:11:00.310 align:start position:0%
+gradient descent step would involve
+doing<00:10:58.920><c> this</c><00:10:59.040><c> for</c><00:10:59.480><c> all</c><00:10:59.680><c> your</c><00:10:59.880><c> tens</c><00:11:00.120><c> and</c>
+
+00:11:00.310 --> 00:11:00.320 align:start position:0%
+doing this for all your tens and
+ 
+
+00:11:00.320 --> 00:11:02.030 align:start position:0%
+doing this for all your tens and
+thousands<00:11:00.639><c> of</c><00:11:00.760><c> training</c><00:11:01.160><c> examples</c><00:11:01.760><c> and</c>
+
+00:11:02.030 --> 00:11:02.040 align:start position:0%
+thousands of training examples and
+ 
+
+00:11:02.040 --> 00:11:03.949 align:start position:0%
+thousands of training examples and
+averaging<00:11:02.519><c> the</c><00:11:02.720><c> desired</c><00:11:03.200><c> changes</c><00:11:03.600><c> that</c><00:11:03.720><c> you</c>
+
+00:11:03.949 --> 00:11:03.959 align:start position:0%
+averaging the desired changes that you
+ 
+
+00:11:03.959 --> 00:11:06.710 align:start position:0%
+averaging the desired changes that you
+get<00:11:04.760><c> but</c><00:11:04.880><c> that's</c><00:11:05.120><c> computationally</c><00:11:05.760><c> slow</c><00:11:06.560><c> so</c>
+
+00:11:06.710 --> 00:11:06.720 align:start position:0%
+get but that's computationally slow so
+ 
+
+00:11:06.720 --> 00:11:08.750 align:start position:0%
+get but that's computationally slow so
+instead<00:11:07.040><c> you</c><00:11:07.279><c> randomly</c><00:11:07.720><c> subdivide</c><00:11:08.320><c> the</c><00:11:08.440><c> data</c>
+
+00:11:08.750 --> 00:11:08.760 align:start position:0%
+instead you randomly subdivide the data
+ 
+
+00:11:08.760 --> 00:11:11.230 align:start position:0%
+instead you randomly subdivide the data
+into<00:11:09.000><c> these</c><00:11:09.200><c> mini</c><00:11:09.560><c> batches</c><00:11:10.399><c> and</c><00:11:10.560><c> compute</c><00:11:11.000><c> each</c>
+
+00:11:11.230 --> 00:11:11.240 align:start position:0%
+into these mini batches and compute each
+ 
+
+00:11:11.240 --> 00:11:13.829 align:start position:0%
+into these mini batches and compute each
+step<00:11:11.720><c> with</c><00:11:12.000><c> respect</c><00:11:12.279><c> to</c><00:11:12.440><c> a</c><00:11:12.600><c> mini</c><00:11:12.920><c> batch</c>
+
+00:11:13.829 --> 00:11:13.839 align:start position:0%
+step with respect to a mini batch
+ 
+
+00:11:13.839 --> 00:11:15.590 align:start position:0%
+step with respect to a mini batch
+repeatedly<00:11:14.399><c> going</c><00:11:14.680><c> through</c><00:11:14.920><c> all</c><00:11:15.079><c> of</c><00:11:15.279><c> the</c><00:11:15.360><c> mini</c>
+
+00:11:15.590 --> 00:11:15.600 align:start position:0%
+repeatedly going through all of the mini
+ 
+
+00:11:15.600 --> 00:11:17.790 align:start position:0%
+repeatedly going through all of the mini
+batches<00:11:16.040><c> and</c><00:11:16.200><c> making</c><00:11:16.480><c> these</c><00:11:16.680><c> adjustments</c><00:11:17.639><c> you</c>
+
+00:11:17.790 --> 00:11:17.800 align:start position:0%
+batches and making these adjustments you
+ 
+
+00:11:17.800 --> 00:11:20.110 align:start position:0%
+batches and making these adjustments you
+will<00:11:18.120><c> converge</c><00:11:18.600><c> towards</c><00:11:18.880><c> a</c><00:11:19.079><c> local</c><00:11:19.399><c> minimum</c><00:11:19.959><c> of</c>
+
+00:11:20.110 --> 00:11:20.120 align:start position:0%
+will converge towards a local minimum of
+ 
+
+00:11:20.120 --> 00:11:22.150 align:start position:0%
+will converge towards a local minimum of
+the<00:11:20.279><c> cost</c><00:11:20.560><c> function</c><00:11:21.360><c> which</c><00:11:21.480><c> is</c><00:11:21.600><c> to</c><00:11:21.760><c> say</c><00:11:22.040><c> your</c>
+
+00:11:22.150 --> 00:11:22.160 align:start position:0%
+the cost function which is to say your
+ 
+
+00:11:22.160 --> 00:11:23.550 align:start position:0%
+the cost function which is to say your
+network<00:11:22.560><c> is</c><00:11:22.680><c> going</c><00:11:22.760><c> to</c><00:11:22.880><c> end</c><00:11:23.040><c> up</c><00:11:23.160><c> doing</c><00:11:23.399><c> a</c>
+
+00:11:23.550 --> 00:11:23.560 align:start position:0%
+network is going to end up doing a
+ 
+
+00:11:23.560 --> 00:11:26.310 align:start position:0%
+network is going to end up doing a
+really<00:11:23.720><c> good</c><00:11:23.959><c> job</c><00:11:24.240><c> on</c><00:11:24.360><c> the</c><00:11:24.480><c> training</c>
+
+00:11:26.310 --> 00:11:26.320 align:start position:0%
+really good job on the training
+ 
+
+00:11:26.320 --> 00:11:28.990 align:start position:0%
+really good job on the training
+examples<00:11:27.320><c> so</c><00:11:27.519><c> with</c><00:11:27.639><c> all</c><00:11:27.760><c> of</c><00:11:27.920><c> that</c><00:11:28.120><c> said</c><00:11:28.680><c> every</c>
+
+00:11:28.990 --> 00:11:29.000 align:start position:0%
+examples so with all of that said every
+ 
+
+00:11:29.000 --> 00:11:30.710 align:start position:0%
+examples so with all of that said every
+line<00:11:29.480><c> of</c><00:11:29.639><c> code</c><00:11:29.959><c> that</c><00:11:30.079><c> would</c><00:11:30.240><c> go</c><00:11:30.399><c> into</c>
+
+00:11:30.710 --> 00:11:30.720 align:start position:0%
+line of code that would go into
+ 
+
+00:11:30.720 --> 00:11:32.590 align:start position:0%
+line of code that would go into
+implementing<00:11:31.320><c> backprop</c><00:11:32.320><c> actually</c>
+
+00:11:32.590 --> 00:11:32.600 align:start position:0%
+implementing backprop actually
+ 
+
+00:11:32.600 --> 00:11:34.310 align:start position:0%
+implementing backprop actually
+corresponds<00:11:33.240><c> with</c><00:11:33.399><c> something</c><00:11:33.720><c> that</c><00:11:33.880><c> you</c><00:11:34.079><c> have</c>
+
+00:11:34.310 --> 00:11:34.320 align:start position:0%
+corresponds with something that you have
+ 
+
+00:11:34.320 --> 00:11:37.870 align:start position:0%
+corresponds with something that you have
+now<00:11:34.519><c> seen</c><00:11:35.200><c> at</c><00:11:35.320><c> least</c><00:11:35.560><c> in</c><00:11:35.800><c> informal</c><00:11:36.519><c> terms</c><00:11:37.519><c> but</c>
+
+00:11:37.870 --> 00:11:37.880 align:start position:0%
+now seen at least in informal terms but
+ 
+
+00:11:37.880 --> 00:11:39.710 align:start position:0%
+now seen at least in informal terms but
+sometimes<00:11:38.279><c> knowing</c><00:11:38.600><c> what</c><00:11:38.720><c> the</c><00:11:38.839><c> math</c><00:11:39.160><c> does</c><00:11:39.560><c> is</c>
+
+00:11:39.710 --> 00:11:39.720 align:start position:0%
+sometimes knowing what the math does is
+ 
+
+00:11:39.720 --> 00:11:41.310 align:start position:0%
+sometimes knowing what the math does is
+only<00:11:40.000><c> half</c><00:11:40.160><c> the</c><00:11:40.320><c> battle</c><00:11:40.920><c> and</c><00:11:41.040><c> just</c>
+
+00:11:41.310 --> 00:11:41.320 align:start position:0%
+only half the battle and just
+ 
+
+00:11:41.320 --> 00:11:42.750 align:start position:0%
+only half the battle and just
+representing<00:11:41.839><c> the</c><00:11:42.000><c> damn</c><00:11:42.240><c> thing</c><00:11:42.399><c> is</c><00:11:42.519><c> where</c><00:11:42.639><c> it</c>
+
+00:11:42.750 --> 00:11:42.760 align:start position:0%
+representing the damn thing is where it
+ 
+
+00:11:42.760 --> 00:11:45.629 align:start position:0%
+representing the damn thing is where it
+gets<00:11:42.920><c> all</c><00:11:43.079><c> muddled</c><00:11:43.480><c> and</c><00:11:43.959><c> confusing</c><00:11:44.959><c> so</c><00:11:45.440><c> for</c>
+
+00:11:45.629 --> 00:11:45.639 align:start position:0%
+gets all muddled and confusing so for
+ 
+
+00:11:45.639 --> 00:11:47.550 align:start position:0%
+gets all muddled and confusing so for
+those<00:11:45.760><c> of</c><00:11:45.880><c> you</c><00:11:46.040><c> who</c><00:11:46.160><c> do</c><00:11:46.360><c> want</c><00:11:46.519><c> to</c><00:11:46.720><c> go</c><00:11:46.880><c> deeper</c>
+
+00:11:47.550 --> 00:11:47.560 align:start position:0%
+those of you who do want to go deeper
+ 
+
+00:11:47.560 --> 00:11:48.990 align:start position:0%
+those of you who do want to go deeper
+the<00:11:47.680><c> next</c><00:11:47.920><c> video</c><00:11:48.200><c> goes</c><00:11:48.440><c> through</c><00:11:48.639><c> the</c><00:11:48.760><c> same</c>
+
+00:11:48.990 --> 00:11:49.000 align:start position:0%
+the next video goes through the same
+ 
+
+00:11:49.000 --> 00:11:50.829 align:start position:0%
+the next video goes through the same
+ideas<00:11:49.360><c> that</c><00:11:49.440><c> were</c><00:11:49.639><c> just</c><00:11:49.839><c> presented</c><00:11:50.279><c> here</c><00:11:50.639><c> but</c>
+
+00:11:50.829 --> 00:11:50.839 align:start position:0%
+ideas that were just presented here but
+ 
+
+00:11:50.839 --> 00:11:52.710 align:start position:0%
+ideas that were just presented here but
+in<00:11:50.959><c> terms</c><00:11:51.240><c> of</c><00:11:51.399><c> the</c><00:11:51.519><c> underlying</c><00:11:52.040><c> calculus</c>
+
+00:11:52.710 --> 00:11:52.720 align:start position:0%
+in terms of the underlying calculus
+ 
+
+00:11:52.720 --> 00:11:53.910 align:start position:0%
+in terms of the underlying calculus
+which<00:11:52.839><c> should</c><00:11:53.040><c> hopefully</c><00:11:53.399><c> make</c><00:11:53.519><c> it</c><00:11:53.639><c> a</c><00:11:53.720><c> little</c>
+
+00:11:53.910 --> 00:11:53.920 align:start position:0%
+which should hopefully make it a little
+ 
+
+00:11:53.920 --> 00:11:55.629 align:start position:0%
+which should hopefully make it a little
+more<00:11:54.120><c> familiar</c><00:11:54.639><c> as</c><00:11:54.760><c> you</c><00:11:54.839><c> see</c><00:11:55.079><c> the</c><00:11:55.279><c> topic</c><00:11:55.480><c> in</c>
+
+00:11:55.629 --> 00:11:55.639 align:start position:0%
+more familiar as you see the topic in
+ 
+
+00:11:55.639 --> 00:11:58.190 align:start position:0%
+more familiar as you see the topic in
+other<00:11:56.240><c> resources</c><00:11:57.240><c> before</c><00:11:57.560><c> that</c><00:11:57.880><c> one</c><00:11:58.040><c> thing</c>
+
+00:11:58.190 --> 00:11:58.200 align:start position:0%
+other resources before that one thing
+ 
+
+00:11:58.200 --> 00:11:59.710 align:start position:0%
+other resources before that one thing
+worth<00:11:58.480><c> emphasizing</c><00:11:59.040><c> is</c><00:11:59.240><c> is</c><00:11:59.320><c> that</c><00:11:59.440><c> for</c><00:11:59.600><c> this</c>
+
+00:11:59.710 --> 00:11:59.720 align:start position:0%
+worth emphasizing is is that for this
+ 
+
+00:11:59.720 --> 00:12:01.710 align:start position:0%
+worth emphasizing is is that for this
+algorithm<00:12:00.240><c> to</c><00:12:00.399><c> work</c><00:12:00.839><c> and</c><00:12:01.079><c> this</c><00:12:01.200><c> goes</c><00:12:01.399><c> for</c><00:12:01.560><c> all</c>
+
+00:12:01.710 --> 00:12:01.720 align:start position:0%
+algorithm to work and this goes for all
+ 
+
+00:12:01.720 --> 00:12:03.190 align:start position:0%
+algorithm to work and this goes for all
+sorts<00:12:01.959><c> of</c><00:12:02.079><c> machine</c><00:12:02.360><c> learning</c><00:12:02.760><c> Beyond</c><00:12:03.079><c> just</c>
+
+00:12:03.190 --> 00:12:03.200 align:start position:0%
+sorts of machine learning Beyond just
+ 
+
+00:12:03.200 --> 00:12:05.190 align:start position:0%
+sorts of machine learning Beyond just
+neural<00:12:03.560><c> networks</c><00:12:04.240><c> you</c><00:12:04.399><c> need</c><00:12:04.720><c> a</c><00:12:04.880><c> lot</c><00:12:05.040><c> of</c>
+
+00:12:05.190 --> 00:12:05.200 align:start position:0%
+neural networks you need a lot of
+ 
+
+00:12:05.200 --> 00:12:07.470 align:start position:0%
+neural networks you need a lot of
+training<00:12:05.639><c> data</c><00:12:06.360><c> in</c><00:12:06.480><c> our</c><00:12:06.680><c> case</c><00:12:07.000><c> one</c><00:12:07.240><c> thing</c><00:12:07.399><c> that</c>
+
+00:12:07.470 --> 00:12:07.480 align:start position:0%
+training data in our case one thing that
+ 
+
+00:12:07.480 --> 00:12:09.069 align:start position:0%
+training data in our case one thing that
+makes<00:12:07.720><c> handwritten</c><00:12:08.200><c> digits</c><00:12:08.519><c> such</c><00:12:08.680><c> a</c><00:12:08.800><c> nice</c>
+
+00:12:09.069 --> 00:12:09.079 align:start position:0%
+makes handwritten digits such a nice
+ 
+
+00:12:09.079 --> 00:12:11.470 align:start position:0%
+makes handwritten digits such a nice
+example<00:12:09.800><c> is</c><00:12:09.959><c> that</c><00:12:10.120><c> there</c><00:12:10.279><c> exists</c><00:12:10.680><c> the</c><00:12:10.839><c> mnist</c>
+
+00:12:11.470 --> 00:12:11.480 align:start position:0%
+example is that there exists the mnist
+ 
+
+00:12:11.480 --> 00:12:13.670 align:start position:0%
+example is that there exists the mnist
+database<00:12:12.120><c> with</c><00:12:12.360><c> so</c><00:12:12.600><c> many</c><00:12:12.959><c> examples</c><00:12:13.440><c> that</c><00:12:13.560><c> have</c>
+
+00:12:13.670 --> 00:12:13.680 align:start position:0%
+database with so many examples that have
+ 
+
+00:12:13.680 --> 00:12:15.710 align:start position:0%
+database with so many examples that have
+been<00:12:13.800><c> labeled</c><00:12:14.160><c> by</c><00:12:14.320><c> humans</c><00:12:15.240><c> so</c><00:12:15.360><c> a</c><00:12:15.480><c> common</c>
+
+00:12:15.710 --> 00:12:15.720 align:start position:0%
+been labeled by humans so a common
+ 
+
+00:12:15.720 --> 00:12:17.230 align:start position:0%
+been labeled by humans so a common
+challenge<00:12:16.240><c> that</c><00:12:16.440><c> those</c><00:12:16.600><c> of</c><00:12:16.720><c> you</c><00:12:16.839><c> working</c><00:12:17.079><c> in</c>
+
+00:12:17.230 --> 00:12:17.240 align:start position:0%
+challenge that those of you working in
+ 
+
+00:12:17.240 --> 00:12:18.949 align:start position:0%
+challenge that those of you working in
+machine<00:12:17.519><c> learning</c><00:12:17.839><c> will</c><00:12:18.000><c> be</c><00:12:18.199><c> familiar</c><00:12:18.639><c> with</c>
+
+00:12:18.949 --> 00:12:18.959 align:start position:0%
+machine learning will be familiar with
+ 
+
+00:12:18.959 --> 00:12:20.509 align:start position:0%
+machine learning will be familiar with
+is<00:12:19.120><c> just</c><00:12:19.320><c> getting</c><00:12:19.600><c> the</c><00:12:19.720><c> labeled</c><00:12:20.120><c> training</c>
+
+00:12:20.509 --> 00:12:20.519 align:start position:0%
+is just getting the labeled training
+ 
+
+00:12:20.519 --> 00:12:22.430 align:start position:0%
+is just getting the labeled training
+data<00:12:20.800><c> that</c><00:12:20.920><c> you</c><00:12:21.160><c> actually</c><00:12:21.480><c> need</c><00:12:22.199><c> whether</c>
+
+00:12:22.430 --> 00:12:22.440 align:start position:0%
+data that you actually need whether
+ 
+
+00:12:22.440 --> 00:12:24.030 align:start position:0%
+data that you actually need whether
+that's<00:12:22.680><c> having</c><00:12:22.920><c> people</c><00:12:23.279><c> label</c><00:12:23.639><c> tens</c><00:12:23.839><c> of</c>
+
+00:12:24.030 --> 00:12:24.040 align:start position:0%
+that's having people label tens of
+ 
+
+00:12:24.040 --> 00:12:25.949 align:start position:0%
+that's having people label tens of
+thousands<00:12:24.360><c> of</c><00:12:24.519><c> images</c><00:12:25.040><c> or</c><00:12:25.399><c> whatever</c><00:12:25.760><c> other</c>
+
+00:12:25.949 --> 00:12:25.959 align:start position:0%
+thousands of images or whatever other
+ 
+
+00:12:25.959 --> 00:12:28.240 align:start position:0%
+thousands of images or whatever other
+data<00:12:26.240><c> type</c><00:12:26.440><c> you</c><00:12:26.560><c> might</c><00:12:26.720><c> be</c><00:12:26.839><c> dealing</c><00:12:27.240><c> with</c>
+
+00:12:28.240 --> 00:12:28.250 align:start position:0%
+data type you might be dealing with
+ 
+
+00:12:28.250 --> 00:12:44.529 align:start position:0%
+data type you might be dealing with
+[Music]
+

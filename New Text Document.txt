@@ -1,0 +1,8 @@
+clean_chunks = [
+    Document(
+        page_content=chunk.page_content[:4000],  # Truncate content too
+        metadata={**chunk.metadata, "source": "combined_transcripts.txt", ch}
+    )
+    for chunk in chunks
+]
+

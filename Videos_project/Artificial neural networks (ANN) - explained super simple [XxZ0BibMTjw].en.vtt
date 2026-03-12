@@ -1,0 +1,5072 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:02.570 align:start position:0%
+ 
+welcome<00:00:00.840><c> to</c><00:00:01.199><c> this</c><00:00:01.439><c> basic</c><00:00:01.860><c> video</c><00:00:02.100><c> about</c>
+
+00:00:02.570 --> 00:00:02.580 align:start position:0%
+welcome to this basic video about
+ 
+
+00:00:02.580 --> 00:00:05.329 align:start position:0%
+welcome to this basic video about
+artificial<00:00:03.240><c> neural</c><00:00:03.840><c> networks</c>
+
+00:00:05.329 --> 00:00:05.339 align:start position:0%
+artificial neural networks
+ 
+
+00:00:05.339 --> 00:00:09.110 align:start position:0%
+artificial neural networks
+a<00:00:05.880><c> neural</c><00:00:06.240><c> network</c><00:00:06.420><c> consists</c><00:00:07.259><c> of</c><00:00:07.319><c> input</c><00:00:07.980><c> nodes</c>
+
+00:00:09.110 --> 00:00:09.120 align:start position:0%
+a neural network consists of input nodes
+ 
+
+00:00:09.120 --> 00:00:11.330 align:start position:0%
+a neural network consists of input nodes
+a<00:00:09.599><c> hidden</c><00:00:09.960><c> layer</c>
+
+00:00:11.330 --> 00:00:11.340 align:start position:0%
+a hidden layer
+ 
+
+00:00:11.340 --> 00:00:14.030 align:start position:0%
+a hidden layer
+and<00:00:11.820><c> output</c><00:00:12.179><c> nodes</c>
+
+00:00:14.030 --> 00:00:14.040 align:start position:0%
+and output nodes
+ 
+
+00:00:14.040 --> 00:00:16.790 align:start position:0%
+and output nodes
+for<00:00:14.519><c> example</c><00:00:14.880><c> these</c><00:00:15.780><c> input</c><00:00:16.020><c> nodes</c><00:00:16.440><c> may</c>
+
+00:00:16.790 --> 00:00:16.800 align:start position:0%
+for example these input nodes may
+ 
+
+00:00:16.800 --> 00:00:19.970 align:start position:0%
+for example these input nodes may
+represent<00:00:17.279><c> three</c><00:00:17.580><c> measurements</c><00:00:18.359><c> that</c><00:00:18.779><c> we</c><00:00:18.960><c> do</c>
+
+00:00:19.970 --> 00:00:19.980 align:start position:0%
+represent three measurements that we do
+ 
+
+00:00:19.980 --> 00:00:22.310 align:start position:0%
+represent three measurements that we do
+to<00:00:20.460><c> determine</c><00:00:20.880><c> if</c><00:00:21.300><c> someone</c><00:00:21.480><c> has</c><00:00:21.840><c> prostate</c>
+
+00:00:22.310 --> 00:00:22.320 align:start position:0%
+to determine if someone has prostate
+ 
+
+00:00:22.320 --> 00:00:24.830 align:start position:0%
+to determine if someone has prostate
+cancer<00:00:22.560><c> or</c><00:00:23.160><c> not</c>
+
+00:00:24.830 --> 00:00:24.840 align:start position:0%
+cancer or not
+ 
+
+00:00:24.840 --> 00:00:27.109 align:start position:0%
+cancer or not
+suppose<00:00:25.500><c> that</c><00:00:25.680><c> the</c><00:00:25.920><c> person</c><00:00:26.100><c> enters</c><00:00:26.820><c> the</c>
+
+00:00:27.109 --> 00:00:27.119 align:start position:0%
+suppose that the person enters the
+ 
+
+00:00:27.119 --> 00:00:28.370 align:start position:0%
+suppose that the person enters the
+hospital
+
+00:00:28.370 --> 00:00:28.380 align:start position:0%
+hospital
+ 
+
+00:00:28.380 --> 00:00:30.470 align:start position:0%
+hospital
+we<00:00:28.920><c> check</c><00:00:29.099><c> the</c><00:00:29.400><c> age</c>
+
+00:00:30.470 --> 00:00:30.480 align:start position:0%
+we check the age
+ 
+
+00:00:30.480 --> 00:00:32.510 align:start position:0%
+we check the age
+and<00:00:30.900><c> the</c><00:00:31.080><c> concentration</c><00:00:31.560><c> of</c><00:00:32.040><c> the</c><00:00:32.160><c> prostate</c>
+
+00:00:32.510 --> 00:00:32.520 align:start position:0%
+and the concentration of the prostate
+ 
+
+00:00:32.520 --> 00:00:35.330 align:start position:0%
+and the concentration of the prostate
+specific<00:00:33.000><c> antigen</c><00:00:33.540><c> from</c><00:00:33.840><c> a</c><00:00:34.020><c> blood</c><00:00:34.200><c> sample</c>
+
+00:00:35.330 --> 00:00:35.340 align:start position:0%
+specific antigen from a blood sample
+ 
+
+00:00:35.340 --> 00:00:38.569 align:start position:0%
+specific antigen from a blood sample
+and<00:00:35.820><c> collect</c><00:00:36.180><c> a</c><00:00:36.360><c> score</c><00:00:36.600><c> between</c><00:00:36.899><c> 1</c><00:00:37.320><c> and</c><00:00:37.500><c> 5</c><00:00:37.800><c> from</c>
+
+00:00:38.569 --> 00:00:38.579 align:start position:0%
+and collect a score between 1 and 5 from
+ 
+
+00:00:38.579 --> 00:00:41.569 align:start position:0%
+and collect a score between 1 and 5 from
+an<00:00:38.700><c> MRI</c><00:00:39.059><c> scan</c><00:00:39.540><c> of</c><00:00:39.780><c> the</c><00:00:39.899><c> prostate</c>
+
+00:00:41.569 --> 00:00:41.579 align:start position:0%
+an MRI scan of the prostate
+ 
+
+00:00:41.579 --> 00:00:43.729 align:start position:0%
+an MRI scan of the prostate
+then<00:00:42.000><c> we</c><00:00:42.180><c> plug</c><00:00:42.420><c> in</c><00:00:42.600><c> the</c><00:00:42.780><c> corresponding</c><00:00:43.320><c> values</c>
+
+00:00:43.729 --> 00:00:43.739 align:start position:0%
+then we plug in the corresponding values
+ 
+
+00:00:43.739 --> 00:00:46.250 align:start position:0%
+then we plug in the corresponding values
+in<00:00:44.100><c> the</c><00:00:44.280><c> input</c><00:00:44.520><c> nodes</c>
+
+00:00:46.250 --> 00:00:46.260 align:start position:0%
+in the input nodes
+ 
+
+00:00:46.260 --> 00:00:48.410 align:start position:0%
+in the input nodes
+and<00:00:46.620><c> use</c><00:00:46.800><c> the</c><00:00:47.040><c> network</c><00:00:47.219><c> to</c><00:00:47.760><c> tell</c><00:00:47.940><c> if</c><00:00:48.239><c> the</c>
+
+00:00:48.410 --> 00:00:48.420 align:start position:0%
+and use the network to tell if the
+ 
+
+00:00:48.420 --> 00:00:51.830 align:start position:0%
+and use the network to tell if the
+person<00:00:48.539><c> has</c><00:00:48.840><c> prostate</c><00:00:49.320><c> cancer</c><00:00:49.559><c> or</c><00:00:50.100><c> not</c>
+
+00:00:51.830 --> 00:00:51.840 align:start position:0%
+person has prostate cancer or not
+ 
+
+00:00:51.840 --> 00:00:54.889 align:start position:0%
+person has prostate cancer or not
+to<00:00:52.200><c> understand</c><00:00:52.379><c> how</c><00:00:53.160><c> neural</c><00:00:53.520><c> Nets</c><00:00:53.940><c> work</c><00:00:54.120><c> we</c>
+
+00:00:54.889 --> 00:00:54.899 align:start position:0%
+to understand how neural Nets work we
+ 
+
+00:00:54.899 --> 00:00:56.450 align:start position:0%
+to understand how neural Nets work we
+will<00:00:55.079><c> here</c><00:00:55.260><c> have</c><00:00:55.440><c> a</c><00:00:55.559><c> look</c><00:00:55.680><c> at</c><00:00:56.039><c> the</c><00:00:56.280><c> super</c>
+
+00:00:56.450 --> 00:00:56.460 align:start position:0%
+will here have a look at the super
+ 
+
+00:00:56.460 --> 00:00:58.069 align:start position:0%
+will here have a look at the super
+simple<00:00:56.760><c> example</c>
+
+00:00:58.069 --> 00:00:58.079 align:start position:0%
+simple example
+ 
+
+00:00:58.079 --> 00:01:00.590 align:start position:0%
+simple example
+at<00:00:58.620><c> the</c><00:00:58.680><c> end</c><00:00:58.800><c> of</c><00:00:58.980><c> this</c><00:00:59.160><c> video</c><00:00:59.340><c> we'll</c><00:01:00.120><c> try</c><00:01:00.420><c> to</c>
+
+00:01:00.590 --> 00:01:00.600 align:start position:0%
+at the end of this video we'll try to
+ 
+
+00:01:00.600 --> 00:01:02.869 align:start position:0%
+at the end of this video we'll try to
+understand<00:01:00.780><c> what</c><00:01:01.379><c> happens</c><00:01:01.620><c> if</c><00:01:02.160><c> you</c><00:01:02.280><c> include</c><00:01:02.579><c> a</c>
+
+00:01:02.869 --> 00:01:02.879 align:start position:0%
+understand what happens if you include a
+ 
+
+00:01:02.879 --> 00:01:04.070 align:start position:0%
+understand what happens if you include a
+hidden<00:01:03.180><c> layer</c>
+
+00:01:04.070 --> 00:01:04.080 align:start position:0%
+hidden layer
+ 
+
+00:01:04.080 --> 00:01:06.590 align:start position:0%
+hidden layer
+a<00:01:04.500><c> look</c><00:01:04.680><c> at</c><00:01:04.799><c> some</c><00:01:05.040><c> simple</c><00:01:05.220><c> R</c><00:01:05.580><c> code</c><00:01:05.880><c> if</c><00:01:06.360><c> you</c><00:01:06.420><c> like</c>
+
+00:01:06.590 --> 00:01:06.600 align:start position:0%
+a look at some simple R code if you like
+ 
+
+00:01:06.600 --> 00:01:08.870 align:start position:0%
+a look at some simple R code if you like
+to<00:01:06.720><c> reproduce</c><00:01:07.140><c> the</c><00:01:07.439><c> first</c><00:01:07.619><c> example</c><00:01:08.220><c> shown</c><00:01:08.700><c> in</c>
+
+00:01:08.870 --> 00:01:08.880 align:start position:0%
+to reproduce the first example shown in
+ 
+
+00:01:08.880 --> 00:01:11.090 align:start position:0%
+to reproduce the first example shown in
+this<00:01:09.060><c> video</c>
+
+00:01:11.090 --> 00:01:11.100 align:start position:0%
+this video
+ 
+
+00:01:11.100 --> 00:01:13.429 align:start position:0%
+this video
+we<00:01:11.460><c> will</c><00:01:11.580><c> here</c><00:01:11.760><c> see</c><00:01:12.000><c> how</c><00:01:12.299><c> to</c><00:01:12.479><c> train</c><00:01:12.720><c> a</c><00:01:13.080><c> neural</c>
+
+00:01:13.429 --> 00:01:13.439 align:start position:0%
+we will here see how to train a neural
+ 
+
+00:01:13.439 --> 00:01:15.350 align:start position:0%
+we will here see how to train a neural
+network<00:01:13.560><c> to</c><00:01:14.280><c> predict</c><00:01:14.580><c> if</c><00:01:14.880><c> someone</c><00:01:15.060><c> has</c>
+
+00:01:15.350 --> 00:01:15.360 align:start position:0%
+network to predict if someone has
+ 
+
+00:01:15.360 --> 00:01:18.469 align:start position:0%
+network to predict if someone has
+prostate<00:01:15.840><c> cancer</c><00:01:16.020><c> based</c><00:01:16.740><c> on</c><00:01:16.860><c> the</c><00:01:17.040><c> PSA</c><00:01:17.460><c> level</c>
+
+00:01:18.469 --> 00:01:18.479 align:start position:0%
+prostate cancer based on the PSA level
+ 
+
+00:01:18.479 --> 00:01:21.050 align:start position:0%
+prostate cancer based on the PSA level
+our<00:01:19.080><c> training</c><00:01:19.560><c> data</c><00:01:19.920><c> consists</c><00:01:20.520><c> of</c><00:01:20.640><c> seven</c>
+
+00:01:21.050 --> 00:01:21.060 align:start position:0%
+our training data consists of seven
+ 
+
+00:01:21.060 --> 00:01:23.630 align:start position:0%
+our training data consists of seven
+patients<00:01:21.720><c> that</c><00:01:22.560><c> we</c><00:01:22.680><c> know</c><00:01:22.860><c> have</c><00:01:23.159><c> prostate</c>
+
+00:01:23.630 --> 00:01:23.640 align:start position:0%
+patients that we know have prostate
+ 
+
+00:01:23.640 --> 00:01:24.770 align:start position:0%
+patients that we know have prostate
+cancer
+
+00:01:24.770 --> 00:01:24.780 align:start position:0%
+cancer
+ 
+
+00:01:24.780 --> 00:01:27.530 align:start position:0%
+cancer
+and<00:01:25.259><c> seven</c><00:01:25.500><c> individuals</c><00:01:26.220><c> that</c><00:01:26.820><c> we</c><00:01:26.939><c> know</c><00:01:27.119><c> are</c>
+
+00:01:27.530 --> 00:01:27.540 align:start position:0%
+and seven individuals that we know are
+ 
+
+00:01:27.540 --> 00:01:30.590 align:start position:0%
+and seven individuals that we know are
+healthy<00:01:28.500><c> based</c><00:01:29.100><c> on</c><00:01:29.159><c> a</c><00:01:29.280><c> blood</c><00:01:29.460><c> sample</c>
+
+00:01:30.590 --> 00:01:30.600 align:start position:0%
+healthy based on a blood sample
+ 
+
+00:01:30.600 --> 00:01:32.690 align:start position:0%
+healthy based on a blood sample
+we<00:01:30.960><c> have</c><00:01:31.140><c> determined</c><00:01:31.619><c> the</c><00:01:31.799><c> concentration</c><00:01:32.280><c> of</c>
+
+00:01:32.690 --> 00:01:32.700 align:start position:0%
+we have determined the concentration of
+ 
+
+00:01:32.700 --> 00:01:35.810 align:start position:0%
+we have determined the concentration of
+PSA<00:01:33.240><c> or</c><00:01:33.720><c> the</c><00:01:33.900><c> prostate</c><00:01:34.259><c> specific</c><00:01:34.619><c> antigen</c><00:01:35.280><c> in</c>
+
+00:01:35.810 --> 00:01:35.820 align:start position:0%
+PSA or the prostate specific antigen in
+ 
+
+00:01:35.820 --> 00:01:38.450 align:start position:0%
+PSA or the prostate specific antigen in
+the<00:01:35.939><c> blood</c><00:01:36.119><c> of</c><00:01:36.420><c> these</c><00:01:36.659><c> individuals</c>
+
+00:01:38.450 --> 00:01:38.460 align:start position:0%
+the blood of these individuals
+ 
+
+00:01:38.460 --> 00:01:40.730 align:start position:0%
+the blood of these individuals
+note<00:01:38.880><c> that</c><00:01:39.180><c> this</c><00:01:39.420><c> data</c><00:01:39.780><c> has</c><00:01:40.079><c> been</c><00:01:40.200><c> simulated</c>
+
+00:01:40.730 --> 00:01:40.740 align:start position:0%
+note that this data has been simulated
+ 
+
+00:01:40.740 --> 00:01:43.550 align:start position:0%
+note that this data has been simulated
+for<00:01:41.100><c> the</c><00:01:41.280><c> purpose</c><00:01:41.640><c> of</c><00:01:41.880><c> this</c><00:01:42.119><c> video</c>
+
+00:01:43.550 --> 00:01:43.560 align:start position:0%
+for the purpose of this video
+ 
+
+00:01:43.560 --> 00:01:45.590 align:start position:0%
+for the purpose of this video
+we'll<00:01:43.979><c> here</c><00:01:44.220><c> use</c><00:01:44.520><c> the</c><00:01:44.759><c> simplest</c><00:01:45.299><c> possible</c>
+
+00:01:45.590 --> 00:01:45.600 align:start position:0%
+we'll here use the simplest possible
+ 
+
+00:01:45.600 --> 00:01:48.230 align:start position:0%
+we'll here use the simplest possible
+neural<00:01:46.079><c> network</c><00:01:46.259><c> model</c>
+
+00:01:48.230 --> 00:01:48.240 align:start position:0%
+neural network model
+ 
+
+00:01:48.240 --> 00:01:50.389 align:start position:0%
+neural network model
+since<00:01:48.720><c> we</c><00:01:48.960><c> only</c><00:01:49.200><c> have</c><00:01:49.439><c> one</c><00:01:49.619><c> measured</c><00:01:50.040><c> variable</c>
+
+00:01:50.389 --> 00:01:50.399 align:start position:0%
+since we only have one measured variable
+ 
+
+00:01:50.399 --> 00:01:53.690 align:start position:0%
+since we only have one measured variable
+the<00:01:50.939><c> PSA</c><00:01:51.420><c> concentration</c><00:01:52.020><c> the</c><00:01:52.920><c> network</c><00:01:53.159><c> will</c>
+
+00:01:53.690 --> 00:01:53.700 align:start position:0%
+the PSA concentration the network will
+ 
+
+00:01:53.700 --> 00:01:56.450 align:start position:0%
+the PSA concentration the network will
+only<00:01:53.939><c> have</c><00:01:54.240><c> just</c><00:01:54.479><c> one</c><00:01:54.720><c> input</c><00:01:55.079><c> node</c>
+
+00:01:56.450 --> 00:01:56.460 align:start position:0%
+only have just one input node
+ 
+
+00:01:56.460 --> 00:01:58.850 align:start position:0%
+only have just one input node
+note<00:01:56.939><c> that</c><00:01:57.180><c> we</c><00:01:57.360><c> here</c><00:01:57.540><c> do</c><00:01:57.720><c> not</c><00:01:57.899><c> have</c><00:01:58.140><c> any</c><00:01:58.380><c> hidden</c>
+
+00:01:58.850 --> 00:01:58.860 align:start position:0%
+note that we here do not have any hidden
+ 
+
+00:01:58.860 --> 00:01:59.690 align:start position:0%
+note that we here do not have any hidden
+layer
+
+00:01:59.690 --> 00:01:59.700 align:start position:0%
+layer
+ 
+
+00:01:59.700 --> 00:02:01.490 align:start position:0%
+layer
+because<00:01:59.939><c> we</c><00:02:00.240><c> like</c><00:02:00.420><c> to</c><00:02:00.600><c> use</c><00:02:00.780><c> the</c><00:02:01.079><c> simplest</c>
+
+00:02:01.490 --> 00:02:01.500 align:start position:0%
+because we like to use the simplest
+ 
+
+00:02:01.500 --> 00:02:03.350 align:start position:0%
+because we like to use the simplest
+possible<00:02:01.860><c> Network</c>
+
+00:02:03.350 --> 00:02:03.360 align:start position:0%
+possible Network
+ 
+
+00:02:03.360 --> 00:02:06.649 align:start position:0%
+possible Network
+the<00:02:03.780><c> network</c><00:02:03.960><c> has</c><00:02:04.799><c> two</c><00:02:05.100><c> output</c><00:02:05.520><c> nodes</c><00:02:05.939><c> because</c>
+
+00:02:06.649 --> 00:02:06.659 align:start position:0%
+the network has two output nodes because
+ 
+
+00:02:06.659 --> 00:02:08.690 align:start position:0%
+the network has two output nodes because
+we<00:02:06.960><c> here</c><00:02:07.140><c> like</c><00:02:07.320><c> to</c><00:02:07.500><c> use</c><00:02:07.680><c> the</c><00:02:07.920><c> network</c><00:02:08.099><c> to</c>
+
+00:02:08.690 --> 00:02:08.700 align:start position:0%
+we here like to use the network to
+ 
+
+00:02:08.700 --> 00:02:10.430 align:start position:0%
+we here like to use the network to
+predict<00:02:08.940><c> if</c><00:02:09.300><c> someone</c><00:02:09.479><c> has</c><00:02:09.720><c> prostate</c><00:02:10.200><c> cancer</c>
+
+00:02:10.430 --> 00:02:10.440 align:start position:0%
+predict if someone has prostate cancer
+ 
+
+00:02:10.440 --> 00:02:12.050 align:start position:0%
+predict if someone has prostate cancer
+or<00:02:10.920><c> not</c>
+
+00:02:12.050 --> 00:02:12.060 align:start position:0%
+or not
+ 
+
+00:02:12.060 --> 00:02:15.229 align:start position:0%
+or not
+this<00:02:12.540><c> is</c><00:02:12.720><c> called</c><00:02:12.959><c> a</c><00:02:13.319><c> bias</c><00:02:13.739><c> which</c><00:02:14.580><c> is</c><00:02:14.760><c> used</c><00:02:15.000><c> to</c>
+
+00:02:15.229 --> 00:02:15.239 align:start position:0%
+this is called a bias which is used to
+ 
+
+00:02:15.239 --> 00:02:18.650 align:start position:0%
+this is called a bias which is used to
+modify<00:02:15.660><c> the</c><00:02:15.900><c> activation</c><00:02:16.319><c> function</c>
+
+00:02:18.650 --> 00:02:18.660 align:start position:0%
+modify the activation function
+ 
+
+00:02:18.660 --> 00:02:20.510 align:start position:0%
+modify the activation function
+there<00:02:19.319><c> are</c><00:02:19.440><c> several</c><00:02:19.739><c> different</c><00:02:19.980><c> activation</c>
+
+00:02:20.510 --> 00:02:20.520 align:start position:0%
+there are several different activation
+ 
+
+00:02:20.520 --> 00:02:23.390 align:start position:0%
+there are several different activation
+functions<00:02:21.239><c> to</c><00:02:21.599><c> select</c><00:02:21.900><c> between</c>
+
+00:02:23.390 --> 00:02:23.400 align:start position:0%
+functions to select between
+ 
+
+00:02:23.400 --> 00:02:25.430 align:start position:0%
+functions to select between
+we<00:02:23.819><c> will</c><00:02:24.000><c> here</c><00:02:24.180><c> use</c><00:02:24.360><c> the</c><00:02:24.599><c> sigmoid</c><00:02:25.080><c> function</c>
+
+00:02:25.430 --> 00:02:25.440 align:start position:0%
+we will here use the sigmoid function
+ 
+
+00:02:25.440 --> 00:02:27.890 align:start position:0%
+we will here use the sigmoid function
+which<00:02:26.280><c> is</c><00:02:26.459><c> the</c><00:02:26.700><c> same</c><00:02:26.819><c> function</c><00:02:27.180><c> that</c><00:02:27.540><c> is</c><00:02:27.720><c> used</c>
+
+00:02:27.890 --> 00:02:27.900 align:start position:0%
+which is the same function that is used
+ 
+
+00:02:27.900 --> 00:02:29.809 align:start position:0%
+which is the same function that is used
+in<00:02:28.140><c> logistic</c><00:02:28.620><c> regression</c>
+
+00:02:29.809 --> 00:02:29.819 align:start position:0%
+in logistic regression
+ 
+
+00:02:29.819 --> 00:02:32.210 align:start position:0%
+in logistic regression
+this<00:02:30.420><c> will</c><00:02:30.660><c> later</c><00:02:30.840><c> allow</c><00:02:31.379><c> us</c><00:02:31.500><c> to</c><00:02:31.739><c> compare</c><00:02:32.040><c> the</c>
+
+00:02:32.210 --> 00:02:32.220 align:start position:0%
+this will later allow us to compare the
+ 
+
+00:02:32.220 --> 00:02:35.869 align:start position:0%
+this will later allow us to compare the
+neural<00:02:32.640><c> network</c><00:02:32.760><c> with</c><00:02:33.599><c> logistic</c><00:02:34.140><c> regression</c>
+
+00:02:35.869 --> 00:02:35.879 align:start position:0%
+neural network with logistic regression
+ 
+
+00:02:35.879 --> 00:02:39.170 align:start position:0%
+neural network with logistic regression
+let's<00:02:36.420><c> make</c><00:02:36.720><c> a</c><00:02:36.900><c> plot</c><00:02:37.080><c> of</c><00:02:37.379><c> this</c><00:02:37.560><c> data</c>
+
+00:02:39.170 --> 00:02:39.180 align:start position:0%
+let's make a plot of this data
+ 
+
+00:02:39.180 --> 00:02:41.210 align:start position:0%
+let's make a plot of this data
+like<00:02:39.840><c> this</c>
+
+00:02:41.210 --> 00:02:41.220 align:start position:0%
+like this
+ 
+
+00:02:41.220 --> 00:02:44.030 align:start position:0%
+like this
+where<00:02:41.760><c> these</c><00:02:42.180><c> points</c><00:02:42.660><c> represent</c><00:02:43.560><c> the</c><00:02:43.800><c> cancer</c>
+
+00:02:44.030 --> 00:02:44.040 align:start position:0%
+where these points represent the cancer
+ 
+
+00:02:44.040 --> 00:02:48.470 align:start position:0%
+where these points represent the cancer
+patients<00:02:44.819><c> that</c><00:02:45.540><c> are</c><00:02:45.720><c> hair</c><00:02:45.900><c> coded</c><00:02:46.319><c> as</c><00:02:46.739><c> once</c>
+
+00:02:48.470 --> 00:02:48.480 align:start position:0%
+patients that are hair coded as once
+ 
+
+00:02:48.480 --> 00:02:50.809 align:start position:0%
+patients that are hair coded as once
+whereas<00:02:49.200><c> these</c><00:02:49.500><c> points</c><00:02:49.920><c> represents</c><00:02:50.640><c> the</c>
+
+00:02:50.809 --> 00:02:50.819 align:start position:0%
+whereas these points represents the
+ 
+
+00:02:50.819 --> 00:02:53.449 align:start position:0%
+whereas these points represents the
+healthy<00:02:51.180><c> individuals</c><00:02:51.780><c> that</c><00:02:52.560><c> are</c><00:02:52.680><c> coded</c><00:02:53.099><c> as</c>
+
+00:02:53.449 --> 00:02:53.459 align:start position:0%
+healthy individuals that are coded as
+ 
+
+00:02:53.459 --> 00:02:54.770 align:start position:0%
+healthy individuals that are coded as
+zeros
+
+00:02:54.770 --> 00:02:54.780 align:start position:0%
+zeros
+ 
+
+00:02:54.780 --> 00:02:57.710 align:start position:0%
+zeros
+for<00:02:55.260><c> example</c><00:02:55.560><c> this</c><00:02:56.220><c> healthy</c><00:02:56.700><c> individual</c><00:02:57.180><c> has</c>
+
+00:02:57.710 --> 00:02:57.720 align:start position:0%
+for example this healthy individual has
+ 
+
+00:02:57.720 --> 00:03:01.070 align:start position:0%
+for example this healthy individual has
+a<00:02:57.959><c> PSA</c><00:02:58.379><c> level</c><00:02:58.620><c> of</c><00:02:59.040><c> 2.5</c>
+
+00:03:01.070 --> 00:03:01.080 align:start position:0%
+a PSA level of 2.5
+ 
+
+00:03:01.080 --> 00:03:03.890 align:start position:0%
+a PSA level of 2.5
+whereas<00:03:01.800><c> this</c><00:03:02.040><c> cancer</c><00:03:02.280><c> patient</c><00:03:02.819><c> has</c><00:03:03.300><c> a</c><00:03:03.480><c> PSA</c>
+
+00:03:03.890 --> 00:03:03.900 align:start position:0%
+whereas this cancer patient has a PSA
+ 
+
+00:03:03.900 --> 00:03:07.970 align:start position:0%
+whereas this cancer patient has a PSA
+level<00:03:04.140><c> of</c><00:03:04.560><c> 2.1</c>
+
+00:03:07.970 --> 00:03:07.980 align:start position:0%
+ 
+ 
+
+00:03:07.980 --> 00:03:10.850 align:start position:0%
+ 
+training<00:03:08.760><c> a</c><00:03:08.940><c> neural</c><00:03:09.300><c> network</c><00:03:09.560><c> means</c><00:03:10.560><c> that</c><00:03:10.739><c> we</c>
+
+00:03:10.850 --> 00:03:10.860 align:start position:0%
+training a neural network means that we
+ 
+
+00:03:10.860 --> 00:03:14.030 align:start position:0%
+training a neural network means that we
+find<00:03:11.040><c> the</c><00:03:11.280><c> optimal</c><00:03:11.819><c> values</c><00:03:12.239><c> of</c><00:03:12.659><c> the</c><00:03:12.780><c> weights</c>
+
+00:03:14.030 --> 00:03:14.040 align:start position:0%
+find the optimal values of the weights
+ 
+
+00:03:14.040 --> 00:03:15.949 align:start position:0%
+find the optimal values of the weights
+and<00:03:14.400><c> the</c><00:03:14.519><c> weight</c><00:03:14.700><c> associated</c><00:03:15.540><c> with</c><00:03:15.840><c> the</c>
+
+00:03:15.949 --> 00:03:15.959 align:start position:0%
+and the weight associated with the
+ 
+
+00:03:15.959 --> 00:03:17.570 align:start position:0%
+and the weight associated with the
+buyers
+
+00:03:17.570 --> 00:03:17.580 align:start position:0%
+buyers
+ 
+
+00:03:17.580 --> 00:03:19.910 align:start position:0%
+buyers
+so<00:03:18.000><c> that</c><00:03:18.180><c> the</c><00:03:18.300><c> activation</c><00:03:18.720><c> function</c><00:03:19.260><c> in</c><00:03:19.800><c> this</c>
+
+00:03:19.910 --> 00:03:19.920 align:start position:0%
+so that the activation function in this
+ 
+
+00:03:19.920 --> 00:03:21.110 align:start position:0%
+so that the activation function in this
+case
+
+00:03:21.110 --> 00:03:21.120 align:start position:0%
+case
+ 
+
+00:03:21.120 --> 00:03:24.110 align:start position:0%
+case
+generates<00:03:21.900><c> a</c><00:03:22.379><c> sigmoid</c><00:03:22.920><c> curve</c><00:03:23.340><c> that</c><00:03:23.819><c> can</c><00:03:24.000><c> be</c>
+
+00:03:24.110 --> 00:03:24.120 align:start position:0%
+generates a sigmoid curve that can be
+ 
+
+00:03:24.120 --> 00:03:25.970 align:start position:0%
+generates a sigmoid curve that can be
+used<00:03:24.300><c> to</c><00:03:24.540><c> predict</c><00:03:24.840><c> the</c><00:03:25.019><c> outcome</c><00:03:25.379><c> in</c><00:03:25.860><c> an</c>
+
+00:03:25.970 --> 00:03:25.980 align:start position:0%
+used to predict the outcome in an
+ 
+
+00:03:25.980 --> 00:03:27.890 align:start position:0%
+used to predict the outcome in an
+optimal<00:03:26.400><c> way</c>
+
+00:03:27.890 --> 00:03:27.900 align:start position:0%
+optimal way
+ 
+
+00:03:27.900 --> 00:03:29.630 align:start position:0%
+optimal way
+note<00:03:28.319><c> that</c><00:03:28.560><c> the</c><00:03:28.739><c> logistic</c><00:03:29.159><c> activation</c>
+
+00:03:29.630 --> 00:03:29.640 align:start position:0%
+note that the logistic activation
+ 
+
+00:03:29.640 --> 00:03:32.809 align:start position:0%
+note that the logistic activation
+function<00:03:30.180><c> generates</c><00:03:30.959><c> a</c><00:03:31.319><c> value</c><00:03:31.440><c> between</c><00:03:31.920><c> 0</c><00:03:32.400><c> and</c>
+
+00:03:32.809 --> 00:03:32.819 align:start position:0%
+function generates a value between 0 and
+ 
+
+00:03:32.819 --> 00:03:34.130 align:start position:0%
+function generates a value between 0 and
+1.
+
+00:03:34.130 --> 00:03:34.140 align:start position:0%
+1.
+ 
+
+00:03:34.140 --> 00:03:37.850 align:start position:0%
+1.
+and<00:03:34.680><c> that</c><00:03:34.860><c> e</c><00:03:35.159><c> is</c><00:03:35.459><c> the</c><00:03:35.580><c> Euler's</c><00:03:36.060><c> number</c>
+
+00:03:37.850 --> 00:03:37.860 align:start position:0%
+and that e is the Euler's number
+ 
+
+00:03:37.860 --> 00:03:40.610 align:start position:0%
+and that e is the Euler's number
+if<00:03:38.220><c> you</c><00:03:38.400><c> train</c><00:03:38.640><c> this</c><00:03:38.940><c> simple</c><00:03:39.180><c> Network</c><00:03:39.540><c> we</c><00:03:40.440><c> will</c>
+
+00:03:40.610 --> 00:03:40.620 align:start position:0%
+if you train this simple Network we will
+ 
+
+00:03:40.620 --> 00:03:43.850 align:start position:0%
+if you train this simple Network we will
+obtain<00:03:40.980><c> the</c><00:03:41.280><c> following</c><00:03:41.640><c> weights</c>
+
+00:03:43.850 --> 00:03:43.860 align:start position:0%
+obtain the following weights
+ 
+
+00:03:43.860 --> 00:03:46.789 align:start position:0%
+obtain the following weights
+let's<00:03:44.519><c> use</c><00:03:44.819><c> this</c><00:03:45.120><c> network</c><00:03:45.360><c> to</c><00:03:46.080><c> see</c><00:03:46.260><c> if</c><00:03:46.560><c> this</c>
+
+00:03:46.789 --> 00:03:46.799 align:start position:0%
+let's use this network to see if this
+ 
+
+00:03:46.799 --> 00:03:49.490 align:start position:0%
+let's use this network to see if this
+healthy<00:03:47.280><c> person</c><00:03:47.519><c> is</c><00:03:48.239><c> correctly</c><00:03:48.659><c> predicted</c><00:03:49.140><c> as</c>
+
+00:03:49.490 --> 00:03:49.500 align:start position:0%
+healthy person is correctly predicted as
+ 
+
+00:03:49.500 --> 00:03:52.190 align:start position:0%
+healthy person is correctly predicted as
+being<00:03:49.739><c> healthy</c><00:03:50.220><c> by</c><00:03:50.459><c> the</c><00:03:50.640><c> network</c>
+
+00:03:52.190 --> 00:03:52.200 align:start position:0%
+being healthy by the network
+ 
+
+00:03:52.200 --> 00:03:55.670 align:start position:0%
+being healthy by the network
+we<00:03:52.560><c> plug</c><00:03:52.739><c> in</c><00:03:52.980><c> its</c><00:03:53.340><c> PSA</c><00:03:53.819><c> level</c><00:03:54.060><c> of</c><00:03:54.420><c> 2.0</c><00:03:55.019><c> in</c><00:03:55.560><c> the</c>
+
+00:03:55.670 --> 00:03:55.680 align:start position:0%
+we plug in its PSA level of 2.0 in the
+ 
+
+00:03:55.680 --> 00:03:57.649 align:start position:0%
+we plug in its PSA level of 2.0 in the
+input<00:03:55.980><c> node</c>
+
+00:03:57.649 --> 00:03:57.659 align:start position:0%
+input node
+ 
+
+00:03:57.659 --> 00:03:59.930 align:start position:0%
+input node
+to<00:03:58.080><c> calculate</c><00:03:58.500><c> the</c><00:03:58.680><c> probability</c><00:03:59.159><c> that</c><00:03:59.760><c> the</c>
+
+00:03:59.930 --> 00:03:59.940 align:start position:0%
+to calculate the probability that the
+ 
+
+00:03:59.940 --> 00:04:02.390 align:start position:0%
+to calculate the probability that the
+person<00:04:00.120><c> has</c><00:04:00.599><c> cancer</c>
+
+00:04:02.390 --> 00:04:02.400 align:start position:0%
+person has cancer
+ 
+
+00:04:02.400 --> 00:04:04.789 align:start position:0%
+person has cancer
+we<00:04:02.819><c> use</c><00:04:03.000><c> the</c><00:04:03.180><c> weights</c><00:04:03.720><c> associated</c><00:04:04.500><c> with</c>
+
+00:04:04.789 --> 00:04:04.799 align:start position:0%
+we use the weights associated with
+ 
+
+00:04:04.799 --> 00:04:06.289 align:start position:0%
+we use the weights associated with
+output<00:04:05.220><c> node</c>
+
+00:04:06.289 --> 00:04:06.299 align:start position:0%
+output node
+ 
+
+00:04:06.299 --> 00:04:08.149 align:start position:0%
+output node
+in<00:04:06.720><c> this</c><00:04:06.900><c> equation</c>
+
+00:04:08.149 --> 00:04:08.159 align:start position:0%
+in this equation
+ 
+
+00:04:08.159 --> 00:04:11.630 align:start position:0%
+in this equation
+where<00:04:08.580><c> W</c><00:04:08.879><c> cro</c><00:04:09.299><c> is</c><00:04:09.900><c> the</c><00:04:10.080><c> bias</c><00:04:10.439><c> weight</c>
+
+00:04:11.630 --> 00:04:11.640 align:start position:0%
+where W cro is the bias weight
+ 
+
+00:04:11.640 --> 00:04:14.449 align:start position:0%
+where W cro is the bias weight
+and<00:04:12.060><c> this</c><00:04:12.239><c> is</c><00:04:12.360><c> the</c><00:04:12.480><c> way</c><00:04:12.659><c> for</c><00:04:12.959><c> the</c><00:04:13.140><c> input</c><00:04:13.379><c> signal</c>
+
+00:04:14.449 --> 00:04:14.459 align:start position:0%
+and this is the way for the input signal
+ 
+
+00:04:14.459 --> 00:04:16.610 align:start position:0%
+and this is the way for the input signal
+whereas<00:04:15.120><c> this</c><00:04:15.299><c> is</c><00:04:15.480><c> the</c><00:04:15.659><c> value</c><00:04:15.840><c> of</c><00:04:16.199><c> the</c><00:04:16.380><c> input</c>
+
+00:04:16.610 --> 00:04:16.620 align:start position:0%
+whereas this is the value of the input
+ 
+
+00:04:16.620 --> 00:04:17.990 align:start position:0%
+whereas this is the value of the input
+node
+
+00:04:17.990 --> 00:04:18.000 align:start position:0%
+node
+ 
+
+00:04:18.000 --> 00:04:20.509 align:start position:0%
+node
+since<00:04:18.479><c> we</c><00:04:18.720><c> only</c><00:04:18.959><c> have</c><00:04:19.199><c> one</c><00:04:19.500><c> weight</c><00:04:19.799><c> that</c><00:04:20.340><c> is</c>
+
+00:04:20.509 --> 00:04:20.519 align:start position:0%
+since we only have one weight that is
+ 
+
+00:04:20.519 --> 00:04:23.270 align:start position:0%
+since we only have one weight that is
+associated<00:04:21.000><c> with</c><00:04:21.299><c> the</c><00:04:21.419><c> output</c><00:04:21.720><c> node</c><00:04:22.079><c> n</c><00:04:22.979><c> is</c>
+
+00:04:23.270 --> 00:04:23.280 align:start position:0%
+associated with the output node n is
+ 
+
+00:04:23.280 --> 00:04:25.550 align:start position:0%
+associated with the output node n is
+here<00:04:23.460><c> equal</c><00:04:23.759><c> to</c><00:04:24.180><c> 1.</c>
+
+00:04:25.550 --> 00:04:25.560 align:start position:0%
+here equal to 1.
+ 
+
+00:04:25.560 --> 00:04:27.350 align:start position:0%
+here equal to 1.
+let's<00:04:26.040><c> plug</c><00:04:26.280><c> in</c><00:04:26.460><c> the</c><00:04:26.699><c> weights</c><00:04:27.060><c> in</c><00:04:27.240><c> the</c>
+
+00:04:27.350 --> 00:04:27.360 align:start position:0%
+let's plug in the weights in the
+ 
+
+00:04:27.360 --> 00:04:29.390 align:start position:0%
+let's plug in the weights in the
+equation
+
+00:04:29.390 --> 00:04:29.400 align:start position:0%
+equation
+ 
+
+00:04:29.400 --> 00:04:32.150 align:start position:0%
+equation
+and<00:04:29.820><c> the</c><00:04:29.940><c> value</c><00:04:30.120><c> of</c><00:04:30.540><c> the</c><00:04:30.660><c> input</c><00:04:30.960><c> node</c>
+
+00:04:32.150 --> 00:04:32.160 align:start position:0%
+and the value of the input node
+ 
+
+00:04:32.160 --> 00:04:34.909 align:start position:0%
+and the value of the input node
+and<00:04:32.639><c> do</c><00:04:32.820><c> the</c><00:04:33.060><c> math</c>
+
+00:04:34.909 --> 00:04:34.919 align:start position:0%
+and do the math
+ 
+
+00:04:34.919 --> 00:04:37.070 align:start position:0%
+and do the math
+we<00:04:35.340><c> now</c><00:04:35.520><c> plug</c><00:04:35.759><c> in</c><00:04:35.940><c> this</c><00:04:36.240><c> value</c><00:04:36.419><c> in</c><00:04:36.900><c> the</c>
+
+00:04:37.070 --> 00:04:37.080 align:start position:0%
+we now plug in this value in the
+ 
+
+00:04:37.080 --> 00:04:39.530 align:start position:0%
+we now plug in this value in the
+logistic<00:04:37.560><c> activation</c><00:04:38.100><c> function</c>
+
+00:04:39.530 --> 00:04:39.540 align:start position:0%
+logistic activation function
+ 
+
+00:04:39.540 --> 00:04:41.570 align:start position:0%
+logistic activation function
+and<00:04:39.960><c> calculate</c>
+
+00:04:41.570 --> 00:04:41.580 align:start position:0%
+and calculate
+ 
+
+00:04:41.580 --> 00:04:44.030 align:start position:0%
+and calculate
+this<00:04:42.240><c> value</c><00:04:42.479><c> is</c><00:04:42.900><c> the</c><00:04:43.139><c> value</c><00:04:43.259><c> for</c><00:04:43.620><c> the</c><00:04:43.740><c> output</c>
+
+00:04:44.030 --> 00:04:44.040 align:start position:0%
+this value is the value for the output
+ 
+
+00:04:44.040 --> 00:04:45.409 align:start position:0%
+this value is the value for the output
+node<00:04:44.520><c> cancer</c>
+
+00:04:45.409 --> 00:04:45.419 align:start position:0%
+node cancer
+ 
+
+00:04:45.419 --> 00:04:47.930 align:start position:0%
+node cancer
+which<00:04:45.960><c> can</c><00:04:46.199><c> in</c><00:04:46.500><c> this</c><00:04:46.620><c> case</c><00:04:46.860><c> be</c><00:04:47.340><c> seen</c><00:04:47.580><c> as</c><00:04:47.820><c> the</c>
+
+00:04:47.930 --> 00:04:47.940 align:start position:0%
+which can in this case be seen as the
+ 
+
+00:04:47.940 --> 00:04:50.510 align:start position:0%
+which can in this case be seen as the
+probability<00:04:48.479><c> that</c><00:04:49.199><c> the</c><00:04:49.380><c> person</c><00:04:49.620><c> has</c><00:04:50.040><c> prostate</c>
+
+00:04:50.510 --> 00:04:50.520 align:start position:0%
+probability that the person has prostate
+ 
+
+00:04:50.520 --> 00:04:52.370 align:start position:0%
+probability that the person has prostate
+cancer
+
+00:04:52.370 --> 00:04:52.380 align:start position:0%
+cancer
+ 
+
+00:04:52.380 --> 00:04:55.430 align:start position:0%
+cancer
+let's<00:04:52.919><c> place</c><00:04:53.160><c> this</c><00:04:53.520><c> value</c><00:04:53.759><c> here</c>
+
+00:04:55.430 --> 00:04:55.440 align:start position:0%
+let's place this value here
+ 
+
+00:04:55.440 --> 00:04:57.890 align:start position:0%
+let's place this value here
+we'll<00:04:56.100><c> now</c><00:04:56.340><c> calculate</c><00:04:56.820><c> the</c><00:04:57.060><c> value</c><00:04:57.240><c> of</c><00:04:57.720><c> this</c>
+
+00:04:57.890 --> 00:04:57.900 align:start position:0%
+we'll now calculate the value of this
+ 
+
+00:04:57.900 --> 00:04:59.390 align:start position:0%
+we'll now calculate the value of this
+output<00:04:58.259><c> node</c>
+
+00:04:59.390 --> 00:04:59.400 align:start position:0%
+output node
+ 
+
+00:04:59.400 --> 00:05:01.070 align:start position:0%
+output node
+where<00:04:59.880><c> we</c><00:05:00.060><c> plug</c><00:05:00.180><c> in</c><00:05:00.300><c> the</c><00:05:00.540><c> corresponding</c>
+
+00:05:01.070 --> 00:05:01.080 align:start position:0%
+where we plug in the corresponding
+ 
+
+00:05:01.080 --> 00:05:03.650 align:start position:0%
+where we plug in the corresponding
+values<00:05:01.560><c> in</c><00:05:01.860><c> the</c><00:05:01.979><c> equation</c>
+
+00:05:03.650 --> 00:05:03.660 align:start position:0%
+values in the equation
+ 
+
+00:05:03.660 --> 00:05:06.050 align:start position:0%
+values in the equation
+and<00:05:04.199><c> do</c><00:05:04.380><c> the</c><00:05:04.620><c> math</c>
+
+00:05:06.050 --> 00:05:06.060 align:start position:0%
+and do the math
+ 
+
+00:05:06.060 --> 00:05:08.450 align:start position:0%
+and do the math
+let's<00:05:06.540><c> place</c><00:05:06.780><c> the</c><00:05:07.020><c> corresponding</c><00:05:07.620><c> value</c><00:05:07.860><c> here</c>
+
+00:05:08.450 --> 00:05:08.460 align:start position:0%
+let's place the corresponding value here
+ 
+
+00:05:08.460 --> 00:05:10.670 align:start position:0%
+let's place the corresponding value here
+which<00:05:09.300><c> can</c><00:05:09.479><c> be</c><00:05:09.600><c> seen</c><00:05:09.780><c> as</c><00:05:10.020><c> the</c><00:05:10.199><c> probability</c>
+
+00:05:10.670 --> 00:05:10.680 align:start position:0%
+which can be seen as the probability
+ 
+
+00:05:10.680 --> 00:05:13.370 align:start position:0%
+which can be seen as the probability
+that<00:05:11.160><c> the</c><00:05:11.340><c> person</c><00:05:11.580><c> is</c><00:05:12.000><c> healthy</c>
+
+00:05:13.370 --> 00:05:13.380 align:start position:0%
+that the person is healthy
+ 
+
+00:05:13.380 --> 00:05:16.070 align:start position:0%
+that the person is healthy
+we<00:05:13.800><c> can</c><00:05:13.919><c> now</c><00:05:14.040><c> use</c><00:05:14.220><c> some</c><00:05:14.520><c> can</c><00:05:14.699><c> of</c><00:05:15.060><c> threshold</c><00:05:15.540><c> to</c>
+
+00:05:16.070 --> 00:05:16.080 align:start position:0%
+we can now use some can of threshold to
+ 
+
+00:05:16.080 --> 00:05:17.930 align:start position:0%
+we can now use some can of threshold to
+determine<00:05:16.560><c> if</c><00:05:16.979><c> you</c><00:05:17.100><c> should</c><00:05:17.280><c> classify</c><00:05:17.759><c> the</c>
+
+00:05:17.930 --> 00:05:17.940 align:start position:0%
+determine if you should classify the
+ 
+
+00:05:17.940 --> 00:05:19.909 align:start position:0%
+determine if you should classify the
+individual<00:05:18.360><c> to</c><00:05:18.600><c> have</c><00:05:18.780><c> prostate</c><00:05:19.199><c> cancer</c><00:05:19.380><c> or</c>
+
+00:05:19.909 --> 00:05:19.919 align:start position:0%
+individual to have prostate cancer or
+ 
+
+00:05:19.919 --> 00:05:23.090 align:start position:0%
+individual to have prostate cancer or
+not<00:05:20.100><c> based</c><00:05:20.880><c> on</c><00:05:20.940><c> these</c><00:05:21.240><c> two</c><00:05:21.360><c> values</c>
+
+00:05:23.090 --> 00:05:23.100 align:start position:0%
+not based on these two values
+ 
+
+00:05:23.100 --> 00:05:25.850 align:start position:0%
+not based on these two values
+a<00:05:23.759><c> common</c><00:05:23.880><c> kind</c><00:05:24.240><c> of</c><00:05:24.419><c> value</c><00:05:24.660><c> to</c><00:05:25.020><c> use</c><00:05:25.199><c> in</c><00:05:25.500><c> binary</c>
+
+00:05:25.850 --> 00:05:25.860 align:start position:0%
+a common kind of value to use in binary
+ 
+
+00:05:25.860 --> 00:05:29.210 align:start position:0%
+a common kind of value to use in binary
+classification<00:05:26.460><c> is</c><00:05:27.060><c> 0.5</c><00:05:27.620><c> because</c><00:05:28.620><c> it</c><00:05:28.919><c> is</c><00:05:29.039><c> the</c>
+
+00:05:29.210 --> 00:05:29.220 align:start position:0%
+classification is 0.5 because it is the
+ 
+
+00:05:29.220 --> 00:05:32.029 align:start position:0%
+classification is 0.5 because it is the
+value<00:05:29.400><c> between</c><00:05:29.759><c> 0</c><00:05:30.120><c> and</c><00:05:30.479><c> 1.</c>
+
+00:05:32.029 --> 00:05:32.039 align:start position:0%
+value between 0 and 1.
+ 
+
+00:05:32.039 --> 00:05:34.610 align:start position:0%
+value between 0 and 1.
+based<00:05:32.759><c> on</c><00:05:32.820><c> this</c><00:05:32.940><c> cutoff</c><00:05:33.360><c> value</c><00:05:33.539><c> the</c><00:05:34.440><c> network</c>
+
+00:05:34.610 --> 00:05:34.620 align:start position:0%
+based on this cutoff value the network
+ 
+
+00:05:34.620 --> 00:05:37.070 align:start position:0%
+based on this cutoff value the network
+will<00:05:35.160><c> predict</c><00:05:35.580><c> that</c><00:05:36.000><c> the</c><00:05:36.240><c> person</c><00:05:36.479><c> with</c><00:05:36.960><c> the</c>
+
+00:05:37.070 --> 00:05:37.080 align:start position:0%
+will predict that the person with the
+ 
+
+00:05:37.080 --> 00:05:40.969 align:start position:0%
+will predict that the person with the
+PHA<00:05:37.560><c> level</c><00:05:37.800><c> of</c><00:05:38.160><c> 2</c><00:05:38.400><c> is</c><00:05:38.940><c> healthy</c><00:05:39.479><c> or</c><00:05:40.259><c> cost</c><00:05:40.500><c> output</c>
+
+00:05:40.969 --> 00:05:40.979 align:start position:0%
+PHA level of 2 is healthy or cost output
+ 
+
+00:05:40.979 --> 00:05:43.129 align:start position:0%
+PHA level of 2 is healthy or cost output
+value<00:05:41.220><c> associated</c><00:05:42.120><c> with</c><00:05:42.419><c> the</c><00:05:42.539><c> healthy</c><00:05:42.900><c> class</c>
+
+00:05:43.129 --> 00:05:43.139 align:start position:0%
+value associated with the healthy class
+ 
+
+00:05:43.139 --> 00:05:46.310 align:start position:0%
+value associated with the healthy class
+is<00:05:43.740><c> greater</c><00:05:44.100><c> than</c><00:05:44.340><c> 0.5</c>
+
+00:05:46.310 --> 00:05:46.320 align:start position:0%
+is greater than 0.5
+ 
+
+00:05:46.320 --> 00:05:49.070 align:start position:0%
+is greater than 0.5
+note<00:05:46.800><c> that</c><00:05:47.100><c> this</c><00:05:47.340><c> value</c><00:05:47.580><c> is</c><00:05:48.120><c> exactly</c><00:05:48.660><c> the</c><00:05:48.900><c> same</c>
+
+00:05:49.070 --> 00:05:49.080 align:start position:0%
+note that this value is exactly the same
+ 
+
+00:05:49.080 --> 00:05:50.870 align:start position:0%
+note that this value is exactly the same
+value
+
+00:05:50.870 --> 00:05:50.880 align:start position:0%
+value
+ 
+
+00:05:50.880 --> 00:05:53.450 align:start position:0%
+value
+as<00:05:51.360><c> if</c><00:05:51.539><c> we</c><00:05:51.660><c> would</c><00:05:51.840><c> draw</c><00:05:52.080><c> a</c><00:05:52.440><c> vertical</c><00:05:52.740><c> line</c><00:05:53.100><c> from</c>
+
+00:05:53.450 --> 00:05:53.460 align:start position:0%
+as if we would draw a vertical line from
+ 
+
+00:05:53.460 --> 00:05:56.090 align:start position:0%
+as if we would draw a vertical line from
+2<00:05:53.699><c> to</c><00:05:54.240><c> the</c><00:05:54.419><c> logistic</c><00:05:54.900><c> curve</c>
+
+00:05:56.090 --> 00:05:56.100 align:start position:0%
+2 to the logistic curve
+ 
+
+00:05:56.100 --> 00:05:58.310 align:start position:0%
+2 to the logistic curve
+and<00:05:56.639><c> then</c><00:05:56.759><c> the</c><00:05:57.000><c> horizontal</c><00:05:57.539><c> line</c><00:05:57.780><c> from</c><00:05:58.199><c> the</c>
+
+00:05:58.310 --> 00:05:58.320 align:start position:0%
+and then the horizontal line from the
+ 
+
+00:05:58.320 --> 00:06:00.409 align:start position:0%
+and then the horizontal line from the
+curve<00:05:58.680><c> to</c><00:05:58.800><c> the</c><00:05:58.979><c> y-axis</c>
+
+00:06:00.409 --> 00:06:00.419 align:start position:0%
+curve to the y-axis
+ 
+
+00:06:00.419 --> 00:06:02.930 align:start position:0%
+curve to the y-axis
+the<00:06:01.020><c> height</c><00:06:01.199><c> of</c><00:06:01.440><c> the</c><00:06:01.560><c> activation</c><00:06:01.919><c> function</c><00:06:02.460><c> is</c>
+
+00:06:02.930 --> 00:06:02.940 align:start position:0%
+the height of the activation function is
+ 
+
+00:06:02.940 --> 00:06:06.770 align:start position:0%
+the height of the activation function is
+therefore<00:06:03.240><c> equal</c><00:06:03.479><c> to</c><00:06:03.720><c> 0.438</c>
+
+00:06:06.770 --> 00:06:06.780 align:start position:0%
+ 
+ 
+
+00:06:06.780 --> 00:06:10.010 align:start position:0%
+ 
+this<00:06:07.560><c> value</c><00:06:07.800><c> is</c><00:06:08.280><c> then</c><00:06:08.460><c> simply</c><00:06:08.880><c> just</c><00:06:09.180><c> 1</c><00:06:09.539><c> minus</c>
+
+00:06:10.010 --> 00:06:10.020 align:start position:0%
+this value is then simply just 1 minus
+ 
+
+00:06:10.020 --> 00:06:13.249 align:start position:0%
+this value is then simply just 1 minus
+0.438
+
+00:06:13.249 --> 00:06:13.259 align:start position:0%
+ 
+ 
+
+00:06:13.259 --> 00:06:15.950 align:start position:0%
+ 
+this<00:06:13.860><c> value</c><00:06:14.039><c> is</c><00:06:14.520><c> equal</c><00:06:14.759><c> to</c><00:06:15.120><c> the</c><00:06:15.300><c> height</c><00:06:15.539><c> of</c><00:06:15.840><c> the</c>
+
+00:06:15.950 --> 00:06:15.960 align:start position:0%
+this value is equal to the height of the
+ 
+
+00:06:15.960 --> 00:06:18.050 align:start position:0%
+this value is equal to the height of the
+flipped<00:06:16.320><c> curve</c>
+
+00:06:18.050 --> 00:06:18.060 align:start position:0%
+flipped curve
+ 
+
+00:06:18.060 --> 00:06:20.210 align:start position:0%
+flipped curve
+because<00:06:18.479><c> the</c><00:06:18.840><c> slope</c><00:06:19.080><c> of</c><00:06:19.259><c> the</c><00:06:19.440><c> curve</c><00:06:19.740><c> should</c><00:06:20.039><c> be</c>
+
+00:06:20.210 --> 00:06:20.220 align:start position:0%
+because the slope of the curve should be
+ 
+
+00:06:20.220 --> 00:06:22.249 align:start position:0%
+because the slope of the curve should be
+negative<00:06:20.580><c> if</c><00:06:21.060><c> you</c><00:06:21.180><c> go</c><00:06:21.360><c> this</c><00:06:21.660><c> way</c><00:06:21.840><c> in</c><00:06:22.139><c> the</c>
+
+00:06:22.249 --> 00:06:22.259 align:start position:0%
+negative if you go this way in the
+ 
+
+00:06:22.259 --> 00:06:24.469 align:start position:0%
+negative if you go this way in the
+network
+
+00:06:24.469 --> 00:06:24.479 align:start position:0%
+ 
+ 
+
+00:06:24.479 --> 00:06:26.090 align:start position:0%
+ 
+if<00:06:24.840><c> you</c><00:06:24.900><c> have</c><00:06:25.020><c> seen</c><00:06:25.199><c> my</c><00:06:25.500><c> previous</c><00:06:25.680><c> videos</c>
+
+00:06:26.090 --> 00:06:26.100 align:start position:0%
+if you have seen my previous videos
+ 
+
+00:06:26.100 --> 00:06:28.790 align:start position:0%
+if you have seen my previous videos
+about<00:06:26.580><c> logistic</c><00:06:27.180><c> regression</c><00:06:27.720><c> you</c><00:06:28.440><c> will</c><00:06:28.620><c> note</c>
+
+00:06:28.790 --> 00:06:28.800 align:start position:0%
+about logistic regression you will note
+ 
+
+00:06:28.800 --> 00:06:31.370 align:start position:0%
+about logistic regression you will note
+that<00:06:29.039><c> such</c><00:06:29.220><c> a</c><00:06:29.400><c> model</c><00:06:29.639><c> reproduced</c><00:06:30.600><c> exact</c><00:06:31.080><c> same</c>
+
+00:06:31.370 --> 00:06:31.380 align:start position:0%
+that such a model reproduced exact same
+ 
+
+00:06:31.380 --> 00:06:33.170 align:start position:0%
+that such a model reproduced exact same
+results
+
+00:06:33.170 --> 00:06:33.180 align:start position:0%
+results
+ 
+
+00:06:33.180 --> 00:06:35.930 align:start position:0%
+results
+the<00:06:33.660><c> estimated</c><00:06:34.080><c> parameters</c><00:06:34.800><c> of</c><00:06:35.280><c> the</c><00:06:35.400><c> logistic</c>
+
+00:06:35.930 --> 00:06:35.940 align:start position:0%
+the estimated parameters of the logistic
+ 
+
+00:06:35.940 --> 00:06:37.670 align:start position:0%
+the estimated parameters of the logistic
+regression<00:06:36.419><c> model</c>
+
+00:06:37.670 --> 00:06:37.680 align:start position:0%
+regression model
+ 
+
+00:06:37.680 --> 00:06:40.249 align:start position:0%
+regression model
+are<00:06:38.220><c> identical</c><00:06:38.699><c> to</c><00:06:39.000><c> the</c><00:06:39.240><c> weights</c><00:06:39.720><c> in</c><00:06:40.080><c> this</c>
+
+00:06:40.249 --> 00:06:40.259 align:start position:0%
+are identical to the weights in this
+ 
+
+00:06:40.259 --> 00:06:42.650 align:start position:0%
+are identical to the weights in this
+simple<00:06:40.440><c> neural</c><00:06:40.979><c> network</c>
+
+00:06:42.650 --> 00:06:42.660 align:start position:0%
+simple neural network
+ 
+
+00:06:42.660 --> 00:06:46.249 align:start position:0%
+simple neural network
+P0<00:06:43.560><c> or</c><00:06:44.039><c> The</c><00:06:44.220><c> Intercept</c><00:06:44.720><c> corresponds</c><00:06:45.720><c> to</c><00:06:46.080><c> the</c>
+
+00:06:46.249 --> 00:06:46.259 align:start position:0%
+P0 or The Intercept corresponds to the
+ 
+
+00:06:46.259 --> 00:06:47.870 align:start position:0%
+P0 or The Intercept corresponds to the
+bias
+
+00:06:47.870 --> 00:06:47.880 align:start position:0%
+bias
+ 
+
+00:06:47.880 --> 00:06:50.629 align:start position:0%
+bias
+whereas<00:06:48.479><c> B1</c><00:06:49.100><c> corresponds</c><00:06:50.100><c> to</c><00:06:50.280><c> the</c><00:06:50.460><c> weight</c>
+
+00:06:50.629 --> 00:06:50.639 align:start position:0%
+whereas B1 corresponds to the weight
+ 
+
+00:06:50.639 --> 00:06:52.730 align:start position:0%
+whereas B1 corresponds to the weight
+associated<00:06:51.479><c> with</c><00:06:51.720><c> the</c><00:06:51.900><c> output</c><00:06:52.199><c> node</c><00:06:52.500><c> for</c>
+
+00:06:52.730 --> 00:06:52.740 align:start position:0%
+associated with the output node for
+ 
+
+00:06:52.740 --> 00:06:55.010 align:start position:0%
+associated with the output node for
+prostate<00:06:53.100><c> cancer</c>
+
+00:06:55.010 --> 00:06:55.020 align:start position:0%
+prostate cancer
+ 
+
+00:06:55.020 --> 00:06:57.590 align:start position:0%
+prostate cancer
+if<00:06:55.380><c> we</c><00:06:55.500><c> plug</c><00:06:55.680><c> in</c><00:06:55.919><c> this</c><00:06:56.220><c> equation</c><00:06:56.699><c> into</c><00:06:57.360><c> the</c>
+
+00:06:57.590 --> 00:06:57.600 align:start position:0%
+if we plug in this equation into the
+ 
+
+00:06:57.600 --> 00:07:00.050 align:start position:0%
+if we plug in this equation into the
+activation<00:06:57.960><c> function</c>
+
+00:07:00.050 --> 00:07:00.060 align:start position:0%
+activation function
+ 
+
+00:07:00.060 --> 00:07:02.390 align:start position:0%
+activation function
+we<00:07:00.419><c> will</c><00:07:00.539><c> obtain</c><00:07:00.900><c> the</c><00:07:01.259><c> exact</c><00:07:01.620><c> same</c><00:07:01.919><c> function</c>
+
+00:07:02.390 --> 00:07:02.400 align:start position:0%
+we will obtain the exact same function
+ 
+
+00:07:02.400 --> 00:07:06.290 align:start position:0%
+we will obtain the exact same function
+that<00:07:02.880><c> is</c><00:07:03.060><c> used</c><00:07:03.240><c> in</c><00:07:03.539><c> logistic</c><00:07:04.080><c> regression</c>
+
+00:07:06.290 --> 00:07:06.300 align:start position:0%
+that is used in logistic regression
+ 
+
+00:07:06.300 --> 00:07:07.969 align:start position:0%
+that is used in logistic regression
+we<00:07:06.660><c> can</c><00:07:06.780><c> therefore</c><00:07:07.080><c> conclude</c><00:07:07.440><c> that</c><00:07:07.800><c> this</c>
+
+00:07:07.969 --> 00:07:07.979 align:start position:0%
+we can therefore conclude that this
+ 
+
+00:07:07.979 --> 00:07:10.969 align:start position:0%
+we can therefore conclude that this
+simple<00:07:08.160><c> neural</c><00:07:08.699><c> network</c><00:07:09.259><c> using</c><00:07:10.259><c> the</c><00:07:10.500><c> logistic</c>
+
+00:07:10.969 --> 00:07:10.979 align:start position:0%
+simple neural network using the logistic
+ 
+
+00:07:10.979 --> 00:07:12.710 align:start position:0%
+simple neural network using the logistic
+activation<00:07:11.460><c> function</c>
+
+00:07:12.710 --> 00:07:12.720 align:start position:0%
+activation function
+ 
+
+00:07:12.720 --> 00:07:16.490 align:start position:0%
+activation function
+is<00:07:13.080><c> identical</c><00:07:13.680><c> to</c><00:07:14.220><c> logistic</c><00:07:14.759><c> regression</c>
+
+00:07:16.490 --> 00:07:16.500 align:start position:0%
+is identical to logistic regression
+ 
+
+00:07:16.500 --> 00:07:18.590 align:start position:0%
+is identical to logistic regression
+let's<00:07:17.100><c> see</c><00:07:17.340><c> how</c><00:07:17.639><c> well</c><00:07:17.759><c> this</c><00:07:18.000><c> neural</c><00:07:18.419><c> network</c>
+
+00:07:18.590 --> 00:07:18.600 align:start position:0%
+let's see how well this neural network
+ 
+
+00:07:18.600 --> 00:07:20.990 align:start position:0%
+let's see how well this neural network
+can<00:07:19.259><c> predict</c><00:07:19.560><c> the</c><00:07:19.740><c> class</c><00:07:19.979><c> of</c><00:07:20.400><c> our</c><00:07:20.580><c> training</c>
+
+00:07:20.990 --> 00:07:21.000 align:start position:0%
+can predict the class of our training
+ 
+
+00:07:21.000 --> 00:07:22.730 align:start position:0%
+can predict the class of our training
+data
+
+00:07:22.730 --> 00:07:22.740 align:start position:0%
+data
+ 
+
+00:07:22.740 --> 00:07:25.370 align:start position:0%
+data
+this<00:07:23.460><c> is</c><00:07:23.580><c> the</c><00:07:23.759><c> data</c><00:07:24.120><c> that</c><00:07:24.419><c> we</c><00:07:24.599><c> used</c><00:07:24.780><c> to</c><00:07:25.199><c> train</c>
+
+00:07:25.370 --> 00:07:25.380 align:start position:0%
+this is the data that we used to train
+ 
+
+00:07:25.380 --> 00:07:27.890 align:start position:0%
+this is the data that we used to train
+the<00:07:25.620><c> network</c><00:07:26.000><c> and</c><00:07:27.000><c> this</c><00:07:27.120><c> is</c><00:07:27.240><c> the</c><00:07:27.479><c> values</c>
+
+00:07:27.890 --> 00:07:27.900 align:start position:0%
+the network and this is the values
+ 
+
+00:07:27.900 --> 00:07:30.890 align:start position:0%
+the network and this is the values
+generated<00:07:28.500><c> by</c><00:07:28.860><c> the</c><00:07:29.039><c> output</c><00:07:29.280><c> node</c><00:07:29.699><c> for</c><00:07:30.000><c> cancer</c>
+
+00:07:30.890 --> 00:07:30.900 align:start position:0%
+generated by the output node for cancer
+ 
+
+00:07:30.900 --> 00:07:32.870 align:start position:0%
+generated by the output node for cancer
+which<00:07:31.380><c> can</c><00:07:31.560><c> be</c><00:07:31.740><c> obtained</c><00:07:32.099><c> if</c><00:07:32.400><c> you</c><00:07:32.520><c> plug</c><00:07:32.699><c> in</c>
+
+00:07:32.870 --> 00:07:32.880 align:start position:0%
+which can be obtained if you plug in
+ 
+
+00:07:32.880 --> 00:07:36.050 align:start position:0%
+which can be obtained if you plug in
+these<00:07:33.240><c> values</c><00:07:33.599><c> in</c><00:07:33.900><c> the</c><00:07:34.020><c> equation</c>
+
+00:07:36.050 --> 00:07:36.060 align:start position:0%
+these values in the equation
+ 
+
+00:07:36.060 --> 00:07:37.790 align:start position:0%
+these values in the equation
+and<00:07:36.479><c> the</c><00:07:36.660><c> weights</c>
+
+00:07:37.790 --> 00:07:37.800 align:start position:0%
+and the weights
+ 
+
+00:07:37.800 --> 00:07:39.350 align:start position:0%
+and the weights
+and<00:07:38.160><c> then</c><00:07:38.280><c> compute</c><00:07:38.639><c> the</c><00:07:38.759><c> corresponding</c>
+
+00:07:39.350 --> 00:07:39.360 align:start position:0%
+and then compute the corresponding
+ 
+
+00:07:39.360 --> 00:07:42.529 align:start position:0%
+and then compute the corresponding
+values<00:07:39.840><c> by</c><00:07:40.199><c> the</c><00:07:40.380><c> activation</c><00:07:40.800><c> function</c>
+
+00:07:42.529 --> 00:07:42.539 align:start position:0%
+values by the activation function
+ 
+
+00:07:42.539 --> 00:07:45.230 align:start position:0%
+values by the activation function
+for<00:07:43.020><c> example</c><00:07:43.380><c> this</c><00:07:44.160><c> is</c><00:07:44.340><c> the</c><00:07:44.520><c> value</c><00:07:44.699><c> that</c><00:07:45.120><c> we</c>
+
+00:07:45.230 --> 00:07:45.240 align:start position:0%
+for example this is the value that we
+ 
+
+00:07:45.240 --> 00:07:47.870 align:start position:0%
+for example this is the value that we
+calculated<00:07:45.720><c> by</c><00:07:46.199><c> hand</c><00:07:46.380><c> previously</c><00:07:47.280><c> based</c><00:07:47.759><c> on</c>
+
+00:07:47.870 --> 00:07:47.880 align:start position:0%
+calculated by hand previously based on
+ 
+
+00:07:47.880 --> 00:07:50.689 align:start position:0%
+calculated by hand previously based on
+the<00:07:48.000><c> PSA</c><00:07:48.419><c> level</c><00:07:48.660><c> of</c><00:07:49.020><c> 2.0</c>
+
+00:07:50.689 --> 00:07:50.699 align:start position:0%
+the PSA level of 2.0
+ 
+
+00:07:50.699 --> 00:07:52.909 align:start position:0%
+the PSA level of 2.0
+which<00:07:51.240><c> corresponds</c><00:07:51.840><c> to</c><00:07:52.080><c> the</c><00:07:52.319><c> height</c><00:07:52.500><c> of</c><00:07:52.800><c> the</c>
+
+00:07:52.909 --> 00:07:52.919 align:start position:0%
+which corresponds to the height of the
+ 
+
+00:07:52.919 --> 00:07:54.830 align:start position:0%
+which corresponds to the height of the
+activation<00:07:53.340><c> function</c>
+
+00:07:54.830 --> 00:07:54.840 align:start position:0%
+activation function
+ 
+
+00:07:54.840 --> 00:07:57.589 align:start position:0%
+activation function
+we<00:07:55.380><c> can</c><00:07:55.500><c> now</c><00:07:55.680><c> use</c><00:07:55.919><c> the</c><00:07:56.099><c> output</c><00:07:56.460><c> values</c><00:07:57.000><c> and</c><00:07:57.479><c> the</c>
+
+00:07:57.589 --> 00:07:57.599 align:start position:0%
+we can now use the output values and the
+ 
+
+00:07:57.599 --> 00:08:00.170 align:start position:0%
+we can now use the output values and the
+cutoff<00:07:57.960><c> values</c><00:07:58.319><c> 0.5</c><00:07:58.800><c> to</c><00:07:59.400><c> see</c><00:07:59.580><c> how</c><00:07:59.819><c> well</c><00:08:00.000><c> the</c>
+
+00:08:00.170 --> 00:08:00.180 align:start position:0%
+cutoff values 0.5 to see how well the
+ 
+
+00:08:00.180 --> 00:08:02.390 align:start position:0%
+cutoff values 0.5 to see how well the
+model<00:08:00.360><c> predicts</c><00:08:00.960><c> the</c><00:08:01.080><c> training</c><00:08:01.440><c> data</c>
+
+00:08:02.390 --> 00:08:02.400 align:start position:0%
+model predicts the training data
+ 
+
+00:08:02.400 --> 00:08:05.150 align:start position:0%
+model predicts the training data
+since<00:08:03.000><c> these</c><00:08:03.419><c> individuals</c><00:08:04.080><c> had</c><00:08:04.620><c> values</c>
+
+00:08:05.150 --> 00:08:05.160 align:start position:0%
+since these individuals had values
+ 
+
+00:08:05.160 --> 00:08:08.390 align:start position:0%
+since these individuals had values
+greater<00:08:05.699><c> than</c><00:08:05.759><c> 0.5</c><00:08:06.680><c> they</c><00:08:07.680><c> are</c><00:08:07.800><c> predicted</c><00:08:08.220><c> to</c>
+
+00:08:08.390 --> 00:08:08.400 align:start position:0%
+greater than 0.5 they are predicted to
+ 
+
+00:08:08.400 --> 00:08:09.950 align:start position:0%
+greater than 0.5 they are predicted to
+have<00:08:08.580><c> prostate</c><00:08:09.060><c> cancer</c>
+
+00:08:09.950 --> 00:08:09.960 align:start position:0%
+have prostate cancer
+ 
+
+00:08:09.960 --> 00:08:11.990 align:start position:0%
+have prostate cancer
+since<00:08:10.440><c> you</c><00:08:10.620><c> know</c><00:08:10.800><c> that</c><00:08:11.099><c> these</c><00:08:11.400><c> individuals</c>
+
+00:08:11.990 --> 00:08:12.000 align:start position:0%
+since you know that these individuals
+ 
+
+00:08:12.000 --> 00:08:14.629 align:start position:0%
+since you know that these individuals
+actually<00:08:12.300><c> have</c><00:08:12.539><c> prostate</c><00:08:13.020><c> cancer</c><00:08:13.400><c> we</c><00:08:14.400><c> know</c>
+
+00:08:14.629 --> 00:08:14.639 align:start position:0%
+actually have prostate cancer we know
+ 
+
+00:08:14.639 --> 00:08:16.490 align:start position:0%
+actually have prostate cancer we know
+that<00:08:14.819><c> the</c><00:08:14.940><c> neural</c><00:08:15.300><c> network</c><00:08:15.419><c> has</c><00:08:16.020><c> made</c><00:08:16.199><c> the</c>
+
+00:08:16.490 --> 00:08:16.500 align:start position:0%
+that the neural network has made the
+ 
+
+00:08:16.500 --> 00:08:18.050 align:start position:0%
+that the neural network has made the
+correct<00:08:16.740><c> predictions</c><00:08:17.340><c> for</c><00:08:17.819><c> these</c>
+
+00:08:18.050 --> 00:08:18.060 align:start position:0%
+correct predictions for these
+ 
+
+00:08:18.060 --> 00:08:19.430 align:start position:0%
+correct predictions for these
+individuals
+
+00:08:19.430 --> 00:08:19.440 align:start position:0%
+individuals
+ 
+
+00:08:19.440 --> 00:08:22.670 align:start position:0%
+individuals
+however<00:08:20.220><c> the</c><00:08:21.000><c> network</c><00:08:21.240><c> incorrectly</c><00:08:22.139><c> predicts</c>
+
+00:08:22.670 --> 00:08:22.680 align:start position:0%
+however the network incorrectly predicts
+ 
+
+00:08:22.680 --> 00:08:25.790 align:start position:0%
+however the network incorrectly predicts
+that<00:08:23.039><c> this</c><00:08:23.280><c> cancer</c><00:08:23.520><c> patient</c><00:08:24.060><c> is</c><00:08:24.780><c> healthy</c>
+
+00:08:25.790 --> 00:08:25.800 align:start position:0%
+that this cancer patient is healthy
+ 
+
+00:08:25.800 --> 00:08:28.550 align:start position:0%
+that this cancer patient is healthy
+these<00:08:26.340><c> individuals</c><00:08:27.000><c> have</c><00:08:27.599><c> output</c><00:08:28.020><c> values</c>
+
+00:08:28.550 --> 00:08:28.560 align:start position:0%
+these individuals have output values
+ 
+
+00:08:28.560 --> 00:08:30.770 align:start position:0%
+these individuals have output values
+that<00:08:28.919><c> are</c><00:08:29.099><c> less</c><00:08:29.280><c> than</c><00:08:29.460><c> 0.5</c>
+
+00:08:30.770 --> 00:08:30.780 align:start position:0%
+that are less than 0.5
+ 
+
+00:08:30.780 --> 00:08:32.810 align:start position:0%
+that are less than 0.5
+which<00:08:31.199><c> means</c><00:08:31.560><c> that</c><00:08:31.740><c> they</c><00:08:31.860><c> are</c><00:08:32.039><c> predicted</c><00:08:32.520><c> to</c>
+
+00:08:32.810 --> 00:08:32.820 align:start position:0%
+which means that they are predicted to
+ 
+
+00:08:32.820 --> 00:08:35.389 align:start position:0%
+which means that they are predicted to
+be<00:08:32.940><c> healthy</c><00:08:33.899><c> since</c><00:08:34.500><c> we</c><00:08:34.740><c> know</c><00:08:34.919><c> that</c><00:08:35.099><c> these</c>
+
+00:08:35.389 --> 00:08:35.399 align:start position:0%
+be healthy since we know that these
+ 
+
+00:08:35.399 --> 00:08:37.730 align:start position:0%
+be healthy since we know that these
+individuals<00:08:35.880><c> are</c><00:08:36.180><c> healthy</c><00:08:36.599><c> we</c><00:08:37.380><c> know</c><00:08:37.560><c> that</c>
+
+00:08:37.730 --> 00:08:37.740 align:start position:0%
+individuals are healthy we know that
+ 
+
+00:08:37.740 --> 00:08:39.409 align:start position:0%
+individuals are healthy we know that
+they<00:08:37.860><c> have</c><00:08:38.039><c> been</c><00:08:38.159><c> correctly</c><00:08:38.520><c> classified</c><00:08:38.940><c> by</c>
+
+00:08:39.409 --> 00:08:39.419 align:start position:0%
+they have been correctly classified by
+ 
+
+00:08:39.419 --> 00:08:41.089 align:start position:0%
+they have been correctly classified by
+the<00:08:39.599><c> network</c>
+
+00:08:41.089 --> 00:08:41.099 align:start position:0%
+the network
+ 
+
+00:08:41.099 --> 00:08:43.550 align:start position:0%
+the network
+this<00:08:41.700><c> healthy</c><00:08:42.180><c> person</c><00:08:42.419><c> is</c><00:08:42.959><c> incorrectly</c>
+
+00:08:43.550 --> 00:08:43.560 align:start position:0%
+this healthy person is incorrectly
+ 
+
+00:08:43.560 --> 00:08:45.350 align:start position:0%
+this healthy person is incorrectly
+classified<00:08:43.979><c> as</c><00:08:44.399><c> having</c><00:08:44.640><c> prostate</c><00:08:45.120><c> cancer</c>
+
+00:08:45.350 --> 00:08:45.360 align:start position:0%
+classified as having prostate cancer
+ 
+
+00:08:45.360 --> 00:08:48.170 align:start position:0%
+classified as having prostate cancer
+because<00:08:46.140><c> it</c><00:08:46.620><c> has</c><00:08:46.740><c> a</c><00:08:46.920><c> relatively</c><00:08:47.339><c> high</c><00:08:47.580><c> PSA</c>
+
+00:08:48.170 --> 00:08:48.180 align:start position:0%
+because it has a relatively high PSA
+ 
+
+00:08:48.180 --> 00:08:49.070 align:start position:0%
+because it has a relatively high PSA
+level
+
+00:08:49.070 --> 00:08:49.080 align:start position:0%
+level
+ 
+
+00:08:49.080 --> 00:08:52.190 align:start position:0%
+level
+in<00:08:49.680><c> total</c><00:08:50.040><c> the</c><00:08:50.700><c> network</c><00:08:50.880><c> makes</c><00:08:51.360><c> 12</c><00:08:51.660><c> correct</c>
+
+00:08:52.190 --> 00:08:52.200 align:start position:0%
+in total the network makes 12 correct
+ 
+
+00:08:52.200 --> 00:08:55.009 align:start position:0%
+in total the network makes 12 correct
+predictions<00:08:52.740><c> out</c><00:08:53.279><c> of</c><00:08:53.459><c> 14</c><00:08:53.640><c> possible</c>
+
+00:08:55.009 --> 00:08:55.019 align:start position:0%
+predictions out of 14 possible
+ 
+
+00:08:55.019 --> 00:08:57.829 align:start position:0%
+predictions out of 14 possible
+which<00:08:55.440><c> gives</c><00:08:55.740><c> an</c><00:08:56.100><c> accuracy</c><00:08:56.640><c> of</c><00:08:57.000><c> about</c><00:08:57.180><c> 86</c>
+
+00:08:57.829 --> 00:08:57.839 align:start position:0%
+which gives an accuracy of about 86
+ 
+
+00:08:57.839 --> 00:08:59.870 align:start position:0%
+which gives an accuracy of about 86
+percent
+
+00:08:59.870 --> 00:08:59.880 align:start position:0%
+percent
+ 
+
+00:08:59.880 --> 00:09:02.690 align:start position:0%
+percent
+however<00:09:00.420><c> to</c><00:09:00.839><c> get</c><00:09:01.019><c> the</c><00:09:01.260><c> fair</c><00:09:01.440><c> estimate</c><00:09:02.040><c> of</c><00:09:02.459><c> how</c>
+
+00:09:02.690 --> 00:09:02.700 align:start position:0%
+however to get the fair estimate of how
+ 
+
+00:09:02.700 --> 00:09:04.910 align:start position:0%
+however to get the fair estimate of how
+well<00:09:02.880><c> the</c><00:09:03.120><c> network</c><00:09:03.360><c> would</c><00:09:03.959><c> perform</c><00:09:04.140><c> on</c><00:09:04.680><c> new</c>
+
+00:09:04.910 --> 00:09:04.920 align:start position:0%
+well the network would perform on new
+ 
+
+00:09:04.920 --> 00:09:06.290 align:start position:0%
+well the network would perform on new
+data
+
+00:09:06.290 --> 00:09:06.300 align:start position:0%
+data
+ 
+
+00:09:06.300 --> 00:09:08.750 align:start position:0%
+data
+we<00:09:06.839><c> should</c><00:09:07.019><c> use</c><00:09:07.200><c> a</c><00:09:07.500><c> test</c><00:09:07.620><c> data</c><00:09:08.100><c> set</c><00:09:08.220><c> or</c>
+
+00:09:08.750 --> 00:09:08.760 align:start position:0%
+we should use a test data set or
+ 
+
+00:09:08.760 --> 00:09:11.269 align:start position:0%
+we should use a test data set or
+cross-validation<00:09:09.600><c> as</c><00:09:10.320><c> we</c><00:09:10.500><c> have</c><00:09:10.680><c> done</c><00:09:10.860><c> in</c><00:09:11.160><c> all</c>
+
+00:09:11.269 --> 00:09:11.279 align:start position:0%
+cross-validation as we have done in all
+ 
+
+00:09:11.279 --> 00:09:13.070 align:start position:0%
+cross-validation as we have done in all
+other<00:09:11.459><c> machine</c><00:09:11.760><c> learning</c><00:09:12.240><c> methods</c><00:09:12.660><c> that</c><00:09:12.959><c> we</c>
+
+00:09:13.070 --> 00:09:13.080 align:start position:0%
+other machine learning methods that we
+ 
+
+00:09:13.080 --> 00:09:15.650 align:start position:0%
+other machine learning methods that we
+have<00:09:13.260><c> discussed</c><00:09:13.620><c> so</c><00:09:13.920><c> far</c>
+
+00:09:15.650 --> 00:09:15.660 align:start position:0%
+have discussed so far
+ 
+
+00:09:15.660 --> 00:09:18.050 align:start position:0%
+have discussed so far
+watch<00:09:16.200><c> the</c><00:09:16.380><c> video</c><00:09:16.560><c> about</c><00:09:16.800><c> validation</c><00:09:17.459><c> to</c><00:09:17.880><c> see</c>
+
+00:09:18.050 --> 00:09:18.060 align:start position:0%
+watch the video about validation to see
+ 
+
+00:09:18.060 --> 00:09:20.329 align:start position:0%
+watch the video about validation to see
+how<00:09:18.300><c> to</c><00:09:18.420><c> evaluate</c><00:09:18.839><c> the</c><00:09:19.080><c> classifier</c><00:09:19.620><c> by</c><00:09:20.160><c> the</c>
+
+00:09:20.329 --> 00:09:20.339 align:start position:0%
+how to evaluate the classifier by the
+ 
+
+00:09:20.339 --> 00:09:23.810 align:start position:0%
+how to evaluate the classifier by the
+holdout<00:09:20.700><c> method</c><00:09:21.180><c> or</c><00:09:21.600><c> by</c><00:09:21.839><c> cross-validation</c>
+
+00:09:23.810 --> 00:09:23.820 align:start position:0%
+holdout method or by cross-validation
+ 
+
+00:09:23.820 --> 00:09:25.910 align:start position:0%
+holdout method or by cross-validation
+once<00:09:24.420><c> they</c><00:09:24.480><c> have</c><00:09:24.660><c> established</c><00:09:25.260><c> a</c><00:09:25.500><c> neural</c>
+
+00:09:25.910 --> 00:09:25.920 align:start position:0%
+once they have established a neural
+ 
+
+00:09:25.920 --> 00:09:27.949 align:start position:0%
+once they have established a neural
+network<00:09:26.100><c> that</c><00:09:26.820><c> has</c><00:09:27.000><c> been</c><00:09:27.180><c> trained</c><00:09:27.540><c> on</c><00:09:27.720><c> some</c>
+
+00:09:27.949 --> 00:09:27.959 align:start position:0%
+network that has been trained on some
+ 
+
+00:09:27.959 --> 00:09:32.090 align:start position:0%
+network that has been trained on some
+data<00:09:28.380><c> we</c><00:09:29.040><c> can</c><00:09:29.160><c> use</c><00:09:29.399><c> it</c><00:09:29.580><c> for</c><00:09:29.940><c> prediction</c>
+
+00:09:32.090 --> 00:09:32.100 align:start position:0%
+data we can use it for prediction
+ 
+
+00:09:32.100 --> 00:09:34.370 align:start position:0%
+data we can use it for prediction
+suppose<00:09:32.760><c> that</c><00:09:32.940><c> we</c><00:09:33.120><c> like</c><00:09:33.300><c> to</c><00:09:33.420><c> test</c><00:09:33.660><c> if</c><00:09:34.080><c> this</c>
+
+00:09:34.370 --> 00:09:34.380 align:start position:0%
+suppose that we like to test if this
+ 
+
+00:09:34.380 --> 00:09:37.730 align:start position:0%
+suppose that we like to test if this
+person<00:09:34.620><c> has</c><00:09:35.160><c> prostate</c><00:09:35.640><c> cancer</c><00:09:35.880><c> or</c><00:09:36.480><c> not</c>
+
+00:09:37.730 --> 00:09:37.740 align:start position:0%
+person has prostate cancer or not
+ 
+
+00:09:37.740 --> 00:09:39.650 align:start position:0%
+person has prostate cancer or not
+from<00:09:38.220><c> a</c><00:09:38.399><c> blood</c><00:09:38.580><c> sample</c>
+
+00:09:39.650 --> 00:09:39.660 align:start position:0%
+from a blood sample
+ 
+
+00:09:39.660 --> 00:09:43.250 align:start position:0%
+from a blood sample
+we<00:09:40.260><c> measure</c><00:09:40.620><c> the</c><00:09:40.860><c> PSA</c><00:09:41.339><c> concentration</c><00:09:41.940><c> to</c><00:09:42.360><c> 1.75</c>
+
+00:09:43.250 --> 00:09:43.260 align:start position:0%
+we measure the PSA concentration to 1.75
+ 
+
+00:09:43.260 --> 00:09:45.590 align:start position:0%
+we measure the PSA concentration to 1.75
+nanograms<00:09:43.980><c> per</c><00:09:44.279><c> ml</c>
+
+00:09:45.590 --> 00:09:45.600 align:start position:0%
+nanograms per ml
+ 
+
+00:09:45.600 --> 00:09:48.590 align:start position:0%
+nanograms per ml
+we<00:09:46.200><c> plug</c><00:09:46.440><c> in</c><00:09:46.620><c> the</c><00:09:46.800><c> value</c><00:09:47.040><c> in</c><00:09:47.519><c> the</c><00:09:47.640><c> network</c>
+
+00:09:48.590 --> 00:09:48.600 align:start position:0%
+we plug in the value in the network
+ 
+
+00:09:48.600 --> 00:09:50.810 align:start position:0%
+we plug in the value in the network
+we<00:09:49.019><c> can</c><00:09:49.140><c> then</c><00:09:49.260><c> compute</c><00:09:49.740><c> the</c><00:09:49.920><c> values</c><00:09:50.279><c> of</c><00:09:50.640><c> the</c>
+
+00:09:50.810 --> 00:09:50.820 align:start position:0%
+we can then compute the values of the
+ 
+
+00:09:50.820 --> 00:09:52.610 align:start position:0%
+we can then compute the values of the
+output<00:09:51.060><c> nodes</c>
+
+00:09:52.610 --> 00:09:52.620 align:start position:0%
+output nodes
+ 
+
+00:09:52.620 --> 00:09:54.650 align:start position:0%
+output nodes
+we<00:09:52.980><c> therefore</c><00:09:53.279><c> plug</c><00:09:53.519><c> in</c><00:09:53.700><c> the</c><00:09:53.940><c> value</c><00:09:54.120><c> of</c><00:09:54.480><c> the</c>
+
+00:09:54.650 --> 00:09:54.660 align:start position:0%
+we therefore plug in the value of the
+ 
+
+00:09:54.660 --> 00:09:57.590 align:start position:0%
+we therefore plug in the value of the
+input<00:09:54.959><c> node</c><00:09:55.380><c> here</c>
+
+00:09:57.590 --> 00:09:57.600 align:start position:0%
+input node here
+ 
+
+00:09:57.600 --> 00:10:00.530 align:start position:0%
+input node here
+the<00:09:58.140><c> weight</c><00:09:58.320><c> of</c><00:09:58.560><c> the</c><00:09:58.740><c> buyers</c>
+
+00:10:00.530 --> 00:10:00.540 align:start position:0%
+the weight of the buyers
+ 
+
+00:10:00.540 --> 00:10:03.050 align:start position:0%
+the weight of the buyers
+and<00:10:00.959><c> this</c><00:10:01.140><c> weight</c><00:10:01.320><c> here</c>
+
+00:10:03.050 --> 00:10:03.060 align:start position:0%
+and this weight here
+ 
+
+00:10:03.060 --> 00:10:05.090 align:start position:0%
+and this weight here
+and<00:10:03.540><c> do</c><00:10:03.779><c> the</c><00:10:04.019><c> map</c>
+
+00:10:05.090 --> 00:10:05.100 align:start position:0%
+and do the map
+ 
+
+00:10:05.100 --> 00:10:07.009 align:start position:0%
+and do the map
+then<00:10:05.519><c> we</c><00:10:05.700><c> plug</c><00:10:05.940><c> in</c><00:10:06.060><c> this</c><00:10:06.300><c> value</c><00:10:06.540><c> in</c><00:10:06.899><c> the</c>
+
+00:10:07.009 --> 00:10:07.019 align:start position:0%
+then we plug in this value in the
+ 
+
+00:10:07.019 --> 00:10:09.470 align:start position:0%
+then we plug in this value in the
+activation<00:10:07.440><c> function</c>
+
+00:10:09.470 --> 00:10:09.480 align:start position:0%
+activation function
+ 
+
+00:10:09.480 --> 00:10:11.810 align:start position:0%
+activation function
+and<00:10:09.959><c> do</c><00:10:10.200><c> the</c><00:10:10.380><c> math</c><00:10:10.500><c> again</c>
+
+00:10:11.810 --> 00:10:11.820 align:start position:0%
+and do the math again
+ 
+
+00:10:11.820 --> 00:10:17.150 align:start position:0%
+and do the math again
+1<00:10:12.300><c> minus</c><00:10:13.040><c> 0.281</c><00:10:14.040><c> is</c><00:10:14.700><c> 0.719</c>
+
+00:10:17.150 --> 00:10:17.160 align:start position:0%
+1 minus 0.281 is 0.719
+ 
+
+00:10:17.160 --> 00:10:19.730 align:start position:0%
+1 minus 0.281 is 0.719
+since<00:10:17.760><c> this</c><00:10:18.060><c> value</c><00:10:18.300><c> is</c><00:10:18.839><c> larger</c><00:10:19.260><c> than</c><00:10:19.560><c> the</c>
+
+00:10:19.730 --> 00:10:19.740 align:start position:0%
+since this value is larger than the
+ 
+
+00:10:19.740 --> 00:10:23.449 align:start position:0%
+since this value is larger than the
+cutoff<00:10:20.040><c> value</c><00:10:20.279><c> of</c><00:10:20.580><c> 0.5</c><00:10:21.380><c> the</c><00:10:22.380><c> network</c><00:10:22.560><c> predicts</c>
+
+00:10:23.449 --> 00:10:23.459 align:start position:0%
+cutoff value of 0.5 the network predicts
+ 
+
+00:10:23.459 --> 00:10:25.910 align:start position:0%
+cutoff value of 0.5 the network predicts
+that<00:10:23.820><c> the</c><00:10:24.060><c> person</c><00:10:24.240><c> is</c><00:10:24.720><c> healthy</c>
+
+00:10:25.910 --> 00:10:25.920 align:start position:0%
+that the person is healthy
+ 
+
+00:10:25.920 --> 00:10:28.130 align:start position:0%
+that the person is healthy
+we'll<00:10:26.459><c> now</c><00:10:26.700><c> try</c><00:10:26.880><c> to</c><00:10:27.060><c> understand</c><00:10:27.300><c> where</c><00:10:27.899><c> the</c>
+
+00:10:28.130 --> 00:10:28.140 align:start position:0%
+we'll now try to understand where the
+ 
+
+00:10:28.140 --> 00:10:31.550 align:start position:0%
+we'll now try to understand where the
+values<00:10:28.500><c> for</c><00:10:28.740><c> the</c><00:10:28.980><c> weights</c><00:10:29.339><c> come</c><00:10:29.580><c> from</c>
+
+00:10:31.550 --> 00:10:31.560 align:start position:0%
+values for the weights come from
+ 
+
+00:10:31.560 --> 00:10:34.670 align:start position:0%
+values for the weights come from
+in<00:10:31.980><c> this</c><00:10:32.220><c> example</c><00:10:32.779><c> these</c><00:10:33.779><c> are</c><00:10:33.899><c> the</c><00:10:34.140><c> optimal</c>
+
+00:10:34.670 --> 00:10:34.680 align:start position:0%
+in this example these are the optimal
+ 
+
+00:10:34.680 --> 00:10:36.889 align:start position:0%
+in this example these are the optimal
+values<00:10:35.100><c> for</c><00:10:35.459><c> the</c><00:10:35.640><c> weights</c>
+
+00:10:36.889 --> 00:10:36.899 align:start position:0%
+values for the weights
+ 
+
+00:10:36.899 --> 00:10:39.350 align:start position:0%
+values for the weights
+whereas<00:10:37.500><c> these</c><00:10:37.800><c> are</c><00:10:37.920><c> the</c><00:10:38.220><c> optimal</c><00:10:38.640><c> values</c><00:10:39.060><c> for</c>
+
+00:10:39.350 --> 00:10:39.360 align:start position:0%
+whereas these are the optimal values for
+ 
+
+00:10:39.360 --> 00:10:42.050 align:start position:0%
+whereas these are the optimal values for
+the<00:10:39.480><c> bias</c><00:10:39.839><c> weights</c>
+
+00:10:42.050 --> 00:10:42.060 align:start position:0%
+the bias weights
+ 
+
+00:10:42.060 --> 00:10:44.990 align:start position:0%
+the bias weights
+the<00:10:42.420><c> weights</c><00:10:42.839><c> are</c><00:10:43.019><c> optimized</c><00:10:43.800><c> by</c><00:10:44.399><c> using</c><00:10:44.760><c> some</c>
+
+00:10:44.990 --> 00:10:45.000 align:start position:0%
+the weights are optimized by using some
+ 
+
+00:10:45.000 --> 00:10:46.730 align:start position:0%
+the weights are optimized by using some
+sort<00:10:45.180><c> of</c><00:10:45.300><c> cost</c><00:10:45.600><c> function</c>
+
+00:10:46.730 --> 00:10:46.740 align:start position:0%
+sort of cost function
+ 
+
+00:10:46.740 --> 00:10:49.009 align:start position:0%
+sort of cost function
+usually<00:10:47.519><c> the</c><00:10:47.820><c> maximum</c><00:10:48.180><c> likelihood</c><00:10:48.660><c> method</c>
+
+00:10:49.009 --> 00:10:49.019 align:start position:0%
+usually the maximum likelihood method
+ 
+
+00:10:49.019 --> 00:10:51.530 align:start position:0%
+usually the maximum likelihood method
+for<00:10:49.260><c> binary</c><00:10:49.680><c> classification</c><00:10:50.279><c> that</c><00:10:51.120><c> we</c><00:10:51.360><c> have</c>
+
+00:10:51.530 --> 00:10:51.540 align:start position:0%
+for binary classification that we have
+ 
+
+00:10:51.540 --> 00:10:53.690 align:start position:0%
+for binary classification that we have
+covered<00:10:51.899><c> in</c><00:10:52.440><c> the</c><00:10:52.560><c> videos</c><00:10:52.740><c> about</c><00:10:53.100><c> logistic</c>
+
+00:10:53.690 --> 00:10:53.700 align:start position:0%
+covered in the videos about logistic
+ 
+
+00:10:53.700 --> 00:10:54.949 align:start position:0%
+covered in the videos about logistic
+regression
+
+00:10:54.949 --> 00:10:54.959 align:start position:0%
+regression
+ 
+
+00:10:54.959 --> 00:10:57.829 align:start position:0%
+regression
+the<00:10:55.440><c> following</c><00:10:55.740><c> weights</c><00:10:56.220><c> were</c><00:10:56.640><c> optimized</c><00:10:57.360><c> by</c>
+
+00:10:57.829 --> 00:10:57.839 align:start position:0%
+the following weights were optimized by
+ 
+
+00:10:57.839 --> 00:11:01.190 align:start position:0%
+the following weights were optimized by
+the<00:10:58.019><c> negative</c><00:10:58.260><c> log</c><00:10:58.500><c> likelihood</c><00:10:59.100><c> function</c>
+
+00:11:01.190 --> 00:11:01.200 align:start position:0%
+the negative log likelihood function
+ 
+
+00:11:01.200 --> 00:11:03.769 align:start position:0%
+the negative log likelihood function
+we<00:11:01.800><c> can</c><00:11:01.980><c> also</c><00:11:02.220><c> use</c><00:11:02.399><c> the</c><00:11:02.640><c> method</c><00:11:03.000><c> of</c><00:11:03.300><c> ordinary</c>
+
+00:11:03.769 --> 00:11:03.779 align:start position:0%
+we can also use the method of ordinary
+ 
+
+00:11:03.779 --> 00:11:06.889 align:start position:0%
+we can also use the method of ordinary
+squares<00:11:04.500><c> I</c><00:11:05.459><c> will</c><00:11:05.640><c> here</c><00:11:05.820><c> explain</c><00:11:06.120><c> the</c><00:11:06.540><c> concept</c>
+
+00:11:06.889 --> 00:11:06.899 align:start position:0%
+squares I will here explain the concept
+ 
+
+00:11:06.899 --> 00:11:09.829 align:start position:0%
+squares I will here explain the concept
+of<00:11:07.200><c> ordinary</c><00:11:07.680><c> squares</c><00:11:08.279><c> because</c><00:11:09.060><c> it</c><00:11:09.540><c> is</c><00:11:09.660><c> a</c><00:11:09.779><c> bit</c>
+
+00:11:09.829 --> 00:11:09.839 align:start position:0%
+of ordinary squares because it is a bit
+ 
+
+00:11:09.839 --> 00:11:12.470 align:start position:0%
+of ordinary squares because it is a bit
+simpler<00:11:10.380><c> to</c><00:11:10.620><c> understand</c>
+
+00:11:12.470 --> 00:11:12.480 align:start position:0%
+simpler to understand
+ 
+
+00:11:12.480 --> 00:11:14.690 align:start position:0%
+simpler to understand
+in<00:11:12.959><c> the</c><00:11:13.079><c> videos</c><00:11:13.200><c> about</c><00:11:13.620><c> logistic</c><00:11:14.160><c> regression</c>
+
+00:11:14.690 --> 00:11:14.700 align:start position:0%
+in the videos about logistic regression
+ 
+
+00:11:14.700 --> 00:11:16.310 align:start position:0%
+in the videos about logistic regression
+I<00:11:15.060><c> show</c><00:11:15.240><c> how</c><00:11:15.420><c> to</c><00:11:15.600><c> calculate</c><00:11:16.019><c> the</c><00:11:16.200><c> log</c>
+
+00:11:16.310 --> 00:11:16.320 align:start position:0%
+I show how to calculate the log
+ 
+
+00:11:16.320 --> 00:11:17.750 align:start position:0%
+I show how to calculate the log
+likelihood
+
+00:11:17.750 --> 00:11:17.760 align:start position:0%
+likelihood
+ 
+
+00:11:17.760 --> 00:11:20.210 align:start position:0%
+likelihood
+and<00:11:18.120><c> in</c><00:11:18.300><c> another</c><00:11:18.480><c> video</c><00:11:18.899><c> I</c><00:11:19.740><c> share</c><00:11:19.980><c> the</c>
+
+00:11:20.210 --> 00:11:20.220 align:start position:0%
+and in another video I share the
+ 
+
+00:11:20.220 --> 00:11:22.490 align:start position:0%
+and in another video I share the
+difference<00:11:20.459><c> between</c><00:11:20.940><c> orderly</c><00:11:21.540><c> squares</c><00:11:22.140><c> and</c>
+
+00:11:22.490 --> 00:11:22.500 align:start position:0%
+difference between orderly squares and
+ 
+
+00:11:22.500 --> 00:11:24.410 align:start position:0%
+difference between orderly squares and
+the<00:11:22.680><c> maximum</c><00:11:22.980><c> likelihood</c><00:11:23.459><c> method</c><00:11:23.820><c> based</c><00:11:24.300><c> on</c>
+
+00:11:24.410 --> 00:11:24.420 align:start position:0%
+the maximum likelihood method based on
+ 
+
+00:11:24.420 --> 00:11:26.990 align:start position:0%
+the maximum likelihood method based on
+the<00:11:24.600><c> simple</c><00:11:24.720><c> linear</c><00:11:25.200><c> model</c>
+
+00:11:26.990 --> 00:11:27.000 align:start position:0%
+the simple linear model
+ 
+
+00:11:27.000 --> 00:11:29.269 align:start position:0%
+the simple linear model
+when<00:11:27.420><c> we</c><00:11:27.600><c> use</c><00:11:27.779><c> the</c><00:11:27.959><c> method</c><00:11:28.200><c> of</c><00:11:28.440><c> lead</c><00:11:28.620><c> squares</c>
+
+00:11:29.269 --> 00:11:29.279 align:start position:0%
+when we use the method of lead squares
+ 
+
+00:11:29.279 --> 00:11:32.269 align:start position:0%
+when we use the method of lead squares
+we<00:11:30.000><c> try</c><00:11:30.180><c> to</c><00:11:30.360><c> minimize</c><00:11:30.779><c> this</c><00:11:31.079><c> function</c><00:11:31.500><c> that</c>
+
+00:11:32.269 --> 00:11:32.279 align:start position:0%
+we try to minimize this function that
+ 
+
+00:11:32.279 --> 00:11:35.269 align:start position:0%
+we try to minimize this function that
+computes<00:11:32.820><c> the</c><00:11:33.000><c> sum</c><00:11:33.240><c> of</c><00:11:33.480><c> the</c><00:11:33.660><c> squared</c><00:11:34.079><c> errors</c>
+
+00:11:35.269 --> 00:11:35.279 align:start position:0%
+computes the sum of the squared errors
+ 
+
+00:11:35.279 --> 00:11:37.490 align:start position:0%
+computes the sum of the squared errors
+these<00:11:36.060><c> are</c><00:11:36.180><c> the</c><00:11:36.360><c> Y</c><00:11:36.480><c> values</c><00:11:37.019><c> of</c><00:11:37.320><c> the</c>
+
+00:11:37.490 --> 00:11:37.500 align:start position:0%
+these are the Y values of the
+ 
+
+00:11:37.500 --> 00:11:40.449 align:start position:0%
+these are the Y values of the
+observations<00:11:38.240><c> which</c><00:11:39.240><c> are</c><00:11:39.480><c> in</c><00:11:39.779><c> this</c><00:11:39.899><c> example</c>
+
+00:11:40.449 --> 00:11:40.459 align:start position:0%
+observations which are in this example
+ 
+
+00:11:40.459 --> 00:11:45.230 align:start position:0%
+observations which are in this example
+equal<00:11:41.459><c> to</c><00:11:41.760><c> zero</c><00:11:42.360><c> if</c><00:11:42.899><c> it</c><00:11:43.079><c> is</c><00:11:43.260><c> a</c><00:11:43.560><c> healthy</c><00:11:43.920><c> person</c>
+
+00:11:45.230 --> 00:11:45.240 align:start position:0%
+equal to zero if it is a healthy person
+ 
+
+00:11:45.240 --> 00:11:48.350 align:start position:0%
+equal to zero if it is a healthy person
+and<00:11:45.899><c> one</c><00:11:46.079><c> if</c><00:11:46.800><c> it</c><00:11:46.920><c> is</c><00:11:47.100><c> a</c><00:11:47.279><c> patient</c><00:11:47.579><c> with</c><00:11:47.880><c> prostate</c>
+
+00:11:48.350 --> 00:11:48.360 align:start position:0%
+and one if it is a patient with prostate
+ 
+
+00:11:48.360 --> 00:11:49.670 align:start position:0%
+and one if it is a patient with prostate
+cancer
+
+00:11:49.670 --> 00:11:49.680 align:start position:0%
+cancer
+ 
+
+00:11:49.680 --> 00:11:52.310 align:start position:0%
+cancer
+y<00:11:50.220><c> hat</c><00:11:50.640><c> is</c><00:11:50.940><c> the</c><00:11:51.120><c> value</c><00:11:51.300><c> of</c><00:11:51.660><c> the</c><00:11:51.779><c> reactivation</c>
+
+00:11:52.310 --> 00:11:52.320 align:start position:0%
+y hat is the value of the reactivation
+ 
+
+00:11:52.320 --> 00:11:55.970 align:start position:0%
+y hat is the value of the reactivation
+function<00:11:52.800><c> that</c><00:11:53.160><c> can</c><00:11:53.339><c> go</c><00:11:53.519><c> between</c><00:11:53.820><c> 0</c><00:11:54.240><c> and</c><00:11:54.720><c> 1.</c>
+
+00:11:55.970 --> 00:11:55.980 align:start position:0%
+function that can go between 0 and 1.
+ 
+
+00:11:55.980 --> 00:11:59.509 align:start position:0%
+function that can go between 0 and 1.
+this<00:11:56.579><c> difference</c><00:11:56.880><c> is</c><00:11:57.600><c> called</c><00:11:57.779><c> a</c><00:11:58.140><c> residual</c><00:11:58.740><c> or</c>
+
+00:11:59.509 --> 00:11:59.519 align:start position:0%
+this difference is called a residual or
+ 
+
+00:11:59.519 --> 00:12:01.970 align:start position:0%
+this difference is called a residual or
+an<00:11:59.700><c> error</c><00:12:00.120><c> which</c><00:12:00.839><c> can</c><00:12:01.019><c> be</c><00:12:01.200><c> seen</c><00:12:01.380><c> as</c><00:12:01.800><c> the</c>
+
+00:12:01.970 --> 00:12:01.980 align:start position:0%
+an error which can be seen as the
+ 
+
+00:12:01.980 --> 00:12:04.250 align:start position:0%
+an error which can be seen as the
+distance<00:12:02.220><c> between</c><00:12:02.760><c> observations</c><00:12:03.480><c> and</c><00:12:04.140><c> the</c>
+
+00:12:04.250 --> 00:12:04.260 align:start position:0%
+distance between observations and the
+ 
+
+00:12:04.260 --> 00:12:05.690 align:start position:0%
+distance between observations and the
+Curve
+
+00:12:05.690 --> 00:12:05.700 align:start position:0%
+Curve
+ 
+
+00:12:05.700 --> 00:12:09.110 align:start position:0%
+Curve
+the<00:12:06.300><c> Y</c><00:12:06.480><c> value</c><00:12:06.720><c> of</c><00:12:07.019><c> this</c><00:12:07.200><c> data</c><00:12:07.620><c> point</c><00:12:07.740><c> is</c><00:12:08.160><c> zero</c>
+
+00:12:09.110 --> 00:12:09.120 align:start position:0%
+the Y value of this data point is zero
+ 
+
+00:12:09.120 --> 00:12:11.630 align:start position:0%
+the Y value of this data point is zero
+and<00:12:09.600><c> the</c><00:12:09.779><c> value</c><00:12:09.899><c> of</c><00:12:10.140><c> the</c><00:12:10.380><c> curve</c><00:12:10.680><c> on</c><00:12:11.040><c> the</c><00:12:11.220><c> PSA</c>
+
+00:12:11.630 --> 00:12:11.640 align:start position:0%
+and the value of the curve on the PSA
+ 
+
+00:12:11.640 --> 00:12:16.670 align:start position:0%
+and the value of the curve on the PSA
+level<00:12:11.820><c> is</c><00:12:12.180><c> equal</c><00:12:12.360><c> to</c><00:12:12.540><c> 2.5</c><00:12:13.079><c> is</c><00:12:14.040><c> 0.75</c>
+
+00:12:16.670 --> 00:12:16.680 align:start position:0%
+level is equal to 2.5 is 0.75
+ 
+
+00:12:16.680 --> 00:12:19.190 align:start position:0%
+level is equal to 2.5 is 0.75
+which<00:12:17.339><c> can</c><00:12:17.519><c> be</c><00:12:17.700><c> calculated</c><00:12:18.120><c> like</c><00:12:18.540><c> this</c><00:12:18.779><c> based</c>
+
+00:12:19.190 --> 00:12:19.200 align:start position:0%
+which can be calculated like this based
+ 
+
+00:12:19.200 --> 00:12:22.130 align:start position:0%
+which can be calculated like this based
+on<00:12:19.320><c> the</c><00:12:19.440><c> weights</c><00:12:19.740><c> we</c><00:12:20.040><c> previously</c><00:12:20.459><c> estimated</c>
+
+00:12:22.130 --> 00:12:22.140 align:start position:0%
+on the weights we previously estimated
+ 
+
+00:12:22.140 --> 00:12:24.949 align:start position:0%
+on the weights we previously estimated
+this<00:12:22.740><c> results</c><00:12:23.040><c> in</c><00:12:23.640><c> a</c><00:12:23.820><c> residual</c><00:12:24.240><c> of</c><00:12:24.600><c> negative</c>
+
+00:12:24.949 --> 00:12:24.959 align:start position:0%
+this results in a residual of negative
+ 
+
+00:12:24.959 --> 00:12:27.170 align:start position:0%
+this results in a residual of negative
+0.75
+
+00:12:27.170 --> 00:12:27.180 align:start position:0%
+0.75
+ 
+
+00:12:27.180 --> 00:12:30.110 align:start position:0%
+0.75
+we<00:12:27.720><c> then</c><00:12:27.899><c> Square</c><00:12:28.200><c> this</c><00:12:28.680><c> residual</c>
+
+00:12:30.110 --> 00:12:30.120 align:start position:0%
+we then Square this residual
+ 
+
+00:12:30.120 --> 00:12:32.990 align:start position:0%
+we then Square this residual
+we<00:12:30.899><c> then</c><00:12:31.019><c> do</c><00:12:31.260><c> the</c><00:12:31.440><c> same</c><00:12:31.620><c> calculations</c><00:12:32.220><c> for</c><00:12:32.820><c> the</c>
+
+00:12:32.990 --> 00:12:33.000 align:start position:0%
+we then do the same calculations for the
+ 
+
+00:12:33.000 --> 00:12:35.750 align:start position:0%
+we then do the same calculations for the
+next<00:12:33.120><c> data</c><00:12:33.660><c> point</c><00:12:33.779><c> and</c><00:12:34.380><c> so</c><00:12:34.620><c> forth</c>
+
+00:12:35.750 --> 00:12:35.760 align:start position:0%
+next data point and so forth
+ 
+
+00:12:35.760 --> 00:12:38.329 align:start position:0%
+next data point and so forth
+then<00:12:36.180><c> we</c><00:12:36.420><c> sum</c><00:12:36.660><c> all</c><00:12:37.140><c> the</c><00:12:37.320><c> square</c><00:12:37.500><c> residuals</c>
+
+00:12:38.329 --> 00:12:38.339 align:start position:0%
+then we sum all the square residuals
+ 
+
+00:12:38.339 --> 00:12:43.190 align:start position:0%
+then we sum all the square residuals
+which<00:12:39.300><c> here</c><00:12:39.600><c> results</c><00:12:39.899><c> in</c><00:12:40.440><c> a</c><00:12:40.620><c> value</c><00:12:40.740><c> of</c><00:12:41.220><c> 1.78</c>
+
+00:12:43.190 --> 00:12:43.200 align:start position:0%
+which here results in a value of 1.78
+ 
+
+00:12:43.200 --> 00:12:45.350 align:start position:0%
+which here results in a value of 1.78
+suppose<00:12:43.920><c> that</c><00:12:44.040><c> we</c><00:12:44.279><c> now</c><00:12:44.459><c> change</c><00:12:44.700><c> the</c><00:12:44.940><c> value</c><00:12:45.120><c> of</c>
+
+00:12:45.350 --> 00:12:45.360 align:start position:0%
+suppose that we now change the value of
+ 
+
+00:12:45.360 --> 00:12:50.269 align:start position:0%
+suppose that we now change the value of
+the<00:12:45.600><c> bias</c><00:12:46.019><c> from</c><00:12:46.860><c> negative</c><00:12:47.339><c> 5.754</c>
+
+00:12:50.269 --> 00:12:50.279 align:start position:0%
+the bias from negative 5.754
+ 
+
+00:12:50.279 --> 00:12:53.870 align:start position:0%
+the bias from negative 5.754
+to<00:12:50.700><c> negative</c><00:12:51.120><c> 8.</c>
+
+00:12:53.870 --> 00:12:53.880 align:start position:0%
+ 
+ 
+
+00:12:53.880 --> 00:12:56.389 align:start position:0%
+ 
+that<00:12:54.540><c> will</c><00:12:54.779><c> move</c><00:12:55.019><c> the</c><00:12:55.260><c> curve</c><00:12:55.560><c> a</c><00:12:55.800><c> bit</c><00:12:55.920><c> to</c><00:12:56.220><c> the</c>
+
+00:12:56.389 --> 00:12:56.399 align:start position:0%
+that will move the curve a bit to the
+ 
+
+00:12:56.399 --> 00:12:57.650 align:start position:0%
+that will move the curve a bit to the
+right
+
+00:12:57.650 --> 00:12:57.660 align:start position:0%
+right
+ 
+
+00:12:57.660 --> 00:12:59.629 align:start position:0%
+right
+which<00:12:58.139><c> will</c><00:12:58.380><c> increase</c><00:12:58.560><c> the</c><00:12:58.920><c> sum</c><00:12:59.040><c> of</c><00:12:59.220><c> squared</c>
+
+00:12:59.629 --> 00:12:59.639 align:start position:0%
+which will increase the sum of squared
+ 
+
+00:12:59.639 --> 00:13:02.449 align:start position:0%
+which will increase the sum of squared
+errors<00:13:00.000><c> because</c><00:13:00.959><c> the</c><00:13:01.260><c> data</c><00:13:01.560><c> points</c><00:13:01.980><c> are</c><00:13:02.279><c> now</c>
+
+00:13:02.449 --> 00:13:02.459 align:start position:0%
+errors because the data points are now
+ 
+
+00:13:02.459 --> 00:13:05.030 align:start position:0%
+errors because the data points are now
+much<00:13:02.700><c> farther</c><00:13:03.120><c> away</c><00:13:03.300><c> from</c><00:13:03.839><c> the</c><00:13:04.019><c> Curve</c>
+
+00:13:05.030 --> 00:13:05.040 align:start position:0%
+much farther away from the Curve
+ 
+
+00:13:05.040 --> 00:13:07.490 align:start position:0%
+much farther away from the Curve
+let's<00:13:05.579><c> paste</c><00:13:06.060><c> the</c><00:13:06.180><c> point</c><00:13:06.360><c> here</c><00:13:06.720><c> which</c>
+
+00:13:07.490 --> 00:13:07.500 align:start position:0%
+let's paste the point here which
+ 
+
+00:13:07.500 --> 00:13:09.110 align:start position:0%
+let's paste the point here which
+represents<00:13:08.040><c> that</c><00:13:08.279><c> the</c><00:13:08.459><c> sum</c><00:13:08.579><c> of</c><00:13:08.760><c> squared</c>
+
+00:13:09.110 --> 00:13:09.120 align:start position:0%
+represents that the sum of squared
+ 
+
+00:13:09.120 --> 00:13:13.430 align:start position:0%
+represents that the sum of squared
+residuals<00:13:09.779><c> or</c><00:13:10.200><c> errors</c><00:13:10.680><c> is</c><00:13:11.339><c> 2.88</c><00:13:12.300><c> and</c><00:13:12.899><c> the</c><00:13:13.079><c> bias</c>
+
+00:13:13.430 --> 00:13:13.440 align:start position:0%
+residuals or errors is 2.88 and the bias
+ 
+
+00:13:13.440 --> 00:13:15.590 align:start position:0%
+residuals or errors is 2.88 and the bias
+is<00:13:13.680><c> set</c><00:13:13.860><c> to</c><00:13:13.980><c> negative</c><00:13:14.339><c> 8.</c>
+
+00:13:15.590 --> 00:13:15.600 align:start position:0%
+is set to negative 8.
+ 
+
+00:13:15.600 --> 00:13:20.389 align:start position:0%
+is set to negative 8.
+when<00:13:16.079><c> the</c><00:13:16.260><c> bias</c><00:13:16.620><c> is</c><00:13:17.040><c> set</c><00:13:17.220><c> to</c><00:13:17.459><c> negative</c><00:13:17.880><c> 5.754</c>
+
+00:13:20.389 --> 00:13:20.399 align:start position:0%
+when the bias is set to negative 5.754
+ 
+
+00:13:20.399 --> 00:13:22.850 align:start position:0%
+when the bias is set to negative 5.754
+the<00:13:21.000><c> sum</c><00:13:21.120><c> of</c><00:13:21.300><c> the</c><00:13:21.420><c> squared</c><00:13:21.839><c> errors</c><00:13:22.200><c> was</c><00:13:22.620><c> equal</c>
+
+00:13:22.850 --> 00:13:22.860 align:start position:0%
+the sum of the squared errors was equal
+ 
+
+00:13:22.860 --> 00:13:25.069 align:start position:0%
+the sum of the squared errors was equal
+to<00:13:23.160><c> 1.78</c>
+
+00:13:25.069 --> 00:13:25.079 align:start position:0%
+to 1.78
+ 
+
+00:13:25.079 --> 00:13:28.370 align:start position:0%
+to 1.78
+if<00:13:25.560><c> you</c><00:13:25.680><c> set</c><00:13:25.860><c> the</c><00:13:26.040><c> bias</c><00:13:26.459><c> to</c><00:13:26.760><c> negative</c><00:13:27.120><c> 3</c>
+
+00:13:28.370 --> 00:13:28.380 align:start position:0%
+if you set the bias to negative 3
+ 
+
+00:13:28.380 --> 00:13:32.210 align:start position:0%
+if you set the bias to negative 3
+we'll<00:13:29.040><c> move</c><00:13:29.279><c> the</c><00:13:29.519><c> curve</c><00:13:29.880><c> a</c><00:13:30.060><c> bit</c><00:13:30.240><c> to</c><00:13:30.540><c> the</c><00:13:30.660><c> left</c>
+
+00:13:32.210 --> 00:13:32.220 align:start position:0%
+we'll move the curve a bit to the left
+ 
+
+00:13:32.220 --> 00:13:34.850 align:start position:0%
+we'll move the curve a bit to the left
+which<00:13:32.820><c> will</c><00:13:33.000><c> result</c><00:13:33.240><c> in</c><00:13:34.019><c> that</c><00:13:34.200><c> the</c><00:13:34.380><c> sum</c><00:13:34.500><c> of</c><00:13:34.740><c> the</c>
+
+00:13:34.850 --> 00:13:34.860 align:start position:0%
+which will result in that the sum of the
+ 
+
+00:13:34.860 --> 00:13:39.050 align:start position:0%
+which will result in that the sum of the
+squared<00:13:35.220><c> errors</c><00:13:35.639><c> is</c><00:13:36.300><c> equal</c><00:13:36.480><c> to</c><00:13:36.720><c> 3.62</c>
+
+00:13:39.050 --> 00:13:39.060 align:start position:0%
+squared errors is equal to 3.62
+ 
+
+00:13:39.060 --> 00:13:41.329 align:start position:0%
+squared errors is equal to 3.62
+if<00:13:39.600><c> we</c><00:13:39.720><c> would</c><00:13:39.839><c> try</c><00:13:40.019><c> many</c><00:13:40.260><c> different</c><00:13:40.560><c> values</c><00:13:41.040><c> of</c>
+
+00:13:41.329 --> 00:13:41.339 align:start position:0%
+if we would try many different values of
+ 
+
+00:13:41.339 --> 00:13:42.710 align:start position:0%
+if we would try many different values of
+the<00:13:41.519><c> buyer's</c><00:13:41.940><c> weight</c>
+
+00:13:42.710 --> 00:13:42.720 align:start position:0%
+the buyer's weight
+ 
+
+00:13:42.720 --> 00:13:45.829 align:start position:0%
+the buyer's weight
+we<00:13:43.139><c> will</c><00:13:43.260><c> be</c><00:13:43.440><c> able</c><00:13:43.740><c> to</c><00:13:44.040><c> generate</c><00:13:44.459><c> a</c><00:13:44.700><c> curve</c><00:13:45.120><c> that</c>
+
+00:13:45.829 --> 00:13:45.839 align:start position:0%
+we will be able to generate a curve that
+ 
+
+00:13:45.839 --> 00:13:48.050 align:start position:0%
+we will be able to generate a curve that
+shows<00:13:46.260><c> at</c><00:13:46.740><c> the</c><00:13:46.920><c> sum</c><00:13:47.040><c> of</c><00:13:47.160><c> the</c><00:13:47.339><c> squared</c><00:13:47.700><c> errors</c>
+
+00:13:48.050 --> 00:13:48.060 align:start position:0%
+shows at the sum of the squared errors
+ 
+
+00:13:48.060 --> 00:13:51.050 align:start position:0%
+shows at the sum of the squared errors
+changes<00:13:48.899><c> we</c><00:13:49.680><c> will</c><00:13:49.920><c> change</c><00:13:50.100><c> the</c><00:13:50.339><c> value</c><00:13:50.519><c> or</c><00:13:50.880><c> the</c>
+
+00:13:51.050 --> 00:13:51.060 align:start position:0%
+changes we will change the value or the
+ 
+
+00:13:51.060 --> 00:13:54.350 align:start position:0%
+changes we will change the value or the
+weight<00:13:51.180><c> associated</c><00:13:51.959><c> with</c><00:13:52.200><c> the</c><00:13:52.380><c> bias</c>
+
+00:13:54.350 --> 00:13:54.360 align:start position:0%
+weight associated with the bias
+ 
+
+00:13:54.360 --> 00:13:57.290 align:start position:0%
+weight associated with the bias
+the<00:13:54.899><c> method</c><00:13:55.200><c> of</c><00:13:55.440><c> least</c><00:13:55.680><c> squares</c><00:13:56.220><c> finds</c><00:13:57.180><c> the</c>
+
+00:13:57.290 --> 00:13:57.300 align:start position:0%
+the method of least squares finds the
+ 
+
+00:13:57.300 --> 00:13:59.810 align:start position:0%
+the method of least squares finds the
+value<00:13:57.480><c> of</c><00:13:57.720><c> the</c><00:13:57.839><c> weight</c><00:13:58.079><c> that</c><00:13:58.920><c> results</c><00:13:59.160><c> in</c><00:13:59.639><c> the</c>
+
+00:13:59.810 --> 00:13:59.820 align:start position:0%
+value of the weight that results in the
+ 
+
+00:13:59.820 --> 00:14:03.290 align:start position:0%
+value of the weight that results in the
+lowest<00:14:00.180><c> possible</c><00:14:00.480><c> sum</c><00:14:00.720><c> of</c><00:14:00.959><c> squared</c><00:14:01.320><c> errors</c>
+
+00:14:03.290 --> 00:14:03.300 align:start position:0%
+lowest possible sum of squared errors
+ 
+
+00:14:03.300 --> 00:14:05.810 align:start position:0%
+lowest possible sum of squared errors
+this<00:14:03.899><c> explains</c><00:14:04.440><c> whether</c><00:14:04.680><c> weight</c><00:14:05.040><c> of</c><00:14:05.279><c> the</c><00:14:05.459><c> bias</c>
+
+00:14:05.810 --> 00:14:05.820 align:start position:0%
+this explains whether weight of the bias
+ 
+
+00:14:05.820 --> 00:14:08.509 align:start position:0%
+this explains whether weight of the bias
+is<00:14:06.060><c> equal</c><00:14:06.300><c> to</c><00:14:06.540><c> about</c><00:14:06.779><c> negative</c><00:14:07.320><c> 5.8</c><00:14:08.100><c> in</c><00:14:08.339><c> this</c>
+
+00:14:08.509 --> 00:14:08.519 align:start position:0%
+is equal to about negative 5.8 in this
+ 
+
+00:14:08.519 --> 00:14:12.170 align:start position:0%
+is equal to about negative 5.8 in this
+example<00:14:09.480><c> because</c><00:14:09.959><c> that</c><00:14:10.440><c> value</c><00:14:10.680><c> results</c><00:14:11.519><c> in</c><00:14:12.000><c> a</c>
+
+00:14:12.170 --> 00:14:12.180 align:start position:0%
+example because that value results in a
+ 
+
+00:14:12.180 --> 00:14:14.509 align:start position:0%
+example because that value results in a
+curve<00:14:12.480><c> that</c><00:14:12.899><c> is</c><00:14:13.079><c> as</c><00:14:13.320><c> close</c><00:14:13.500><c> as</c><00:14:13.740><c> possible</c><00:14:14.160><c> to</c>
+
+00:14:14.509 --> 00:14:14.519 align:start position:0%
+curve that is as close as possible to
+ 
+
+00:14:14.519 --> 00:14:16.970 align:start position:0%
+curve that is as close as possible to
+the<00:14:14.639><c> data</c><00:14:15.000><c> points</c><00:14:15.360><c> which</c><00:14:16.139><c> we'll</c><00:14:16.320><c> result</c><00:14:16.560><c> in</c>
+
+00:14:16.970 --> 00:14:16.980 align:start position:0%
+the data points which we'll result in
+ 
+
+00:14:16.980 --> 00:14:18.530 align:start position:0%
+the data points which we'll result in
+that<00:14:17.100><c> the</c><00:14:17.279><c> network</c><00:14:17.459><c> predicts</c><00:14:18.060><c> the</c><00:14:18.180><c> prostate</c>
+
+00:14:18.530 --> 00:14:18.540 align:start position:0%
+that the network predicts the prostate
+ 
+
+00:14:18.540 --> 00:14:22.069 align:start position:0%
+that the network predicts the prostate
+cancer<00:14:18.839><c> in</c><00:14:19.320><c> the</c><00:14:19.440><c> best</c><00:14:19.560><c> way</c>
+
+00:14:22.069 --> 00:14:22.079 align:start position:0%
+ 
+ 
+
+00:14:22.079 --> 00:14:24.170 align:start position:0%
+ 
+to<00:14:22.440><c> find</c><00:14:22.680><c> the</c><00:14:22.860><c> value</c><00:14:23.040><c> of</c><00:14:23.339><c> the</c><00:14:23.459><c> weight</c><00:14:23.639><c> that</c>
+
+00:14:24.170 --> 00:14:24.180 align:start position:0%
+to find the value of the weight that
+ 
+
+00:14:24.180 --> 00:14:25.970 align:start position:0%
+to find the value of the weight that
+results<00:14:24.420><c> in</c><00:14:24.839><c> the</c><00:14:24.959><c> lowest</c><00:14:25.260><c> sum</c><00:14:25.380><c> of</c><00:14:25.620><c> squared</c>
+
+00:14:25.970 --> 00:14:25.980 align:start position:0%
+results in the lowest sum of squared
+ 
+
+00:14:25.980 --> 00:14:26.990 align:start position:0%
+results in the lowest sum of squared
+errors
+
+00:14:26.990 --> 00:14:27.000 align:start position:0%
+errors
+ 
+
+00:14:27.000 --> 00:14:30.290 align:start position:0%
+errors
+we<00:14:27.420><c> need</c><00:14:27.600><c> to</c><00:14:27.779><c> start</c><00:14:28.019><c> with</c><00:14:28.560><c> an</c><00:14:28.740><c> initial</c><00:14:29.100><c> guess</c>
+
+00:14:30.290 --> 00:14:30.300 align:start position:0%
+we need to start with an initial guess
+ 
+
+00:14:30.300 --> 00:14:32.269 align:start position:0%
+we need to start with an initial guess
+suppose<00:14:31.019><c> that</c><00:14:31.200><c> we</c><00:14:31.380><c> initially</c><00:14:31.740><c> guess</c><00:14:31.980><c> the</c>
+
+00:14:32.269 --> 00:14:32.279 align:start position:0%
+suppose that we initially guess the
+ 
+
+00:14:32.279 --> 00:14:35.030 align:start position:0%
+suppose that we initially guess the
+value<00:14:32.459><c> or</c><00:14:32.760><c> the</c><00:14:32.940><c> weight</c><00:14:33.060><c> to</c><00:14:33.480><c> negative</c><00:14:33.839><c> three</c>
+
+00:14:35.030 --> 00:14:35.040 align:start position:0%
+value or the weight to negative three
+ 
+
+00:14:35.040 --> 00:14:37.430 align:start position:0%
+value or the weight to negative three
+then<00:14:35.459><c> we</c><00:14:35.700><c> use</c><00:14:35.880><c> an</c><00:14:36.180><c> algorithm</c><00:14:36.660><c> such</c><00:14:37.079><c> as</c><00:14:37.200><c> the</c>
+
+00:14:37.430 --> 00:14:37.440 align:start position:0%
+then we use an algorithm such as the
+ 
+
+00:14:37.440 --> 00:14:40.250 align:start position:0%
+then we use an algorithm such as the
+gradient<00:14:37.860><c> descent</c><00:14:38.820><c> where</c><00:14:39.300><c> we</c><00:14:39.540><c> step</c><00:14:39.720><c> by</c><00:14:39.899><c> smooth</c>
+
+00:14:40.250 --> 00:14:40.260 align:start position:0%
+gradient descent where we step by smooth
+ 
+
+00:14:40.260 --> 00:14:42.230 align:start position:0%
+gradient descent where we step by smooth
+along<00:14:40.560><c> the</c><00:14:40.800><c> direction</c><00:14:41.040><c> of</c><00:14:41.639><c> the</c><00:14:41.820><c> steepest</c>
+
+00:14:42.230 --> 00:14:42.240 align:start position:0%
+along the direction of the steepest
+ 
+
+00:14:42.240 --> 00:14:43.310 align:start position:0%
+along the direction of the steepest
+descent
+
+00:14:43.310 --> 00:14:43.320 align:start position:0%
+descent
+ 
+
+00:14:43.320 --> 00:14:46.370 align:start position:0%
+descent
+like<00:14:43.860><c> this</c>
+
+00:14:46.370 --> 00:14:46.380 align:start position:0%
+ 
+ 
+
+00:14:46.380 --> 00:14:48.829 align:start position:0%
+ 
+If<00:14:46.860><c> instead</c><00:14:47.279><c> initially</c><00:14:47.760><c> guess</c><00:14:48.060><c> the</c><00:14:48.360><c> value</c><00:14:48.540><c> of</c>
+
+00:14:48.829 --> 00:14:48.839 align:start position:0%
+If instead initially guess the value of
+ 
+
+00:14:48.839 --> 00:14:52.069 align:start position:0%
+If instead initially guess the value of
+the<00:14:48.959><c> bias</c><00:14:49.320><c> to</c><00:14:49.620><c> negative</c><00:14:49.980><c> 9.</c>
+
+00:14:52.069 --> 00:14:52.079 align:start position:0%
+the bias to negative 9.
+ 
+
+00:14:52.079 --> 00:14:54.410 align:start position:0%
+the bias to negative 9.
+the<00:14:52.500><c> gradient</c><00:14:52.860><c> descent</c><00:14:53.279><c> method</c><00:14:53.699><c> will</c><00:14:54.060><c> instead</c>
+
+00:14:54.410 --> 00:14:54.420 align:start position:0%
+the gradient descent method will instead
+ 
+
+00:14:54.420 --> 00:14:56.509 align:start position:0%
+the gradient descent method will instead
+increase<00:14:54.720><c> the</c><00:14:55.079><c> value</c><00:14:55.260><c> of</c><00:14:55.620><c> the</c><00:14:55.740><c> weight</c><00:14:55.860><c> until</c>
+
+00:14:56.509 --> 00:14:56.519 align:start position:0%
+increase the value of the weight until
+ 
+
+00:14:56.519 --> 00:14:58.910 align:start position:0%
+increase the value of the weight until
+it<00:14:56.880><c> finds</c><00:14:57.240><c> the</c><00:14:57.360><c> value</c><00:14:57.540><c> that</c><00:14:57.959><c> minimizes</c><00:14:58.620><c> the</c>
+
+00:14:58.910 --> 00:14:58.920 align:start position:0%
+it finds the value that minimizes the
+ 
+
+00:14:58.920 --> 00:15:01.550 align:start position:0%
+it finds the value that minimizes the
+sum<00:14:59.100><c> of</c><00:14:59.279><c> the</c><00:14:59.459><c> squared</c><00:14:59.820><c> errors</c>
+
+00:15:01.550 --> 00:15:01.560 align:start position:0%
+sum of the squared errors
+ 
+
+00:15:01.560 --> 00:15:04.610 align:start position:0%
+sum of the squared errors
+one<00:15:02.100><c> problem</c><00:15:02.339><c> occurs</c><00:15:03.180><c> when</c><00:15:03.600><c> we</c><00:15:03.779><c> had</c><00:15:04.019><c> a</c><00:15:04.500><c> more</c>
+
+00:15:04.610 --> 00:15:04.620 align:start position:0%
+one problem occurs when we had a more
+ 
+
+00:15:04.620 --> 00:15:06.710 align:start position:0%
+one problem occurs when we had a more
+complicated<00:15:05.040><c> Network</c><00:15:05.459><c> because</c><00:15:06.000><c> the</c><00:15:06.360><c> error</c>
+
+00:15:06.710 --> 00:15:06.720 align:start position:0%
+complicated Network because the error
+ 
+
+00:15:06.720 --> 00:15:09.050 align:start position:0%
+complicated Network because the error
+function<00:15:07.079><c> for</c><00:15:07.500><c> such</c><00:15:07.680><c> a</c><00:15:07.860><c> network</c><00:15:08.100><c> would</c><00:15:08.820><c> then</c>
+
+00:15:09.050 --> 00:15:09.060 align:start position:0%
+function for such a network would then
+ 
+
+00:15:09.060 --> 00:15:12.650 align:start position:0%
+function for such a network would then
+have<00:15:09.360><c> several</c><00:15:09.779><c> local</c><00:15:10.079><c> minimals</c>
+
+00:15:12.650 --> 00:15:12.660 align:start position:0%
+have several local minimals
+ 
+
+00:15:12.660 --> 00:15:14.930 align:start position:0%
+have several local minimals
+this<00:15:13.320><c> means</c><00:15:13.620><c> that</c><00:15:13.740><c> if</c><00:15:13.980><c> initially</c><00:15:14.399><c> gets</c><00:15:14.820><c> the</c>
+
+00:15:14.930 --> 00:15:14.940 align:start position:0%
+this means that if initially gets the
+ 
+
+00:15:14.940 --> 00:15:17.389 align:start position:0%
+this means that if initially gets the
+value<00:15:15.120><c> of</c><00:15:15.420><c> the</c><00:15:15.540><c> bias</c><00:15:15.899><c> to</c><00:15:16.139><c> negative</c><00:15:16.500><c> 9</c>
+
+00:15:17.389 --> 00:15:17.399 align:start position:0%
+value of the bias to negative 9
+ 
+
+00:15:17.399 --> 00:15:19.610 align:start position:0%
+value of the bias to negative 9
+a<00:15:17.880><c> method</c><00:15:18.240><c> will</c><00:15:18.540><c> move</c><00:15:18.779><c> down</c><00:15:19.019><c> to</c><00:15:19.260><c> the</c><00:15:19.440><c> local</c>
+
+00:15:19.610 --> 00:15:19.620 align:start position:0%
+a method will move down to the local
+ 
+
+00:15:19.620 --> 00:15:22.430 align:start position:0%
+a method will move down to the local
+minimum<00:15:20.160><c> and</c><00:15:20.760><c> Report</c><00:15:21.000><c> negative</c><00:15:21.540><c> 8</c><00:15:21.839><c> as</c><00:15:22.260><c> the</c>
+
+00:15:22.430 --> 00:15:22.440 align:start position:0%
+minimum and Report negative 8 as the
+ 
+
+00:15:22.440 --> 00:15:24.230 align:start position:0%
+minimum and Report negative 8 as the
+best<00:15:22.620><c> value</c>
+
+00:15:24.230 --> 00:15:24.240 align:start position:0%
+best value
+ 
+
+00:15:24.240 --> 00:15:26.509 align:start position:0%
+best value
+which<00:15:24.660><c> will</c><00:15:24.839><c> result</c><00:15:25.079><c> in</c><00:15:25.560><c> a</c><00:15:25.680><c> bad</c><00:15:25.860><c> fit</c><00:15:26.160><c> to</c><00:15:26.339><c> the</c>
+
+00:15:26.509 --> 00:15:26.519 align:start position:0%
+which will result in a bad fit to the
+ 
+
+00:15:26.519 --> 00:15:28.189 align:start position:0%
+which will result in a bad fit to the
+data
+
+00:15:28.189 --> 00:15:28.199 align:start position:0%
+data
+ 
+
+00:15:28.199 --> 00:15:30.170 align:start position:0%
+data
+if<00:15:28.560><c> you</c><00:15:28.680><c> initially</c><00:15:28.980><c> guess</c><00:15:29.339><c> the</c><00:15:29.639><c> value</c><00:15:29.880><c> to</c>
+
+00:15:30.170 --> 00:15:30.180 align:start position:0%
+if you initially guess the value to
+ 
+
+00:15:30.180 --> 00:15:32.449 align:start position:0%
+if you initially guess the value to
+negative<00:15:30.600><c> 6.5</c>
+
+00:15:32.449 --> 00:15:32.459 align:start position:0%
+negative 6.5
+ 
+
+00:15:32.459 --> 00:15:34.970 align:start position:0%
+negative 6.5
+or<00:15:33.060><c> negative</c><00:15:33.480><c> 3.5</c>
+
+00:15:34.970 --> 00:15:34.980 align:start position:0%
+or negative 3.5
+ 
+
+00:15:34.980 --> 00:15:38.990 align:start position:0%
+or negative 3.5
+then<00:15:35.579><c> we</c><00:15:35.940><c> will</c><00:15:36.120><c> reach</c><00:15:36.480><c> the</c><00:15:36.779><c> global</c><00:15:37.139><c> minimum</c>
+
+00:15:38.990 --> 00:15:39.000 align:start position:0%
+then we will reach the global minimum
+ 
+
+00:15:39.000 --> 00:15:42.230 align:start position:0%
+then we will reach the global minimum
+which<00:15:39.540><c> results</c><00:15:39.839><c> in</c><00:15:40.380><c> the</c><00:15:40.500><c> best</c><00:15:40.680><c> fit</c>
+
+00:15:42.230 --> 00:15:42.240 align:start position:0%
+which results in the best fit
+ 
+
+00:15:42.240 --> 00:15:44.269 align:start position:0%
+which results in the best fit
+it<00:15:42.720><c> is</c><00:15:42.899><c> therefore</c><00:15:43.199><c> important</c><00:15:43.620><c> that</c><00:15:43.860><c> we</c><00:15:44.040><c> try</c>
+
+00:15:44.269 --> 00:15:44.279 align:start position:0%
+it is therefore important that we try
+ 
+
+00:15:44.279 --> 00:15:46.250 align:start position:0%
+it is therefore important that we try
+many<00:15:44.519><c> initial</c><00:15:44.940><c> guesses</c><00:15:45.420><c> or</c><00:15:45.720><c> the</c><00:15:45.839><c> weights</c>
+
+00:15:46.250 --> 00:15:46.260 align:start position:0%
+many initial guesses or the weights
+ 
+
+00:15:46.260 --> 00:15:48.949 align:start position:0%
+many initial guesses or the weights
+during<00:15:46.620><c> the</c><00:15:46.920><c> learning</c><00:15:47.220><c> process</c><00:15:47.579><c> to</c><00:15:48.540><c> find</c><00:15:48.720><c> a</c>
+
+00:15:48.949 --> 00:15:48.959 align:start position:0%
+during the learning process to find a
+ 
+
+00:15:48.959 --> 00:15:50.990 align:start position:0%
+during the learning process to find a
+network<00:15:49.139><c> that</c><00:15:49.680><c> can</c><00:15:49.800><c> predict</c><00:15:50.100><c> the</c><00:15:50.279><c> data</c><00:15:50.639><c> in</c><00:15:50.940><c> the</c>
+
+00:15:50.990 --> 00:15:51.000 align:start position:0%
+network that can predict the data in the
+ 
+
+00:15:51.000 --> 00:15:52.189 align:start position:0%
+network that can predict the data in the
+best<00:15:51.180><c> way</c>
+
+00:15:52.189 --> 00:15:52.199 align:start position:0%
+best way
+ 
+
+00:15:52.199 --> 00:15:54.710 align:start position:0%
+best way
+most<00:15:52.980><c> software</c><00:15:53.459><c> tools</c><00:15:53.880><c> Generate</c><00:15:54.300><c> random</c>
+
+00:15:54.710 --> 00:15:54.720 align:start position:0%
+most software tools Generate random
+ 
+
+00:15:54.720 --> 00:15:56.990 align:start position:0%
+most software tools Generate random
+initial<00:15:55.079><c> guesses</c><00:15:55.620><c> or</c><00:15:55.860><c> the</c><00:15:56.040><c> weights</c>
+
+00:15:56.990 --> 00:15:57.000 align:start position:0%
+initial guesses or the weights
+ 
+
+00:15:57.000 --> 00:15:58.730 align:start position:0%
+initial guesses or the weights
+which<00:15:57.480><c> means</c><00:15:57.779><c> that</c><00:15:57.959><c> you</c><00:15:58.139><c> might</c><00:15:58.260><c> get</c><00:15:58.500><c> different</c>
+
+00:15:58.730 --> 00:15:58.740 align:start position:0%
+which means that you might get different
+ 
+
+00:15:58.740 --> 00:16:01.009 align:start position:0%
+which means that you might get different
+results<00:15:59.160><c> every</c><00:16:00.000><c> time</c><00:16:00.300><c> you</c><00:16:00.600><c> train</c><00:16:00.779><c> your</c>
+
+00:16:01.009 --> 00:16:01.019 align:start position:0%
+results every time you train your
+ 
+
+00:16:01.019 --> 00:16:02.870 align:start position:0%
+results every time you train your
+network
+
+00:16:02.870 --> 00:16:02.880 align:start position:0%
+network
+ 
+
+00:16:02.880 --> 00:16:05.329 align:start position:0%
+network
+we<00:16:03.300><c> can</c><00:16:03.420><c> make</c><00:16:03.660><c> a</c><00:16:03.899><c> similar</c><00:16:04.199><c> error</c><00:16:04.620><c> curve</c><00:16:04.980><c> if</c><00:16:05.220><c> we</c>
+
+00:16:05.329 --> 00:16:05.339 align:start position:0%
+we can make a similar error curve if we
+ 
+
+00:16:05.339 --> 00:16:07.129 align:start position:0%
+we can make a similar error curve if we
+change<00:16:05.579><c> this</c><00:16:05.880><c> weight</c>
+
+00:16:07.129 --> 00:16:07.139 align:start position:0%
+change this weight
+ 
+
+00:16:07.139 --> 00:16:09.889 align:start position:0%
+change this weight
+when<00:16:07.620><c> we</c><00:16:07.800><c> change</c><00:16:07.980><c> this</c><00:16:08.339><c> weight</c><00:16:08.639><c> the</c><00:16:09.540><c> Curve</c>
+
+00:16:09.889 --> 00:16:09.899 align:start position:0%
+when we change this weight the Curve
+ 
+
+00:16:09.899 --> 00:16:12.290 align:start position:0%
+when we change this weight the Curve
+will<00:16:10.079><c> change</c><00:16:10.380><c> its</c><00:16:10.980><c> slope</c>
+
+00:16:12.290 --> 00:16:12.300 align:start position:0%
+will change its slope
+ 
+
+00:16:12.300 --> 00:16:13.850 align:start position:0%
+will change its slope
+when<00:16:12.720><c> we</c><00:16:12.899><c> estimate</c><00:16:13.380><c> to</c><00:16:13.500><c> weight</c>
+
+00:16:13.850 --> 00:16:13.860 align:start position:0%
+when we estimate to weight
+ 
+
+00:16:13.860 --> 00:16:16.910 align:start position:0%
+when we estimate to weight
+simultaneously<00:16:14.820><c> the</c><00:16:15.779><c> error</c><00:16:16.139><c> function</c><00:16:16.500><c> will</c>
+
+00:16:16.910 --> 00:16:16.920 align:start position:0%
+simultaneously the error function will
+ 
+
+00:16:16.920 --> 00:16:19.129 align:start position:0%
+simultaneously the error function will
+correspond<00:16:17.459><c> to</c><00:16:18.060><c> surface</c><00:16:18.600><c> in</c><00:16:19.019><c> a</c>
+
+00:16:19.129 --> 00:16:19.139 align:start position:0%
+correspond to surface in a
+ 
+
+00:16:19.139 --> 00:16:21.710 align:start position:0%
+correspond to surface in a
+three-dimensional<00:16:19.740><c> plot</c><00:16:20.040><c> like</c><00:16:20.339><c> this</c>
+
+00:16:21.710 --> 00:16:21.720 align:start position:0%
+three-dimensional plot like this
+ 
+
+00:16:21.720 --> 00:16:24.230 align:start position:0%
+three-dimensional plot like this
+the<00:16:22.320><c> combined</c><00:16:22.740><c> values</c><00:16:23.100><c> of</c><00:16:23.339><c> the</c><00:16:23.519><c> two</c><00:16:23.639><c> weights</c>
+
+00:16:24.230 --> 00:16:24.240 align:start position:0%
+the combined values of the two weights
+ 
+
+00:16:24.240 --> 00:16:26.509 align:start position:0%
+the combined values of the two weights
+that<00:16:24.660><c> result</c><00:16:24.959><c> in</c><00:16:25.380><c> the</c><00:16:25.560><c> minimum</c><00:16:25.860><c> value</c><00:16:26.040><c> of</c><00:16:26.339><c> this</c>
+
+00:16:26.509 --> 00:16:26.519 align:start position:0%
+that result in the minimum value of this
+ 
+
+00:16:26.519 --> 00:16:28.970 align:start position:0%
+that result in the minimum value of this
+function<00:16:26.880><c> will</c><00:16:27.540><c> result</c><00:16:27.779><c> in</c><00:16:28.199><c> the</c><00:16:28.320><c> best</c><00:16:28.440><c> fit</c><00:16:28.800><c> to</c>
+
+00:16:28.970 --> 00:16:28.980 align:start position:0%
+function will result in the best fit to
+ 
+
+00:16:28.980 --> 00:16:30.230 align:start position:0%
+function will result in the best fit to
+the<00:16:29.100><c> data</c>
+
+00:16:30.230 --> 00:16:30.240 align:start position:0%
+the data
+ 
+
+00:16:30.240 --> 00:16:32.329 align:start position:0%
+the data
+we'll<00:16:30.720><c> now</c><00:16:30.899><c> try</c><00:16:31.139><c> to</c><00:16:31.320><c> understand</c><00:16:31.500><c> the</c><00:16:31.980><c> purpose</c>
+
+00:16:32.329 --> 00:16:32.339 align:start position:0%
+we'll now try to understand the purpose
+ 
+
+00:16:32.339 --> 00:16:34.610 align:start position:0%
+we'll now try to understand the purpose
+of<00:16:32.699><c> using</c><00:16:33.120><c> a</c><00:16:33.360><c> hidden</c><00:16:33.660><c> layer</c><00:16:33.959><c> in</c><00:16:34.260><c> neural</c>
+
+00:16:34.610 --> 00:16:34.620 align:start position:0%
+of using a hidden layer in neural
+ 
+
+00:16:34.620 --> 00:16:35.930 align:start position:0%
+of using a hidden layer in neural
+networks
+
+00:16:35.930 --> 00:16:35.940 align:start position:0%
+networks
+ 
+
+00:16:35.940 --> 00:16:39.230 align:start position:0%
+networks
+to<00:16:36.420><c> show</c><00:16:36.600><c> the</c><00:16:36.779><c> beauty</c><00:16:37.019><c> of</c><00:16:37.740><c> the</c><00:16:37.860><c> Hidden</c><00:16:38.220><c> layers</c>
+
+00:16:39.230 --> 00:16:39.240 align:start position:0%
+to show the beauty of the Hidden layers
+ 
+
+00:16:39.240 --> 00:16:41.810 align:start position:0%
+to show the beauty of the Hidden layers
+suppose<00:16:39.959><c> that</c><00:16:40.139><c> we</c><00:16:40.320><c> have</c><00:16:40.440><c> the</c><00:16:40.620><c> following</c><00:16:40.920><c> data</c>
+
+00:16:41.810 --> 00:16:41.820 align:start position:0%
+suppose that we have the following data
+ 
+
+00:16:41.820 --> 00:16:44.150 align:start position:0%
+suppose that we have the following data
+where<00:16:42.180><c> one</c><00:16:42.420><c> has</c><00:16:42.660><c> measured</c><00:16:43.139><c> a</c><00:16:43.440><c> certain</c><00:16:43.620><c> protein</c>
+
+00:16:44.150 --> 00:16:44.160 align:start position:0%
+where one has measured a certain protein
+ 
+
+00:16:44.160 --> 00:16:47.150 align:start position:0%
+where one has measured a certain protein
+in<00:16:44.759><c> blood</c><00:16:44.940><c> samples</c><00:16:45.540><c> from</c><00:16:45.839><c> 10</c><00:16:46.079><c> cancer</c><00:16:46.500><c> patients</c>
+
+00:16:47.150 --> 00:16:47.160 align:start position:0%
+in blood samples from 10 cancer patients
+ 
+
+00:16:47.160 --> 00:16:50.150 align:start position:0%
+in blood samples from 10 cancer patients
+and<00:16:47.880><c> five</c><00:16:48.120><c> Health</c><00:16:48.360><c> individuals</c>
+
+00:16:50.150 --> 00:16:50.160 align:start position:0%
+and five Health individuals
+ 
+
+00:16:50.160 --> 00:16:52.670 align:start position:0%
+and five Health individuals
+people<00:16:50.880><c> who</c><00:16:51.300><c> are</c><00:16:51.480><c> healthy</c><00:16:51.959><c> have</c><00:16:52.380><c> an</c>
+
+00:16:52.670 --> 00:16:52.680 align:start position:0%
+people who are healthy have an
+ 
+
+00:16:52.680 --> 00:16:55.009 align:start position:0%
+people who are healthy have an
+intermediate<00:16:53.160><c> level</c><00:16:53.399><c> of</c><00:16:53.820><c> this</c><00:16:54.000><c> protein</c><00:16:54.420><c> in</c>
+
+00:16:55.009 --> 00:16:55.019 align:start position:0%
+intermediate level of this protein in
+ 
+
+00:16:55.019 --> 00:16:56.090 align:start position:0%
+intermediate level of this protein in
+their<00:16:55.139><c> blood</c>
+
+00:16:56.090 --> 00:16:56.100 align:start position:0%
+their blood
+ 
+
+00:16:56.100 --> 00:16:58.610 align:start position:0%
+their blood
+or<00:16:56.579><c> as</c><00:16:56.759><c> people</c><00:16:57.000><c> with</c><00:16:57.420><c> prostate</c><00:16:57.839><c> cancer</c><00:16:58.079><c> either</c>
+
+00:16:58.610 --> 00:16:58.620 align:start position:0%
+or as people with prostate cancer either
+ 
+
+00:16:58.620 --> 00:17:00.590 align:start position:0%
+or as people with prostate cancer either
+have<00:16:58.920><c> a</c><00:16:59.220><c> low</c><00:16:59.399><c> level</c>
+
+00:17:00.590 --> 00:17:00.600 align:start position:0%
+have a low level
+ 
+
+00:17:00.600 --> 00:17:02.810 align:start position:0%
+have a low level
+or<00:17:01.139><c> a</c><00:17:01.320><c> high</c><00:17:01.500><c> level</c>
+
+00:17:02.810 --> 00:17:02.820 align:start position:0%
+or a high level
+ 
+
+00:17:02.820 --> 00:17:04.850 align:start position:0%
+or a high level
+if<00:17:03.360><c> you</c><00:17:03.540><c> would</c><00:17:03.660><c> try</c><00:17:03.839><c> to</c><00:17:04.020><c> fit</c><00:17:04.260><c> a</c><00:17:04.439><c> logistic</c>
+
+00:17:04.850 --> 00:17:04.860 align:start position:0%
+if you would try to fit a logistic
+ 
+
+00:17:04.860 --> 00:17:07.250 align:start position:0%
+if you would try to fit a logistic
+regimal<00:17:05.520><c> would</c><00:17:06.240><c> trade</c><00:17:06.540><c> a</c><00:17:06.720><c> neural</c><00:17:07.079><c> network</c>
+
+00:17:07.250 --> 00:17:07.260 align:start position:0%
+regimal would trade a neural network
+ 
+
+00:17:07.260 --> 00:17:09.409 align:start position:0%
+regimal would trade a neural network
+with<00:17:07.860><c> a</c><00:17:08.040><c> logistic</c><00:17:08.459><c> activation</c><00:17:08.880><c> function</c>
+
+00:17:09.409 --> 00:17:09.419 align:start position:0%
+with a logistic activation function
+ 
+
+00:17:09.419 --> 00:17:12.289 align:start position:0%
+with a logistic activation function
+without<00:17:10.199><c> a</c><00:17:10.620><c> hidden</c><00:17:10.980><c> layer</c>
+
+00:17:12.289 --> 00:17:12.299 align:start position:0%
+without a hidden layer
+ 
+
+00:17:12.299 --> 00:17:14.510 align:start position:0%
+without a hidden layer
+maybe<00:17:12.839><c> failed</c><00:17:13.380><c> to</c><00:17:13.500><c> make</c><00:17:13.679><c> a</c><00:17:13.980><c> good</c><00:17:14.100><c> prediction</c>
+
+00:17:14.510 --> 00:17:14.520 align:start position:0%
+maybe failed to make a good prediction
+ 
+
+00:17:14.520 --> 00:17:17.449 align:start position:0%
+maybe failed to make a good prediction
+of<00:17:14.880><c> the</c><00:17:15.059><c> training</c><00:17:15.419><c> data</c><00:17:15.839><c> because</c><00:17:16.439><c> an</c><00:17:16.860><c> s-shaped</c>
+
+00:17:17.449 --> 00:17:17.459 align:start position:0%
+of the training data because an s-shaped
+ 
+
+00:17:17.459 --> 00:17:19.669 align:start position:0%
+of the training data because an s-shaped
+curve<00:17:17.819><c> is</c><00:17:18.120><c> simply</c><00:17:18.419><c> not</c><00:17:18.660><c> useful</c><00:17:19.020><c> for</c><00:17:19.380><c> this</c><00:17:19.500><c> type</c>
+
+00:17:19.669 --> 00:17:19.679 align:start position:0%
+curve is simply not useful for this type
+ 
+
+00:17:19.679 --> 00:17:20.990 align:start position:0%
+curve is simply not useful for this type
+of<00:17:19.860><c> data</c>
+
+00:17:20.990 --> 00:17:21.000 align:start position:0%
+of data
+ 
+
+00:17:21.000 --> 00:17:23.329 align:start position:0%
+of data
+these<00:17:21.600><c> cancer</c><00:17:21.780><c> patients</c><00:17:22.380><c> will</c><00:17:22.799><c> incorrectly</c>
+
+00:17:23.329 --> 00:17:23.339 align:start position:0%
+these cancer patients will incorrectly
+ 
+
+00:17:23.339 --> 00:17:27.049 align:start position:0%
+these cancer patients will incorrectly
+be<00:17:23.520><c> predicted</c><00:17:24.059><c> to</c><00:17:24.360><c> be</c><00:17:24.480><c> healthy</c><00:17:24.900><c> by</c><00:17:25.140><c> them</c><00:17:25.319><c> all</c>
+
+00:17:27.049 --> 00:17:27.059 align:start position:0%
+be predicted to be healthy by them all
+ 
+
+00:17:27.059 --> 00:17:29.750 align:start position:0%
+be predicted to be healthy by them all
+and<00:17:27.419><c> if</c><00:17:27.540><c> you</c><00:17:27.660><c> flip</c><00:17:27.900><c> the</c><00:17:28.079><c> curve</c><00:17:28.500><c> these</c><00:17:29.400><c> patients</c>
+
+00:17:29.750 --> 00:17:29.760 align:start position:0%
+and if you flip the curve these patients
+ 
+
+00:17:29.760 --> 00:17:31.850 align:start position:0%
+and if you flip the curve these patients
+will<00:17:30.000><c> instead</c><00:17:30.419><c> incorrectly</c><00:17:31.020><c> be</c><00:17:31.200><c> predicted</c><00:17:31.679><c> to</c>
+
+00:17:31.850 --> 00:17:31.860 align:start position:0%
+will instead incorrectly be predicted to
+ 
+
+00:17:31.860 --> 00:17:33.289 align:start position:0%
+will instead incorrectly be predicted to
+be<00:17:31.980><c> healthy</c>
+
+00:17:33.289 --> 00:17:33.299 align:start position:0%
+be healthy
+ 
+
+00:17:33.299 --> 00:17:37.190 align:start position:0%
+be healthy
+the<00:17:33.900><c> car</c><00:17:34.140><c> might</c><00:17:34.559><c> also</c><00:17:34.860><c> look</c><00:17:35.100><c> like</c><00:17:35.520><c> this</c>
+
+00:17:37.190 --> 00:17:37.200 align:start position:0%
+the car might also look like this
+ 
+
+00:17:37.200 --> 00:17:39.409 align:start position:0%
+the car might also look like this
+where<00:17:37.860><c> all</c><00:17:38.100><c> the</c><00:17:38.220><c> healthy</c><00:17:38.520><c> individuals</c><00:17:39.059><c> will</c>
+
+00:17:39.409 --> 00:17:39.419 align:start position:0%
+where all the healthy individuals will
+ 
+
+00:17:39.419 --> 00:17:41.270 align:start position:0%
+where all the healthy individuals will
+now<00:17:39.600><c> be</c><00:17:39.840><c> incorrectly</c><00:17:40.320><c> predicted</c><00:17:40.799><c> to</c><00:17:41.160><c> have</c>
+
+00:17:41.270 --> 00:17:41.280 align:start position:0%
+now be incorrectly predicted to have
+ 
+
+00:17:41.280 --> 00:17:43.610 align:start position:0%
+now be incorrectly predicted to have
+prostate<00:17:41.700><c> cancer</c>
+
+00:17:43.610 --> 00:17:43.620 align:start position:0%
+prostate cancer
+ 
+
+00:17:43.620 --> 00:17:45.950 align:start position:0%
+prostate cancer
+what<00:17:44.100><c> we</c><00:17:44.280><c> want</c><00:17:44.460><c> is</c><00:17:44.820><c> a</c><00:17:45.000><c> car</c><00:17:45.179><c> that</c><00:17:45.539><c> looks</c><00:17:45.840><c> like</c>
+
+00:17:45.950 --> 00:17:45.960 align:start position:0%
+what we want is a car that looks like
+ 
+
+00:17:45.960 --> 00:17:47.150 align:start position:0%
+what we want is a car that looks like
+this
+
+00:17:47.150 --> 00:17:47.160 align:start position:0%
+this
+ 
+
+00:17:47.160 --> 00:17:49.250 align:start position:0%
+this
+this<00:17:47.520><c> is</c><00:17:47.760><c> where</c><00:17:48.000><c> the</c><00:17:48.179><c> hidden</c><00:17:48.480><c> layer</c><00:17:48.780><c> comes</c><00:17:49.200><c> in</c>
+
+00:17:49.250 --> 00:17:49.260 align:start position:0%
+this is where the hidden layer comes in
+ 
+
+00:17:49.260 --> 00:17:52.010 align:start position:0%
+this is where the hidden layer comes in
+because<00:17:49.980><c> a</c><00:17:50.340><c> neural</c><00:17:50.640><c> network</c><00:17:50.820><c> with</c><00:17:51.480><c> one</c><00:17:51.780><c> or</c>
+
+00:17:52.010 --> 00:17:52.020 align:start position:0%
+because a neural network with one or
+ 
+
+00:17:52.020 --> 00:17:54.529 align:start position:0%
+because a neural network with one or
+several<00:17:52.320><c> hidden</c><00:17:52.679><c> layers</c><00:17:53.039><c> can</c><00:17:53.700><c> generate</c><00:17:54.120><c> cool</c>
+
+00:17:54.529 --> 00:17:54.539 align:start position:0%
+several hidden layers can generate cool
+ 
+
+00:17:54.539 --> 00:17:56.930 align:start position:0%
+several hidden layers can generate cool
+curves<00:17:55.080><c> like</c><00:17:55.380><c> this</c>
+
+00:17:56.930 --> 00:17:56.940 align:start position:0%
+curves like this
+ 
+
+00:17:56.940 --> 00:17:59.029 align:start position:0%
+curves like this
+we'll<00:17:57.419><c> here</c><00:17:57.660><c> extend</c><00:17:58.140><c> our</c><00:17:58.500><c> previous</c><00:17:58.679><c> network</c>
+
+00:17:59.029 --> 00:17:59.039 align:start position:0%
+we'll here extend our previous network
+ 
+
+00:17:59.039 --> 00:18:02.630 align:start position:0%
+we'll here extend our previous network
+with<00:17:59.580><c> one</c><00:17:59.820><c> hidden</c><00:18:00.419><c> layer</c>
+
+00:18:02.630 --> 00:18:02.640 align:start position:0%
+with one hidden layer
+ 
+
+00:18:02.640 --> 00:18:04.610 align:start position:0%
+with one hidden layer
+if<00:18:03.059><c> you</c><00:18:03.179><c> train</c><00:18:03.360><c> this</c><00:18:03.660><c> network</c>
+
+00:18:04.610 --> 00:18:04.620 align:start position:0%
+if you train this network
+ 
+
+00:18:04.620 --> 00:18:07.130 align:start position:0%
+if you train this network
+on<00:18:05.100><c> the</c><00:18:05.280><c> following</c><00:18:05.580><c> data</c>
+
+00:18:07.130 --> 00:18:07.140 align:start position:0%
+on the following data
+ 
+
+00:18:07.140 --> 00:18:09.470 align:start position:0%
+on the following data
+will<00:18:07.620><c> obtain</c><00:18:08.039><c> the</c><00:18:08.220><c> following</c><00:18:08.520><c> values</c><00:18:09.000><c> or</c><00:18:09.299><c> the</c>
+
+00:18:09.470 --> 00:18:09.480 align:start position:0%
+will obtain the following values or the
+ 
+
+00:18:09.480 --> 00:18:10.789 align:start position:0%
+will obtain the following values or the
+weights
+
+00:18:10.789 --> 00:18:10.799 align:start position:0%
+weights
+ 
+
+00:18:10.799 --> 00:18:13.370 align:start position:0%
+weights
+node<00:18:11.460><c> if</c><00:18:12.000><c> you</c><00:18:12.059><c> try</c><00:18:12.240><c> to</c><00:18:12.360><c> compute</c><00:18:12.780><c> the</c><00:18:12.960><c> neural</c>
+
+00:18:13.370 --> 00:18:13.380 align:start position:0%
+node if you try to compute the neural
+ 
+
+00:18:13.380 --> 00:18:16.250 align:start position:0%
+node if you try to compute the neural
+network<00:18:13.559><c> on</c><00:18:14.340><c> the</c><00:18:14.460><c> same</c><00:18:14.640><c> data</c><00:18:15.059><c> you</c><00:18:15.720><c> will</c><00:18:15.900><c> end</c><00:18:16.140><c> up</c>
+
+00:18:16.250 --> 00:18:16.260 align:start position:0%
+network on the same data you will end up
+ 
+
+00:18:16.260 --> 00:18:17.930 align:start position:0%
+network on the same data you will end up
+with<00:18:16.559><c> different</c><00:18:16.740><c> values</c><00:18:17.220><c> compared</c><00:18:17.640><c> to</c><00:18:17.760><c> the</c>
+
+00:18:17.930 --> 00:18:17.940 align:start position:0%
+with different values compared to the
+ 
+
+00:18:17.940 --> 00:18:20.210 align:start position:0%
+with different values compared to the
+one<00:18:18.120><c> shown</c><00:18:18.419><c> here</c><00:18:18.720><c> because</c><00:18:19.559><c> you</c><00:18:19.860><c> will</c><00:18:20.039><c> probably</c>
+
+00:18:20.210 --> 00:18:20.220 align:start position:0%
+one shown here because you will probably
+ 
+
+00:18:20.220 --> 00:18:23.450 align:start position:0%
+one shown here because you will probably
+end<00:18:20.580><c> up</c><00:18:20.820><c> on</c><00:18:21.299><c> a</c><00:18:21.419><c> different</c><00:18:21.600><c> local</c><00:18:21.900><c> minimum</c><00:18:22.919><c> to</c>
+
+00:18:23.450 --> 00:18:23.460 align:start position:0%
+end up on a different local minimum to
+ 
+
+00:18:23.460 --> 00:18:25.310 align:start position:0%
+end up on a different local minimum to
+understand<00:18:23.640><c> the</c><00:18:24.059><c> calculations</c><00:18:24.480><c> behind</c><00:18:25.080><c> this</c>
+
+00:18:25.310 --> 00:18:25.320 align:start position:0%
+understand the calculations behind this
+ 
+
+00:18:25.320 --> 00:18:27.950 align:start position:0%
+understand the calculations behind this
+neural<00:18:25.679><c> network</c><00:18:25.940><c> let's</c><00:18:26.940><c> see</c><00:18:27.179><c> how</c><00:18:27.360><c> it</c><00:18:27.539><c> predicts</c>
+
+00:18:27.950 --> 00:18:27.960 align:start position:0%
+neural network let's see how it predicts
+ 
+
+00:18:27.960 --> 00:18:31.610 align:start position:0%
+neural network let's see how it predicts
+a<00:18:28.080><c> person</c><00:18:28.320><c> with</c><00:18:28.679><c> a</c><00:18:28.860><c> value</c><00:18:29.039><c> of</c><00:18:29.340><c> 3</c><00:18:29.580><c> or</c><00:18:29.940><c> protein</c><00:18:30.360><c> X</c>
+
+00:18:31.610 --> 00:18:31.620 align:start position:0%
+a person with a value of 3 or protein X
+ 
+
+00:18:31.620 --> 00:18:34.130 align:start position:0%
+a person with a value of 3 or protein X
+the<00:18:32.100><c> value</c><00:18:32.220><c> of</c><00:18:32.460><c> this</c><00:18:32.640><c> node</c>
+
+00:18:34.130 --> 00:18:34.140 align:start position:0%
+the value of this node
+ 
+
+00:18:34.140 --> 00:18:36.650 align:start position:0%
+the value of this node
+can<00:18:34.620><c> be</c><00:18:34.799><c> calculated</c><00:18:35.220><c> like</c><00:18:35.700><c> this</c>
+
+00:18:36.650 --> 00:18:36.660 align:start position:0%
+can be calculated like this
+ 
+
+00:18:36.660 --> 00:18:38.810 align:start position:0%
+can be calculated like this
+which<00:18:37.260><c> results</c><00:18:37.500><c> in</c><00:18:37.980><c> a</c><00:18:38.160><c> value</c><00:18:38.280><c> that</c><00:18:38.700><c> is</c>
+
+00:18:38.810 --> 00:18:38.820 align:start position:0%
+which results in a value that is
+ 
+
+00:18:38.820 --> 00:18:41.990 align:start position:0%
+which results in a value that is
+approximately<00:18:39.480><c> equal</c><00:18:39.840><c> to</c><00:18:40.200><c> one</c>
+
+00:18:41.990 --> 00:18:42.000 align:start position:0%
+approximately equal to one
+ 
+
+00:18:42.000 --> 00:18:45.169 align:start position:0%
+approximately equal to one
+let's<00:18:42.480><c> set</c><00:18:42.720><c> the</c><00:18:42.900><c> value</c><00:18:43.080><c> of</c><00:18:43.320><c> this</c><00:18:43.440><c> node</c><00:18:43.740><c> to</c><00:18:44.039><c> 1.</c>
+
+00:18:45.169 --> 00:18:45.179 align:start position:0%
+let's set the value of this node to 1.
+ 
+
+00:18:45.179 --> 00:18:47.510 align:start position:0%
+let's set the value of this node to 1.
+the<00:18:45.660><c> corresponding</c><00:18:46.200><c> value</c><00:18:46.440><c> of</c><00:18:46.799><c> this</c><00:18:46.919><c> node</c><00:18:47.220><c> is</c>
+
+00:18:47.510 --> 00:18:47.520 align:start position:0%
+the corresponding value of this node is
+ 
+
+00:18:47.520 --> 00:18:50.990 align:start position:0%
+the corresponding value of this node is
+0.869
+
+00:18:50.990 --> 00:18:51.000 align:start position:0%
+ 
+ 
+
+00:18:51.000 --> 00:18:53.210 align:start position:0%
+ 
+the<00:18:51.539><c> value</c><00:18:51.720><c> of</c><00:18:52.020><c> this</c><00:18:52.200><c> output</c><00:18:52.500><c> node</c><00:18:52.860><c> is</c>
+
+00:18:53.210 --> 00:18:53.220 align:start position:0%
+the value of this output node is
+ 
+
+00:18:53.220 --> 00:18:55.549 align:start position:0%
+the value of this output node is
+calculated<00:18:53.700><c> based</c><00:18:54.240><c> on</c>
+
+00:18:55.549 --> 00:18:55.559 align:start position:0%
+calculated based on
+ 
+
+00:18:55.559 --> 00:18:57.590 align:start position:0%
+calculated based on
+the<00:18:56.160><c> bias</c>
+
+00:18:57.590 --> 00:18:57.600 align:start position:0%
+the bias
+ 
+
+00:18:57.600 --> 00:19:00.950 align:start position:0%
+the bias
+and<00:18:58.260><c> the</c><00:18:58.380><c> sum</c><00:18:58.620><c> of</c><00:18:59.520><c> the</c><00:18:59.700><c> weight</c><00:18:59.880><c> multiplied</c><00:19:00.600><c> by</c>
+
+00:19:00.950 --> 00:19:00.960 align:start position:0%
+and the sum of the weight multiplied by
+ 
+
+00:19:00.960 --> 00:19:03.350 align:start position:0%
+and the sum of the weight multiplied by
+the<00:19:01.140><c> first</c><00:19:01.260><c> node</c><00:19:01.679><c> in</c><00:19:01.919><c> the</c><00:19:02.100><c> hidden</c><00:19:02.400><c> layer</c>
+
+00:19:03.350 --> 00:19:03.360 align:start position:0%
+the first node in the hidden layer
+ 
+
+00:19:03.360 --> 00:19:05.390 align:start position:0%
+the first node in the hidden layer
+and<00:19:03.840><c> the</c><00:19:03.960><c> way</c><00:19:04.080><c> it</c><00:19:04.200><c> multiplied</c><00:19:04.679><c> by</c><00:19:05.100><c> the</c><00:19:05.280><c> second</c>
+
+00:19:05.390 --> 00:19:05.400 align:start position:0%
+and the way it multiplied by the second
+ 
+
+00:19:05.400 --> 00:19:07.490 align:start position:0%
+and the way it multiplied by the second
+node<00:19:05.820><c> in</c><00:19:06.120><c> Hidden</c><00:19:06.480><c> layer</c>
+
+00:19:07.490 --> 00:19:07.500 align:start position:0%
+node in Hidden layer
+ 
+
+00:19:07.500 --> 00:19:09.590 align:start position:0%
+node in Hidden layer
+which<00:19:07.980><c> results</c><00:19:08.280><c> in</c><00:19:08.700><c> a</c><00:19:08.880><c> value</c><00:19:09.000><c> that</c><00:19:09.360><c> is</c>
+
+00:19:09.590 --> 00:19:09.600 align:start position:0%
+which results in a value that is
+ 
+
+00:19:09.600 --> 00:19:13.909 align:start position:0%
+which results in a value that is
+approximately<00:19:10.140><c> equal</c><00:19:10.440><c> to</c><00:19:10.740><c> one</c>
+
+00:19:13.909 --> 00:19:13.919 align:start position:0%
+ 
+ 
+
+00:19:13.919 --> 00:19:16.430 align:start position:0%
+ 
+similarly<00:19:14.640><c> the</c><00:19:15.120><c> value</c><00:19:15.299><c> of</c><00:19:15.660><c> the</c><00:19:15.780><c> second</c><00:19:15.960><c> output</c>
+
+00:19:16.430 --> 00:19:16.440 align:start position:0%
+similarly the value of the second output
+ 
+
+00:19:16.440 --> 00:19:20.990 align:start position:0%
+similarly the value of the second output
+node<00:19:16.860><c> is</c><00:19:17.340><c> approximately</c><00:19:17.880><c> equal</c><00:19:18.179><c> to</c><00:19:18.419><c> zero</c>
+
+00:19:20.990 --> 00:19:21.000 align:start position:0%
+node is approximately equal to zero
+ 
+
+00:19:21.000 --> 00:19:24.590 align:start position:0%
+node is approximately equal to zero
+if<00:19:21.240><c> the</c><00:19:21.480><c> value</c><00:19:21.660><c> of</c><00:19:22.020><c> the</c><00:19:22.140><c> input</c><00:19:22.440><c> node</c><00:19:22.799><c> is</c><00:19:23.160><c> 3.</c>
+
+00:19:24.590 --> 00:19:24.600 align:start position:0%
+if the value of the input node is 3.
+ 
+
+00:19:24.600 --> 00:19:26.630 align:start position:0%
+if the value of the input node is 3.
+the<00:19:25.080><c> network</c><00:19:25.320><c> will</c><00:19:25.740><c> predict</c><00:19:26.100><c> that</c><00:19:26.280><c> the</c><00:19:26.520><c> person</c>
+
+00:19:26.630 --> 00:19:26.640 align:start position:0%
+the network will predict that the person
+ 
+
+00:19:26.640 --> 00:19:29.870 align:start position:0%
+the network will predict that the person
+has<00:19:27.000><c> prostate</c><00:19:27.480><c> cancer</c>
+
+00:19:29.870 --> 00:19:29.880 align:start position:0%
+ 
+ 
+
+00:19:29.880 --> 00:19:32.750 align:start position:0%
+ 
+let's<00:19:30.539><c> focus</c><00:19:30.900><c> on</c><00:19:31.200><c> how</c><00:19:31.500><c> this</c><00:19:31.679><c> output</c><00:19:32.039><c> node</c><00:19:32.460><c> is</c>
+
+00:19:32.750 --> 00:19:32.760 align:start position:0%
+let's focus on how this output node is
+ 
+
+00:19:32.760 --> 00:19:33.770 align:start position:0%
+let's focus on how this output node is
+calculated
+
+00:19:33.770 --> 00:19:33.780 align:start position:0%
+calculated
+ 
+
+00:19:33.780 --> 00:19:37.010 align:start position:0%
+calculated
+this<00:19:34.440><c> is</c><00:19:34.500><c> how</c><00:19:34.799><c> this</c><00:19:35.039><c> node</c><00:19:35.340><c> was</c><00:19:35.640><c> calculated</c>
+
+00:19:37.010 --> 00:19:37.020 align:start position:0%
+this is how this node was calculated
+ 
+
+00:19:37.020 --> 00:19:39.169 align:start position:0%
+this is how this node was calculated
+and<00:19:37.500><c> this</c><00:19:37.620><c> is</c><00:19:37.740><c> how</c><00:19:37.980><c> the</c><00:19:38.220><c> values</c><00:19:38.580><c> of</c><00:19:38.820><c> the</c><00:19:39.000><c> nodes</c>
+
+00:19:39.169 --> 00:19:39.179 align:start position:0%
+and this is how the values of the nodes
+ 
+
+00:19:39.179 --> 00:19:42.110 align:start position:0%
+and this is how the values of the nodes
+in<00:19:39.539><c> a</c><00:19:39.720><c> hidden</c><00:19:39.960><c> layer</c><00:19:40.320><c> were</c><00:19:40.679><c> calculated</c>
+
+00:19:42.110 --> 00:19:42.120 align:start position:0%
+in a hidden layer were calculated
+ 
+
+00:19:42.120 --> 00:19:44.990 align:start position:0%
+in a hidden layer were calculated
+let's<00:19:42.720><c> substitute</c><00:19:43.260><c> X1</c><00:19:43.860><c> and</c><00:19:44.160><c> x2</c><00:19:44.580><c> in</c><00:19:44.880><c> the</c>
+
+00:19:44.990 --> 00:19:45.000 align:start position:0%
+let's substitute X1 and x2 in the
+ 
+
+00:19:45.000 --> 00:19:46.549 align:start position:0%
+let's substitute X1 and x2 in the
+equation
+
+00:19:46.549 --> 00:19:46.559 align:start position:0%
+equation
+ 
+
+00:19:46.559 --> 00:19:49.370 align:start position:0%
+equation
+like<00:19:47.160><c> this</c>
+
+00:19:49.370 --> 00:19:49.380 align:start position:0%
+like this
+ 
+
+00:19:49.380 --> 00:19:51.590 align:start position:0%
+like this
+and<00:19:49.860><c> we</c><00:19:50.160><c> plug</c><00:19:50.340><c> in</c><00:19:50.520><c> this</c><00:19:50.760><c> equation</c><00:19:51.120><c> in</c>
+
+00:19:51.590 --> 00:19:51.600 align:start position:0%
+and we plug in this equation in
+ 
+
+00:19:51.600 --> 00:19:54.770 align:start position:0%
+and we plug in this equation in
+activation<00:19:52.080><c> function</c><00:19:52.740><c> here</c>
+
+00:19:54.770 --> 00:19:54.780 align:start position:0%
+activation function here
+ 
+
+00:19:54.780 --> 00:19:56.630 align:start position:0%
+activation function here
+so<00:19:55.140><c> that</c><00:19:55.380><c> we</c><00:19:55.500><c> have</c><00:19:55.679><c> the</c><00:19:55.860><c> following</c><00:19:56.160><c> function</c>
+
+00:19:56.630 --> 00:19:56.640 align:start position:0%
+so that we have the following function
+ 
+
+00:19:56.640 --> 00:19:58.730 align:start position:0%
+so that we have the following function
+that<00:19:57.240><c> can</c><00:19:57.419><c> compute</c><00:19:57.840><c> the</c><00:19:57.960><c> value</c><00:19:58.140><c> of</c><00:19:58.320><c> the</c><00:19:58.440><c> output</c>
+
+00:19:58.730 --> 00:19:58.740 align:start position:0%
+that can compute the value of the output
+ 
+
+00:19:58.740 --> 00:20:02.270 align:start position:0%
+that can compute the value of the output
+node<00:19:59.299><c> based</c><00:20:00.299><c> on</c><00:20:00.419><c> any</c><00:20:00.660><c> input</c><00:20:01.020><c> value</c>
+
+00:20:02.270 --> 00:20:02.280 align:start position:0%
+node based on any input value
+ 
+
+00:20:02.280 --> 00:20:04.970 align:start position:0%
+node based on any input value
+let's<00:20:02.760><c> move</c><00:20:03.000><c> the</c><00:20:03.299><c> function</c><00:20:03.600><c> up</c><00:20:04.140><c> here</c>
+
+00:20:04.970 --> 00:20:04.980 align:start position:0%
+let's move the function up here
+ 
+
+00:20:04.980 --> 00:20:06.830 align:start position:0%
+let's move the function up here
+if<00:20:05.520><c> you</c><00:20:05.580><c> now</c><00:20:05.760><c> calculate</c><00:20:06.240><c> the</c><00:20:06.360><c> value</c><00:20:06.480><c> of</c><00:20:06.720><c> the</c>
+
+00:20:06.830 --> 00:20:06.840 align:start position:0%
+if you now calculate the value of the
+ 
+
+00:20:06.840 --> 00:20:08.330 align:start position:0%
+if you now calculate the value of the
+function<00:20:07.080><c> based</c><00:20:07.559><c> on</c><00:20:07.679><c> a</c><00:20:07.799><c> range</c><00:20:08.039><c> of</c><00:20:08.160><c> different</c>
+
+00:20:08.330 --> 00:20:08.340 align:start position:0%
+function based on a range of different
+ 
+
+00:20:08.340 --> 00:20:12.110 align:start position:0%
+function based on a range of different
+values<00:20:08.820><c> of</c><00:20:09.059><c> X</c><00:20:09.299><c> between</c><00:20:10.020><c> 0</c><00:20:10.440><c> and</c><00:20:10.860><c> 4.</c><00:20:11.400><c> we</c><00:20:11.820><c> will</c><00:20:12.000><c> be</c>
+
+00:20:12.110 --> 00:20:12.120 align:start position:0%
+values of X between 0 and 4. we will be
+ 
+
+00:20:12.120 --> 00:20:14.630 align:start position:0%
+values of X between 0 and 4. we will be
+able<00:20:12.480><c> to</c><00:20:12.840><c> generate</c><00:20:13.260><c> a</c><00:20:13.500><c> curve</c><00:20:13.799><c> with</c><00:20:14.039><c> this</c><00:20:14.220><c> shape</c>
+
+00:20:14.630 --> 00:20:14.640 align:start position:0%
+able to generate a curve with this shape
+ 
+
+00:20:14.640 --> 00:20:17.990 align:start position:0%
+able to generate a curve with this shape
+which<00:20:15.360><c> predicts</c><00:20:15.900><c> with</c><00:20:16.080><c> 100</c><00:20:16.380><c> accuracy</c>
+
+00:20:17.990 --> 00:20:18.000 align:start position:0%
+which predicts with 100 accuracy
+ 
+
+00:20:18.000 --> 00:20:20.029 align:start position:0%
+which predicts with 100 accuracy
+because<00:20:18.360><c> all</c><00:20:18.780><c> individuals</c><00:20:19.380><c> with</c><00:20:19.620><c> prostate</c>
+
+00:20:20.029 --> 00:20:20.039 align:start position:0%
+because all individuals with prostate
+ 
+
+00:20:20.039 --> 00:20:22.669 align:start position:0%
+because all individuals with prostate
+cancer<00:20:20.340><c> will</c><00:20:21.120><c> get</c><00:20:21.299><c> a</c><00:20:21.539><c> value</c><00:20:21.780><c> of</c><00:20:22.140><c> approximately</c>
+
+00:20:22.669 --> 00:20:22.679 align:start position:0%
+cancer will get a value of approximately
+ 
+
+00:20:22.679 --> 00:20:24.950 align:start position:0%
+cancer will get a value of approximately
+one<00:20:23.100><c> and</c><00:20:23.940><c> will</c><00:20:24.120><c> therefore</c><00:20:24.419><c> be</c><00:20:24.600><c> correctly</c>
+
+00:20:24.950 --> 00:20:24.960 align:start position:0%
+one and will therefore be correctly
+ 
+
+00:20:24.960 --> 00:20:27.110 align:start position:0%
+one and will therefore be correctly
+predicted<00:20:25.380><c> to</c><00:20:25.559><c> have</c><00:20:25.740><c> prostate</c><00:20:26.220><c> cancer</c>
+
+00:20:27.110 --> 00:20:27.120 align:start position:0%
+predicted to have prostate cancer
+ 
+
+00:20:27.120 --> 00:20:29.630 align:start position:0%
+predicted to have prostate cancer
+whereas<00:20:27.780><c> all</c><00:20:27.900><c> the</c><00:20:28.080><c> healthy</c><00:20:28.380><c> individuals</c><00:20:28.980><c> will</c>
+
+00:20:29.630 --> 00:20:29.640 align:start position:0%
+whereas all the healthy individuals will
+ 
+
+00:20:29.640 --> 00:20:31.909 align:start position:0%
+whereas all the healthy individuals will
+get<00:20:29.880><c> a</c><00:20:30.240><c> predicted</c><00:20:30.660><c> value</c><00:20:30.900><c> of</c><00:20:31.380><c> approximately</c>
+
+00:20:31.909 --> 00:20:31.919 align:start position:0%
+get a predicted value of approximately
+ 
+
+00:20:31.919 --> 00:20:34.909 align:start position:0%
+get a predicted value of approximately
+zero<00:20:32.940><c> which</c><00:20:33.419><c> will</c><00:20:33.660><c> result</c><00:20:33.900><c> in</c><00:20:34.380><c> that</c><00:20:34.559><c> they</c><00:20:34.740><c> are</c>
+
+00:20:34.909 --> 00:20:34.919 align:start position:0%
+zero which will result in that they are
+ 
+
+00:20:34.919 --> 00:20:37.789 align:start position:0%
+zero which will result in that they are
+correctly<00:20:35.280><c> predicted</c><00:20:35.760><c> to</c><00:20:36.000><c> be</c><00:20:36.179><c> healthy</c>
+
+00:20:37.789 --> 00:20:37.799 align:start position:0%
+correctly predicted to be healthy
+ 
+
+00:20:37.799 --> 00:20:40.130 align:start position:0%
+correctly predicted to be healthy
+similarly<00:20:38.580><c> the</c><00:20:38.940><c> corresponding</c><00:20:39.480><c> function</c><00:20:39.840><c> of</c>
+
+00:20:40.130 --> 00:20:40.140 align:start position:0%
+similarly the corresponding function of
+ 
+
+00:20:40.140 --> 00:20:41.570 align:start position:0%
+similarly the corresponding function of
+this<00:20:40.320><c> output</c><00:20:40.679><c> node</c>
+
+00:20:41.570 --> 00:20:41.580 align:start position:0%
+this output node
+ 
+
+00:20:41.580 --> 00:20:44.210 align:start position:0%
+this output node
+will<00:20:42.000><c> generate</c><00:20:42.419><c> the</c><00:20:42.660><c> opposite</c><00:20:43.140><c> curve</c>
+
+00:20:44.210 --> 00:20:44.220 align:start position:0%
+will generate the opposite curve
+ 
+
+00:20:44.220 --> 00:20:46.669 align:start position:0%
+will generate the opposite curve
+this<00:20:44.880><c> is</c><00:20:45.000><c> the</c><00:20:45.179><c> magical</c><00:20:45.480><c> stuff</c><00:20:45.780><c> behind</c><00:20:46.260><c> neural</c>
+
+00:20:46.669 --> 00:20:46.679 align:start position:0%
+this is the magical stuff behind neural
+ 
+
+00:20:46.679 --> 00:20:49.010 align:start position:0%
+this is the magical stuff behind neural
+networks<00:20:47.160><c> they</c><00:20:47.940><c> can</c><00:20:48.059><c> help</c><00:20:48.240><c> us</c><00:20:48.419><c> to</c><00:20:48.660><c> generate</c>
+
+00:20:49.010 --> 00:20:49.020 align:start position:0%
+networks they can help us to generate
+ 
+
+00:20:49.020 --> 00:20:51.289 align:start position:0%
+networks they can help us to generate
+non-linear<00:20:49.620><c> functions</c><00:20:50.100><c> that</c><00:20:50.760><c> can</c><00:20:50.940><c> fit</c><00:20:51.120><c> to</c>
+
+00:20:51.289 --> 00:20:51.299 align:start position:0%
+non-linear functions that can fit to
+ 
+
+00:20:51.299 --> 00:20:53.930 align:start position:0%
+non-linear functions that can fit to
+almost<00:20:51.539><c> any</c><00:20:51.840><c> data</c><00:20:52.320><c> that</c><00:20:52.799><c> seems</c><00:20:53.100><c> impossible</c><00:20:53.640><c> to</c>
+
+00:20:53.930 --> 00:20:53.940 align:start position:0%
+almost any data that seems impossible to
+ 
+
+00:20:53.940 --> 00:20:57.230 align:start position:0%
+almost any data that seems impossible to
+do<00:20:54.059><c> with</c><00:20:54.419><c> standard</c><00:20:54.900><c> statistical</c><00:20:55.380><c> methods</c>
+
+00:20:57.230 --> 00:20:57.240 align:start position:0%
+do with standard statistical methods
+ 
+
+00:20:57.240 --> 00:20:59.810 align:start position:0%
+do with standard statistical methods
+we'll<00:20:57.720><c> now</c><00:20:57.900><c> discuss</c><00:20:58.260><c> a</c><00:20:58.620><c> few</c><00:20:58.740><c> similarities</c><00:20:59.340><c> and</c>
+
+00:20:59.810 --> 00:20:59.820 align:start position:0%
+we'll now discuss a few similarities and
+ 
+
+00:20:59.820 --> 00:21:02.450 align:start position:0%
+we'll now discuss a few similarities and
+differences<00:21:00.299><c> between</c><00:21:00.840><c> neural</c><00:21:01.380><c> networks</c><00:21:01.919><c> and</c>
+
+00:21:02.450 --> 00:21:02.460 align:start position:0%
+differences between neural networks and
+ 
+
+00:21:02.460 --> 00:21:05.150 align:start position:0%
+differences between neural networks and
+standard<00:21:02.880><c> statistical</c><00:21:03.480><c> models</c><00:21:04.080><c> such</c><00:21:04.799><c> as</c><00:21:04.919><c> the</c>
+
+00:21:05.150 --> 00:21:05.160 align:start position:0%
+standard statistical models such as the
+ 
+
+00:21:05.160 --> 00:21:07.190 align:start position:0%
+standard statistical models such as the
+logistic<00:21:05.520><c> regression</c><00:21:06.059><c> model</c>
+
+00:21:07.190 --> 00:21:07.200 align:start position:0%
+logistic regression model
+ 
+
+00:21:07.200 --> 00:21:09.890 align:start position:0%
+logistic regression model
+the<00:21:07.620><c> input</c><00:21:07.980><c> in</c><00:21:08.280><c> neural</c><00:21:08.700><c> Nets</c><00:21:09.059><c> is</c><00:21:09.600><c> usually</c>
+
+00:21:09.890 --> 00:21:09.900 align:start position:0%
+the input in neural Nets is usually
+ 
+
+00:21:09.900 --> 00:21:12.289 align:start position:0%
+the input in neural Nets is usually
+called<00:21:10.200><c> a</c><00:21:10.500><c> predictor</c><00:21:11.039><c> or</c><00:21:11.520><c> explanatory</c>
+
+00:21:12.289 --> 00:21:12.299 align:start position:0%
+called a predictor or explanatory
+ 
+
+00:21:12.299 --> 00:21:14.750 align:start position:0%
+called a predictor or explanatory
+variable<00:21:12.600><c> in</c><00:21:12.960><c> logistic</c><00:21:13.500><c> regression</c>
+
+00:21:14.750 --> 00:21:14.760 align:start position:0%
+variable in logistic regression
+ 
+
+00:21:14.760 --> 00:21:17.450 align:start position:0%
+variable in logistic regression
+the<00:21:15.360><c> output</c><00:21:15.720><c> in</c><00:21:16.080><c> neural</c><00:21:16.440><c> Nets</c><00:21:16.860><c> is</c><00:21:17.220><c> usually</c>
+
+00:21:17.450 --> 00:21:17.460 align:start position:0%
+the output in neural Nets is usually
+ 
+
+00:21:17.460 --> 00:21:19.549 align:start position:0%
+the output in neural Nets is usually
+called<00:21:17.700><c> the</c><00:21:17.940><c> response</c><00:21:18.360><c> variable</c><00:21:18.720><c> in</c><00:21:19.080><c> logistic</c>
+
+00:21:19.549 --> 00:21:19.559 align:start position:0%
+called the response variable in logistic
+ 
+
+00:21:19.559 --> 00:21:20.990 align:start position:0%
+called the response variable in logistic
+regression
+
+00:21:20.990 --> 00:21:21.000 align:start position:0%
+regression
+ 
+
+00:21:21.000 --> 00:21:23.270 align:start position:0%
+regression
+the<00:21:21.480><c> weights</c><00:21:21.840><c> in</c><00:21:22.020><c> neural</c><00:21:22.380><c> networks</c><00:21:22.860><c> are</c>
+
+00:21:23.270 --> 00:21:23.280 align:start position:0%
+the weights in neural networks are
+ 
+
+00:21:23.280 --> 00:21:25.130 align:start position:0%
+the weights in neural networks are
+usually<00:21:23.580><c> called</c><00:21:23.820><c> coefficients</c><00:21:24.720><c> or</c>
+
+00:21:25.130 --> 00:21:25.140 align:start position:0%
+usually called coefficients or
+ 
+
+00:21:25.140 --> 00:21:28.669 align:start position:0%
+usually called coefficients or
+parameters<00:21:25.799><c> in</c><00:21:26.160><c> logistic</c><00:21:26.640><c> regression</c>
+
+00:21:28.669 --> 00:21:28.679 align:start position:0%
+parameters in logistic regression
+ 
+
+00:21:28.679 --> 00:21:31.430 align:start position:0%
+parameters in logistic regression
+The<00:21:29.159><c> Intercept</c><00:21:29.640><c> in</c><00:21:29.940><c> regression</c><00:21:30.539><c> corresponds</c>
+
+00:21:31.430 --> 00:21:31.440 align:start position:0%
+The Intercept in regression corresponds
+ 
+
+00:21:31.440 --> 00:21:33.770 align:start position:0%
+The Intercept in regression corresponds
+to<00:21:31.679><c> the</c><00:21:31.860><c> bias</c>
+
+00:21:33.770 --> 00:21:33.780 align:start position:0%
+to the bias
+ 
+
+00:21:33.780 --> 00:21:36.169 align:start position:0%
+to the bias
+we<00:21:34.200><c> usually</c><00:21:34.559><c> say</c><00:21:34.740><c> that</c><00:21:35.039><c> we</c><00:21:35.220><c> train</c><00:21:35.520><c> the</c><00:21:35.760><c> neural</c>
+
+00:21:36.169 --> 00:21:36.179 align:start position:0%
+we usually say that we train the neural
+ 
+
+00:21:36.179 --> 00:21:38.390 align:start position:0%
+we usually say that we train the neural
+network<00:21:36.440><c> whereas</c><00:21:37.440><c> the</c><00:21:37.620><c> corresponding</c><00:21:38.159><c> thing</c>
+
+00:21:38.390 --> 00:21:38.400 align:start position:0%
+network whereas the corresponding thing
+ 
+
+00:21:38.400 --> 00:21:40.850 align:start position:0%
+network whereas the corresponding thing
+in<00:21:38.640><c> regression</c><00:21:39.179><c> is</c><00:21:39.539><c> called</c><00:21:39.780><c> that</c><00:21:40.260><c> we</c><00:21:40.380><c> fit</c><00:21:40.679><c> them</c>
+
+00:21:40.850 --> 00:21:40.860 align:start position:0%
+in regression is called that we fit them
+ 
+
+00:21:40.860 --> 00:21:43.190 align:start position:0%
+in regression is called that we fit them
+all<00:21:41.039><c> to</c><00:21:41.280><c> the</c><00:21:41.460><c> data</c><00:21:41.820><c> would</c><00:21:42.480><c> that</c><00:21:42.659><c> be</c><00:21:42.840><c> estimate</c>
+
+00:21:43.190 --> 00:21:43.200 align:start position:0%
+all to the data would that be estimate
+ 
+
+00:21:43.200 --> 00:21:46.250 align:start position:0%
+all to the data would that be estimate
+the<00:21:43.380><c> parameters</c><00:21:43.919><c> in</c><00:21:44.280><c> the</c><00:21:44.460><c> model</c>
+
+00:21:46.250 --> 00:21:46.260 align:start position:0%
+the parameters in the model
+ 
+
+00:21:46.260 --> 00:21:48.770 align:start position:0%
+the parameters in the model
+the<00:21:46.860><c> parameters</c><00:21:47.400><c> in</c><00:21:47.760><c> regression</c><00:21:48.360><c> are</c>
+
+00:21:48.770 --> 00:21:48.780 align:start position:0%
+the parameters in regression are
+ 
+
+00:21:48.780 --> 00:21:50.870 align:start position:0%
+the parameters in regression are
+estimated<00:21:49.260><c> by</c><00:21:49.559><c> minimizing</c><00:21:50.100><c> some</c><00:21:50.460><c> error</c>
+
+00:21:50.870 --> 00:21:50.880 align:start position:0%
+estimated by minimizing some error
+ 
+
+00:21:50.880 --> 00:21:53.330 align:start position:0%
+estimated by minimizing some error
+function<00:21:51.659><c> such</c><00:21:52.080><c> as</c><00:21:52.200><c> the</c><00:21:52.380><c> sum</c><00:21:52.559><c> of</c><00:21:52.740><c> squares</c><00:21:53.100><c> in</c>
+
+00:21:53.330 --> 00:21:53.340 align:start position:0%
+function such as the sum of squares in
+ 
+
+00:21:53.340 --> 00:21:54.770 align:start position:0%
+function such as the sum of squares in
+regression
+
+00:21:54.770 --> 00:21:54.780 align:start position:0%
+regression
+ 
+
+00:21:54.780 --> 00:21:57.110 align:start position:0%
+regression
+whereas<00:21:55.500><c> the</c><00:21:55.620><c> corresponding</c><00:21:56.159><c> thing</c><00:21:56.400><c> is</c>
+
+00:21:57.110 --> 00:21:57.120 align:start position:0%
+whereas the corresponding thing is
+ 
+
+00:21:57.120 --> 00:22:00.110 align:start position:0%
+whereas the corresponding thing is
+called<00:21:57.299><c> back</c><00:21:57.539><c> propagation</c><00:21:58.260><c> in</c><00:21:58.679><c> neural</c><00:21:59.039><c> Nets</c>
+
+00:22:00.110 --> 00:22:00.120 align:start position:0%
+called back propagation in neural Nets
+ 
+
+00:22:00.120 --> 00:22:02.570 align:start position:0%
+called back propagation in neural Nets
+because<00:22:00.539><c> we</c><00:22:00.840><c> randomly</c><00:22:01.380><c> assign</c><00:22:01.860><c> the</c><00:22:02.100><c> weights</c>
+
+00:22:02.570 --> 00:22:02.580 align:start position:0%
+because we randomly assign the weights
+ 
+
+00:22:02.580 --> 00:22:04.970 align:start position:0%
+because we randomly assign the weights
+with<00:22:02.940><c> some</c><00:22:03.179><c> numbers</c>
+
+00:22:04.970 --> 00:22:04.980 align:start position:0%
+with some numbers
+ 
+
+00:22:04.980 --> 00:22:06.710 align:start position:0%
+with some numbers
+then<00:22:05.400><c> we</c><00:22:05.640><c> see</c><00:22:05.820><c> how</c><00:22:06.120><c> well</c><00:22:06.299><c> the</c><00:22:06.480><c> network</c>
+
+00:22:06.710 --> 00:22:06.720 align:start position:0%
+then we see how well the network
+ 
+
+00:22:06.720 --> 00:22:09.289 align:start position:0%
+then we see how well the network
+predicts<00:22:07.500><c> the</c><00:22:07.620><c> training</c><00:22:07.980><c> data</c>
+
+00:22:09.289 --> 00:22:09.299 align:start position:0%
+predicts the training data
+ 
+
+00:22:09.299 --> 00:22:12.770 align:start position:0%
+predicts the training data
+then<00:22:09.720><c> we</c><00:22:09.900><c> go</c><00:22:10.080><c> back</c><00:22:10.260><c> to</c><00:22:10.559><c> update</c><00:22:10.919><c> the</c><00:22:11.159><c> values</c>
+
+00:22:12.770 --> 00:22:12.780 align:start position:0%
+then we go back to update the values
+ 
+
+00:22:12.780 --> 00:22:15.049 align:start position:0%
+then we go back to update the values
+so<00:22:13.140><c> that</c><00:22:13.260><c> we</c><00:22:13.440><c> improve</c><00:22:13.799><c> the</c><00:22:13.980><c> prediction</c>
+
+00:22:15.049 --> 00:22:15.059 align:start position:0%
+so that we improve the prediction
+ 
+
+00:22:15.059 --> 00:22:17.450 align:start position:0%
+so that we improve the prediction
+this<00:22:15.539><c> is</c><00:22:15.659><c> iterated</c><00:22:16.260><c> until</c><00:22:16.620><c> we</c><00:22:16.980><c> reach</c><00:22:17.220><c> some</c>
+
+00:22:17.450 --> 00:22:17.460 align:start position:0%
+this is iterated until we reach some
+ 
+
+00:22:17.460 --> 00:22:19.970 align:start position:0%
+this is iterated until we reach some
+convergence<00:22:18.179><c> where</c><00:22:18.960><c> the</c><00:22:19.200><c> network</c><00:22:19.320><c> can</c><00:22:19.799><c> no</c>
+
+00:22:19.970 --> 00:22:19.980 align:start position:0%
+convergence where the network can no
+ 
+
+00:22:19.980 --> 00:22:21.770 align:start position:0%
+convergence where the network can no
+longer<00:22:20.220><c> improve</c><00:22:20.580><c> the</c><00:22:20.760><c> predictions</c><00:22:21.179><c> based</c><00:22:21.659><c> on</c>
+
+00:22:21.770 --> 00:22:21.780 align:start position:0%
+longer improve the predictions based on
+ 
+
+00:22:21.780 --> 00:22:24.409 align:start position:0%
+longer improve the predictions based on
+the<00:22:21.900><c> training</c><00:22:22.260><c> data</c>
+
+00:22:24.409 --> 00:22:24.419 align:start position:0%
+the training data
+ 
+
+00:22:24.419 --> 00:22:27.110 align:start position:0%
+the training data
+the<00:22:24.960><c> parameters</c><00:22:25.500><c> in</c><00:22:25.799><c> regression</c><00:22:26.400><c> usually</c>
+
+00:22:27.110 --> 00:22:27.120 align:start position:0%
+the parameters in regression usually
+ 
+
+00:22:27.120 --> 00:22:29.210 align:start position:0%
+the parameters in regression usually
+have<00:22:27.480><c> a</c><00:22:27.780><c> meaning</c><00:22:27.960><c> that</c><00:22:28.380><c> we</c><00:22:28.559><c> can</c><00:22:28.679><c> interpret</c>
+
+00:22:29.210 --> 00:22:29.220 align:start position:0%
+have a meaning that we can interpret
+ 
+
+00:22:29.220 --> 00:22:31.549 align:start position:0%
+have a meaning that we can interpret
+such<00:22:29.940><c> as</c><00:22:30.120><c> the</c><00:22:30.299><c> odds</c><00:22:30.659><c> ratio</c><00:22:31.020><c> in</c><00:22:31.200><c> the</c><00:22:31.380><c> district</c>
+
+00:22:31.549 --> 00:22:31.559 align:start position:0%
+such as the odds ratio in the district
+ 
+
+00:22:31.559 --> 00:22:32.810 align:start position:0%
+such as the odds ratio in the district
+regression
+
+00:22:32.810 --> 00:22:32.820 align:start position:0%
+regression
+ 
+
+00:22:32.820 --> 00:22:34.909 align:start position:0%
+regression
+whereas<00:22:33.419><c> the</c><00:22:33.539><c> values</c><00:22:33.840><c> of</c><00:22:34.080><c> the</c><00:22:34.260><c> ways</c><00:22:34.559><c> in</c><00:22:34.740><c> the</c>
+
+00:22:34.909 --> 00:22:34.919 align:start position:0%
+whereas the values of the ways in the
+ 
+
+00:22:34.919 --> 00:22:36.770 align:start position:0%
+whereas the values of the ways in the
+neural<00:22:35.220><c> network</c><00:22:35.400><c> usually</c><00:22:36.059><c> have</c><00:22:36.240><c> no</c><00:22:36.480><c> meaning</c>
+
+00:22:36.770 --> 00:22:36.780 align:start position:0%
+neural network usually have no meaning
+ 
+
+00:22:36.780 --> 00:22:39.169 align:start position:0%
+neural network usually have no meaning
+rather<00:22:37.740><c> that</c><00:22:38.100><c> they're</c><00:22:38.280><c> used</c><00:22:38.460><c> to</c><00:22:38.640><c> make</c><00:22:38.820><c> a</c><00:22:39.059><c> good</c>
+
+00:22:39.169 --> 00:22:39.179 align:start position:0%
+rather that they're used to make a good
+ 
+
+00:22:39.179 --> 00:22:40.250 align:start position:0%
+rather that they're used to make a good
+prediction
+
+00:22:40.250 --> 00:22:40.260 align:start position:0%
+prediction
+ 
+
+00:22:40.260 --> 00:22:42.649 align:start position:0%
+prediction
+in<00:22:40.620><c> regression</c><00:22:41.100><c> we</c><00:22:41.700><c> usually</c><00:22:41.940><c> compute</c><00:22:42.419><c> P</c>
+
+00:22:42.649 --> 00:22:42.659 align:start position:0%
+in regression we usually compute P
+ 
+
+00:22:42.659 --> 00:22:44.870 align:start position:0%
+in regression we usually compute P
+values<00:22:43.200><c> that</c><00:22:43.740><c> are</c><00:22:43.980><c> associated</c><00:22:44.340><c> with</c><00:22:44.700><c> the</c>
+
+00:22:44.870 --> 00:22:44.880 align:start position:0%
+values that are associated with the
+ 
+
+00:22:44.880 --> 00:22:47.930 align:start position:0%
+values that are associated with the
+parameters<00:22:45.480><c> which</c><00:22:46.380><c> require</c><00:22:46.740><c> that</c><00:22:47.340><c> to</c><00:22:47.520><c> fulfill</c>
+
+00:22:47.930 --> 00:22:47.940 align:start position:0%
+parameters which require that to fulfill
+ 
+
+00:22:47.940 --> 00:22:50.330 align:start position:0%
+parameters which require that to fulfill
+a<00:22:48.240><c> set</c><00:22:48.419><c> of</c><00:22:48.720><c> assumptions</c>
+
+00:22:50.330 --> 00:22:50.340 align:start position:0%
+a set of assumptions
+ 
+
+00:22:50.340 --> 00:22:52.909 align:start position:0%
+a set of assumptions
+since<00:22:50.940><c> we</c><00:22:51.120><c> use</c><00:22:51.360><c> the</c><00:22:51.480><c> estimated</c><00:22:51.900><c> parameters</c><00:22:52.559><c> to</c>
+
+00:22:52.909 --> 00:22:52.919 align:start position:0%
+since we use the estimated parameters to
+ 
+
+00:22:52.919 --> 00:22:55.310 align:start position:0%
+since we use the estimated parameters to
+interpret<00:22:53.460><c> the</c><00:22:53.640><c> regression</c><00:22:54.059><c> model</c><00:22:54.299><c> we</c><00:22:55.200><c> must</c>
+
+00:22:55.310 --> 00:22:55.320 align:start position:0%
+interpret the regression model we must
+ 
+
+00:22:55.320 --> 00:22:57.590 align:start position:0%
+interpret the regression model we must
+find<00:22:55.500><c> the</c><00:22:55.740><c> global</c><00:22:56.100><c> minimum</c><00:22:56.580><c> of</c><00:22:57.120><c> the</c><00:22:57.299><c> error</c>
+
+00:22:57.590 --> 00:22:57.600 align:start position:0%
+find the global minimum of the error
+ 
+
+00:22:57.600 --> 00:22:58.610 align:start position:0%
+find the global minimum of the error
+function
+
+00:22:58.610 --> 00:22:58.620 align:start position:0%
+function
+ 
+
+00:22:58.620 --> 00:23:01.070 align:start position:0%
+function
+whereas<00:22:59.280><c> this</c><00:22:59.400><c> is</c><00:22:59.640><c> not</c><00:22:59.820><c> crucial</c><00:23:00.179><c> in</c><00:23:00.659><c> neural</c>
+
+00:23:01.070 --> 00:23:01.080 align:start position:0%
+whereas this is not crucial in neural
+ 
+
+00:23:01.080 --> 00:23:03.230 align:start position:0%
+whereas this is not crucial in neural
+networks<00:23:01.500><c> because</c><00:23:02.280><c> the</c><00:23:02.640><c> network</c><00:23:02.820><c> might</c>
+
+00:23:03.230 --> 00:23:03.240 align:start position:0%
+networks because the network might
+ 
+
+00:23:03.240 --> 00:23:05.210 align:start position:0%
+networks because the network might
+predict<00:23:03.600><c> the</c><00:23:03.780><c> outcome</c><00:23:04.080><c> just</c><00:23:04.380><c> fine</c><00:23:04.679><c> even</c>
+
+00:23:05.210 --> 00:23:05.220 align:start position:0%
+predict the outcome just fine even
+ 
+
+00:23:05.220 --> 00:23:09.830 align:start position:0%
+predict the outcome just fine even
+though<00:23:05.520><c> it</c><00:23:06.059><c> has</c><00:23:06.179><c> stopped</c><00:23:06.539><c> on</c><00:23:06.659><c> a</c><00:23:06.780><c> local</c><00:23:06.960><c> minimum</c>
+
+00:23:09.830 --> 00:23:09.840 align:start position:0%
+ 
+ 
+
+00:23:09.840 --> 00:23:11.930 align:start position:0%
+ 
+finally<00:23:10.559><c> we'll</c><00:23:10.799><c> have</c><00:23:10.980><c> a</c><00:23:11.100><c> look</c><00:23:11.220><c> at</c><00:23:11.460><c> some</c><00:23:11.640><c> basic</c>
+
+00:23:11.930 --> 00:23:11.940 align:start position:0%
+finally we'll have a look at some basic
+ 
+
+00:23:11.940 --> 00:23:13.789 align:start position:0%
+finally we'll have a look at some basic
+R<00:23:12.179><c> code</c><00:23:12.419><c> if</c><00:23:12.840><c> you</c><00:23:12.960><c> like</c><00:23:13.080><c> to</c><00:23:13.260><c> reproduce</c><00:23:13.620><c> the</c>
+
+00:23:13.789 --> 00:23:13.799 align:start position:0%
+R code if you like to reproduce the
+ 
+
+00:23:13.799 --> 00:23:15.590 align:start position:0%
+R code if you like to reproduce the
+numbers<00:23:13.980><c> in</c><00:23:14.460><c> this</c><00:23:14.580><c> video</c>
+
+00:23:15.590 --> 00:23:15.600 align:start position:0%
+numbers in this video
+ 
+
+00:23:15.600 --> 00:23:18.169 align:start position:0%
+numbers in this video
+R<00:23:16.140><c> is</c><00:23:16.380><c> a</c><00:23:16.559><c> free</c><00:23:16.679><c> software</c><00:23:17.100><c> tool</c><00:23:17.520><c> that</c><00:23:17.940><c> you</c><00:23:18.059><c> can</c>
+
+00:23:18.169 --> 00:23:18.179 align:start position:0%
+R is a free software tool that you can
+ 
+
+00:23:18.179 --> 00:23:20.330 align:start position:0%
+R is a free software tool that you can
+download<00:23:18.360><c> from</c><00:23:18.780><c> the</c><00:23:18.960><c> following</c><00:23:19.200><c> website</c>
+
+00:23:20.330 --> 00:23:20.340 align:start position:0%
+download from the following website
+ 
+
+00:23:20.340 --> 00:23:22.970 align:start position:0%
+download from the following website
+we<00:23:20.820><c> first</c><00:23:21.000><c> plug</c><00:23:21.240><c> in</c><00:23:21.480><c> the</c><00:23:21.659><c> data</c><00:23:22.020><c> into</c><00:23:22.500><c> an</c><00:23:22.799><c> R</c>
+
+00:23:22.970 --> 00:23:22.980 align:start position:0%
+we first plug in the data into an R
+ 
+
+00:23:22.980 --> 00:23:24.529 align:start position:0%
+we first plug in the data into an R
+script
+
+00:23:24.529 --> 00:23:24.539 align:start position:0%
+script
+ 
+
+00:23:24.539 --> 00:23:27.710 align:start position:0%
+script
+will<00:23:24.900><c> he</c><00:23:25.140><c> use</c><00:23:25.320><c> the</c><00:23:25.620><c> neural</c><00:23:26.039><c> net</c><00:23:26.159><c> package</c><00:23:26.880><c> which</c>
+
+00:23:27.710 --> 00:23:27.720 align:start position:0%
+will he use the neural net package which
+ 
+
+00:23:27.720 --> 00:23:29.690 align:start position:0%
+will he use the neural net package which
+you<00:23:27.840><c> first</c><00:23:28.080><c> need</c><00:23:28.320><c> to</c><00:23:28.500><c> install</c><00:23:28.679><c> if</c><00:23:29.460><c> you</c><00:23:29.520><c> have</c>
+
+00:23:29.690 --> 00:23:29.700 align:start position:0%
+you first need to install if you have
+ 
+
+00:23:29.700 --> 00:23:31.490 align:start position:0%
+you first need to install if you have
+not<00:23:29.880><c> already</c><00:23:30.120><c> done</c><00:23:30.539><c> that</c>
+
+00:23:31.490 --> 00:23:31.500 align:start position:0%
+not already done that
+ 
+
+00:23:31.500 --> 00:23:34.070 align:start position:0%
+not already done that
+then<00:23:31.980><c> we</c><00:23:32.220><c> load</c><00:23:32.520><c> this</c><00:23:32.760><c> package</c>
+
+00:23:34.070 --> 00:23:34.080 align:start position:0%
+then we load this package
+ 
+
+00:23:34.080 --> 00:23:36.230 align:start position:0%
+then we load this package
+and<00:23:34.500><c> train</c><00:23:34.679><c> the</c><00:23:34.980><c> neural</c><00:23:35.340><c> network</c>
+
+00:23:36.230 --> 00:23:36.240 align:start position:0%
+and train the neural network
+ 
+
+00:23:36.240 --> 00:23:38.390 align:start position:0%
+and train the neural network
+where<00:23:36.720><c> we</c><00:23:36.960><c> try</c><00:23:37.140><c> to</c><00:23:37.260><c> predict</c><00:23:37.620><c> cancer</c><00:23:37.919><c> versus</c>
+
+00:23:38.390 --> 00:23:38.400 align:start position:0%
+where we try to predict cancer versus
+ 
+
+00:23:38.400 --> 00:23:42.110 align:start position:0%
+where we try to predict cancer versus
+healthy<00:23:39.080><c> based</c><00:23:40.080><c> on</c><00:23:40.140><c> the</c><00:23:40.320><c> PSA</c><00:23:40.740><c> level</c><00:23:41.039><c> which</c><00:23:41.880><c> is</c>
+
+00:23:42.110 --> 00:23:42.120 align:start position:0%
+healthy based on the PSA level which is
+ 
+
+00:23:42.120 --> 00:23:44.810 align:start position:0%
+healthy based on the PSA level which is
+the<00:23:42.360><c> only</c><00:23:42.480><c> input</c><00:23:42.900><c> in</c><00:23:43.320><c> this</c><00:23:43.440><c> case</c>
+
+00:23:44.810 --> 00:23:44.820 align:start position:0%
+the only input in this case
+ 
+
+00:23:44.820 --> 00:23:47.510 align:start position:0%
+the only input in this case
+we<00:23:45.240><c> plug</c><00:23:45.419><c> in</c><00:23:45.539><c> the</c><00:23:45.720><c> training</c><00:23:46.140><c> data</c><00:23:46.500><c> here</c>
+
+00:23:47.510 --> 00:23:47.520 align:start position:0%
+we plug in the training data here
+ 
+
+00:23:47.520 --> 00:23:49.909 align:start position:0%
+we plug in the training data here
+since<00:23:47.940><c> we</c><00:23:48.179><c> in</c><00:23:48.419><c> our</c><00:23:48.600><c> example</c><00:23:49.020><c> like</c><00:23:49.260><c> to</c><00:23:49.440><c> chain</c><00:23:49.620><c> a</c>
+
+00:23:49.909 --> 00:23:49.919 align:start position:0%
+since we in our example like to chain a
+ 
+
+00:23:49.919 --> 00:23:52.970 align:start position:0%
+since we in our example like to chain a
+neural<00:23:50.280><c> network</c><00:23:50.400><c> without</c><00:23:51.179><c> a</c><00:23:51.480><c> hidden</c><00:23:51.840><c> layer</c><00:23:52.200><c> we</c>
+
+00:23:52.970 --> 00:23:52.980 align:start position:0%
+neural network without a hidden layer we
+ 
+
+00:23:52.980 --> 00:23:55.250 align:start position:0%
+neural network without a hidden layer we
+set<00:23:53.159><c> this</c><00:23:53.400><c> argument</c><00:23:53.760><c> to</c><00:23:54.179><c> zero</c>
+
+00:23:55.250 --> 00:23:55.260 align:start position:0%
+set this argument to zero
+ 
+
+00:23:55.260 --> 00:23:58.549 align:start position:0%
+set this argument to zero
+and<00:23:55.679><c> use</c><00:23:55.860><c> the</c><00:23:56.039><c> logistic</c><00:23:56.520><c> activation</c><00:23:57.059><c> function</c>
+
+00:23:58.549 --> 00:23:58.559 align:start position:0%
+and use the logistic activation function
+ 
+
+00:23:58.559 --> 00:24:01.070 align:start position:0%
+and use the logistic activation function
+the<00:23:59.039><c> arrow</c><00:23:59.340><c> function</c><00:23:59.700><c> is</c><00:24:00.059><c> here</c><00:24:00.240><c> set</c><00:24:00.539><c> across</c>
+
+00:24:01.070 --> 00:24:01.080 align:start position:0%
+the arrow function is here set across
+ 
+
+00:24:01.080 --> 00:24:03.649 align:start position:0%
+the arrow function is here set across
+entropy<00:24:01.620><c> which</c><00:24:02.220><c> in</c><00:24:02.460><c> this</c><00:24:02.580><c> example</c><00:24:03.059><c> is</c><00:24:03.419><c> the</c>
+
+00:24:03.649 --> 00:24:03.659 align:start position:0%
+entropy which in this example is the
+ 
+
+00:24:03.659 --> 00:24:05.510 align:start position:0%
+entropy which in this example is the
+same<00:24:03.840><c> thing</c><00:24:04.140><c> as</c><00:24:04.500><c> using</c><00:24:04.860><c> the</c><00:24:05.039><c> negative</c><00:24:05.340><c> log</c>
+
+00:24:05.510 --> 00:24:05.520 align:start position:0%
+same thing as using the negative log
+ 
+
+00:24:05.520 --> 00:24:07.370 align:start position:0%
+same thing as using the negative log
+likelihood<00:24:06.120><c> function</c><00:24:06.480><c> to</c><00:24:06.840><c> estimate</c><00:24:07.200><c> the</c>
+
+00:24:07.370 --> 00:24:07.380 align:start position:0%
+likelihood function to estimate the
+ 
+
+00:24:07.380 --> 00:24:10.010 align:start position:0%
+likelihood function to estimate the
+weights
+
+00:24:10.010 --> 00:24:10.020 align:start position:0%
+ 
+ 
+
+00:24:10.020 --> 00:24:12.710 align:start position:0%
+ 
+we<00:24:10.380><c> can</c><00:24:10.559><c> print</c><00:24:10.799><c> the</c><00:24:10.980><c> output</c>
+
+00:24:12.710 --> 00:24:12.720 align:start position:0%
+we can print the output
+ 
+
+00:24:12.720 --> 00:24:14.930 align:start position:0%
+we can print the output
+and<00:24:13.080><c> plot</c><00:24:13.380><c> the</c><00:24:13.559><c> network</c>
+
+00:24:14.930 --> 00:24:14.940 align:start position:0%
+and plot the network
+ 
+
+00:24:14.940 --> 00:24:16.090 align:start position:0%
+and plot the network
+after
+
+00:24:16.090 --> 00:24:16.100 align:start position:0%
+after
+ 
+
+00:24:16.100 --> 00:24:19.490 align:start position:0%
+after
+754<00:24:17.100><c> iterations</c><00:24:17.700><c> to</c><00:24:18.179><c> optimize</c><00:24:18.659><c> the</c><00:24:18.840><c> values</c><00:24:19.260><c> of</c>
+
+00:24:19.490 --> 00:24:19.500 align:start position:0%
+754 iterations to optimize the values of
+ 
+
+00:24:19.500 --> 00:24:21.470 align:start position:0%
+754 iterations to optimize the values of
+the<00:24:19.620><c> weights</c><00:24:20.039><c> in</c><00:24:20.580><c> order</c><00:24:20.700><c> to</c><00:24:20.880><c> minimize</c><00:24:21.240><c> the</c>
+
+00:24:21.470 --> 00:24:21.480 align:start position:0%
+the weights in order to minimize the
+ 
+
+00:24:21.480 --> 00:24:23.630 align:start position:0%
+the weights in order to minimize the
+negative<00:24:21.720><c> log</c><00:24:21.960><c> likelihood</c><00:24:22.500><c> function</c>
+
+00:24:23.630 --> 00:24:23.640 align:start position:0%
+negative log likelihood function
+ 
+
+00:24:23.640 --> 00:24:27.289 align:start position:0%
+negative log likelihood function
+we<00:24:24.179><c> have</c><00:24:24.360><c> an</c><00:24:24.539><c> error</c><00:24:24.840><c> of</c><00:24:25.020><c> 10.54</c><00:24:25.980><c> which</c><00:24:26.820><c> in</c><00:24:27.179><c> this</c>
+
+00:24:27.289 --> 00:24:27.299 align:start position:0%
+we have an error of 10.54 which in this
+ 
+
+00:24:27.299 --> 00:24:29.210 align:start position:0%
+we have an error of 10.54 which in this
+case<00:24:27.480><c> corresponds</c><00:24:28.140><c> to</c><00:24:28.500><c> the</c><00:24:28.679><c> negative</c><00:24:28.980><c> log</c>
+
+00:24:29.210 --> 00:24:29.220 align:start position:0%
+case corresponds to the negative log
+ 
+
+00:24:29.220 --> 00:24:30.830 align:start position:0%
+case corresponds to the negative log
+likelihood<00:24:29.760><c> value</c>
+
+00:24:30.830 --> 00:24:30.840 align:start position:0%
+likelihood value
+ 
+
+00:24:30.840 --> 00:24:33.710 align:start position:0%
+likelihood value
+the<00:24:31.380><c> smaller</c><00:24:31.740><c> this</c><00:24:31.860><c> value</c><00:24:32.159><c> is</c><00:24:32.460><c> the</c><00:24:33.179><c> better</c><00:24:33.419><c> the</c>
+
+00:24:33.710 --> 00:24:33.720 align:start position:0%
+the smaller this value is the better the
+ 
+
+00:24:33.720 --> 00:24:36.710 align:start position:0%
+the smaller this value is the better the
+mole<00:24:33.960><c> fits</c><00:24:34.380><c> the</c><00:24:34.440><c> data</c>
+
+00:24:36.710 --> 00:24:36.720 align:start position:0%
+mole fits the data
+ 
+
+00:24:36.720 --> 00:24:38.630 align:start position:0%
+mole fits the data
+for<00:24:37.140><c> example</c><00:24:37.440><c> if</c><00:24:37.919><c> you</c><00:24:37.980><c> like</c><00:24:38.159><c> to</c><00:24:38.280><c> use</c><00:24:38.460><c> the</c>
+
+00:24:38.630 --> 00:24:38.640 align:start position:0%
+for example if you like to use the
+ 
+
+00:24:38.640 --> 00:24:41.029 align:start position:0%
+for example if you like to use the
+network<00:24:38.820><c> for</c><00:24:39.299><c> prediction</c><00:24:39.720><c> we</c><00:24:40.500><c> can</c><00:24:40.620><c> use</c><00:24:40.799><c> the</c>
+
+00:24:41.029 --> 00:24:41.039 align:start position:0%
+network for prediction we can use the
+ 
+
+00:24:41.039 --> 00:24:42.770 align:start position:0%
+network for prediction we can use the
+function<00:24:41.340><c> predict</c>
+
+00:24:42.770 --> 00:24:42.780 align:start position:0%
+function predict
+ 
+
+00:24:42.780 --> 00:24:45.649 align:start position:0%
+function predict
+in<00:24:43.260><c> this</c><00:24:43.380><c> example</c><00:24:43.799><c> the</c><00:24:44.400><c> network</c><00:24:44.580><c> will</c><00:24:45.240><c> predict</c>
+
+00:24:45.649 --> 00:24:45.659 align:start position:0%
+in this example the network will predict
+ 
+
+00:24:45.659 --> 00:24:48.649 align:start position:0%
+in this example the network will predict
+that<00:24:45.900><c> the</c><00:24:46.140><c> person</c><00:24:46.320><c> with</c><00:24:46.679><c> a</c><00:24:46.919><c> PC</c><00:24:47.280><c> level</c><00:24:47.580><c> of</c><00:24:48.059><c> 2</c><00:24:48.240><c> is</c>
+
+00:24:48.649 --> 00:24:48.659 align:start position:0%
+that the person with a PC level of 2 is
+ 
+
+00:24:48.659 --> 00:24:50.330 align:start position:0%
+that the person with a PC level of 2 is
+healthy
+
+00:24:50.330 --> 00:24:50.340 align:start position:0%
+healthy
+ 
+
+00:24:50.340 --> 00:24:52.310 align:start position:0%
+healthy
+if<00:24:50.700><c> you</c><00:24:50.820><c> like</c><00:24:51.000><c> to</c><00:24:51.179><c> compare</c><00:24:51.480><c> with</c><00:24:51.720><c> the</c><00:24:51.960><c> logistic</c>
+
+00:24:52.310 --> 00:24:52.320 align:start position:0%
+if you like to compare with the logistic
+ 
+
+00:24:52.320 --> 00:24:54.049 align:start position:0%
+if you like to compare with the logistic
+regression<00:24:52.860><c> model</c><00:24:53.039><c> you</c><00:24:53.520><c> can</c><00:24:53.700><c> run</c><00:24:53.880><c> the</c>
+
+00:24:54.049 --> 00:24:54.059 align:start position:0%
+regression model you can run the
+ 
+
+00:24:54.059 --> 00:24:56.690 align:start position:0%
+regression model you can run the
+following<00:24:54.419><c> line</c>
+
+00:24:56.690 --> 00:24:56.700 align:start position:0%
+ 
+ 
+
+00:24:56.700 --> 00:24:58.610 align:start position:0%
+ 
+if<00:24:57.000><c> you</c><00:24:57.179><c> like</c><00:24:57.360><c> to</c><00:24:57.539><c> change</c><00:24:57.720><c> the</c><00:24:57.960><c> error</c><00:24:58.320><c> function</c>
+
+00:24:58.610 --> 00:24:58.620 align:start position:0%
+if you like to change the error function
+ 
+
+00:24:58.620 --> 00:25:01.430 align:start position:0%
+if you like to change the error function
+to<00:24:59.100><c> the</c><00:24:59.220><c> sum</c><00:24:59.400><c> of</c><00:24:59.580><c> squared</c><00:24:59.880><c> errors</c><00:25:00.299><c> you</c><00:25:01.080><c> can</c><00:25:01.200><c> set</c>
+
+00:25:01.430 --> 00:25:01.440 align:start position:0%
+to the sum of squared errors you can set
+ 
+
+00:25:01.440 --> 00:25:03.830 align:start position:0%
+to the sum of squared errors you can set
+this<00:25:01.679><c> argument</c><00:25:02.039><c> to</c><00:25:02.400><c> SSE</c>
+
+00:25:03.830 --> 00:25:03.840 align:start position:0%
+this argument to SSE
+ 
+
+00:25:03.840 --> 00:25:06.049 align:start position:0%
+this argument to SSE
+the<00:25:04.440><c> reason</c><00:25:04.620><c> why</c><00:25:05.039><c> here</c><00:25:05.280><c> use</c><00:25:05.520><c> a</c><00:25:05.880><c> lower</c>
+
+00:25:06.049 --> 00:25:06.059 align:start position:0%
+the reason why here use a lower
+ 
+
+00:25:06.059 --> 00:25:08.750 align:start position:0%
+the reason why here use a lower
+threshold<00:25:06.600><c> for</c><00:25:06.900><c> convergence</c><00:25:07.700><c> compared</c><00:25:08.700><c> to</c>
+
+00:25:08.750 --> 00:25:08.760 align:start position:0%
+threshold for convergence compared to
+ 
+
+00:25:08.760 --> 00:25:11.690 align:start position:0%
+threshold for convergence compared to
+the<00:25:09.000><c> default</c><00:25:09.299><c> value</c><00:25:09.539><c> of</c><00:25:09.720><c> 0.01</c><00:25:10.559><c> is</c><00:25:11.159><c> simply</c><00:25:11.460><c> to</c>
+
+00:25:11.690 --> 00:25:11.700 align:start position:0%
+the default value of 0.01 is simply to
+ 
+
+00:25:11.700 --> 00:25:13.730 align:start position:0%
+the default value of 0.01 is simply to
+get<00:25:11.880><c> similar</c><00:25:12.360><c> values</c><00:25:12.780><c> as</c><00:25:13.080><c> in</c><00:25:13.320><c> logistic</c>
+
+00:25:13.730 --> 00:25:13.740 align:start position:0%
+get similar values as in logistic
+ 
+
+00:25:13.740 --> 00:25:15.770 align:start position:0%
+get similar values as in logistic
+regression<00:25:14.280><c> but</c><00:25:15.000><c> this</c><00:25:15.240><c> will</c><00:25:15.360><c> be</c><00:25:15.539><c> more</c>
+
+00:25:15.770 --> 00:25:15.780 align:start position:0%
+regression but this will be more
+ 
+
+00:25:15.780 --> 00:25:18.049 align:start position:0%
+regression but this will be more
+computational<00:25:16.320><c> expensive</c>
+
+00:25:18.049 --> 00:25:18.059 align:start position:0%
+computational expensive
+ 
+
+00:25:18.059 --> 00:25:20.390 align:start position:0%
+computational expensive
+I<00:25:18.600><c> also</c><00:25:18.840><c> recommend</c><00:25:19.200><c> that</c><00:25:19.500><c> you</c><00:25:19.679><c> run</c><00:25:19.860><c> a</c><00:25:20.280><c> number</c>
+
+00:25:20.390 --> 00:25:20.400 align:start position:0%
+I also recommend that you run a number
+ 
+
+00:25:20.400 --> 00:25:22.070 align:start position:0%
+I also recommend that you run a number
+of<00:25:20.580><c> repetitions</c>
+
+00:25:22.070 --> 00:25:22.080 align:start position:0%
+of repetitions
+ 
+
+00:25:22.080 --> 00:25:24.590 align:start position:0%
+of repetitions
+in<00:25:22.679><c> this</c><00:25:22.799><c> example</c><00:25:23.220><c> we</c><00:25:23.880><c> will</c><00:25:24.059><c> generate</c><00:25:24.419><c> 10</c>
+
+00:25:24.590 --> 00:25:24.600 align:start position:0%
+in this example we will generate 10
+ 
+
+00:25:24.600 --> 00:25:26.570 align:start position:0%
+in this example we will generate 10
+networks<00:25:25.260><c> that</c><00:25:25.740><c> have</c><00:25:25.919><c> been</c><00:25:26.039><c> based</c><00:25:26.400><c> on</c>
+
+00:25:26.570 --> 00:25:26.580 align:start position:0%
+networks that have been based on
+ 
+
+00:25:26.580 --> 00:25:30.230 align:start position:0%
+networks that have been based on
+different<00:25:26.760><c> initial</c><00:25:27.299><c> values</c><00:25:27.720><c> of</c><00:25:28.080><c> the</c><00:25:28.200><c> weights</c>
+
+00:25:30.230 --> 00:25:30.240 align:start position:0%
+different initial values of the weights
+ 
+
+00:25:30.240 --> 00:25:32.330 align:start position:0%
+different initial values of the weights
+then<00:25:30.720><c> you</c><00:25:30.900><c> can</c><00:25:30.960><c> study</c><00:25:31.320><c> the</c><00:25:31.320><c> output</c><00:25:31.860><c> of</c><00:25:32.100><c> these</c>
+
+00:25:32.330 --> 00:25:32.340 align:start position:0%
+then you can study the output of these
+ 
+
+00:25:32.340 --> 00:25:34.490 align:start position:0%
+then you can study the output of these
+10<00:25:32.520><c> networks</c><00:25:33.059><c> and</c><00:25:33.480><c> select</c><00:25:33.779><c> the</c><00:25:33.900><c> one</c><00:25:34.080><c> with</c><00:25:34.380><c> the</c>
+
+00:25:34.490 --> 00:25:34.500 align:start position:0%
+10 networks and select the one with the
+ 
+
+00:25:34.500 --> 00:25:37.490 align:start position:0%
+10 networks and select the one with the
+lowest<00:25:34.860><c> error</c>
+
+00:25:37.490 --> 00:25:37.500 align:start position:0%
+ 
+ 
+
+00:25:37.500 --> 00:25:40.130 align:start position:0%
+ 
+in<00:25:38.159><c> future</c><00:25:38.340><c> videos</c><00:25:38.700><c> we'll</c><00:25:39.360><c> have</c><00:25:39.600><c> a</c><00:25:39.720><c> look</c><00:25:39.840><c> at</c>
+
+00:25:40.130 --> 00:25:40.140 align:start position:0%
+in future videos we'll have a look at
+ 
+
+00:25:40.140 --> 00:25:42.769 align:start position:0%
+in future videos we'll have a look at
+networks<00:25:40.740><c> where</c><00:25:41.220><c> the</c><00:25:41.400><c> output</c><00:25:41.700><c> can</c><00:25:42.059><c> result</c><00:25:42.240><c> in</c>
+
+00:25:42.769 --> 00:25:42.779 align:start position:0%
+networks where the output can result in
+ 
+
+00:25:42.779 --> 00:25:44.930 align:start position:0%
+networks where the output can result in
+several<00:25:43.080><c> categories</c><00:25:43.640><c> compared</c><00:25:44.640><c> to</c><00:25:44.760><c> the</c>
+
+00:25:44.930 --> 00:25:44.940 align:start position:0%
+several categories compared to the
+ 
+
+00:25:44.940 --> 00:25:47.990 align:start position:0%
+several categories compared to the
+simple<00:25:45.120><c> binary</c><00:25:45.659><c> case</c><00:25:45.960><c> we</c><00:25:46.500><c> used</c><00:25:46.740><c> in</c><00:25:46.980><c> this</c><00:25:47.159><c> video</c>
+
+00:25:47.990 --> 00:25:48.000 align:start position:0%
+simple binary case we used in this video
+ 
+
+00:25:48.000 --> 00:25:50.269 align:start position:0%
+simple binary case we used in this video
+we'll<00:25:48.480><c> also</c><00:25:48.779><c> have</c><00:25:48.900><c> a</c><00:25:49.020><c> look</c><00:25:49.140><c> at</c><00:25:49.440><c> networks</c><00:25:49.980><c> where</c>
+
+00:25:50.269 --> 00:25:50.279 align:start position:0%
+we'll also have a look at networks where
+ 
+
+00:25:50.279 --> 00:25:53.029 align:start position:0%
+we'll also have a look at networks where
+the<00:25:50.460><c> output</c><00:25:50.760><c> is</c><00:25:51.179><c> a</c><00:25:51.360><c> continuous</c><00:25:51.779><c> variable</c>
+
+00:25:53.029 --> 00:25:53.039 align:start position:0%
+the output is a continuous variable
+ 
+
+00:25:53.039 --> 00:25:55.029 align:start position:0%
+the output is a continuous variable
+and<00:25:53.460><c> see</c><00:25:53.580><c> how</c><00:25:53.820><c> the</c><00:25:54.000><c> number</c><00:25:54.120><c> of</c><00:25:54.299><c> hidden</c><00:25:54.659><c> nodes</c>
+
+00:25:55.029 --> 00:25:55.039 align:start position:0%
+and see how the number of hidden nodes
+ 
+
+00:25:55.039 --> 00:25:57.950 align:start position:0%
+and see how the number of hidden nodes
+affects<00:25:56.039><c> the</c><00:25:56.159><c> output</c><00:25:56.520><c> we</c><00:25:57.240><c> will</c><00:25:57.419><c> also</c><00:25:57.659><c> discuss</c>
+
+00:25:57.950 --> 00:25:57.960 align:start position:0%
+affects the output we will also discuss
+ 
+
+00:25:57.960 --> 00:26:01.010 align:start position:0%
+affects the output we will also discuss
+the<00:25:58.200><c> problem</c><00:25:58.440><c> of</c><00:25:58.980><c> overfitting</c>
+
+00:26:01.010 --> 00:26:01.020 align:start position:0%
+the problem of overfitting
+ 
+
+00:26:01.020 --> 00:26:03.710 align:start position:0%
+the problem of overfitting
+in<00:26:01.500><c> another</c><00:26:01.620><c> video</c><00:26:01.980><c> I</c><00:26:02.640><c> will</c><00:26:02.820><c> cover</c><00:26:03.000><c> non-linear</c>
+
+00:26:03.710 --> 00:26:03.720 align:start position:0%
+in another video I will cover non-linear
+ 
+
+00:26:03.720 --> 00:26:06.110 align:start position:0%
+in another video I will cover non-linear
+regression<00:26:04.200><c> which</c><00:26:04.919><c> is</c><00:26:05.039><c> highly</c><00:26:05.400><c> related</c><00:26:05.760><c> to</c>
+
+00:26:06.110 --> 00:26:06.120 align:start position:0%
+regression which is highly related to
+ 
+
+00:26:06.120 --> 00:26:07.669 align:start position:0%
+regression which is highly related to
+neural<00:26:06.539><c> networks</c>
+
+00:26:07.669 --> 00:26:07.679 align:start position:0%
+neural networks
+ 
+
+00:26:07.679 --> 00:26:09.590 align:start position:0%
+neural networks
+this<00:26:08.220><c> was</c><00:26:08.400><c> the</c><00:26:08.580><c> end</c><00:26:08.700><c> of</c><00:26:08.880><c> this</c><00:26:09.059><c> basic</c><00:26:09.360><c> video</c>
+
+00:26:09.590 --> 00:26:09.600 align:start position:0%
+this was the end of this basic video
+ 
+
+00:26:09.600 --> 00:26:12.230 align:start position:0%
+this was the end of this basic video
+about<00:26:09.960><c> artificial</c><00:26:10.620><c> neural</c><00:26:11.100><c> networks</c><00:26:11.520><c> thanks</c>
+
+00:26:12.230 --> 00:26:12.240 align:start position:0%
+about artificial neural networks thanks
+ 
+
+00:26:12.240 --> 00:26:14.720 align:start position:0%
+about artificial neural networks thanks
+for<00:26:12.419><c> watching</c>
+
